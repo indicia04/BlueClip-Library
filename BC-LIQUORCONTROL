@@ -1,0 +1,303 @@
+{
+  "statuteID": "bc-liquor-control",
+  "version": 1,
+  "updatedAt": "2026-07-16T00:00:00Z",
+  "offences": [
+    {
+      "id": "LCLA:61(2)(b)(i):Licensee, permittee or employee allowing a person to become intoxicated",
+      "statuteID": "bc-liquor-control",
+      "section": "61(2)(b)(i)",
+      "act": "LCLA",
+      "title": "Licensee, permittee or employee allowing a person to become intoxicated",
+      "bodyText": "61 (2) A licensee or permittee or an employee of either must not (b) allow (i) a person in a service area to become intoxicated.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "intoxicated",
+        "liquor",
+        "licensee",
+        "service area"
+      ],
+      "modifiers": [],
+      "shortForm": "Licensee, permittee or employee allow...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:61(2)(b)(ii):Licensee, permittee or employee allowing intoxicated person in a service area",
+      "statuteID": "bc-liquor-control",
+      "section": "61(2)(b)(ii)",
+      "act": "LCLA",
+      "title": "Licensee, permittee or employee allowing intoxicated person in a service area",
+      "bodyText": "61 (2) A licensee or permittee or an employee of either must not (b) allow (ii) an intoxicated person to enter or remain in a service area.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "intoxicated",
+        "liquor",
+        "licensee",
+        "service area"
+      ],
+      "modifiers": [],
+      "shortForm": "Licensee, permittee or employee allow...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:61(2)(b)(iii):Licensee, permittee or employee allowing disorderly conduct",
+      "statuteID": "bc-liquor-control",
+      "section": "61(2)(b)(iii)",
+      "act": "LCLA",
+      "title": "Licensee, permittee or employee allowing disorderly conduct",
+      "bodyText": "61 (2) A licensee or permittee or an employee of either must not (b) allow (iii) violent, quarrelsome, riotous or disorderly conduct in an establishment or at an event site.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "disorderly",
+        "liquor",
+        "licensee"
+      ],
+      "modifiers": [],
+      "shortForm": "Licensee, permittee or employee allow...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:73(1):Consume liquor or possess liquor in an open container in a public place",
+      "statuteID": "bc-liquor-control",
+      "section": "73(1)",
+      "act": "LCLA",
+      "title": "Consume liquor or possess liquor in an open container in a public place",
+      "bodyText": "73 (1) A person must not consume liquor, or possess liquor in an open container, in a place other than (a) a residence, (b) a private place, (c) a service area in respect of which a licence, authorization or permit allows consumption, or the other places provided for in section 73 (d) to (g).",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "open container",
+        "public place",
+        "liquor",
+        "consume"
+      ],
+      "modifiers": [],
+      "shortForm": "Consume liquor or possess liquor in a...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:74(1):Intoxicated in a public place",
+      "statuteID": "bc-liquor-control",
+      "section": "74(1)",
+      "act": "LCLA",
+      "title": "Intoxicated in a public place",
+      "bodyText": "74 (1) A person who is intoxicated must not be or remain in a public place.",
+      "fine": 100,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "intoxicated",
+        "drunk",
+        "public place"
+      ],
+      "modifiers": [],
+      "shortForm": "Intoxicated in a public place",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:75:Sell, serve or give liquor to an intoxicated person",
+      "statuteID": "bc-liquor-control",
+      "section": "75",
+      "act": "LCLA",
+      "title": "Sell, serve or give liquor to an intoxicated person",
+      "bodyText": "75 A person must not sell, serve or give liquor to an intoxicated person or a person showing signs of intoxication.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "intoxicated",
+        "liquor",
+        "serve",
+        "supply"
+      ],
+      "modifiers": [],
+      "shortForm": "Sell, serve or give liquor to an into...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:76(2):Liquor in motor vehicle",
+      "statuteID": "bc-liquor-control",
+      "section": "76(2)",
+      "act": "LCLA",
+      "title": "Liquor in motor vehicle",
+      "bodyText": "76 (2) Subject to subsection (3), a person must not drive or otherwise exercise control over the operation of a motor vehicle, whether or not it is in motion, while there is liquor in the person's possession or in the motor vehicle.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "liquor",
+        "motor vehicle",
+        "open liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Liquor in motor vehicle",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:77(1)(a):Sell, give or otherwise supply liquor to a minor",
+      "statuteID": "bc-liquor-control",
+      "section": "77(1)(a)",
+      "act": "LCLA",
+      "title": "Sell, give or otherwise supply liquor to a minor",
+      "bodyText": "77 (1) Subject to the regulations, a person must not (a) sell, give or otherwise supply liquor to a minor.",
+      "fine": 500,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "supply",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Sell, give or otherwise supply liquor...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:77(1)(b):Possess liquor for the purpose of supplying it to a minor",
+      "statuteID": "bc-liquor-control",
+      "section": "77(1)(b)",
+      "act": "LCLA",
+      "title": "Possess liquor for the purpose of supplying it to a minor",
+      "bodyText": "77 (1) Subject to the regulations, a person must not (b) possess liquor for the purposes of selling, giving or otherwise supplying the liquor to a minor.",
+      "fine": 500,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "possess",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Possess liquor for the purpose of sup...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:77(1)(c):Allow a minor to consume or possess liquor at a place under one's control",
+      "statuteID": "bc-liquor-control",
+      "section": "77(1)(c)",
+      "act": "LCLA",
+      "title": "Allow a minor to consume or possess liquor at a place under one's control",
+      "bodyText": "77 (1) Subject to the regulations, a person must not (c) allow a minor to consume or possess liquor in or at a place under the person's control.",
+      "fine": 500,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Allow a minor to consume or possess l...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:78(1)(a):Purchase of liquor by minor",
+      "statuteID": "bc-liquor-control",
+      "section": "78(1)(a)",
+      "act": "LCLA",
+      "title": "Purchase of liquor by minor",
+      "bodyText": "78 (1) A minor must not, except as provided under this Act or unless the minor does so with other lawful excuse, (a) purchase liquor.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "purchase",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Purchase of liquor by minor",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:78(1)(b):Consumption of liquor by minor",
+      "statuteID": "bc-liquor-control",
+      "section": "78(1)(b)",
+      "act": "LCLA",
+      "title": "Consumption of liquor by minor",
+      "bodyText": "78 (1) A minor must not, except as provided under this Act or unless the minor does so with other lawful excuse, (b) consume liquor.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "consume",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Consumption of liquor by minor",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:78(1)(c):Possession of liquor by minor",
+      "statuteID": "bc-liquor-control",
+      "section": "78(1)(c)",
+      "act": "LCLA",
+      "title": "Possession of liquor by minor",
+      "bodyText": "78 (1) A minor must not, except as provided under this Act or unless the minor does so with other lawful excuse, (c) possess liquor.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "possess",
+        "liquor"
+      ],
+      "modifiers": [],
+      "shortForm": "Possession of liquor by minor",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:78(2):Minor in a liquor store or service area",
+      "statuteID": "bc-liquor-control",
+      "section": "78(2)",
+      "act": "LCLA",
+      "title": "Minor in a liquor store or service area",
+      "bodyText": "78 (2) A minor must not, except as provided by the terms and conditions of a licence, authorization or permit or the regulations or with other lawful excuse, enter or be in a liquor store or service area.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "liquor store",
+        "service area"
+      ],
+      "modifiers": [],
+      "shortForm": "Minor in a liquor store or service area",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    },
+    {
+      "id": "LCLA:78(3):Presentation of false identification by minor",
+      "statuteID": "bc-liquor-control",
+      "section": "78(3)",
+      "act": "LCLA",
+      "title": "Presentation of false identification by minor",
+      "bodyText": "78 (3) A minor must not, for the purposes of purchasing liquor or of gaining access to a service area, present identification or another record to establish the minor's age or identity if that identification or other record (a) has been altered to misrepresent the age or identity of the minor, (b) was issued by the issuing agency to another person, or (c) is forged or fraudulently made.",
+      "fine": 200,
+      "points": 0,
+      "category": "other",
+      "keywords": [
+        "minor",
+        "underage",
+        "false id",
+        "fake id"
+      ],
+      "modifiers": [],
+      "shortForm": "Presentation of false identification ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+    }
+  ]
+}
