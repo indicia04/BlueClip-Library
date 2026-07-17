@@ -1,0 +1,2701 @@
+{
+  "statuteID": "bc-wildlife",
+  "version": 1,
+  "updatedAt": "2026-07-17T00:00:00Z",
+  "offences": [
+    {
+      "id": "Wildlife Act:7(5):Disobey regional manager's order in wildlife management area, critical wildlife area or wildlife sanctuary",
+      "statuteID": "bc-wildlife",
+      "section": "7(5)",
+      "act": "Wildlife Act",
+      "title": "Disobey regional manager's order in wildlife management area, critical wildlife area or wildlife sanctuary",
+      "bodyText": "(5) A person who contravenes an order made under subsection (4) commits an offence.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHabitat",
+      "keywords": [
+        "disobey",
+        "regional",
+        "manager's",
+        "order",
+        "habitat"
+      ],
+      "modifiers": [],
+      "shortForm": "Disobey regional manager's order in w...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:9(1):Disturb, molest or destroy muskrat house or den",
+      "statuteID": "bc-wildlife",
+      "section": "9(1)",
+      "act": "Wildlife Act",
+      "title": "Disturb, molest or destroy muskrat house or den",
+      "bodyText": "(1) A person commits an offence if the person disturbs, molests or destroys (a) a muskrat house or den, except on diked land, or (b) a beaver house or den or beaver dam.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHabitat",
+      "keywords": [
+        "disturb",
+        "molest",
+        "destroy",
+        "muskrat",
+        "habitat"
+      ],
+      "modifiers": [],
+      "shortForm": "Disturb, molest or destroy muskrat ho...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:9(1):Disturb, molest or destroy beaver house, den or dam",
+      "statuteID": "bc-wildlife",
+      "section": "9(1)",
+      "act": "Wildlife Act",
+      "title": "Disturb, molest or destroy beaver house, den or dam",
+      "bodyText": "(1) A person commits an offence if the person disturbs, molests or destroys (a) a muskrat house or den, except on diked land, or (b) a beaver house or den or beaver dam.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHabitat",
+      "keywords": [
+        "disturb",
+        "molest",
+        "destroy",
+        "beaver",
+        "habitat"
+      ],
+      "modifiers": [],
+      "shortForm": "Disturb, molest or destroy beaver hou...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(1)(a):Hunt without hunting licence",
+      "statuteID": "bc-wildlife",
+      "section": "11(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Hunt without hunting licence",
+      "bodyText": "(1) A person who hunts wildlife commits an offence unless the person holds all of the following: (a) a hunting licence issued to the person under this Act; (b) any limited entry hunting authorization that is required by regulation; (c) any other licence that is required by regulation; (d) any other permit that is required by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "hunting",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt without hunting licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(1)(b):Hunt without limited entry hunting authorization",
+      "statuteID": "bc-wildlife",
+      "section": "11(1)(b)",
+      "act": "Wildlife Act",
+      "title": "Hunt without limited entry hunting authorization",
+      "bodyText": "(1) A person who hunts wildlife commits an offence unless the person holds all of the following: (a) a hunting licence issued to the person under this Act; (b) any limited entry hunting authorization that is required by regulation; (c) any other licence that is required by regulation; (d) any other permit that is required by regulation.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "limited",
+        "entry",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt without limited entry hunting au...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(1)(c):Hunt without species licence",
+      "statuteID": "bc-wildlife",
+      "section": "11(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt without species licence",
+      "bodyText": "(1) A person who hunts wildlife commits an offence unless the person holds all of the following: (a) a hunting licence issued to the person under this Act; (b) any limited entry hunting authorization that is required by regulation; (c) any other licence that is required by regulation; (d) any other permit that is required by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "species",
+        "licence",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt without species licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(1)(c):Hunt without special area licence",
+      "statuteID": "bc-wildlife",
+      "section": "11(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt without special area licence",
+      "bodyText": "(1) A person who hunts wildlife commits an offence unless the person holds all of the following: (a) a hunting licence issued to the person under this Act; (b) any limited entry hunting authorization that is required by regulation; (c) any other licence that is required by regulation; (d) any other permit that is required by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "special",
+        "area",
+        "licence",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt without special area licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(5):Person under age 18 hunts without qualified supervision",
+      "statuteID": "bc-wildlife",
+      "section": "11(5)",
+      "act": "Wildlife Act",
+      "title": "Person under age 18 hunts without qualified supervision",
+      "bodyText": "(5) A person under 18 years of age commits an offence if the person hunts unless the person is accompanied by and under the close personal supervision of a person who (a) is 18 years of age or older, (b) holds a hunting licence, other than an initiation hunting licence, or is exempted from holding a hunting licence, and (c) meets the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "under",
+        "age",
+        "hunts",
+        "qualified",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Person under age 18 hunts without qua...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:11(8):Trap fur bearing animal without licence",
+      "statuteID": "bc-wildlife",
+      "section": "11(8)",
+      "act": "Wildlife Act",
+      "title": "Trap fur bearing animal without licence",
+      "bodyText": "(8) A person commits an offence if the person traps fur bearing animals unless he or she holds a trapping licence.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeTrapping",
+      "keywords": [
+        "trap",
+        "fur",
+        "bearing",
+        "animal",
+        "trapping"
+      ],
+      "modifiers": [],
+      "shortForm": "Trap fur bearing animal without licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:14:Obtain more licences or limited entry hunting authorizations than allowed",
+      "statuteID": "bc-wildlife",
+      "section": "14",
+      "act": "Wildlife Act",
+      "title": "Obtain more licences or limited entry hunting authorizations than allowed",
+      "bodyText": "A person commits an offence if the person obtains or holds more licences or limited entry hunting authorizations than the number prescribed by regulation.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "obtain",
+        "more",
+        "licences",
+        "limited",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Obtain more licences or limited entry...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:17.1(3):Unlawfully accompany person under age 18",
+      "statuteID": "bc-wildlife",
+      "section": "17.1(3)",
+      "act": "Wildlife Act",
+      "title": "Unlawfully accompany person under age 18",
+      "bodyText": "(3) A person commits an offence if the person (a) is 18 years of age or older, (b) is accompanied by another person who is under 18 years of age and who is carrying a firearm, and (c) either (i) does not hold a hunting licence other than an initiation hunting licence and is not exempted from holding a hunting licence, or (ii) does not meet the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "unlawfully",
+        "accompany",
+        "under",
+        "age",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawfully accompany person under age 18",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:17.1(4):Allow child or ward under age 18 to hunt without qualified supervision",
+      "statuteID": "bc-wildlife",
+      "section": "17.1(4)",
+      "act": "Wildlife Act",
+      "title": "Allow child or ward under age 18 to hunt without qualified supervision",
+      "bodyText": "(4) A parent or guardian commits an offence if he or she gives permission to his or her child or ward, who is under 18 years of age and with respect to whom the parent or guardian has signed a written undertaking under subsection (1), to (a) hunt, or (b) be in possession of a firearm unless the child or ward is accompanied by and under the close personal supervision of a person who (c) is 18 years of age or older, (d) holds a hunting licence, other than an initiation hunting licence, or is exempted from holding a hunting licence, and (e) meets the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "allow",
+        "child",
+        "ward",
+        "under",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Allow child or ward under age 18 to h...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:17.1(4):Allow child or ward under age 18 to carry firearm without qualified supervision",
+      "statuteID": "bc-wildlife",
+      "section": "17.1(4)",
+      "act": "Wildlife Act",
+      "title": "Allow child or ward under age 18 to carry firearm without qualified supervision",
+      "bodyText": "(4) A parent or guardian commits an offence if he or she gives permission to his or her child or ward, who is under 18 years of age and with respect to whom the parent or guardian has signed a written undertaking under subsection (1), to (a) hunt, or (b) be in possession of a firearm unless the child or ward is accompanied by and under the close personal supervision of a person who (c) is 18 years of age or older, (d) holds a hunting licence, other than an initiation hunting licence, or is exempted from holding a hunting licence, and (e) meets the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "allow",
+        "child",
+        "ward",
+        "under",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Allow child or ward under age 18 to c...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:17.2(2):Initiation hunter hunts without qualified supervision",
+      "statuteID": "bc-wildlife",
+      "section": "17.2(2)",
+      "act": "Wildlife Act",
+      "title": "Initiation hunter hunts without qualified supervision",
+      "bodyText": "(2) A person who holds an initiation hunting licence commits an offence if the person hunts unless the person is accompanied by and under the close personal supervision of a person who (a) is 18 years of age or older, and (b) meets the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "initiation",
+        "hunter",
+        "hunts",
+        "qualified",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Initiation hunter hunts without quali...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:17.2(3):Unlawfully accompany initiation hunter",
+      "statuteID": "bc-wildlife",
+      "section": "17.2(3)",
+      "act": "Wildlife Act",
+      "title": "Unlawfully accompany initiation hunter",
+      "bodyText": "(3) A person who (a) is 18 years of age or older, and (b) does not meet the prescribed qualifications commits an offence if the person is in the company of a person who holds an initiation hunting licence while that person hunts unless the person who holds an initiation hunting licence is accompanied by and under the close personal supervision of a person who (c) is 18 years of age or older, and (d) meets the prescribed qualifications.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "unlawfully",
+        "accompany",
+        "initiation",
+        "hunter",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawfully accompany initiation hunter",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:21(1)(a):Unlawful import of live wildlife or egg",
+      "statuteID": "bc-wildlife",
+      "section": "21(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Unlawful import of live wildlife or egg",
+      "bodyText": "(1) Except as authorized by a permit issued under this Act or under the Convention on International Trade in Endangered Species of Wild Fauna and Flora, a person commits an offence if the person (a) imports into British Columbia live wildlife, or the egg of a wildlife species, or (b) exports out of British Columbia wildlife or parts of them, or the egg of a wildlife species.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "import",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful import of live wildlife or egg",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:21(1)(b):Unlawful export of wildlife, wildlife parts or egg",
+      "statuteID": "bc-wildlife",
+      "section": "21(1)(b)",
+      "act": "Wildlife Act",
+      "title": "Unlawful export of wildlife, wildlife parts or egg",
+      "bodyText": "(1) Except as authorized by a permit issued under this Act or under the Convention on International Trade in Endangered Species of Wild Fauna and Flora, a person commits an offence if the person (a) imports into British Columbia live wildlife, or the egg of a wildlife species, or (b) exports out of British Columbia wildlife or parts of them, or the egg of a wildlife species.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "export",
+        "wildlife",
+        "parts"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful export of wildlife, wildlife...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (big game)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (big game)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (raptor)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (raptor)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (game bird)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (game bird)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(c):Hunt, take, trap, wound or kill wildlife not in open season (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg.168/90, for which a fine is not otherwise prescribed)",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(c)",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, trap, wound or kill wildlife not in open season (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg.168/90, for which a fine is not otherwise prescribed)",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "trap",
+        "wound",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, trap, wound or kill wildl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:26(1)(d):Hunt with firearm or bow during prohibited hours",
+      "statuteID": "bc-wildlife",
+      "section": "26(1)(d)",
+      "act": "Wildlife Act",
+      "title": "Hunt with firearm or bow during prohibited hours",
+      "bodyText": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "firearm",
+        "bow",
+        "during",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt with firearm or bow during prohi...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:27(1):Discharge firearm from motor vehicle or boat",
+      "statuteID": "bc-wildlife",
+      "section": "27(1)",
+      "act": "Wildlife Act",
+      "title": "Discharge firearm from motor vehicle or boat",
+      "bodyText": "(1) A person who discharges a firearm or wounds or kills wildlife from a motor vehicle or from a boat that is propelled by a motor commits an offence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "discharge",
+        "firearm",
+        "motor",
+        "vehicle",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Discharge firearm from motor vehicle ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:27(1):Wound or kill wildlife from motor vehicle or boat",
+      "statuteID": "bc-wildlife",
+      "section": "27(1)",
+      "act": "Wildlife Act",
+      "title": "Wound or kill wildlife from motor vehicle or boat",
+      "bodyText": "(1) A person who discharges a firearm or wounds or kills wildlife from a motor vehicle or from a boat that is propelled by a motor commits an offence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "wound",
+        "kill",
+        "wildlife",
+        "motor",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Wound or kill wildlife from motor veh...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:27(3):Harass wildlife with motor vehicle, aircraft, boat or other device",
+      "statuteID": "bc-wildlife",
+      "section": "27(3)",
+      "act": "Wildlife Act",
+      "title": "Harass wildlife with motor vehicle, aircraft, boat or other device",
+      "bodyText": "(3) A person who herds or harasses wildlife with the use of a motor vehicle, aircraft, boat or other mechanical device commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "harass",
+        "wildlife",
+        "motor",
+        "vehicle",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Harass wildlife with motor vehicle, a...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:27(4):Hunt game within 6 hours after being airborne",
+      "statuteID": "bc-wildlife",
+      "section": "27(4)",
+      "act": "Wildlife Act",
+      "title": "Hunt game within 6 hours after being airborne",
+      "bodyText": "(4) A person who hunts game within 6 hours after being airborne in an aircraft, other than a regularly scheduled commercial aircraft, commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "game",
+        "within",
+        "hours",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt game within 6 hours after being ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:29:Attempt to capture wildlife",
+      "statuteID": "bc-wildlife",
+      "section": "29",
+      "act": "Wildlife Act",
+      "title": "Attempt to capture wildlife",
+      "bodyText": "Except as authorized by this Act, the regulations or a permit, a person who attempts to capture wildlife commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "attempt",
+        "capture",
+        "wildlife",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Attempt to capture wildlife",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:30:Hunt, take, wound or kill big game while it is swimming",
+      "statuteID": "bc-wildlife",
+      "section": "30",
+      "act": "Wildlife Act",
+      "title": "Hunt, take, wound or kill big game while it is swimming",
+      "bodyText": "Except as provided under section 35, a person who hunts, takes, wounds or kills big game while it is swimming commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "take",
+        "wound",
+        "kill",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt, take, wound or kill big game wh...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:31:Discharge firearm on or across prescribed highway",
+      "statuteID": "bc-wildlife",
+      "section": "31",
+      "act": "Wildlife Act",
+      "title": "Discharge firearm on or across prescribed highway",
+      "bodyText": "A person who discharges a firearm on or across the travelled portions of a highway prescribed under section 108 commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "discharge",
+        "firearm",
+        "across",
+        "prescribed",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Discharge firearm on or across prescr...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:32:Discharge firearm in no shooting area",
+      "statuteID": "bc-wildlife",
+      "section": "32",
+      "act": "Wildlife Act",
+      "title": "Discharge firearm in no shooting area",
+      "bodyText": "A person who discharges a firearm in a no shooting area commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "discharge",
+        "firearm",
+        "shooting",
+        "area",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Discharge firearm in no shooting area",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (big game)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (big game)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (endangered or threatened species)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (endangered or threatened species)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (raptor)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (raptor)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (game bird)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (game bird)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(1):Unlawful possession of live wildlife (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg. 168/90, for which a fine is not otherwise prescribed)",
+      "statuteID": "bc-wildlife",
+      "section": "33(1)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of live wildlife (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg. 168/90, for which a fine is not otherwise prescribed)",
+      "bodyText": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "live",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of live wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (big game)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (big game)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (endangered or threatened species)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (endangered or threatened species)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (raptor)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (raptor)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (fur bearing animal other than big game, raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (raccoon, skunk, snowshoe hare or squirrel)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (raccoon, skunk, snowshoe hare or squirrel)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (game bird)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (game bird)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33(2):Unlawful possession of dead wildlife or wildlife parts (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg.168/90, for which a fine is not otherwise prescribed)",
+      "statuteID": "bc-wildlife",
+      "section": "33(2)",
+      "act": "Wildlife Act",
+      "title": "Unlawful possession of dead wildlife or wildlife parts (vertebrate listed in Schedule A, B or C of the Designation and Exemption Regulation, B.C. Reg.168/90, for which a fine is not otherwise prescribed)",
+      "bodyText": "(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "unlawful",
+        "possession",
+        "dead",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Unlawful possession of dead wildlife ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33.1(1)(a):Intentionally feed or attempt to feed dangerous wildlife",
+      "statuteID": "bc-wildlife",
+      "section": "33.1(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Intentionally feed or attempt to feed dangerous wildlife",
+      "bodyText": "(1) A person must not (a) intentionally feed or attempt to feed dangerous wildlife, or (b) provide, leave or place an attractant in, on or about any land or premises with the intent of attracting dangerous wildlife.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "intentionally",
+        "feed",
+        "attempt",
+        "dangerous",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Intentionally feed or attempt to feed...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33.1(1)(b):Intentionally provide, leave or place attractant to attract dangerous wildlife",
+      "statuteID": "bc-wildlife",
+      "section": "33.1(1)(b)",
+      "act": "Wildlife Act",
+      "title": "Intentionally provide, leave or place attractant to attract dangerous wildlife",
+      "bodyText": "(1) A person must not (a) intentionally feed or attempt to feed dangerous wildlife, or (b) provide, leave or place an attractant in, on or about any land or premises with the intent of attracting dangerous wildlife.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "intentionally",
+        "provide",
+        "leave",
+        "place",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Intentionally provide, leave or place...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:33.1(2):Leave or place attractant where there are or are likely to be people",
+      "statuteID": "bc-wildlife",
+      "section": "33.1(2)",
+      "act": "Wildlife Act",
+      "title": "Leave or place attractant where there are or are likely to be people",
+      "bodyText": "(2) A person must not leave or place an attractant in, on or about any land or premises where there are or where there are likely to be people, in a manner in which the attractant could (a) attract dangerous wildlife to the land or premises, and (b) be accessible to dangerous wildlife.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "leave",
+        "place",
+        "attractant",
+        "where",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Leave or place attractant where there...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:34(a):Possess, take, injure, molest or destroy bird or its egg",
+      "statuteID": "bc-wildlife",
+      "section": "34(a)",
+      "act": "Wildlife Act",
+      "title": "Possess, take, injure, molest or destroy bird or its egg",
+      "bodyText": "A person commits an offence if the person, except as provided by regulation, possesses, takes, injures, molests or destroys (a) a bird or its egg, (b) the nest of an eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl, or (c) the nest of a bird not referred to in paragraph (b) when the nest is occupied by a bird or its egg.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "possess",
+        "take",
+        "injure",
+        "molest",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Possess, take, injure, molest or dest...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:34(b):Possess, take, injure, molest or destroy nest of eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl",
+      "statuteID": "bc-wildlife",
+      "section": "34(b)",
+      "act": "Wildlife Act",
+      "title": "Possess, take, injure, molest or destroy nest of eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl",
+      "bodyText": "A person commits an offence if the person, except as provided by regulation, possesses, takes, injures, molests or destroys (a) a bird or its egg, (b) the nest of an eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl, or (c) the nest of a bird not referred to in paragraph (b) when the nest is occupied by a bird or its egg.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "possess",
+        "take",
+        "injure",
+        "molest",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Possess, take, injure, molest or dest...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:34(c):Possess, take, injure, molest or destroy occupied bird nest",
+      "statuteID": "bc-wildlife",
+      "section": "34(c)",
+      "act": "Wildlife Act",
+      "title": "Possess, take, injure, molest or destroy occupied bird nest",
+      "bodyText": "A person commits an offence if the person, except as provided by regulation, possesses, takes, injures, molests or destroys (a) a bird or its egg, (b) the nest of an eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl, or (c) the nest of a bird not referred to in paragraph (b) when the nest is occupied by a bird or its egg.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "possess",
+        "take",
+        "injure",
+        "molest",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Possess, take, injure, molest or dest...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:35(2)(a):Fail to retrieve wildlife",
+      "statuteID": "bc-wildlife",
+      "section": "35(2)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail to retrieve wildlife",
+      "bodyText": "(2) A person commits an offence if the person hunts wildlife and kills or injures that wildlife and fails to make every reasonable effort to (a) retrieve the wildlife, and if it is alive to kill it and include it in his or her bag limit, and (b) remove the edible portions of the carcass of game to the person's normal dwelling place or to a meatcutter or the owner or operator of a cold storage plant, unless exempted by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "retrieve",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to retrieve wildlife",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:35(2)(a):Fail to kill injured wildlife and include in bag limit",
+      "statuteID": "bc-wildlife",
+      "section": "35(2)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail to kill injured wildlife and include in bag limit",
+      "bodyText": "(2) A person commits an offence if the person hunts wildlife and kills or injures that wildlife and fails to make every reasonable effort to (a) retrieve the wildlife, and if it is alive to kill it and include it in his or her bag limit, and (b) remove the edible portions of the carcass of game to the person's normal dwelling place or to a meatcutter or the owner or operator of a cold storage plant, unless exempted by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "kill",
+        "injured",
+        "wildlife",
+        "include"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to kill injured wildlife and inc...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:35(2)(b):Fail to remove edible portions of game carcass",
+      "statuteID": "bc-wildlife",
+      "section": "35(2)(b)",
+      "act": "Wildlife Act",
+      "title": "Fail to remove edible portions of game carcass",
+      "bodyText": "(2) A person commits an offence if the person hunts wildlife and kills or injures that wildlife and fails to make every reasonable effort to (a) retrieve the wildlife, and if it is alive to kill it and include it in his or her bag limit, and (b) remove the edible portions of the carcass of game to the person's normal dwelling place or to a meatcutter or the owner or operator of a cold storage plant, unless exempted by regulation.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "remove",
+        "edible",
+        "portions",
+        "game",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to remove edible portions of gam...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:38:Fail to inform officer of date and place wildlife or fish was killed, taken or caught, or came into the person's possession",
+      "statuteID": "bc-wildlife",
+      "section": "38",
+      "act": "Wildlife Act",
+      "title": "Fail to inform officer of date and place wildlife or fish was killed, taken or caught, or came into the person's possession",
+      "bodyText": "A person who fails, on the request of an officer, to state correctly the locality where and the date on which wildlife or fish in the person's possession was killed, taken or caught by the person or came into his or her possession, commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "inform",
+        "officer",
+        "date",
+        "place",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to inform officer of date and pl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:39(1)(a):Hunt/trap over, in or on cultivated land without permission",
+      "statuteID": "bc-wildlife",
+      "section": "39(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Hunt/trap over, in or on cultivated land without permission",
+      "bodyText": "(1) A person commits an offence if the person, without the consent of the owner, lessee or occupier of land, (a) hunts over or traps in or on cultivated land, or (b) hunts over Crown land that is subject to a grazing lease while the land is occupied by livestock.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "trap",
+        "over",
+        "cultivated",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt/trap over, in or on cultivated l...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:39(1)(b):Hunt over Crown land with grazing lease when occupied by livestock",
+      "statuteID": "bc-wildlife",
+      "section": "39(1)(b)",
+      "act": "Wildlife Act",
+      "title": "Hunt over Crown land with grazing lease when occupied by livestock",
+      "bodyText": "(1) A person commits an offence if the person, without the consent of the owner, lessee or occupier of land, (a) hunts over or traps in or on cultivated land, or (b) hunts over Crown land that is subject to a grazing lease while the land is occupied by livestock.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "hunt",
+        "over",
+        "crown",
+        "land",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Hunt over Crown land with grazing lea...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:41:Trap, hunt, kill, take or capture fur bearing animal in area without authorization or permission",
+      "statuteID": "bc-wildlife",
+      "section": "41",
+      "act": "Wildlife Act",
+      "title": "Trap, hunt, kill, take or capture fur bearing animal in area without authorization or permission",
+      "bodyText": "A person commits an offence if the person sets a trap for, hunts, kills, takes or captures a fur bearing animal in an area of British Columbia unless the person (a) is a registered holder of the trapline for that area, (b) has written permission of a registered holder of the trapline for that area, (c) is the owner or occupier of the land, (d) has written permission from the owner or occupier of the land, or (e) holds a permit to trap that is required by regulation.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeTrapping",
+      "keywords": [
+        "trap",
+        "hunt",
+        "kill",
+        "take",
+        "trapping"
+      ],
+      "modifiers": [],
+      "shortForm": "Trap, hunt, kill, take or capture fur...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:44:Leave trap set after season closed",
+      "statuteID": "bc-wildlife",
+      "section": "44",
+      "act": "Wildlife Act",
+      "title": "Leave trap set after season closed",
+      "bodyText": "A person who leaves a trap set after the last day of the open season for the trapping of fur bearing animals commits an offence.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeTrapping",
+      "keywords": [
+        "leave",
+        "trap",
+        "set",
+        "after",
+        "trapping"
+      ],
+      "modifiers": [],
+      "shortForm": "Leave trap set after season closed",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:46:Interfere with lawfully set trap",
+      "statuteID": "bc-wildlife",
+      "section": "46",
+      "act": "Wildlife Act",
+      "title": "Interfere with lawfully set trap",
+      "bodyText": "A person who knowingly damages or interferes with a lawfully set trap commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeTrapping",
+      "keywords": [
+        "interfere",
+        "lawfully",
+        "set",
+        "trap",
+        "trapping"
+      ],
+      "modifiers": [],
+      "shortForm": "Interfere with lawfully set trap",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:47:Non-resident — hunt without guide",
+      "statuteID": "bc-wildlife",
+      "section": "47",
+      "act": "Wildlife Act",
+      "title": "Non-resident — hunt without guide",
+      "bodyText": "A person commits an offence if the person hunts big game unless he or she (a) is a resident, or (b) is accompanied by (i) a guide licensed under this Act, (i.1) an assistant guide issued a written authorization under section 48 (1.2), or (ii) a person who holds a permit under section 70 (1) (a) allowing him or her to accompany the hunter.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "non-resident",
+        "hunt",
+        "guide",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Non-resident — hunt without guide",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(1):Guide for game without guide licence",
+      "statuteID": "bc-wildlife",
+      "section": "48(1)",
+      "act": "Wildlife Act",
+      "title": "Guide for game without guide licence",
+      "bodyText": "(1) A person, other than a person who guides for game as an assistant guide in accordance with this Act, commits an offence if the person acts as a guide for game, or offers to act as a guide for game, unless the person (a) holds a guide outfitter licence, (c) holds another licence to guide for game, or (d) accompanies or assists a person to hunt game birds or small game on land other than Crown land.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "guide",
+        "game",
+        "licence",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide for game without guide licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2):Fail to comply with requirements respecting person employed as assistant guide",
+      "statuteID": "bc-wildlife",
+      "section": "48(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to comply with requirements respecting person employed as assistant guide",
+      "bodyText": "(2) A person who holds a guide outfitter licence commits an offence if the person employs an assistant guide to guide for game and contravenes any of the provisions of subsections (1.1) to (1.3).",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "comply",
+        "requirements",
+        "respecting",
+        "employed",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to comply with requirements resp...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2):Fail to issue authorization to assistant guide as required",
+      "statuteID": "bc-wildlife",
+      "section": "48(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to issue authorization to assistant guide as required",
+      "bodyText": "(2) A person who holds a guide outfitter licence commits an offence if the person employs an assistant guide to guide for game and contravenes any of the provisions of subsections (1.1) to (1.3).",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "issue",
+        "authorization",
+        "assistant",
+        "guide",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to issue authorization to assist...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2):Fail to comply with records requirements respecting person employed as assistant guide",
+      "statuteID": "bc-wildlife",
+      "section": "48(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to comply with records requirements respecting person employed as assistant guide",
+      "bodyText": "(2) A person who holds a guide outfitter licence commits an offence if the person employs an assistant guide to guide for game and contravenes any of the provisions of subsections (1.1) to (1.3).",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "comply",
+        "records",
+        "requirements",
+        "respecting",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to comply with records requireme...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2.2):Fail to comply with requirements to guide for game as assistant guide",
+      "statuteID": "bc-wildlife",
+      "section": "48(2.2)",
+      "act": "Wildlife Act",
+      "title": "Fail to comply with requirements to guide for game as assistant guide",
+      "bodyText": "(2.2) A person guiding for game as an assistant guide commits an offence if the person fails to meet any of the requirements under subsection (2.1).",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "comply",
+        "requirements",
+        "guide",
+        "game",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to comply with requirements to g...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2.2):Guide for game as assistant guide without written authorization",
+      "statuteID": "bc-wildlife",
+      "section": "48(2.2)",
+      "act": "Wildlife Act",
+      "title": "Guide for game as assistant guide without written authorization",
+      "bodyText": "(2.2) A person guiding for game as an assistant guide commits an offence if the person fails to meet any of the requirements under subsection (2.1).",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "guide",
+        "game",
+        "assistant",
+        "written",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide for game as assistant guide wit...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:48(2.2):Guide for game as assistant guide while prohibited",
+      "statuteID": "bc-wildlife",
+      "section": "48(2.2)",
+      "act": "Wildlife Act",
+      "title": "Guide for game as assistant guide while prohibited",
+      "bodyText": "(2.2) A person guiding for game as an assistant guide commits an offence if the person fails to meet any of the requirements under subsection (2.1).",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "guide",
+        "game",
+        "assistant",
+        "while",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide for game as assistant guide whi...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:49(1)(a):Guide for fish without angling guide licence",
+      "statuteID": "bc-wildlife",
+      "section": "49(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Guide for fish without angling guide licence",
+      "bodyText": "(1) A person commits an offence if the person acts as a guide for fish, or offers to act as a guide for fish, unless the person (a) holds an angling guide licence, or (b) holds an assistant angling guide licence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeAngling",
+      "keywords": [
+        "guide",
+        "fish",
+        "angling",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide for fish without angling guide ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:49(1)(b):Guide for fish without assistant angling guide licence",
+      "statuteID": "bc-wildlife",
+      "section": "49(1)(b)",
+      "act": "Wildlife Act",
+      "title": "Guide for fish without assistant angling guide licence",
+      "bodyText": "(1) A person commits an offence if the person acts as a guide for fish, or offers to act as a guide for fish, unless the person (a) holds an angling guide licence, or (b) holds an assistant angling guide licence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeAngling",
+      "keywords": [
+        "guide",
+        "fish",
+        "assistant",
+        "angling"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide for fish without assistant angl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:49(2):Guide — employ unlicensed assistant guide",
+      "statuteID": "bc-wildlife",
+      "section": "49(2)",
+      "act": "Wildlife Act",
+      "title": "Guide — employ unlicensed assistant guide",
+      "bodyText": "(2) A person who holds an angling guide licence commits an offence if the person employs another person to guide for fish and that other person does not hold an assistant angling guide licence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeAngling",
+      "keywords": [
+        "guide",
+        "employ",
+        "unlicensed",
+        "assistant",
+        "angling"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide — employ unlicensed assistant g...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:55(2):Fail to complete or give guide report",
+      "statuteID": "bc-wildlife",
+      "section": "55(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to complete or give guide report",
+      "bodyText": "(2) A guide outfitter who contravenes subsection (1) commits an offence.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "complete",
+        "give",
+        "guide",
+        "report",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to complete or give guide report",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:56(1):Guide unlicensed hunter",
+      "statuteID": "bc-wildlife",
+      "section": "56(1)",
+      "act": "Wildlife Act",
+      "title": "Guide unlicensed hunter",
+      "bodyText": "(1) A guide who guides a hunter for game commits an offence unless the hunter holds a hunting licence and any other required licence.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "guide",
+        "unlicensed",
+        "hunter",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide unlicensed hunter",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:56(2):Guide unlicensed angler",
+      "statuteID": "bc-wildlife",
+      "section": "56(2)",
+      "act": "Wildlife Act",
+      "title": "Guide unlicensed angler",
+      "bodyText": "(2) A person who guides an angler for fish commits an offence unless the angler holds an angling licence and any other required licence.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "guide",
+        "unlicensed",
+        "angler",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Guide unlicensed angler",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:69:Fail to pay royalty to Minister of Finance",
+      "statuteID": "bc-wildlife",
+      "section": "69",
+      "act": "Wildlife Act",
+      "title": "Fail to pay royalty to Minister of Finance",
+      "bodyText": "A guide outfitter commits an offence if the guide outfitter fails to pay to the Minister of Finance a royalty on an animal taken by a person guided by the guide outfitter, or guided on his or her behalf, in the amount and within the time prescribed by regulation.",
+      "fine": 1300,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "pay",
+        "royalty",
+        "minister",
+        "finance",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to pay royalty to Minister of Fi...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:70(2):Accompany non-resident hunter without permit",
+      "statuteID": "bc-wildlife",
+      "section": "70(2)",
+      "act": "Wildlife Act",
+      "title": "Accompany non-resident hunter without permit",
+      "bodyText": "(2) A person commits an offence if the person, without a permit issued under subsection (1), accompanies a non-resident or a non-resident alien referred to in subsection (1) (a) (i) or (ii) while the non-resident or the non-resident alien hunts for big game.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeGuiding",
+      "keywords": [
+        "accompany",
+        "non-resident",
+        "hunter",
+        "permit",
+        "guiding"
+      ],
+      "modifiers": [],
+      "shortForm": "Accompany non-resident hunter without...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:71(1):Commercial operator fail to keep records",
+      "statuteID": "bc-wildlife",
+      "section": "71(1)",
+      "act": "Wildlife Act",
+      "title": "Commercial operator fail to keep records",
+      "bodyText": "(1) A taxidermist, a tanner, a fur trader, a meatcutter or an owner or operator of a cold storage plant commits an offence if (a) he or she fails to keep, in the prescribed manner, a record of the receipt of wildlife or fish or a part of either, or (b) having received wildlife or fish or a part of either, he or she fails to keep the record referred to in paragraph (a) for a period of 2 years from the time he or she gives up possession of the wildlife or fish or a part of either.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "commercial",
+        "operator",
+        "keep",
+        "records",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Commercial operator fail to keep records",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:71(2):Commercial operator fail to produce wildlife or records for inspection",
+      "statuteID": "bc-wildlife",
+      "section": "71(2)",
+      "act": "Wildlife Act",
+      "title": "Commercial operator fail to produce wildlife or records for inspection",
+      "bodyText": "(2) A taxidermist, a tanner, a fur trader, a meatcutter or an owner or operator of a cold storage plant commits an offence if he or she fails (a) to produce for inspection, on demand by an officer, all wildlife and records in his or her possession, or (b) to make a full and complete return, as prescribed by regulation, of all wildlife that has been or is in his or her possession for processing, manufacturing, curing, selling or trading.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "commercial",
+        "operator",
+        "produce",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Commercial operator fail to produce w...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:71(2):Commercial operator fail to make a full and complete wildlife return",
+      "statuteID": "bc-wildlife",
+      "section": "71(2)",
+      "act": "Wildlife Act",
+      "title": "Commercial operator fail to make a full and complete wildlife return",
+      "bodyText": "(2) A taxidermist, a tanner, a fur trader, a meatcutter or an owner or operator of a cold storage plant commits an offence if he or she fails (a) to produce for inspection, on demand by an officer, all wildlife and records in his or her possession, or (b) to make a full and complete return, as prescribed by regulation, of all wildlife that has been or is in his or her possession for processing, manufacturing, curing, selling or trading.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "commercial",
+        "operator",
+        "make",
+        "full",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Commercial operator fail to make a fu...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:72(1):Trade fur without fur trader licence",
+      "statuteID": "bc-wildlife",
+      "section": "72(1)",
+      "act": "Wildlife Act",
+      "title": "Trade fur without fur trader licence",
+      "bodyText": "(1) A person commits an offence if the person engages in the business of fur trading unless he or she holds a fur trader's licence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "trade",
+        "fur",
+        "trader",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Trade fur without fur trader licence",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:72(3):Fail to obtain fur trader's licence for each place of business",
+      "statuteID": "bc-wildlife",
+      "section": "72(3)",
+      "act": "Wildlife Act",
+      "title": "Fail to obtain fur trader's licence for each place of business",
+      "bodyText": "(3) If a fur trader has more than one established place of business in British Columbia for the purpose of buying, selling or trading in pelts or skins, the fur trader commits an offence if he or she fails to obtain a separate fur trader's licence for each place of business.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "obtain",
+        "fur",
+        "trader's",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to obtain fur trader's licence f...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:73(1):Fail to pay fur royalty",
+      "statuteID": "bc-wildlife",
+      "section": "73(1)",
+      "act": "Wildlife Act",
+      "title": "Fail to pay fur royalty",
+      "bodyText": "(1) A person commits an offence if the person, having in possession a pelt or skin of a fur bearing animal not raised in captivity and on which a royalty has not already been paid under this section, fails to pay to the Minister of Finance a royalty, as prescribed by regulation, on each pelt and skin in his or her possession.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "pay",
+        "fur",
+        "royalty",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to pay fur royalty",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:75(2):Fail to report killing or wounding of wildlife by accident or for protection",
+      "statuteID": "bc-wildlife",
+      "section": "75(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to report killing or wounding of wildlife by accident or for protection",
+      "bodyText": "(2) A person who fails to report as required under subsection (1) commits an offence.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "report",
+        "killing",
+        "wounding",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to report killing or wounding of...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:77(2):Release/abandon animal without authority",
+      "statuteID": "bc-wildlife",
+      "section": "77(2)",
+      "act": "Wildlife Act",
+      "title": "Release/abandon animal without authority",
+      "bodyText": "(2) If a person releases or abandons an animal, other than a domestic animal, the person commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "release",
+        "abandon",
+        "animal",
+        "authority",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Release/abandon animal without authority",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:77(3):Fail to recover escaped animal",
+      "statuteID": "bc-wildlife",
+      "section": "77(3)",
+      "act": "Wildlife Act",
+      "title": "Fail to recover escaped animal",
+      "bodyText": "(3) If an animal, other than a domestic animal, escapes from the possession of a person, the person commits an offence if he or she fails to make every reasonable effort to recover the animal.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeProtection",
+      "keywords": [
+        "recover",
+        "escaped",
+        "animal",
+        "wildlife"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to recover escaped animal",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:78(a):Cause or allow dog to pursue wildlife",
+      "statuteID": "bc-wildlife",
+      "section": "78(a)",
+      "act": "Wildlife Act",
+      "title": "Cause or allow dog to pursue wildlife",
+      "bodyText": "A person commits an offence if the person causes or allows a dog to hunt or pursue (a) wildlife or an endangered species or threatened species, or (b) game, except in accordance with the regulations.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "cause",
+        "allow",
+        "dog",
+        "pursue",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Cause or allow dog to pursue wildlife",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:78(b):Allow dog to unlawfully pursue game",
+      "statuteID": "bc-wildlife",
+      "section": "78(b)",
+      "act": "Wildlife Act",
+      "title": "Allow dog to unlawfully pursue game",
+      "bodyText": "A person commits an offence if the person causes or allows a dog to hunt or pursue (a) wildlife or an endangered species or threatened species, or (b) game, except in accordance with the regulations.",
+      "fine": 400,
+      "points": 0,
+      "category": "wildlifeHunting",
+      "keywords": [
+        "allow",
+        "dog",
+        "unlawfully",
+        "pursue",
+        "hunting"
+      ],
+      "modifiers": [],
+      "shortForm": "Allow dog to unlawfully pursue game",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:80:Obstruct lawful hunting, fishing, guiding or trapping",
+      "statuteID": "bc-wildlife",
+      "section": "80",
+      "act": "Wildlife Act",
+      "title": "Obstruct lawful hunting, fishing, guiding or trapping",
+      "bodyText": "A person commits an offence if the person interferes with or obstructs a person licensed or permitted to capture wildlife or to hunt, fish, guide or trap while that person is lawfully so engaged.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "obstruct",
+        "lawful",
+        "hunting",
+        "fishing",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Obstruct lawful hunting, fishing, gui...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:82(1)(a):Knowingly make a false statement in order to obtain a licence, permit or limited entry hunting authorization",
+      "statuteID": "bc-wildlife",
+      "section": "82(1)(a)",
+      "act": "Wildlife Act",
+      "title": "Knowingly make a false statement in order to obtain a licence, permit or limited entry hunting authorization",
+      "bodyText": "(1) A person commits an offence if the person knowingly makes a false statement (a) in order to obtain a licence, permit or limited entry hunting authorization, (b) on a licence or permit issued by him or her under this Act, (c) in a book, record, certificate, report or return made, kept or furnished under this Act, or (d) to an officer engaged in the discharge of his or her duties under this Act, if the person is required to provide information under this Act.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "knowingly",
+        "make",
+        "false",
+        "statement",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Knowingly make a false statement in o...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:82(5):Make a false statement in an application made on behalf of another person",
+      "statuteID": "bc-wildlife",
+      "section": "82(5)",
+      "act": "Wildlife Act",
+      "title": "Make a false statement in an application made on behalf of another person",
+      "bodyText": "(5) A person commits an offence if the person makes a false statement in an application that the person makes on behalf of another person.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "make",
+        "false",
+        "statement",
+        "application",
+        "licence"
+      ],
+      "modifiers": [],
+      "shortForm": "Make a false statement in an applicat...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:83(2):Remove or destroy lawful sign",
+      "statuteID": "bc-wildlife",
+      "section": "83(2)",
+      "act": "Wildlife Act",
+      "title": "Remove or destroy lawful sign",
+      "bodyText": "(2) A person who without lawful authority removes, alters, destroys or defaces a sign, notice or traffic control device posted or erected under this Act commits an offence.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "remove",
+        "destroy",
+        "lawful",
+        "sign",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Remove or destroy lawful sign",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:85(2):Obtain licence while fine outstanding",
+      "statuteID": "bc-wildlife",
+      "section": "85(2)",
+      "act": "Wildlife Act",
+      "title": "Obtain licence while fine outstanding",
+      "bodyText": "(2) In the circumstances referred to in subsection (1), (a) the person's right to apply for or obtain a licence, permit or limited entry hunting authorization under this Act is suspended immediately and automatically on the failure to pay the fine, (b) all licences, permits and limited entry hunting authorizations issued to that person under this Act are cancelled immediately and automatically on the failure to pay the fine, and (c) the person commits an offence if, before that fine is paid, the person (i) applies for, or in any way obtains, a licence, permit or limited entry hunting authorization under this Act, (ii) does anything for which a licence, permit or limited entry hunting authorization under this Act is required, (iii) applies for employment as an assistant guide, or (iv) guides as an assistant guide.",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeLicensing",
+      "keywords": [
+        "obtain",
+        "licence",
+        "while",
+        "fine"
+      ],
+      "modifiers": [],
+      "shortForm": "Obtain licence while fine outstanding",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:88.1(7):Fail to comply with dangerous wildlife protection order",
+      "statuteID": "bc-wildlife",
+      "section": "88.1(7)",
+      "act": "Wildlife Act",
+      "title": "Fail to comply with dangerous wildlife protection order",
+      "bodyText": "(7) A person commits an offence if the person neglects or refuses to comply with an order in accordance with subsection (5).",
+      "fine": 500,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "comply",
+        "dangerous",
+        "wildlife",
+        "protection",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to comply with dangerous wildlif...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(2):Fail to stop when signalled or requested by officer",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(2)",
+      "act": "Wildlife Act",
+      "title": "Fail to stop when signalled or requested by officer",
+      "bodyText": "(2) A person commits an offence if, when signalled or requested by an officer under section 95 or 95.1, the person fails to stop.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "stop",
+        "when",
+        "signalled",
+        "requested",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to stop when signalled or reques...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(a):Fail, refuse or neglect to stop vehicle with wildlife or fish or article or device used for hunting when signalled or requested by officer",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail, refuse or neglect to stop vehicle with wildlife or fish or article or device used for hunting when signalled or requested by officer",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "refuse",
+        "neglect",
+        "stop",
+        "vehicle",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail, refuse or neglect to stop vehic...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(b):Fail to give identity information",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(b)",
+      "act": "Wildlife Act",
+      "title": "Fail to give identity information",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "give",
+        "identity",
+        "information",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to give identity information",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(c):Refuse to give hunting, trapping or fishing information",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(c)",
+      "act": "Wildlife Act",
+      "title": "Refuse to give hunting, trapping or fishing information",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "refuse",
+        "give",
+        "hunting",
+        "trapping",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Refuse to give hunting, trapping or f...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(d):Fail to give information about vehicle, aircraft, boat or water-related equipment use in water-based activities",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(d)",
+      "act": "Wildlife Act",
+      "title": "Fail to give information about vehicle, aircraft, boat or water-related equipment use in water-based activities",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "give",
+        "information",
+        "about",
+        "vehicle",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to give information about vehicl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(e):Fail to give information about vehicle, aircraft, boat or water-related equipment exposure to water",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(e)",
+      "act": "Wildlife Act",
+      "title": "Fail to give information about vehicle, aircraft, boat or water-related equipment exposure to water",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "give",
+        "information",
+        "about",
+        "vehicle",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to give information about vehicl...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(3)(f):Fail to provide record or information requested by officer",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(3)(f)",
+      "act": "Wildlife Act",
+      "title": "Fail to provide record or information requested by officer",
+      "bodyText": "(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "provide",
+        "record",
+        "information",
+        "requested",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to provide record or information...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(4)(a):Fail to allow officer to inspect vehicle, aircraft, boat or water-related equipment",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(4)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail to allow officer to inspect vehicle, aircraft, boat or water-related equipment",
+      "bodyText": "(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "allow",
+        "officer",
+        "inspect",
+        "vehicle",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to allow officer to inspect vehi...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(4)(b):Fail to facilitate officer access for inspection",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(4)(b)",
+      "act": "Wildlife Act",
+      "title": "Fail to facilitate officer access for inspection",
+      "bodyText": "(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "facilitate",
+        "officer",
+        "access",
+        "inspection",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to facilitate officer access for...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(4)(c):Fail to allow officer to take samples of water, aquatic invasive species or suspected aquatic invasive species",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(4)(c)",
+      "act": "Wildlife Act",
+      "title": "Fail to allow officer to take samples of water, aquatic invasive species or suspected aquatic invasive species",
+      "bodyText": "(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "allow",
+        "officer",
+        "take",
+        "samples",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to allow officer to take samples...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(4)(d):Fail to allow officer to take photos of vehicle, aircraft, boat, water-related equipment, water, aquatic invasive species or suspected aquatic invasive species",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(4)(d)",
+      "act": "Wildlife Act",
+      "title": "Fail to allow officer to take photos of vehicle, aircraft, boat, water-related equipment, water, aquatic invasive species or suspected aquatic invasive species",
+      "bodyText": "(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "allow",
+        "officer",
+        "take",
+        "photos",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to allow officer to take photos ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(4)(e):Fail to allow officer to make copies of records",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(4)(e)",
+      "act": "Wildlife Act",
+      "title": "Fail to allow officer to make copies of records",
+      "bodyText": "(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "allow",
+        "officer",
+        "make",
+        "copies",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to allow officer to make copies ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:95.3(5):Fail to stop as indicated by sign or traffic control device",
+      "statuteID": "bc-wildlife",
+      "section": "95.3(5)",
+      "act": "Wildlife Act",
+      "title": "Fail to stop as indicated by sign or traffic control device",
+      "bodyText": "(5) A person, including a specified person, commits an offence if the person fails to stop as indicated on a sign or traffic control device posted or erected under section 95.2.",
+      "fine": 600,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "stop",
+        "indicated",
+        "sign",
+        "traffic",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to stop as indicated by sign or ...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:97(2)(a):Fail to state name and address to officer",
+      "statuteID": "bc-wildlife",
+      "section": "97(2)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail to state name and address to officer",
+      "bodyText": "(2) Subject to subsection (5), a person who is required to hold an authorization must, on the request of an officer, (a) state the person's name and address, (b) produce prescribed photo identification, and (c) demonstrate in accordance with subsection (3) that the person holds the authorization.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "state",
+        "name",
+        "address",
+        "officer",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to state name and address to off...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:97(2)(b):Fail to produce prescribed photo identification to officer",
+      "statuteID": "bc-wildlife",
+      "section": "97(2)(b)",
+      "act": "Wildlife Act",
+      "title": "Fail to produce prescribed photo identification to officer",
+      "bodyText": "(2) Subject to subsection (5), a person who is required to hold an authorization must, on the request of an officer, (a) state the person's name and address, (b) produce prescribed photo identification, and (c) demonstrate in accordance with subsection (3) that the person holds the authorization.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "produce",
+        "prescribed",
+        "photo",
+        "identification",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to produce prescribed photo iden...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:97(4)(a):Fail to state name and address to officer",
+      "statuteID": "bc-wildlife",
+      "section": "97(4)(a)",
+      "act": "Wildlife Act",
+      "title": "Fail to state name and address to officer",
+      "bodyText": "(4) Subject to subsection (5), a person who would be required to hold a licence or permit issued under this Act were the person not exempt under section 11 (9) or 12 (b) must, on the request of an officer, (a) state the person's name and address, and (b) produce prescribed photo identification.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "state",
+        "name",
+        "address",
+        "officer",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to state name and address to off...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    },
+    {
+      "id": "Wildlife Act:97(4)(b):Fail to produce prescribed photo identification to officer",
+      "statuteID": "bc-wildlife",
+      "section": "97(4)(b)",
+      "act": "Wildlife Act",
+      "title": "Fail to produce prescribed photo identification to officer",
+      "bodyText": "(4) Subject to subsection (5), a person who would be required to hold a licence or permit issued under this Act were the person not exempt under section 11 (9) or 12 (b) must, on the request of an officer, (a) state the person's name and address, and (b) produce prescribed photo identification.",
+      "fine": 300,
+      "points": 0,
+      "category": "wildlifeEnforcement",
+      "keywords": [
+        "produce",
+        "prescribed",
+        "photo",
+        "identification",
+        "enforcement"
+      ],
+      "modifiers": [],
+      "shortForm": "Fail to produce prescribed photo iden...",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01"
+    }
+  ],
+  "fullText": [
+    {
+      "id": "wildlife-s1",
+      "number": "1",
+      "text": "(1) In this Act:",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Definitions and interpretation"
+    },
+    {
+      "id": "wildlife-s2",
+      "number": "2",
+      "text": "(1) Ownership in all wildlife in British Columbia is vested in the government.\n(2) A person does not acquire a right of property in any wildlife except in accordance with a permit or licence issued under this Act or the Animal Health Act or as provided in subsection (3) of this section.\n(3) A person who lawfully kills wildlife and complies with all applicable provisions of this Act and the regulations acquires the right of property in that wildlife.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Property in wildlife"
+    },
+    {
+      "id": "wildlife-s3",
+      "number": "3",
+      "text": "The minister, for the purpose of access to or the management or protection of wildlife, may (a) acquire and administer land, improvements on land and timber, timber rights and other rights on private land, and (b) enter into and carry out an agreement with a person, association or other body.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Minister's powers"
+    },
+    {
+      "id": "wildlife-s4",
+      "number": "4",
+      "text": "(4) Despite any other enactment, a person may not use land or resources in a wildlife management area without the written permission of the regional manager.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Power to designate wildlife management areas"
+    },
+    {
+      "id": "wildlife-s7",
+      "number": "7",
+      "text": "(1) A person commits an offence if the person (a) alters, destroys or damages wildlife habitat, or (b) deposits on land or water a substance or manufactured product or by product in a manner that is harmful to (c) wildlife, or (d) wildlife habitat in a wildlife management area, except as permitted under section 4 (4) or by the regulations or a permit.\n(4) A regional manager may make orders prohibiting a person from (a) entering, (b) cutting, picking, removing, altering, destroying or damaging vegetation in, (c) disturbing or harassing wildlife in, (d) releasing or abandoning an animal in, and (e) allowing an animal to enter a wildlife management area, a critical wildlife area or a wildlife sanctuary.\n(5) A person who contravenes an order made under subsection (4) commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Damage to land set aside for wildlife"
+    },
+    {
+      "id": "wildlife-s9",
+      "number": "9",
+      "text": "(1) A person commits an offence if the person disturbs, molests or destroys (a) a muskrat house or den, except on diked land, or (b) a beaver house or den or beaver dam.\n(2) Subsection (1) does not apply (a) to a licensed trapper, (b) if the action is taken to provide irrigation or drainage under lawful authority for the protection of property, or (c) if the action is authorized by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Damaging beaver dams"
+    },
+    {
+      "id": "wildlife-s11",
+      "number": "11",
+      "text": "(1) A person who hunts wildlife commits an offence unless the person holds all of the following: (a) a hunting licence issued to the person under this Act; (b) any limited entry hunting authorization that is required by regulation; (c) any other licence that is required by regulation; (d) any other permit that is required by regulation.\n(5) A person under 18 years of age commits an offence if the person hunts unless the person is accompanied by and under the close personal supervision of a person who (a) is 18 years of age or older, (b) holds a hunting licence, other than an initiation hunting licence, or is exempted from holding a hunting licence, and (c) meets the prescribed qualifications.\n(8) A person commits an offence if the person traps fur bearing animals unless he or she holds a trapping licence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Hunting and trapping"
+    },
+    {
+      "id": "wildlife-s12",
+      "number": "12",
+      "text": "A person commits an offence if the person angles in the non-tidal waters of British Columbia unless the person is (a) the holder of (i) an angling licence, and (ii) any other licence or permit that is required by regulation, (b) an Indian residing in British Columbia, or (c) exempt by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Angling licences"
+    },
+    {
+      "id": "wildlife-s14",
+      "number": "14",
+      "text": "A person commits an offence if the person obtains or holds more licences or limited entry hunting authorizations than the number prescribed by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Number of licences limited"
+    },
+    {
+      "id": "wildlife-s17-1",
+      "number": "17.1",
+      "text": "(3) A person commits an offence if the person (a) is 18 years of age or older, (b) is accompanied by another person who is under 18 years of age and who is carrying a firearm, and (c) either (i) does not hold a hunting licence other than an initiation hunting licence and is not exempted from holding a hunting licence, or (ii) does not meet the prescribed qualifications.\n(4) A parent or guardian commits an offence if he or she gives permission to his or her child or ward, who is under 18 years of age and with respect to whom the parent or guardian has signed a written undertaking under subsection (1), to (a) hunt, or (b) be in possession of a firearm unless the child or ward is accompanied by and under the close personal supervision of a person who (c) is 18 years of age or older, (d) holds a hunting licence, other than an initiation hunting licence, or is exempted from holding a hunting licence, and (e) meets the prescribed qualifications.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Hunting licences for persons under 18 years of age"
+    },
+    {
+      "id": "wildlife-s17-2",
+      "number": "17.2",
+      "text": "(2) A person who holds an initiation hunting licence commits an offence if the person hunts unless the person is accompanied by and under the close personal supervision of a person who (a) is 18 years of age or older, and (b) meets the prescribed qualifications.\n(3) A person who (a) is 18 years of age or older, and (b) does not meet the prescribed qualifications commits an offence if the person is in the company of a person who holds an initiation hunting licence while that person hunts unless the person who holds an initiation hunting licence is accompanied by and under the close personal supervision of a person who (c) is 18 years of age or older, and (d) meets the prescribed qualifications.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Initiation hunting licence"
+    },
+    {
+      "id": "wildlife-s21",
+      "number": "21",
+      "text": "(1) Except as authorized by a permit issued under this Act or under the Convention on International Trade in Endangered Species of Wild Fauna and Flora, a person commits an offence if the person (a) imports into British Columbia live wildlife, or the egg of a wildlife species, or (b) exports out of British Columbia wildlife or parts of them, or the egg of a wildlife species.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Import and export of wildlife"
+    },
+    {
+      "id": "wildlife-s22",
+      "number": "22",
+      "text": "A person who traffics in live wildlife or wildlife meat, except as authorized by regulation or a permit, commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Trafficking in wildlife"
+    },
+    {
+      "id": "wildlife-s24",
+      "number": "24",
+      "text": "(6) If the licence or limited entry hunting authorization held by a person has been suspended, the person commits an offence if during the period of suspension (a) of the licence or limited entry hunting authorization, he or she applies for or in any way obtains a new licence or limited entry hunting authorization, (b) of a hunting licence, he or she hunts, or (d) of an angling licence, he or she angles.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Suspension and cancellation of licences"
+    },
+    {
+      "id": "wildlife-s26",
+      "number": "26",
+      "text": "(1) A person commits an offence if the person hunts, takes, traps, wounds or kills wildlife (a) that is an endangered species or threatened species, (b) in a wildlife sanctuary, (c) at a time not within the open season, (d) with a firearm or a bow during the prohibited hours, (e) by the use or with the aid of a light or illuminating device, (f) with poison, (g) with a set gun, or (h) with a pump, repeating or auto loading shotgun unless the magazine contains a plug that is incapable of removal except by disassembling the gun, and that makes the magazine incapable of holding more than 2 cartridges.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Hunting, trapping and firearm prohibitions"
+    },
+    {
+      "id": "wildlife-s27",
+      "number": "27",
+      "text": "(1) A person who discharges a firearm or wounds or kills wildlife from a motor vehicle or from a boat that is propelled by a motor commits an offence.\n(3) A person who herds or harasses wildlife with the use of a motor vehicle, aircraft, boat or other mechanical device commits an offence.\n(4) A person who hunts game within 6 hours after being airborne in an aircraft, other than a regularly scheduled commercial aircraft, commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Use of conveyance"
+    },
+    {
+      "id": "wildlife-s29",
+      "number": "29",
+      "text": "Except as authorized by this Act, the regulations or a permit, a person who attempts to capture wildlife commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Attempt to capture wildlife"
+    },
+    {
+      "id": "wildlife-s30",
+      "number": "30",
+      "text": "Except as provided under section 35, a person who hunts, takes, wounds or kills big game while it is swimming commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Swimming wildlife"
+    },
+    {
+      "id": "wildlife-s31",
+      "number": "31",
+      "text": "A person who discharges a firearm on or across the travelled portions of a highway prescribed under section 108 commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Shooting across highway"
+    },
+    {
+      "id": "wildlife-s32",
+      "number": "32",
+      "text": "A person who discharges a firearm in a no shooting area commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "No shooting area"
+    },
+    {
+      "id": "wildlife-s33",
+      "number": "33",
+      "text": "(1) A person commits an offence if the person has live wildlife in his or her personal possession except as authorized under a licence or permit or as provided by regulation.\n(2) A person commits an offence if the person has dead wildlife or a part of any wildlife in his or her possession except as authorized under a licence or permit or as provided by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Possession of wildlife"
+    },
+    {
+      "id": "wildlife-s33-1",
+      "number": "33.1",
+      "text": "(1) A person must not (a) intentionally feed or attempt to feed dangerous wildlife, or (b) provide, leave or place an attractant in, on or about any land or premises with the intent of attracting dangerous wildlife.\n(2) A person must not leave or place an attractant in, on or about any land or premises where there are or where there are likely to be people, in a manner in which the attractant could (a) attract dangerous wildlife to the land or premises, and (b) be accessible to dangerous wildlife.\n(3) Subject to subsections (5) and (6), a person who contravenes subsection (1) or (2) commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Attracting dangerous wildlife"
+    },
+    {
+      "id": "wildlife-s34",
+      "number": "34",
+      "text": "A person commits an offence if the person, except as provided by regulation, possesses, takes, injures, molests or destroys (a) a bird or its egg, (b) the nest of an eagle, peregrine falcon, gyrfalcon, osprey, heron or burrowing owl, or (c) the nest of a bird not referred to in paragraph (b) when the nest is occupied by a bird or its egg.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Birds, nests and eggs"
+    },
+    {
+      "id": "wildlife-s35",
+      "number": "35",
+      "text": "(2) A person commits an offence if the person hunts wildlife and kills or injures that wildlife and fails to make every reasonable effort to (a) retrieve the wildlife, and if it is alive to kill it and include it in his or her bag limit, and (b) remove the edible portions of the carcass of game to the person's normal dwelling place or to a meatcutter or the owner or operator of a cold storage plant, unless exempted by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Retrieval of wildlife killed"
+    },
+    {
+      "id": "wildlife-s38",
+      "number": "38",
+      "text": "A person who fails, on the request of an officer, to state correctly the locality where and the date on which wildlife or fish in the person's possession was killed, taken or caught by the person or came into his or her possession, commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Failure to provide information"
+    },
+    {
+      "id": "wildlife-s39",
+      "number": "39",
+      "text": "(1) A person commits an offence if the person, without the consent of the owner, lessee or occupier of land, (a) hunts over or traps in or on cultivated land, or (b) hunts over Crown land that is subject to a grazing lease while the land is occupied by livestock.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Agricultural and cleared land"
+    },
+    {
+      "id": "wildlife-s41",
+      "number": "41",
+      "text": "A person commits an offence if the person sets a trap for, hunts, kills, takes or captures a fur bearing animal in an area of British Columbia unless the person (a) is a registered holder of the trapline for that area, (b) has written permission of a registered holder of the trapline for that area, (c) is the owner or occupier of the land, (d) has written permission from the owner or occupier of the land, or (e) holds a permit to trap that is required by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Prohibition within a trapline"
+    },
+    {
+      "id": "wildlife-s44",
+      "number": "44",
+      "text": "A person who leaves a trap set after the last day of the open season for the trapping of fur bearing animals commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Leaving traps set"
+    },
+    {
+      "id": "wildlife-s46",
+      "number": "46",
+      "text": "A person who knowingly damages or interferes with a lawfully set trap commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Interference with traps"
+    },
+    {
+      "id": "wildlife-s47",
+      "number": "47",
+      "text": "A person commits an offence if the person hunts big game unless he or she (a) is a resident, or (b) is accompanied by (i) a guide licensed under this Act, (i.1) an assistant guide issued a written authorization under section 48 (1.2), or (ii) a person who holds a permit under section 70 (1) (a) allowing him or her to accompany the hunter.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Non-residents and big game"
+    },
+    {
+      "id": "wildlife-s48",
+      "number": "48",
+      "text": "(1) A person, other than a person who guides for game as an assistant guide in accordance with this Act, commits an offence if the person acts as a guide for game, or offers to act as a guide for game, unless the person (a) holds a guide outfitter licence, (c) holds another licence to guide for game, or (d) accompanies or assists a person to hunt game birds or small game on land other than Crown land.\n(2) A person who holds a guide outfitter licence commits an offence if the person employs an assistant guide to guide for game and contravenes any of the provisions of subsections (1.1) to (1.3).\n(2.2) A person guiding for game as an assistant guide commits an offence if the person fails to meet any of the requirements under subsection (2.1).",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Requirements and offences for guide outfitters and assistant guides"
+    },
+    {
+      "id": "wildlife-s49",
+      "number": "49",
+      "text": "(1) A person commits an offence if the person acts as a guide for fish, or offers to act as a guide for fish, unless the person (a) holds an angling guide licence, or (b) holds an assistant angling guide licence.\n(2) A person who holds an angling guide licence commits an offence if the person employs another person to guide for fish and that other person does not hold an assistant angling guide licence.\n(5) An angling guide who guides for fish elsewhere than on the waters or in the area authorized by the angling guide's licence commits an offence.\n(6) An assistant angling guide who guides for fish elsewhere than on the waters or in the area authorized by the licence of the angling guide employing the assistant angling guide commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Compulsory angling guide licence"
+    },
+    {
+      "id": "wildlife-s55",
+      "number": "55",
+      "text": "(2) A guide outfitter who contravenes subsection (1) commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Guide reports"
+    },
+    {
+      "id": "wildlife-s56",
+      "number": "56",
+      "text": "(1) A guide who guides a hunter for game commits an offence unless the hunter holds a hunting licence and any other required licence.\n(2) A person who guides an angler for fish commits an offence unless the angler holds an angling licence and any other required licence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Guiding unlicensed hunters and anglers"
+    },
+    {
+      "id": "wildlife-s69",
+      "number": "69",
+      "text": "A guide outfitter commits an offence if the guide outfitter fails to pay to the Minister of Finance a royalty on an animal taken by a person guided by the guide outfitter, or guided on his or her behalf, in the amount and within the time prescribed by regulation.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Royalties"
+    },
+    {
+      "id": "wildlife-s70",
+      "number": "70",
+      "text": "(2) A person commits an offence if the person, without a permit issued under subsection (1), accompanies a non-resident or a non-resident alien referred to in subsection (1) (a) (i) or (ii) while the non-resident or the non-resident alien hunts for big game.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Permit in guide area"
+    },
+    {
+      "id": "wildlife-s71",
+      "number": "71",
+      "text": "(1) A taxidermist, a tanner, a fur trader, a meatcutter or an owner or operator of a cold storage plant commits an offence if (a) he or she fails to keep, in the prescribed manner, a record of the receipt of wildlife or fish or a part of either, or (b) having received wildlife or fish or a part of either, he or she fails to keep the record referred to in paragraph (a) for a period of 2 years from the time he or she gives up possession of the wildlife or fish or a part of either.\n(2) A taxidermist, a tanner, a fur trader, a meatcutter or an owner or operator of a cold storage plant commits an offence if he or she fails (a) to produce for inspection, on demand by an officer, all wildlife and records in his or her possession, or (b) to make a full and complete return, as prescribed by regulation, of all wildlife that has been or is in his or her possession for processing, manufacturing, curing, selling or trading.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Requirement to keep records"
+    },
+    {
+      "id": "wildlife-s72",
+      "number": "72",
+      "text": "(1) A person commits an offence if the person engages in the business of fur trading unless he or she holds a fur trader's licence.\n(3) If a fur trader has more than one established place of business in British Columbia for the purpose of buying, selling or trading in pelts or skins, the fur trader commits an offence if he or she fails to obtain a separate fur trader's licence for each place of business.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Fur trader's licence"
+    },
+    {
+      "id": "wildlife-s73",
+      "number": "73",
+      "text": "(1) A person commits an offence if the person, having in possession a pelt or skin of a fur bearing animal not raised in captivity and on which a royalty has not already been paid under this section, fails to pay to the Minister of Finance a royalty, as prescribed by regulation, on each pelt and skin in his or her possession.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Royalties for fur"
+    },
+    {
+      "id": "wildlife-s75",
+      "number": "75",
+      "text": "(2) A person who fails to report as required under subsection (1) commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Accidental killing of wildlife"
+    },
+    {
+      "id": "wildlife-s77",
+      "number": "77",
+      "text": "(2) If a person releases or abandons an animal, other than a domestic animal, the person commits an offence.\n(3) If an animal, other than a domestic animal, escapes from the possession of a person, the person commits an offence if he or she fails to make every reasonable effort to recover the animal.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Release or escape of animals"
+    },
+    {
+      "id": "wildlife-s78",
+      "number": "78",
+      "text": "A person commits an offence if the person causes or allows a dog to hunt or pursue (a) wildlife or an endangered species or threatened species, or (b) game, except in accordance with the regulations.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Dogs hunting game"
+    },
+    {
+      "id": "wildlife-s80",
+      "number": "80",
+      "text": "A person commits an offence if the person interferes with or obstructs a person licensed or permitted to capture wildlife or to hunt, fish, guide or trap while that person is lawfully so engaged.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Obstructing licensed persons"
+    },
+    {
+      "id": "wildlife-s81",
+      "number": "81",
+      "text": "Except as authorized by regulation or as otherwise provided under this Act, a licence, permit or limited entry hunting authorization is not transferable, and a person commits an offence if the person (a) allows his or her licence, permit or limited entry hunting authorization to be used by another person, or (b) uses another person's licence, permit or limited entry hunting authorization.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Documents not transferable"
+    },
+    {
+      "id": "wildlife-s82",
+      "number": "82",
+      "text": "(1) A person commits an offence if the person knowingly makes a false statement (a) in order to obtain a licence, permit or limited entry hunting authorization, (b) on a licence or permit issued by him or her under this Act, (c) in a book, record, certificate, report or return made, kept or furnished under this Act, or (d) to an officer engaged in the discharge of his or her duties under this Act, if the person is required to provide information under this Act.\n(5) A person commits an offence if the person makes a false statement in an application that the person makes on behalf of another person.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "False statements"
+    },
+    {
+      "id": "wildlife-s83",
+      "number": "83",
+      "text": "(2) A person who without lawful authority removes, alters, destroys or defaces a sign, notice or traffic control device posted or erected under this Act commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Posting signs and notices"
+    },
+    {
+      "id": "wildlife-s85",
+      "number": "85",
+      "text": "(2) In the circumstances referred to in subsection (1), (a) the person's right to apply for or obtain a licence, permit or limited entry hunting authorization under this Act is suspended immediately and automatically on the failure to pay the fine, (b) all licences, permits and limited entry hunting authorizations issued to that person under this Act are cancelled immediately and automatically on the failure to pay the fine, and (c) the person commits an offence if, before that fine is paid, the person (i) applies for, or in any way obtains, a licence, permit or limited entry hunting authorization under this Act, (ii) does anything for which a licence, permit or limited entry hunting authorization under this Act is required, (iii) applies for employment as an assistant guide, or (iv) guides as an assistant guide.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Failure to pay fine"
+    },
+    {
+      "id": "wildlife-s88-1",
+      "number": "88.1",
+      "text": "(7) A person commits an offence if the person neglects or refuses to comply with an order in accordance with subsection (5).",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Dangerous wildlife protection order"
+    },
+    {
+      "id": "wildlife-s95-3",
+      "number": "95.3",
+      "text": "(2) A person commits an offence if, when signalled or requested by an officer under section 95 or 95.1, the person fails to stop.\n(3) A person commits an offence under section 95 if the person does any of the following: (a) being the driver or operator of a motor vehicle, in or on which there is wildlife or game fish or an article or device that may be used for hunting, trapping or fishing, fails, refuses or neglects to stop the motor vehicle when signalled or requested to stop by an officer; (b) fails to identify themselves when requested to do so by an officer; (c) refuses to give information respecting hunting, trapping or fishing, when requested to do so by an officer; (d) fails to give information relating to the person's use of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment in water-based activities, when requested to do so by an officer; (e) fails to give information relating to an exposure to water of a vehicle, an aircraft designed to land on water, a boat or any water-related equipment, when requested to do so by an officer; (f) fails to provide a record or information specified in section 95 (4) (c), when requested to do so by an officer.\n(4) A person commits an offence under section 95.1 if the person does any of the following: (a) fails to allow an officer to inspect a vehicle, an aircraft designed to land on water, a boat or any water-related equipment; (b) fails to facilitate access for an officer for the purposes of an inspection; (c) fails to allow an officer to take samples of water, aquatic invasive species or suspected aquatic invasive species; (d) fails to allow an officer to take photographs of a vehicle, an aircraft designed to land on water, a boat, any water-related equipment, or water, aquatic invasive species or suspected aquatic invasive species that are in or on a vehicle, aircraft, boat or equipment; (e) fails to allow an officer to make copies of relevant records.\n(5) A person, including a specified person, commits an offence if the person fails to stop as indicated on a sign or traffic control device posted or erected under section 95.2.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Offences under sections 95, 95.1 and 95.2"
+    },
+    {
+      "id": "wildlife-s97",
+      "number": "97",
+      "text": "(2) Subject to subsection (5), a person who is required to hold an authorization must, on the request of an officer, (a) state the person's name and address, (b) produce prescribed photo identification, and (c) demonstrate in accordance with subsection (3) that the person holds the authorization.\n(4) Subject to subsection (5), a person who would be required to hold a licence or permit issued under this Act were the person not exempt under section 11 (9) or 12 (b) must, on the request of an officer, (a) state the person's name and address, and (b) produce prescribed photo identification.\n(6) A person who contravenes subsection (2) or (4) commits an offence.",
+      "part": "Part 1 — General Provisions",
+      "division": null,
+      "heading": "Proof of identity and authorization"
+    }
+  ]
+}
