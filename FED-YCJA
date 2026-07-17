@@ -1,0 +1,1423 @@
+{
+  "statuteID": "youth-criminal-justice-act",
+  "version": 1,
+  "updatedAt": "2026-07-17T00:00:00Z",
+  "offences": [
+    {
+      "id": "Youth Criminal Justice Act:15:Contempt against the youth justice court",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "15",
+      "act": "Youth Criminal Justice Act",
+      "title": "Contempt against the youth justice court",
+      "bodyText": "15 (1) Every youth justice court has the same power, jurisdiction and authority to deal with and impose punishment for contempt against the court as may be exercised by the superior court of criminal jurisdiction of the province in which the court is situated. (2) A youth justice court has jurisdiction in respect of every contempt of court committed by a young person against the youth justice court whether or not committed in the face of the court, and every contempt of court committed by a young person against any other court otherwise than in the face of that court. (3) A youth justice court has jurisdiction in respect of every contempt of court committed by a young person against any other court in the face of that court and every contempt of court committed by an adult against the youth justice court in the face of the youth justice court, but nothing in this subsection affects the power, jurisdiction or authority of any other court to deal with or impose punishment for contempt of court. (4) When a youth justice court or any other court finds a young person guilty of contempt of court, it may impose as a youth sentence any one of the sanctions set out in subsection 42(2), or any number of them that are not inconsistent with each other, but no other sentence. (5) Section 708 (contempt) of the Criminal Code applies in respect of proceedings under this section in youth justice court against adults, with any modifications that the circumstances require.",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaContempt",
+      "maxPenalty": "Contempt of court — the youth justice court has the same power to punish as the superior court of criminal jurisdiction. For a young person, the court may impose any youth sentence under s.42(2); for an adult, s.708 of the Criminal Code applies.",
+      "minPenalty": null,
+      "keywords": [
+        "contempt",
+        "against",
+        "youth",
+        "justice",
+        "youth court"
+      ],
+      "modifiers": [],
+      "shortForm": "Contempt against the youth justice court",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    },
+    {
+      "id": "Youth Criminal Justice Act:27(4):Parent failing to attend court as ordered",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "27(4)",
+      "act": "Youth Criminal Justice Act",
+      "title": "Parent failing to attend court as ordered",
+      "bodyText": "(4) A parent who is ordered to attend a youth justice court under subsection",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaContempt",
+      "mode": "summary",
+      "maxPenalty": "Contempt of court; the parent may be dealt with summarily and is liable to the punishment provided for in the Criminal Code for a summary conviction offence.",
+      "minPenalty": null,
+      "keywords": [
+        "parent",
+        "failing",
+        "attend",
+        "court",
+        "contempt"
+      ],
+      "modifiers": [],
+      "shortForm": "Parent failing to attend court as ord...",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    },
+    {
+      "id": "Youth Criminal Justice Act:136:Inducing a young person to breach an order / harbouring a young person unlawfully at large",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "136",
+      "act": "Youth Criminal Justice Act",
+      "title": "Inducing a young person to breach an order / harbouring a young person unlawfully at large",
+      "bodyText": "136 (1) Every person who (a) induces or assists a young person to leave unlawfully a place of custody or other place in which the young person has been placed in accordance with a youth sentence or a disposition imposed under the Young Offenders Act, (b) unlawfully removes a young person from a place referred to in paragraph (a), (c) knowingly harbours or conceals a young person who has unlawfully left a place referred to in paragraph (a), (d) wilfully induces or assists a young person to breach or disobey a term or condition of a youth sentence or other order of the youth justice court, or a term or condition of a disposition or other order under the Young Offenders Act, or (e) wilfully prevents or interferes with the performance by a young person of a term or condition of a youth sentence or other order of the youth justice court, or a term or condition of a disposition or other order under the Young Offenders Act, is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years or is guilty of an offence punishable on summary conviction. (2) The jurisdiction of a provincial court judge to try an adult charged with an indictable offence under this section is absolute and does not depend on the consent of the accused.",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaInterference",
+      "mode": "hybrid",
+      "maxPenalty": "Indictable: imprisonment up to 2 years; or punishable on summary conviction. (Absolute jurisdiction of a provincial court judge to try an adult on indictment.)",
+      "minPenalty": null,
+      "keywords": [
+        "inducing",
+        "breach",
+        "order",
+        "harbouring",
+        "interfere",
+        "harbour",
+        "induce",
+        "young person"
+      ],
+      "modifiers": [],
+      "shortForm": "Inducing a young person to breach an ...",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    },
+    {
+      "id": "Youth Criminal Justice Act:137:Wilful failure or refusal to comply with a youth sentence, surcharge or disposition",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "137",
+      "act": "Youth Criminal Justice Act",
+      "title": "Wilful failure or refusal to comply with a youth sentence, surcharge or disposition",
+      "bodyText": "137 Every person who is subject to a youth sentence imposed under any of paragraphs 42(2)(c) to (m) or (s) of this Act, to a victim fine surcharge ordered under subsection 53(2) of this Act or to a disposition made under any of paragraphs 20(1)(a.1) to (g), (j) or (l) of the Young Offenders Act, and who wilfully fails or refuses to comply with that sentence, surcharge or disposition is guilty of an offence punishable on summary conviction.",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaFailureToComply",
+      "mode": "summary",
+      "maxPenalty": "Punishable on summary conviction.",
+      "minPenalty": null,
+      "keywords": [
+        "wilful",
+        "failure",
+        "refusal",
+        "comply",
+        "breach",
+        "youth sentence"
+      ],
+      "modifiers": [],
+      "shortForm": "Wilful failure or refusal to comply w...",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    },
+    {
+      "id": "Youth Criminal Justice Act:138:Breach of a publication ban or unauthorized access to or disclosure of youth records",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "138",
+      "act": "Youth Criminal Justice Act",
+      "title": "Breach of a publication ban or unauthorized access to or disclosure of youth records",
+      "bodyText": "138 (1) Every person who contravenes subsection 110(1) (identity of offender not to be published), 111(1) (identity of victim or witness not to be published), 118(1) (no access to records unless authorized) or 128(3) (disposal of R.C.M.P. records) or section 129 (no subsequent disclosure) of this Act, or subsection 38(1), (1.12), (1.14) or (1.15), 45(2) or 46(1) of the Young Offenders Act, (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or (b) is guilty of an offence punishable on summary conviction. (2) The jurisdiction of a provincial court judge to try an adult charged with an offence under paragraph (1)(a) is absolute and does not depend on the consent of the accused.",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaPrivacyRecords",
+      "mode": "hybrid",
+      "maxPenalty": "Indictable: imprisonment up to 2 years; or punishable on summary conviction. (Absolute jurisdiction of a provincial court judge to try an adult on indictment.)",
+      "minPenalty": null,
+      "keywords": [
+        "breach",
+        "publication",
+        "ban",
+        "unauthorized",
+        "records",
+        "publication ban",
+        "disclosure"
+      ],
+      "modifiers": [],
+      "shortForm": "Breach of a publication ban or unauth...",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    },
+    {
+      "id": "Youth Criminal Justice Act:139(1):Wilful failure to comply with detention rules (s.30) or an undertaking (s.31(3))",
+      "statuteID": "youth-criminal-justice-act",
+      "section": "139(1)",
+      "act": "Youth Criminal Justice Act",
+      "title": "Wilful failure to comply with detention rules (s.30) or an undertaking (s.31(3))",
+      "bodyText": "(1) Every person who wilfully fails to comply with section 30 (designated place of temporary detention), or with an undertaking entered into under subsection 31(3) (condition of placement), (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or (b) is guilty of an offence punishable on summary conviction.",
+      "fine": 0,
+      "points": 0,
+      "category": "ycjaFailureToComply",
+      "mode": "hybrid",
+      "maxPenalty": "Indictable: imprisonment up to 2 years; or punishable on summary conviction.",
+      "minPenalty": null,
+      "keywords": [
+        "wilful",
+        "failure",
+        "comply",
+        "detention",
+        "breach",
+        "undertaking"
+      ],
+      "modifiers": [],
+      "shortForm": "Wilful failure to comply with detenti...",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/"
+    }
+  ],
+  "fullText": [
+    {
+      "id": "ycja-preamble",
+      "number": "Preamble",
+      "text": "Preamble WHEREAS members of society share a responsibility to address the developmental challenges and the needs of young persons and to guide them into adulthood; WHEREAS communities, families, parents and others concerned with the development of young persons should, through multi-disciplinary approaches, take reasonable steps to prevent youth crime by addressing its underlying causes, to respond to the needs of young persons, and to provide guidance and support to those at risk of committing crimes; WHEREAS information about youth justice, youth crime and the effectiveness of measures taken to address youth crime should be publicly available; WHEREAS Canada is a party to the United Nations Convention on the Rights of the Child and recognizes that young persons have rights and freedoms, including those stated in the Canadian Charter of Rights and Freedoms and the Canadian Bill of Rights, and have special guarantees of their rights and freedoms; AND WHEREAS Canadian society should have a youth criminal justice system that commands respect, takes into account the interests of victims, fosters responsibility and ensures accountability through meaningful consequences and effective rehabilitation and reintegration, and that reserves its most serious intervention for the most serious crimes and reduces the over-reliance on incarceration for non-violent young persons.",
+      "part": "Preamble",
+      "division": null,
+      "heading": "Preamble"
+    },
+    {
+      "id": "ycja-s1",
+      "number": "1",
+      "text": "1 This Act may be cited as the Youth Criminal Justice Act.",
+      "part": "Short Title and Interpretation",
+      "division": null,
+      "heading": "Short title"
+    },
+    {
+      "id": "ycja-s2",
+      "number": "2",
+      "text": "2 (1) The definitions in this subsection apply in this Act. \"adult\" means a person who is neither a young person nor a child. \"adult sentence\", in the case of a young person who is found guilty of an offence, means any sentence that could be imposed on an adult who has been convicted of the same offence. \"Attorney General\" means the Attorney General as defined in section 2 of the Criminal Code, read as if the reference in that definition to \"proceedings\" were a reference to \"proceedings or extrajudicial measures\", and includes an agent or delegate of the Attorney General. \"child\" means a person who is or, in the absence of evidence to the contrary, appears to be less than twelve years old. \"conference\" means a group of persons who are convened to give advice in accordance with section 19. \"confirmed delivery service\" means certified or registered mail or any other method of service that provides proof of delivery. \"custodial portion\", with respect to a youth sentence imposed on a young person under paragraph 42(2)(n), (o), (q) or (r), means the period of time, or the portion of the young person's youth sentence, that must be served in custody before he or she begins to serve the remainder under supervision in the community. \"disclosure\" means the communication of information other than by way of publication. \"extrajudicial measures\" means measures other than judicial proceedings under this Act used to deal with a young person alleged to have committed an offence and includes extrajudicial sanctions. \"extrajudicial sanction\" means a sanction that is part of a program referred to in section 10. \"offence\" means an offence created by an Act of Parliament or by any regulation, rule, order, by-law or ordinance made under an Act of Parliament other than a law of the Legislature of Yukon, of the Northwest Territories or for Nunavut. \"parent\" includes, in respect of a young person, any person who is under a legal duty to provide for the young person or any person who has, in law or in fact, the custody or control of the young person, but does not include a person who has the custody or control of the young person by reason only of proceedings under this Act. \"pre-sentence report\" means a report on the personal and family history and present environment of a young person made in accordance with section 40. \"provincial director\" means a person, a group or class of persons or a body appointed or designated by or under an Act of the legislature of a province to perform any of the duties or functions of a provincial director under this Act. \"publication\" means the communication of information by making it known or accessible to the general public through any means, including print, radio or television broadcast, telecommunication or electronic means. \"record\" includes any thing containing information, regardless of its physical form or characteristics, including microform, sound recording, videotape, machine-readable record, and any copy of any of those things, that is created or kept for the purposes of this Act or for the investigation of an offence that is or could be prosecuted under this Act. \"review board\" means a review board referred to in subsection 87(2). \"serious offence\" means an indictable offence under an Act of Parliament for which the maximum punishment is imprisonment for five years or more. \"serious violent offence\" means an offence under one of the following provisions of the Criminal Code: (a) section 231 or 235 (first degree murder or second degree murder); (b) section 239 (attempt to commit murder); (c) section 232, 234 or 236 (manslaughter); or (d) section 273 (aggravated sexual assault). \"violent offence\" means (a) an offence committed by a young person that includes as an element the causing of bodily harm; (b) an attempt or a threat to commit an offence referred to in paragraph (a); or (c) an offence in the commission of which a young person endangers the life or safety of another person by creating a substantial likelihood of causing bodily harm. \"young person\" means a person who is or, in the absence of evidence to the contrary, appears to be twelve years old or older, but less than eighteen years old and, if the context requires, includes any person who is charged under this Act with having committed an offence while he or she was a young person or who is found guilty of an offence under this Act. \"youth custody facility\" means a facility designated under subsection 85(2) for the placement of young persons. \"youth justice court\" means a youth justice court referred to in section 13. \"youth justice court judge\" means a youth justice court judge referred to in section 13. \"youth sentence\" means a sentence imposed under section 42, 51 or 59 or any of sections 94 to 96 and includes a confirmation or a variation of that sentence. \"youth worker\" means any person appointed or designated to perform any of the duties or functions of a youth worker under this Act. (2) Unless otherwise provided, words and expressions used in this Act have the same meaning as in the Criminal Code. (3) If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.",
+      "part": "Short Title and Interpretation",
+      "division": null,
+      "heading": "Definitions"
+    },
+    {
+      "id": "ycja-s3",
+      "number": "3",
+      "text": "3 (1) The following principles apply in this Act: (a) the youth criminal justice system is intended to protect the public by (i) holding young persons accountable through measures that are proportionate to the seriousness of the offence and the degree of responsibility of the young person, (ii) promoting the rehabilitation and reintegration of young persons who have committed offences, and (iii) supporting the prevention of crime by referring young persons to programs or agencies in the community to address the circumstances underlying their offending behaviour; (b) the criminal justice system for young persons must be separate from that of adults, must be based on the principle of diminished moral blameworthiness or culpability and must emphasize the following: (i) rehabilitation and reintegration, (ii) fair and proportionate accountability that is consistent with the greater dependency of young persons and their reduced level of maturity, (iii) enhanced procedural protection to ensure that young persons are treated fairly and that their rights, including their right to privacy, are protected, (iv) timely intervention that reinforces the link between the offending behaviour and its consequences, and (v) the promptness and speed with which persons responsible for enforcing this Act must act, given young persons' perception of time; (c) within the limits of fair and proportionate accountability, the measures taken against young persons who commit offences should (i) reinforce respect for societal values, (ii) encourage the repair of harm done to victims and the community, (iii) be meaningful for the individual young person given his or her needs and level of development and, where appropriate, involve the parents, the extended family, the community and social or other agencies in the young person's rehabilitation and reintegration, and (iv) respect gender, ethnic, cultural and linguistic differences and respond to the needs of aboriginal young persons and of young persons with special requirements; and (d) special considerations apply in respect of proceedings against young persons and, in particular, (i) young persons have rights and freedoms in their own right, such as a right to be heard in the course of and to participate in the processes, other than the decision to prosecute, that lead to decisions that affect them, and young persons have special guarantees of their rights and freedoms, (ii) victims should be treated with courtesy, compassion and respect for their dignity and privacy and should suffer the minimum degree of inconvenience as a result of their involvement with the youth criminal justice system, (iii) victims should be provided with information about the proceedings and given an opportunity to participate and be heard, and (iv) parents should be informed of measures or proceedings involving their children and encouraged to support them in addressing their offending behaviour. (2) This Act shall be liberally construed so as to ensure that young persons are dealt with in accordance with the principles set out in subsection (1).",
+      "part": "Short Title and Interpretation",
+      "division": null,
+      "heading": "Policy for Canada with respect to young persons"
+    },
+    {
+      "id": "ycja-s4",
+      "number": "4",
+      "text": "4 The following principles apply in this Part in addition to the principles set out in section 3: (a) extrajudicial measures are often the most appropriate and effective way to address youth crime; (b) extrajudicial measures allow for effective and timely interventions focused on correcting offending behaviour; (c) extrajudicial measures are presumed to be adequate to hold a young person accountable for his or her offending behaviour if the young person has committed a non-violent offence and has not previously been found guilty of an offence; and (d) extrajudicial measures should be used if they are adequate to hold a young person accountable for his or her offending behaviour and, if the use of extrajudicial measures is consistent with the principles set out in this section, nothing in this Act precludes their use in respect of a young person who (i) has previously been dealt with by the use of extrajudicial measures, or (ii) has previously been found guilty of an offence.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Declaration of principles"
+    },
+    {
+      "id": "ycja-s4-1",
+      "number": "4.1",
+      "text": "4.1 (1) Extrajudicial measures are presumed to be adequate to hold a young person accountable for a failure or refusal referred to in section 137 and for a failure referred to in section 496 of the Criminal Code unless (a) the young person has a history of repetitive failures or refusals; or (b) the young person's failure or refusal caused harm, or a risk of harm, to the safety of the public. (2) In the cases referred to in paragraphs (1)(a) and (b), (a) extrajudicial measures should be used if they are adequate to hold the young person accountable for the failure or refusal; and (b) if the use of extrajudicial measures would not be adequate under paragraph (a), but issuing an appearance notice under section 496 (judicial referral hearing) of the Criminal Code or making an application for review of the youth sentence referred to in section 59(1) as an alternative to proceeding by charge would be adequate, then the applicable alternative should be used.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Certain offences — extrajudicial measures deemed adequate"
+    },
+    {
+      "id": "ycja-s5",
+      "number": "5",
+      "text": "5 Extrajudicial measures should be designed to (a) provide an effective and timely response to offending behaviour outside the bounds of judicial measures; (b) encourage young persons to acknowledge and repair the harm caused to the victim and the community; (c) encourage families of young persons — including extended families where appropriate — and the community to become involved in the design and implementation of those measures; (d) provide an opportunity for victims to participate in decisions related to the measures selected and to receive reparation; and (e) respect the rights and freedoms of young persons and be proportionate to the seriousness of the offence.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Objectives"
+    },
+    {
+      "id": "ycja-s6",
+      "number": "6",
+      "text": "6 (1) A police officer shall, before starting judicial proceedings or taking any other measures under this Act against a young person alleged to have committed an offence, consider whether it would be sufficient, having regard to the principles set out in sections 4 and 4.1, to take no further action, warn the young person, administer a caution, if a program has been established under section 7, or, with the consent of the young person, refer the young person to a program or agency in the community that may assist the young person not to commit offences. (2) The failure of a police officer to consider the options set out in subsection (1) does not invalidate any subsequent charges against the young person for the offence.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Warnings, cautions and referrals"
+    },
+    {
+      "id": "ycja-s7",
+      "number": "7",
+      "text": "7 The Attorney General, or any other minister designated by the lieutenant governor of a province, may establish a program authorizing the police to administer cautions to young persons instead of starting judicial proceedings under this Act.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Police cautions"
+    },
+    {
+      "id": "ycja-s8",
+      "number": "8",
+      "text": "8 The Attorney General may establish a program authorizing prosecutors to administer cautions to young persons instead of starting or continuing judicial proceedings under this Act.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Crown cautions"
+    },
+    {
+      "id": "ycja-s9",
+      "number": "9",
+      "text": "9 Evidence that a young person has received a warning, caution or referral mentioned in section 6, 7 or 8 or that a police officer has taken no further action in respect of an offence, and evidence of the offence, is inadmissible for the purpose of proving prior offending behaviour in any proceedings before a youth justice court in respect of the young person.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Evidence of measures is inadmissible"
+    },
+    {
+      "id": "ycja-s10",
+      "number": "10",
+      "text": "10 (1) An extrajudicial sanction may be used to deal with a young person alleged to have committed an offence only if the young person cannot be adequately dealt with by a warning, caution or referral mentioned in section 6, 7 or 8 because of the seriousness of the offence, the nature and number of previous offences committed by the young person or any other aggravating circumstances. (2) An extrajudicial sanction may be used only if (a) it is part of a program of sanctions that may be authorized by the Attorney General or authorized by a person, or a member of a class of persons, designated by the lieutenant governor in council of the province; (b) the person who is considering whether to use the extrajudicial sanction is satisfied that it would be appropriate, having regard to the needs of the young person and the interests of society; (c) the young person, having been informed of the extrajudicial sanction, fully and freely consents to be subject to it; (d) the young person has, before consenting to be subject to the extrajudicial sanction, been advised of his or her right to be represented by counsel and been given a reasonable opportunity to consult with counsel; (e) the young person accepts responsibility for the act or omission that forms the basis of the offence that he or she is alleged to have committed; (f) there is, in the opinion of the Attorney General, sufficient evidence to proceed with the prosecution of the offence; and (g) the prosecution of the offence is not in any way barred at law. (3) An extrajudicial sanction may not be used in respect of a young person who (a) denies participation or involvement in the commission of the offence; or (b) expresses the wish to have the charge dealt with by a youth justice court. (4) Any admission, confession or statement accepting responsibility for a given act or omission that is made by a young person as a condition of being dealt with by extrajudicial measures is inadmissible in evidence against any young person in civil or criminal proceedings. (5) The use of an extrajudicial sanction in respect of a young person alleged to have committed an offence is not a bar to judicial proceedings under this Act, but if a charge is laid against the young person in respect of the offence, (a) the youth justice court shall dismiss the charge if it is satisfied on a balance of probabilities that the young person has totally complied with the terms and conditions of the extrajudicial sanction; and (b) the youth justice court may dismiss the charge if it is satisfied on a balance of probabilities that the young person has partially complied with the terms and conditions of the extrajudicial sanction and if, in the opinion of the court, prosecution of the charge would be unfair having regard to the circumstances and the young person's performance with respect to the extrajudicial sanction. (6) Subject to subsection (5) and section 24 (private prosecutions only with consent of Attorney General), nothing in this section shall be construed as preventing any person from laying an information or indictment, obtaining the issue or confirmation of any process or proceeding with the prosecution of any offence in accordance with law.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Extrajudicial sanctions"
+    },
+    {
+      "id": "ycja-s11",
+      "number": "11",
+      "text": "11 If a young person is dealt with by an extrajudicial sanction, the person who administers the program under which the sanction is used shall inform a parent of the young person of the sanction.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Notice to parent"
+    },
+    {
+      "id": "ycja-s12",
+      "number": "12",
+      "text": "12 If a young person is dealt with by an extrajudicial sanction, a police officer, the Attorney General, the provincial director or any organization established by a province to provide assistance to victims shall, on request, inform the victim of the identity of the young person and how the offence has been dealt with.",
+      "part": "Part 1 — Extrajudicial Measures",
+      "division": null,
+      "heading": "Victim's right to information"
+    },
+    {
+      "id": "ycja-s13",
+      "number": "13",
+      "text": "13 (1) A youth justice court is any court that may be established or designated by or under an Act of the legislature of a province, or designated by the Governor in Council or the lieutenant governor in council of a province, as a youth justice court for the purposes of this Act, and a youth justice court judge is a person who may be appointed or designated as a judge of the youth justice court or a judge sitting in a court established or designated as a youth justice court. (2) When a young person elects to be tried by a judge without a jury, the judge shall be a judge as defined in section 552 of the Criminal Code, or if it is an offence set out in section 469 of that Act, the judge shall be a judge of the superior court of criminal jurisdiction in the province in which the election is made. In either case, the judge is deemed to be a youth justice court judge and the court is deemed to be a youth justice court for the purpose of the proceeding. (3) When a young person elects or is deemed to have elected to be tried by a court composed of a judge and jury, the superior court of criminal jurisdiction in the province in which the election is made or deemed to have been made is deemed to be a youth justice court for the purpose of the proceeding, and the superior court judge is deemed to be a youth justice court judge. (4) A youth justice court is a court of record.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Designation of youth justice court"
+    },
+    {
+      "id": "ycja-s14",
+      "number": "14",
+      "text": "14 (1) Despite any other Act of Parliament but subject to the Contraventions Act and the National Defence Act, a youth justice court has exclusive jurisdiction in respect of any offence alleged to have been committed by a person while he or she was a young person, and that person shall be dealt with as provided in this Act. (2) A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3, 810, 810.01, 810.011, 810.02, 810.03 and 810.2 of the Criminal Code and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) except that, in the case of an order under paragraph 42(2)(n), it shall not exceed 30 days. (3) Unless the Attorney General and the young person agree, no extrajudicial measures shall be taken or judicial proceedings commenced under this Act in respect of an offence after the end of the time limit set out in any other Act of Parliament or any regulation made under it for the institution of proceedings in respect of that offence. (4) Extrajudicial measures taken or judicial proceedings commenced under this Act against a young person may be continued under this Act after the person attains the age of eighteen years. (5) This Act applies to persons eighteen years old or older who are alleged to have committed an offence while a young person. (6) For the purpose of carrying out the provisions of this Act, a youth justice court judge is a justice and a provincial court judge and has the jurisdiction and powers of a summary conviction court under the Criminal Code. (7) A judge of a superior court of criminal jurisdiction, when deemed to be a youth justice court judge for the purpose of a proceeding, retains the jurisdiction and powers of a superior court of criminal jurisdiction.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Exclusive jurisdiction of youth justice court"
+    },
+    {
+      "id": "ycja-s15",
+      "number": "15",
+      "text": "15 (1) Every youth justice court has the same power, jurisdiction and authority to deal with and impose punishment for contempt against the court as may be exercised by the superior court of criminal jurisdiction of the province in which the court is situated. (2) A youth justice court has jurisdiction in respect of every contempt of court committed by a young person against the youth justice court whether or not committed in the face of the court, and every contempt of court committed by a young person against any other court otherwise than in the face of that court. (3) A youth justice court has jurisdiction in respect of every contempt of court committed by a young person against any other court in the face of that court and every contempt of court committed by an adult against the youth justice court in the face of the youth justice court, but nothing in this subsection affects the power, jurisdiction or authority of any other court to deal with or impose punishment for contempt of court. (4) When a youth justice court or any other court finds a young person guilty of contempt of court, it may impose as a youth sentence any one of the sanctions set out in subsection 42(2), or any number of them that are not inconsistent with each other, but no other sentence. (5) Section 708 (contempt) of the Criminal Code applies in respect of proceedings under this section in youth justice court against adults, with any modifications that the circumstances require.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Contempt against youth justice court"
+    },
+    {
+      "id": "ycja-s16",
+      "number": "16",
+      "text": "16 When a person is alleged to have committed an offence during a period that includes the date on which the person attains the age of eighteen years, the youth justice court has jurisdiction in respect of the offence and shall, after putting the person to their election under section 67 (adult sentence) if applicable, and on finding the person guilty of the offence, (a) if it has been proven that the offence was committed before the person attained the age of eighteen years, impose a sentence under this Act; (b) if it has been proven that the offence was committed after the person attained the age of eighteen years, impose any sentence that could be imposed under the Criminal Code or any other Act of Parliament on an adult who has been convicted of the same offence; and (c) if it has not been proven that the offence was committed after the person attained the age of eighteen years, impose a sentence under this Act.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Status of offender uncertain"
+    },
+    {
+      "id": "ycja-s17",
+      "number": "17",
+      "text": "17 (1) The youth justice court for a province may, subject to the approval of the lieutenant governor in council of the province, establish rules of court not inconsistent with this Act or any other Act of Parliament or with any regulations made under section 155 regulating proceedings within the jurisdiction of the youth justice court. (2) Rules under subsection (1) may be made (a) generally to regulate the duties of the officers of the youth justice court and any other matter considered expedient to attain the ends of justice and carry into effect the provisions of this Act; (b) subject to any regulations made under paragraph 155(b), to regulate the practice and procedure in the youth justice court; and (c) to prescribe forms to be used in the youth justice court if they are not otherwise provided for by or under this Act. (3) Rules of court that are made under the authority of this section shall be published in the appropriate provincial gazette.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Youth justice court may make rules"
+    },
+    {
+      "id": "ycja-s18",
+      "number": "18",
+      "text": "18 (1) The Attorney General of Canada or a province or any other minister that the lieutenant governor in council of the province may designate may establish one or more committees of citizens, to be known as youth justice committees, to assist in any aspect of the administration of this Act or in any programs or services for young persons. (2) The functions of a youth justice committee may include the following: (a) in the case of a young person alleged to have committed an offence, (i) giving advice on the appropriate extrajudicial measure to be used, (ii) supporting any victim of the alleged offence, (iii) ensuring that community support is available to the young person, and (iv) when the young person is also being dealt with by a child protection agency or a community group, helping to coordinate the interaction of the agency or group with the youth criminal justice system; (b) advising the federal and provincial governments on whether the provisions of this Act that grant rights to young persons, or provide for the protection of young persons, are being complied with; (c) advising the federal and provincial governments on policies and procedures related to the youth criminal justice system; (d) providing information to the public in respect of this Act and the youth criminal justice system; (e) acting as a conference; and (f) any other functions assigned by the person who establishes the committee.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Youth justice committees"
+    },
+    {
+      "id": "ycja-s19",
+      "number": "19",
+      "text": "19 (1) A youth justice court judge, the provincial director, a police officer, a justice of the peace, a prosecutor or a youth worker may convene or cause to be convened a conference for the purpose of making a decision required to be made under this Act. (2) The mandate of a conference may be, among other things, to give advice on appropriate extrajudicial measures, conditions for judicial interim release, sentences, including the review of sentences, and reintegration plans. (3) The Attorney General or any other minister designated by the lieutenant governor in council of a province may establish rules for the convening and conducting of conferences other than conferences convened or caused to be convened by a youth justice court judge or a justice of the peace. (4) In provinces where rules are established under subsection (3), the conferences to which those rules apply must be convened and conducted in accordance with those rules.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Conferences may be convened"
+    },
+    {
+      "id": "ycja-s20",
+      "number": "20",
+      "text": "20 (1) Any proceeding that may be carried out before a justice under the Criminal Code, other than a plea, a trial or an adjudication, may be carried out before a justice in respect of an offence alleged to have been committed by a young person, and any process that may be issued by a justice under the Criminal Code may be issued by a justice in respect of an offence alleged to have been committed by a young person. (2) Despite subsection 14(2), a justice has jurisdiction to make an order under section 810 (recognizance — fear of injury or damage) of the Criminal Code in respect of a young person. If the young person fails or refuses to enter into a recognizance referred to in that section, the justice shall refer the matter to a youth justice court.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Certain proceedings may be taken before justices"
+    },
+    {
+      "id": "ycja-s21",
+      "number": "21",
+      "text": "21 In addition to any powers conferred on a clerk of a court by the Criminal Code, a clerk of the youth justice court may exercise the powers ordinarily exercised by a clerk of a court, and, in particular, may (a) administer oaths or solemn affirmations in all matters relating to the business of the youth justice court; and (b) in the absence of a youth justice court judge, exercise all the powers of a youth justice court judge relating to adjournment.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Powers of clerks"
+    },
+    {
+      "id": "ycja-s22",
+      "number": "22",
+      "text": "22 The provincial director may authorize any person to exercise the powers or perform the duties or functions of the provincial director under this Act, in which case the powers, duties or functions are deemed to have been exercised or performed by the provincial director.",
+      "part": "Part 2 — Organization of Youth Criminal Justice System",
+      "division": null,
+      "heading": "Powers, duties and functions of provincial directors"
+    },
+    {
+      "id": "ycja-s23",
+      "number": "23",
+      "text": "23 (1) The Attorney General may establish a program of pre-charge screening that sets out the circumstances in which the consent of the Attorney General must be obtained before a young person is charged with an offence. (2) Any program of pre-charge screening of young persons that is established under an Act of the legislature of a province or by a directive of a provincial government, and that is in place before the coming into force of this section, is deemed to be a program of pre-charge screening for the purposes of subsection (1).",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Pre-charge screening"
+    },
+    {
+      "id": "ycja-s24",
+      "number": "24",
+      "text": "24 No prosecutions may be conducted by a prosecutor other than the Attorney General without the consent of the Attorney General.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Private prosecutions"
+    },
+    {
+      "id": "ycja-s24-1",
+      "number": "24.1",
+      "text": "24.1 If a charge for which an appearance notice, summons or release order was issued, or an undertaking was given, is dismissed, withdrawn or stayed, or the young person is acquitted of that charge, the Attorney General must review any charge pending against the young person under any of subsections 145(2) to (5) of the Criminal Code for failure to comply with the appearance notice, summons, release order or undertaking in order to determine whether the prosecution of the charge should proceed.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Review required"
+    },
+    {
+      "id": "ycja-s25",
+      "number": "25",
+      "text": "25 (1) A young person has the right to retain and instruct counsel without delay, and to exercise that right personally, at any stage of proceedings against the young person and before and during any consideration of whether, instead of starting or continuing judicial proceedings against the young person under this Act, to use an extrajudicial sanction to deal with the young person. (2) Every young person who is arrested or detained shall, on being arrested or detained, be advised without delay by the arresting officer of the right to retain and instruct counsel, and be given an opportunity to obtain counsel. (3) When a young person is not represented by counsel at a hearing at which it will be determined whether to release or detain the young person, at a hearing under section 71, at trial, at specified custody-related proceedings, or at a review, the justice or youth justice court or review board shall advise the young person of the right to retain and instruct counsel and shall give the young person a reasonable opportunity to obtain counsel. (4) When a young person wishes to obtain counsel but is unable to do so, the youth justice court or review board shall refer the young person to a legal aid or assistance program, or, if none is available or the young person is unable to obtain counsel through it, may, and on the request of the young person shall, direct that the young person be represented by counsel. (5) When a direction is made under paragraph (4)(b), the Attorney General shall appoint counsel, or cause counsel to be appointed, to represent the young person. (8) If it appears to a youth justice court judge or a justice that the interests of a young person and the interests of a parent are in conflict or that it would be in the best interests of the young person to be represented by his or her own counsel, the judge or justice shall ensure that the young person is represented by counsel independent of the parent. (9) A statement that a young person has the right to be represented by counsel shall be included in any appearance notice or summons, any warrant to arrest, any undertaking, and any notice given in relation to specified custody-related proceedings or a review of a youth sentence. (10) Nothing in this Act prevents the lieutenant governor in council of a province from establishing a program to authorize the recovery of the costs of a young person's counsel from the young person or the parents of the young person, after the proceedings are completed. (11) Subsections (4) to (9) do not apply to a person who is alleged to have committed an offence while a young person, if the person has attained the age of twenty years at the time of his or her first appearance before a youth justice court in respect of the offence.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Right to counsel"
+    },
+    {
+      "id": "ycja-s26",
+      "number": "26",
+      "text": "26 (1) Subject to subsection (4), if a young person is arrested and detained in custody pending their appearance in court, a peace officer shall, as soon as possible after the young person is detained, give or cause to be given to a parent of the young person, orally or in writing, notice of the arrest stating the place of detention and the reason for the arrest. (2) Subject to subsection (4), if a summons or an appearance notice is issued in respect of a young person, the person who issued the summons or appearance notice, or, if a young person is released on an undertaking, a peace officer, shall, as soon as possible, give or cause to be given to a parent of the young person notice in writing of the summons, appearance notice or undertaking. (3) Subject to subsection (4), a person who serves a ticket under the Contraventions Act on a young person, other than a ticket served for a contravention relating to parking a vehicle, shall, as soon as possible, give or cause to be given notice in writing of the ticket to a parent of the young person. (4) If the whereabouts of the parents of a young person are not known or it appears that no parent is available, a notice under this section may be given to an adult relative of the young person who is likely to assist the young person or, if none is available, to any other appropriate adult who is known to the young person. (6) Any notice under this section shall include the name of the young person, the charge and, except in the case of a ticket, the time and place of appearance, and a statement that the young person has the right to be represented by counsel. (9) Subject to subsections (10) and (11), failure to give a notice in accordance with this section does not affect the validity of proceedings under this Act.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Notice to parents"
+    },
+    {
+      "id": "ycja-s27",
+      "number": "27",
+      "text": "27 (1) If a parent does not attend proceedings held before a youth justice court in respect of a young person, the court may, if in its opinion the presence of the parent is necessary or in the best interests of the young person, by order in writing require the parent to attend at any stage of the proceedings. (2) Subsection (1) does not apply in proceedings commenced by filing a ticket under the Contraventions Act. (3) A copy of the order shall be served by a peace officer or by a person designated by a youth justice court by delivering it personally to the parent to whom it is directed, unless the youth justice court authorizes service by confirmed delivery service. (4) A parent who is ordered to attend a youth justice court under subsection (1) and who fails without reasonable excuse, the proof of which lies on the parent, to comply with the order (a) is guilty of contempt of court; (b) may be dealt with summarily by the court; and (c) is liable to the punishment provided for in the Criminal Code for a summary conviction offence. (5) If a parent who is ordered to attend a youth justice court under subsection (1) does not attend when required by the order or fails to remain in attendance as required and it is proved that a copy of the order was served on the parent, a youth justice court may issue a warrant to compel the attendance of the parent.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Order requiring attendance of parent"
+    },
+    {
+      "id": "ycja-s28",
+      "number": "28",
+      "text": "28 Except to the extent that they are inconsistent with or excluded by this Act, the provisions of Part XVI (compelling appearance of an accused and interim release) of the Criminal Code apply to the detention and release of young persons under this Act.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Application of Part XVI of Criminal Code"
+    },
+    {
+      "id": "ycja-s28-1",
+      "number": "28.1",
+      "text": "28.1 A peace officer, youth justice court judge or justice shall not detain a young person in custody, or impose a condition in respect of a young person's release by including it in an undertaking or release order, as a substitute for appropriate child protection, mental health or other social measures.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Substitute for social measures prohibited"
+    },
+    {
+      "id": "ycja-s29",
+      "number": "29",
+      "text": "29 (1) A youth justice court judge or a justice may impose a condition set out in subsections 515(4) to (4.2) of the Criminal Code in respect of a release order only if they are satisfied that (a) the condition is necessary to ensure the young person's attendance in court or for the protection or safety of the public, including any victim of or witness to the offence; (b) the condition is reasonable having regard to the circumstances of the offending behaviour; and (c) the young person will reasonably be able to comply with the condition. (2) A youth justice court judge or a justice may order that a young person be detained in custody only if (a) the young person has been charged with (i) a serious offence, or (ii) an offence other than a serious offence, if they have a history that indicates a pattern of either outstanding charges or findings of guilt; (b) the judge or justice is satisfied, on a balance of probabilities, of one of the grounds set out in subparagraphs (i) to (iii); and (c) the judge or justice is satisfied that no condition or combination of conditions of release would address the applicable ground. (3) The onus of satisfying the youth justice court judge or the justice as to the matters referred to in subsection (2) is on the Attorney General.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Release order with conditions"
+    },
+    {
+      "id": "ycja-s30",
+      "number": "30",
+      "text": "30 (1) Subject to subsection (7), a young person who is detained in custody in relation to any proceedings against the young person shall be detained in a safe, fair and humane manner in any place of temporary detention that may be designated by the lieutenant governor in council of the province or his or her delegate or in a place within a class of places so designated. (2) A young person who is detained in a place of temporary detention under subsection (1) may, in the course of being transferred from that place to the court or from the court to that place, be held under the supervision and control of a peace officer. (3) A young person referred to in subsection (1) shall be held separate and apart from any adult who is detained or held in custody unless a youth justice court judge or a justice is satisfied that, having regard to the best interests of the young person, (a) the young person cannot, having regard to his or her own safety or the safety of others, be detained in a place of detention for young persons; or (b) no place of detention for young persons is available within a reasonable distance. (4) When a young person is detained under subsection (1), the youth justice court may, on application of the provincial director made at any time after the young person attains the age of eighteen years, authorize the provincial director to direct that the young person be temporarily detained in a provincial correctional facility for adults, if the court considers it to be in the best interests of the young person or in the public interest. (5) When a young person is twenty years old or older at the time his or her temporary detention under subsection (1) begins, the young person shall be temporarily detained in a provincial correctional facility for adults. (7) Subsections (1) and (3) do not apply in respect of any temporary restraint of a young person under the supervision and control of a peace officer after arrest, but a young person who is so restrained shall be transferred to a place of temporary detention referred to in subsection (1) as soon as is practicable.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Designated place of temporary detention"
+    },
+    {
+      "id": "ycja-s30-1",
+      "number": "30.1",
+      "text": "30.1 For the purposes of section 525 of the Criminal Code with respect to a young person who has been charged with an offence for which they are being prosecuted in proceedings by way of summary conviction, every reference in that provision to \"90 days\" or \"90-day\" is to be read and construed as a reference to \"30 days\" or \"30-day\" respectively.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Review of detention — 30-day period"
+    },
+    {
+      "id": "ycja-s31",
+      "number": "31",
+      "text": "31 (1) A young person who has been arrested may be placed in the care of a responsible person instead of being detained in custody if a youth justice court or a justice is satisfied that (a) the young person would, but for this subsection, be detained in custody under section 515 of the Criminal Code; (b) the person is willing and able to take care of and exercise control over the young person; and (c) the young person is willing to be placed in the care of that person. (2) If a young person would, in the absence of a responsible person, be detained in custody, the youth justice court or the justice shall inquire as to the availability of a responsible person and whether the young person is willing to be placed in that person's care. (3) A young person shall not be placed in the care of a person under subsection (1) unless (a) that person undertakes in writing to take care of and to be responsible for the attendance of the young person in court when required and to comply with any other conditions that the youth justice court judge or the justice may specify; and (b) the young person undertakes in writing to comply with the arrangement and to comply with any other conditions that the youth justice court judge or the justice may specify. (4) A young person, a person in whose care a young person has been placed or any other person may, by application in writing to a youth justice court judge or a justice, apply for an order under subsection (5) if (a) the person in whose care the young person has been placed is no longer willing or able to take care of or exercise control over the young person; or (b) it is, for any other reason, no longer appropriate that the young person remain in the care of that person. (5) When a youth justice court judge or a justice is satisfied that a young person should not remain in the custody of the person in whose care he or she was placed under subsection (1), the judge or justice shall (a) make an order relieving the person and the young person of the obligations undertaken under subsection (3); and (b) issue a warrant for the arrest of the young person. (6) If a young person is arrested in accordance with a warrant issued under paragraph (5)(b), the young person shall be taken before a youth justice court judge or a justice without delay and dealt with under this section and sections 28 to 30.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Placement of young person in care of responsible person"
+    },
+    {
+      "id": "ycja-s32",
+      "number": "32",
+      "text": "32 (1) A young person against whom an information or indictment is laid must first appear before a youth justice court judge or a justice, and the judge or justice shall (a) cause the information or indictment to be read to the young person; (b) if the young person is not represented by counsel, inform the young person of the right to retain and instruct counsel; and (c) if notified under subsection 64(2) or if section 16 applies, inform the young person that the youth justice court might, if the young person is found guilty, order that an adult sentence be imposed. (2) A young person may waive the requirements of subsection (1) if the young person is represented by counsel and counsel advises the court that the young person has been informed of that provision. (3) When a young person is not represented by counsel, the youth justice court, before accepting a plea, shall (a) satisfy itself that the young person understands the charge; (b) if the young person is liable to an adult sentence, explain the consequences and the procedure to apply for a youth sentence; and (c) explain that the young person may plead guilty or not guilty, or if subsection 67(1) or (3) applies, explain the election. (4) If the youth justice court is not satisfied that a young person understands the charge, the court shall, unless the young person must be put to his or her election under subsection 67(1), enter a plea of not guilty on behalf of the young person and proceed with the trial. (5) If the youth justice court is not satisfied that a young person understands the matters set out in subsection (3), the court shall direct that the young person be represented by counsel.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Appearance before judge or justice"
+    },
+    {
+      "id": "ycja-s33",
+      "number": "33",
+      "text": "33 (1) If an order is made under section 515 of the Criminal Code in respect of a young person by a justice who is not a youth justice court judge, an application may, at any time after the order is made, be made to a youth justice court for the release from or detention in custody of the young person, and the youth justice court shall hear the matter as an original application. (2) An application under subsection (1) for release from custody shall not be heard unless the young person has given the prosecutor at least two clear days notice in writing of the application. (3) An application under subsection (1) for detention in custody shall not be heard unless the prosecutor has given the young person at least two clear days notice in writing of the application. (5) An application under section 520 or 521 of the Criminal Code for a review of an order made in respect of a young person by a youth justice court judge who is a judge of a superior court shall be made to a judge of the court of appeal. (8) If a young person against whom proceedings have been taken under this Act is charged with an offence referred to in section 522 of the Criminal Code, a youth justice court judge, but no other court, judge or justice, may release the young person from custody under that section.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Application for release from or detention in custody"
+    },
+    {
+      "id": "ycja-s34",
+      "number": "34",
+      "text": "34 (1) A youth justice court may, at any stage of proceedings against a young person, by order require that the young person be assessed by a qualified person who is required to report the results in writing to the court, (a) with the consent of the young person and the prosecutor; or (b) on its own motion or on application, if the court believes a report is necessary for a purpose mentioned in paragraphs (2)(a) to (g) and one of the grounds in subparagraphs (i) to (iii) applies. (2) A youth justice court may make an order under subsection (1) for the purpose of considering an application under section 33, making its decision under section 71, making or reviewing a youth sentence, considering continuation of custody, setting conditions of conditional supervision, making an order under subsection 109(2), or authorizing disclosure under subsection 127(1). (3) For the purpose of an assessment under this section, a youth justice court may remand a young person to any custody that it directs for a period not exceeding thirty days. (7) When a youth justice court receives a report made in respect of a young person under subsection (1), the court shall, subject to subsection (9), cause a copy to be given to the young person, any parent in attendance, any counsel, and the prosecutor. (14) In this section, \"qualified person\" means a person duly qualified by provincial law to practise medicine or psychiatry or to carry out psychological examinations or assessments.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Medical or psychological assessment"
+    },
+    {
+      "id": "ycja-s35",
+      "number": "35",
+      "text": "35 In addition to any order that it is authorized to make, a youth justice court may, at any stage of proceedings against a young person, refer the young person to a child welfare agency for assessment to determine whether the young person is in need of child welfare services.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Referral to child welfare agency"
+    },
+    {
+      "id": "ycja-s36",
+      "number": "36",
+      "text": "36 (1) If a young person pleads guilty to an offence charged against the young person and the youth justice court is satisfied that the facts support the charge, the court shall find the young person guilty of the offence. (2) If a young person charged with an offence pleads not guilty to the offence or pleads guilty but the youth justice court is not satisfied that the facts support the charge, the court shall proceed with the trial and shall, after considering the matter, find the young person guilty or not guilty or make an order dismissing the charge, as the case may be.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Adjudication"
+    },
+    {
+      "id": "ycja-s37",
+      "number": "37",
+      "text": "37 (1) An appeal in respect of an indictable offence or an offence that the Attorney General elects to proceed with as an indictable offence lies under this Act in accordance with Part XXI (appeals — indictable offences) of the Criminal Code, which Part applies with any modifications that the circumstances require. (2) A finding of guilt under section 15 for contempt of court or a sentence imposed in respect of the finding may be appealed as if the finding were a conviction or the sentence were a sentence in a prosecution by indictment. (4) An order under subsection 72(1) or (1.1) or 76(1) may be appealed as part of the sentence. (5) An appeal in respect of an offence punishable on summary conviction or an offence that the Attorney General elects to proceed with as an offence punishable on summary conviction lies under this Act in accordance with Part XXVII (summary conviction offences) of the Criminal Code. (10) No appeal lies under subsection (1) from a judgment of the court of appeal in respect of a finding of guilt or an order dismissing an information or indictment to the Supreme Court of Canada unless leave to appeal is granted by the Supreme Court of Canada. (11) No appeal lies from a youth sentence under section 59 — other than subsection 59(10) — or under any of sections 94 to 96.",
+      "part": "Part 3 — Judicial Measures",
+      "division": null,
+      "heading": "Appeals"
+    },
+    {
+      "id": "ycja-s38",
+      "number": "38",
+      "text": "38 (1) The purpose of sentencing under section 42 (youth sentences) is to hold a young person accountable for an offence through the imposition of just sanctions that have meaningful consequences for the young person and that promote his or her rehabilitation and reintegration into society, thereby contributing to the long-term protection of the public. (2) A youth justice court that imposes a youth sentence on a young person shall determine the sentence in accordance with the principles set out in section 3 and the following principles: (a) the sentence must not result in a punishment that is greater than the punishment that would be appropriate for an adult who has been convicted of the same offence committed in similar circumstances; (b) the sentence must be similar to the sentences imposed in the region on similar young persons found guilty of the same offence committed in similar circumstances; (c) the sentence must be proportionate to the seriousness of the offence and the degree of responsibility of the young person for that offence; (d) all available sanctions other than custody that are reasonable in the circumstances should be considered for all young persons, with particular attention to the circumstances of aboriginal young persons; (e) subject to paragraph (c), the sentence must (i) be the least restrictive sentence that is capable of achieving the purpose set out in subsection (1), (ii) be the one that is most likely to rehabilitate the young person and reintegrate him or her into society, and (iii) promote a sense of responsibility in the young person, and an acknowledgement of the harm done to victims and the community; (e.1) if this Act provides that a youth justice court may impose conditions as part of the sentence, a condition may be imposed only if (i) the imposition of the condition is necessary to achieve the purpose set out in subsection 38(1), (ii) the young person will reasonably be able to comply with the condition, and (iii) the condition is not used as a substitute for appropriate child protection, mental health or other social measures; and (f) subject to paragraph (c), the sentence may have the following objectives: (i) to denounce unlawful conduct, and (ii) to deter the young person from committing offences. (3) In determining a youth sentence, the youth justice court shall take into account (a) the degree of participation by the young person in the commission of the offence; (b) the harm done to victims and whether it was intentional or reasonably foreseeable; (c) any reparation made by the young person to the victim or the community; (d) the time spent in detention by the young person as a result of the offence; (e) the previous findings of guilt of the young person; and (f) any other aggravating and mitigating circumstances related to the young person or the offence that are relevant to the purpose and principles set out in this section.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Purpose"
+    },
+    {
+      "id": "ycja-s39",
+      "number": "39",
+      "text": "39 (1) A youth justice court shall not commit a young person to custody under section 42 (youth sentences) unless (a) the young person has committed a violent offence; (b) the young person has previously been found guilty of an offence under section 137 in relation to more than one sentence and, if the court is imposing a sentence for an offence under subsections 145(2) to (5) of the Criminal Code or section 137, the young person caused harm, or a risk of harm, to the safety of the public in committing that offence; (c) the young person has committed an indictable offence for which an adult would be liable to imprisonment for a term of more than two years and has a history that indicates a pattern of either extrajudicial sanctions or of findings of guilt or of both under this Act or the Young Offenders Act; or (d) in exceptional cases where the young person has committed an indictable offence, the aggravating circumstances of the offence are such that the imposition of a non-custodial sentence would be inconsistent with the purpose and principles set out in section 38. (2) If any of paragraphs (1)(a) to (c) apply, a youth justice court shall not impose a custodial sentence under section 42 unless the court has considered all alternatives to custody raised at the sentencing hearing that are reasonable in the circumstances, and determined that there is not a reasonable alternative, or combination of alternatives, that is in accordance with the purpose and principles set out in section 38. (5) A youth justice court shall not use custody as a substitute for appropriate child protection, mental health or other social measures. (6) Before imposing a custodial sentence under section 42, a youth justice court shall consider a pre-sentence report and any sentencing proposal made by the young person or his or her counsel. (9) If a youth justice court imposes a youth sentence that includes a custodial portion, the court shall state the reasons why it has determined that a non-custodial sentence is not adequate to achieve the purpose set out in subsection 38(1).",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Committal to custody"
+    },
+    {
+      "id": "ycja-s40",
+      "number": "40",
+      "text": "40 (1) Before imposing sentence on a young person found guilty of an offence, a youth justice court (a) shall, if it is required under this Act to consider a pre-sentence report before making an order or a sentence in respect of a young person, and (b) may, if it considers it advisable, require the provincial director to cause to be prepared a pre-sentence report in respect of the young person and to submit the report to the court. (2) A pre-sentence report made in respect of a young person shall be in writing and shall include the results of interviews with the young person, the parents and, where applicable, the victim; the recommendations of any conference; and information on the young person's age, maturity, character, behaviour, attitude, willingness to make amends, plans, history of findings of guilt and prior services, availability of community services, relationship with parents, and school and employment record. (10) No statement made by a young person in the course of the preparation of a pre-sentence report is admissible in evidence against any young person in civil or criminal proceedings except those under section 42, 59 or 71 or any of sections 94 to 96.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Pre-sentence report"
+    },
+    {
+      "id": "ycja-s41",
+      "number": "41",
+      "text": "41 When a youth justice court finds a young person guilty of an offence, the court may convene or cause to be convened a conference under section 19 for recommendations to the court on an appropriate youth sentence.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Recommendation of conference"
+    },
+    {
+      "id": "ycja-s42",
+      "number": "42",
+      "text": "42 (1) A youth justice court shall, before imposing a youth sentence, consider any recommendations submitted under section 41, any pre-sentence report, any representations made by the parties or their counsel or agents and by the parents of the young person, and any other relevant information before the court. (2) When a youth justice court finds a young person guilty of an offence and is imposing a youth sentence, the court shall, subject to this section, impose any one of the following sanctions or any number of them that are not inconsistent with each other and, if the offence is first degree murder or second degree murder within the meaning of section 231 of the Criminal Code, the court shall impose a sanction set out in paragraph (q) or subparagraph (r)(ii) or (iii) and may impose any other of the sanctions set out in this subsection that the court considers appropriate: (a) reprimand the young person; (b) by order direct that the young person be discharged absolutely, if the court considers it to be in the best interests of the young person and not contrary to the public interest; (c) by order direct that the young person be discharged on any conditions imposed by the court in accordance with paragraph 38(2)(e.1) and may require the young person to report to and be supervised by the provincial director; (d) impose on the young person a fine not exceeding $1,000 to be paid at the time and on the terms that the court may fix; (e) order the young person to pay to any other person at the times and on the terms that the court may fix an amount by way of compensation for loss of or damage to property or for loss of income or support, or for personal injury arising from the commission of the offence if the value is readily ascertainable; (f) order the young person to make restitution to any other person of any property obtained by the young person as a result of the commission of the offence; (g) if property obtained as a result of the commission of the offence has been sold to an innocent purchaser, order the young person to pay the purchaser an amount not exceeding the amount paid by the purchaser for the property; (h) subject to section 54, order the young person to compensate any person in kind or by way of personal services; (i) subject to section 54, order the young person to perform a community service, and to report to and be supervised by the provincial director; (j) subject to section 51 (mandatory prohibition order), make any order of prohibition, seizure or forfeiture that may be imposed under any Act of Parliament, other than an order under section 161 of the Criminal Code; (k) place the young person on probation in accordance with sections 55 and 56 for a specified period not exceeding two years; (l) order the young person into an intensive support and supervision program approved by the provincial director; (m) order the young person to attend a non-residential program approved by the provincial director for a maximum of two hundred and forty hours, over a period not exceeding six months; (n) make a custody and supervision order with respect to the young person, ordering that a period be served in custody and that a second period — which is one half as long as the first — be served, subject to sections 97 and 98, under supervision in the community subject to conditions, the total of the periods not to exceed two years from the date of the coming into force of the order or, if the young person is found guilty of an offence for which the punishment provided by the Criminal Code or any other Act of Parliament is imprisonment for life, three years; (o) in the case of an offence set out in section 239, 232, 234, 236 or 273 of the Criminal Code, make a custody and supervision order for a specified period not exceeding three years that orders continuous custody for the first portion and conditional supervision in the community for the remainder; (p) subject to subsection (5), make a deferred custody and supervision order for a specified period not exceeding six months, subject to conditions; (q) order the young person to serve a sentence not to exceed (i) in the case of first degree murder, ten years comprised of a committal to custody not exceeding six years and a placement under conditional supervision, and (ii) in the case of second degree murder, seven years comprised of a committal to custody not exceeding four years and a placement under conditional supervision; (r) subject to subsection (7), make an intensive rehabilitative custody and supervision order in respect of the young person; and (s) impose on the young person, in accordance with paragraph 38(2)(e.1), any other conditions that the court considers appropriate. (5) The court may make a deferred custody and supervision order under paragraph (2)(p) if (a) the young person is found guilty of an offence other than one in the commission of which a young person causes or attempts to cause serious bodily harm; and (b) it is consistent with the purpose and principles set out in section 38 and the restrictions on custody set out in section 39. (7) A youth justice court may make an intensive rehabilitative custody and supervision order under paragraph (2)(r) in respect of a young person only if the young person has been found guilty of a serious violent offence or a qualifying repeat offence, is suffering from a mental illness or disorder, a psychological disorder or an emotional disturbance, a plan of treatment and intensive supervision has been developed, and the provincial director has determined that a program is available. (14) No youth sentence, other than an order made under paragraph (2)(j), (n), (o), (q) or (r), shall continue in force for more than two years. (15) If more than one youth sentence is imposed in respect of different offences, the continuous combined duration of those youth sentences shall not exceed three years, except if one of the offences is first or second degree murder (ten years / seven years respectively). (17) Subject to sections 89, 92 and 93 and section 743.5 of the Criminal Code, a youth sentence imposed on a young person continues in effect in accordance with its terms after the young person becomes an adult.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Considerations as to youth sentence"
+    },
+    {
+      "id": "ycja-s43",
+      "number": "43",
+      "text": "43 Subject to subsection 42(15), if a young person who is subject to a custodial sentence imposed under paragraph 42(2)(n), (o), (q) or (r) that has not expired receives an additional youth sentence under one of those paragraphs, the young person is deemed to have been sentenced to one youth sentence commencing at the beginning of the first of those youth sentences to be served and ending on the expiry of the last of them.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Additional youth sentences"
+    },
+    {
+      "id": "ycja-s44",
+      "number": "44",
+      "text": "44 Subject to subsection 42(15) and section 46, if an additional youth sentence under paragraph 42(2)(n), (o), (q) or (r) is imposed on a young person on whom a youth sentence had already been imposed under one of those paragraphs, the custodial portion is determined by combining the unexpired custodial portion with the relevant additional custodial period as set out in this section.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Custodial portion if additional youth sentence"
+    },
+    {
+      "id": "ycja-s45",
+      "number": "45",
+      "text": "45 (1) If a young person has begun to serve a portion of a youth sentence in the community and, as a result of section 44, the custodial portion ends later than the day the additional youth sentence was imposed, the community supervision becomes inoperative and the young person shall be committed to custody until the end of the extended custodial portion. (2) If the additional youth sentence would not modify the expiry date, the young person may be remanded and the provincial director shall review the case within forty-eight hours.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Supervision when additional youth sentence extends the period in custody"
+    },
+    {
+      "id": "ycja-s46",
+      "number": "46",
+      "text": "46 The total of the custodial portions of a young person's youth sentences shall not exceed six years calculated from the beginning of the youth sentence determined under section 43 if a youth sentence is imposed on a young person already serving one under those paragraphs and the later youth sentence is in respect of an offence committed before the commencement of the earlier one.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Exception when youth sentence in respect of earlier offence"
+    },
+    {
+      "id": "ycja-s47",
+      "number": "47",
+      "text": "47 (1) A young person who is sentenced under paragraph 42(2)(n) is deemed to be committed to continuous custody for the custodial portion of the sentence. (2) If the sentence does not exceed ninety days, the youth justice court may order that the custodial portion be served intermittently if consistent with the purpose and principles set out in section 38.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Committal to custody deemed continuous"
+    },
+    {
+      "id": "ycja-s48",
+      "number": "48",
+      "text": "48 When a youth justice court imposes a youth sentence, it shall state its reasons for the sentence in the record of the case and shall, on request, give a copy of the sentence and the reasons to the young person, the young person's counsel, a parent, the provincial director and the prosecutor.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Reasons for the sentence"
+    },
+    {
+      "id": "ycja-s49",
+      "number": "49",
+      "text": "49 (1) When a young person is committed to custody, the youth justice court shall issue or cause to be issued a warrant of committal. (2) A young person who is committed to custody may, in the course of being transferred, be held under the supervision and control of a peace officer or in any place of temporary detention that the provincial director may specify.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Warrant of committal"
+    },
+    {
+      "id": "ycja-s50",
+      "number": "50",
+      "text": "50 (1) Subject to section 74, Part XXIII (sentencing) of the Criminal Code does not apply in respect of proceedings under this Act except for paragraph 718.2(e), sections 722, 722.1 and 722.2, subsection 730(2) and sections 748, 748.1 and 749. (2) Section 787 (general penalty) of the Criminal Code does not apply in respect of proceedings under this Act.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Application of Part XXIII of Criminal Code"
+    },
+    {
+      "id": "ycja-s51",
+      "number": "51",
+      "text": "51 (1) Despite section 42, when a young person is found guilty of an offence referred to in any of paragraphs 109(1)(a) to (d) of the Criminal Code, the youth justice court shall, in addition to imposing a sentence under section 42, make an order prohibiting the young person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance during the period specified in the order. (2) An order made under subsection (1) begins on the day it is made and ends not earlier than two years after the young person has completed the custodial portion of the sentence. (3) Where a young person is found guilty of an offence referred to in paragraph 110(1)(a) or (b) of the Criminal Code, the youth justice court shall consider whether it is desirable to make a discretionary prohibition order.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Mandatory prohibition order"
+    },
+    {
+      "id": "ycja-s52",
+      "number": "52",
+      "text": "52 (1) A youth justice court may, on application, review an order made under section 51 at any time after the end of the period set out in subsection 119(2). (3) The court may confirm, revoke or vary the order as it considers appropriate.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Review of order made under section 51"
+    },
+    {
+      "id": "ycja-s53",
+      "number": "53",
+      "text": "53 (1) The lieutenant governor in council of a province may order that, in respect of any fine imposed under paragraph 42(2)(d), a percentage of the fine be used to provide assistance to victims of offences. (2) If the lieutenant governor in council has not made an order under subsection (1), a youth justice court that imposes a fine under paragraph 42(2)(d) may order the young person to pay a victim fine surcharge in an amount not exceeding fifteen per cent of the fine.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Funding for victims"
+    },
+    {
+      "id": "ycja-s54",
+      "number": "54",
+      "text": "54 (1) The youth justice court shall, in imposing a fine under paragraph 42(2)(d) or making an order under paragraph 42(2)(e) or (g), have regard to the present and future means of the young person to pay. (2) A young person on whom a fine or surcharge is imposed may discharge it in whole or in part by earning credits for work performed in a program established for that purpose. (8) No order may be made under paragraph 42(2)(h) or (i) to perform personal or community services unless those services can be completed in two hundred and forty hours or less and within twelve months after the date of the order.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Where a fine or other payment is ordered"
+    },
+    {
+      "id": "ycja-s55",
+      "number": "55",
+      "text": "55 (1) The youth justice court shall prescribe, as a condition of an order made under paragraph 42(2)(k) or (l), that the young person appear before the youth justice court when required to do so. (2) A youth justice court may, in accordance with paragraph 38(2)(e.1), prescribe as conditions of an order made under paragraph 42(2)(k) or (l) that a young person do one or more of the following: (a) report to and be supervised by the provincial director or a person designated by the youth justice court; (b) notify the clerk of the youth justice court, the provincial director or the youth worker of any change of address or place of employment, education or training; (c) remain within the territorial jurisdiction of one or more courts named in the order; (d) make reasonable efforts to obtain and maintain suitable employment; (e) attend school or any other appropriate place of learning, training or recreation, if a suitable program is available; (f) reside with a parent, or any other adult that the court considers appropriate, who is willing to provide for the care and maintenance of the young person; (g) reside at a place that the provincial director may specify; (h) comply with any other conditions set out in the order that the youth justice court considers appropriate; and (i) not own, possess or have the control of any weapon, ammunition, prohibited ammunition, prohibited device or explosive substance, except as authorized by the order.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Condition that must appear in orders"
+    },
+    {
+      "id": "ycja-s56",
+      "number": "56",
+      "text": "56 (1) A youth justice court that makes an order under paragraph 42(2)(k) or (l) shall (a) cause the order to be read by or to the young person bound by it; (b) explain the purpose and effect of the order and confirm that the young person understands it; and (c) cause a copy to be given to the young person and to any parent in attendance. (5) An order made under paragraph 42(2)(k) or (l) comes into force on the date it is made or, if a young person receives a sentence that includes a period of continuous custody and supervision, at the end of the period of supervision. (8) If service of a notice in writing is proved and the young person fails to attend court in accordance with the notice, a youth justice court may issue a warrant to compel the appearance of the young person.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Communication of order"
+    },
+    {
+      "id": "ycja-s57",
+      "number": "57",
+      "text": "57 (1) When a youth sentence has been imposed under any of paragraphs 42(2)(d) to (i), (k), (l) or (s) and the young person or a parent with whom the young person resides becomes a resident of a territorial division outside the jurisdiction of the youth justice court that imposed the sentence, a youth justice court judge may, on application and with the consent of the Attorney General, transfer the youth sentence and the appropriate portion of the record to a youth justice court in another territorial division.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Transfer of youth sentence"
+    },
+    {
+      "id": "ycja-s58",
+      "number": "58",
+      "text": "58 (1) When a youth sentence has been imposed under any of paragraphs 42(2)(k) to (r), the youth sentence in one province may be dealt with in any other province in accordance with any agreement between those provinces.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Interprovincial arrangements"
+    },
+    {
+      "id": "ycja-s59",
+      "number": "59",
+      "text": "59 (1) When a youth justice court has imposed a youth sentence in respect of a young person, other than a youth sentence under paragraph 42(2)(n), (o), (q) or (r), the youth justice court shall, on the application of the young person, the young person's parent, the Attorney General or the provincial director, review the youth sentence if the court is satisfied that there are grounds for a review under subsection (2). (2) A review may be made on the ground that the circumstances that led to the youth sentence have changed materially; the young person is unable to comply or is experiencing serious difficulty complying; the young person has contravened a condition of an order made under paragraph 42(2)(k) or (l) without reasonable excuse; the terms are adversely affecting the young person's opportunities for services, education or employment; or any other ground the court considers appropriate. (7) When a youth justice court reviews a youth sentence, it may confirm the youth sentence, terminate it and discharge the young person, or vary it or impose any new youth sentence under section 42 (other than a committal to custody) for a period not exceeding the remainder of the earlier youth sentence.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Review of youth sentences not involving custody"
+    },
+    {
+      "id": "ycja-s60",
+      "number": "60",
+      "text": "60 This Part and Part 5 apply with any modifications that the circumstances require to orders made in respect of reviews of youth sentences under sections 59 and 94 to 96.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Provisions applicable to youth sentences on review"
+    },
+    {
+      "id": "ycja-s64",
+      "number": "64",
+      "text": "64 (1) The Attorney General may, before evidence is called as to sentence or, if no evidence is called, before submissions are made as to sentence, make an application to the youth justice court for an order that a young person is liable to an adult sentence if the young person is or has been found guilty of an offence for which an adult is liable to imprisonment for a term of more than two years and that was committed after the young person attained the age of 14 years. (2) If the Attorney General intends to seek an adult sentence by making an application under subsection (1), the Attorney General shall, before the young person enters a plea or with leave of the youth justice court before the commencement of the trial, give notice to the young person and the youth justice court of the intention to seek an adult sentence.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Application by Attorney General"
+    },
+    {
+      "id": "ycja-s67",
+      "number": "67",
+      "text": "67 (1) The youth justice court shall, before a young person enters a plea, put the young person to his or her election in the words set out in subsection (2) if the Attorney General has given notice under subsection 64(2), the young person is charged with first or second degree murder, or section 16 applies to a qualifying offence. (2) The youth justice court shall put the young person to his or her election in the following words: You have the option to elect to be tried by a youth justice court judge without a jury and without having had a preliminary inquiry; or you may elect to be tried by a judge without a jury; or you may elect to be tried by a court composed of a judge and jury. If you do not elect now, you are deemed to have elected to be tried by a court composed of a judge and jury. If you elect to be tried by a judge without a jury or by a court composed of a judge and jury or if you are deemed to have elected to be tried by a court composed of a judge and jury, you will have a preliminary inquiry only if you or the prosecutor requests one. How do you elect to be tried?",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Election — adult sentence"
+    },
+    {
+      "id": "ycja-s71",
+      "number": "71",
+      "text": "71 The youth justice court shall, at the commencement of the sentencing hearing, hold a hearing in respect of an application under subsection 64(1), unless the court has received notice that the application is not opposed. Both parties and the parents of the young person shall be given an opportunity to be heard at the hearing.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Hearing — adult sentences"
+    },
+    {
+      "id": "ycja-s72",
+      "number": "72",
+      "text": "72 (1) The youth justice court shall order that an adult sentence be imposed if it is satisfied that (a) the presumption of diminished moral blameworthiness or culpability of the young person is rebutted; and (b) a youth sentence imposed in accordance with the purpose and principles set out in subparagraph 3(1)(b)(ii) and section 38 would not be of sufficient length to hold the young person accountable for his or her offending behaviour. (1.1) If the youth justice court is not satisfied that an order should be made under subsection (1), it shall order that the young person is not liable to an adult sentence and that a youth sentence must be imposed. (2) The onus of satisfying the youth justice court as to the matters referred to in subsection (1) is on the Attorney General.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Order of adult sentence"
+    },
+    {
+      "id": "ycja-s73",
+      "number": "73",
+      "text": "73 (1) When the youth justice court makes an order under subsection 72(1), the court shall, on a finding of guilt, impose an adult sentence on the young person. (2) When the youth justice court makes an order under subsection 72(1.1), the court shall, on a finding of guilt, impose a youth sentence on the young person.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Court must impose adult sentence"
+    },
+    {
+      "id": "ycja-s74",
+      "number": "74",
+      "text": "74 (1) Parts XXIII (sentencing) and XXIV (dangerous and long-term offenders) of the Criminal Code apply to a young person in respect of whom the youth justice court has ordered that an adult sentence be imposed. (2) A finding of guilt for an offence in respect of which an adult sentence is imposed becomes a conviction once the time allowed for appeal has expired or, if an appeal is taken, all proceedings have been completed and the appeal court has upheld an adult sentence.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Application of Parts XXIII and XXIV of Criminal Code"
+    },
+    {
+      "id": "ycja-s76",
+      "number": "76",
+      "text": "76 (1) Subject to subsections (2) and (9) and sections 79 and 80, when a young person who is subject to an adult sentence in respect of an offence is sentenced to a term of imprisonment, the youth justice court shall order that the young person serve any portion of the imprisonment in (a) a youth custody facility separate and apart from any adult who is detained or held in custody; (b) a provincial correctional facility for adults; or (c) if the sentence is for two years or more, a penitentiary. (2) No young person who is under the age of 18 years is to serve any portion of the imprisonment in a provincial correctional facility for adults or a penitentiary.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Placement when subject to adult sentence"
+    },
+    {
+      "id": "ycja-s81",
+      "number": "81",
+      "text": "81 An application or a notice to the court under section 64 or 76 must be made or given orally, in the presence of the other party, or in writing with a copy served personally on the other party.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Procedure for application or notice"
+    },
+    {
+      "id": "ycja-s82",
+      "number": "82",
+      "text": "82 (1) Subject to section 12 of the Canada Evidence Act, if a young person is found guilty of an offence, and a youth justice court directs under paragraph 42(2)(b) that the young person be discharged absolutely, or the youth sentence or any disposition under the Young Offenders Act has ceased to have effect, other than an order under section 51 of this Act or section 20.1 of the Young Offenders Act, the young person is deemed not to have been found guilty or convicted of the offence except that (a) the young person may plead autrefois convict in respect of any subsequent charge relating to the offence; (b) a youth justice court may consider the finding of guilt in considering an application under subsection 64(1); (c) any court or justice may consider the finding of guilt in considering an application for judicial interim release or in considering what sentence to impose for any offence; and (d) the Parole Board of Canada or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension. (3) No application form for or relating to employment in the federal public service, a Crown corporation, the Canadian Forces, or a federal work, undertaking or business shall contain any question that requires the applicant to disclose that he or she has been charged with or found guilty of an offence in respect of which he or she has been discharged absolutely or has completed the youth sentence.",
+      "part": "Part 4 — Sentencing",
+      "division": null,
+      "heading": "Effect of absolute discharge or termination of youth sentence"
+    },
+    {
+      "id": "ycja-s83",
+      "number": "83",
+      "text": "83 (1) The purpose of the youth custody and supervision system is to contribute to the protection of society by (a) carrying out sentences imposed by courts through the safe, fair and humane custody and supervision of young persons; and (b) assisting young persons to be rehabilitated and reintegrated into the community as law-abiding citizens, by providing effective programs to young persons in custody and while under supervision in the community. (2) In addition to the principles set out in section 3, the following principles are to be used: (a) that the least restrictive measures consistent with the protection of the public, of personnel and of young persons be used; (b) that young persons sentenced to custody retain the rights of other young persons, except those necessarily removed or restricted as a consequence of a sentence; (c) that the system facilitate the involvement of families and members of the public; (d) that custody and supervision decisions be made in a forthright, fair and timely manner, and that young persons have access to an effective review procedure; and (e) that placements where young persons are treated as adults not disadvantage them with respect to eligibility for and conditions of release.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Purpose"
+    },
+    {
+      "id": "ycja-s84",
+      "number": "84",
+      "text": "84 Subject to subsection 30(3), paragraphs 76(1)(b) and (c) and sections 89 to 93, a young person who is committed to custody shall be held separate and apart from any adult who is detained or held in custody.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Young person to be held apart from adults"
+    },
+    {
+      "id": "ycja-s85",
+      "number": "85",
+      "text": "85 (1) In the youth custody and supervision system in each province there must be at least two levels of custody for young persons distinguished by the degree of restraint. (2) Every youth custody facility that contains one or more levels of custody shall be designated by the lieutenant governor in council or his or her delegate. (3) The provincial director shall, when a young person is committed to custody under paragraph 42(2)(n), (o), (q) or (r) or a specified order, determine the level of custody appropriate for the young person, after having taken into account the factors set out in subsection (5). (5) The factors are (a) that the appropriate level of custody is the least restrictive, having regard to the seriousness of the offence, the needs and circumstances of the young person, the safety of other young persons, and the interests of society; (b) that the level should allow for the best possible match of programs to the young person's needs and behaviour; and (c) the likelihood of escape.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Levels of custody"
+    },
+    {
+      "id": "ycja-s86",
+      "number": "86",
+      "text": "86 (1) The lieutenant governor in council of a province shall ensure that procedures are in place to ensure that the due process rights of the young person are protected with respect to a determination made under subsection 85(3) or (4).",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Procedural safeguards"
+    },
+    {
+      "id": "ycja-s87",
+      "number": "87",
+      "text": "87 (1) A young person may apply for a review of a determination that would place the young person in a facility at a level of custody with more than a minimal degree of restraint or transfer to a higher level. (2) The lieutenant governor in council shall ensure that an independent review board conducts the review, with disclosure of relevant information and an opportunity to be heard. (5) A decision of the review board under this section is final.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Review"
+    },
+    {
+      "id": "ycja-s88",
+      "number": "88",
+      "text": "88 The lieutenant governor in council of a province may order that the power to make determinations of the level of custody and to review them be exercised in accordance with the Young Offenders Act, and specified provisions of that Act apply.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Functions to be exercised by youth justice court"
+    },
+    {
+      "id": "ycja-s89",
+      "number": "89",
+      "text": "89 (1) When a young person is twenty years old or older at the time the youth sentence is imposed under paragraph 42(2)(n), (o), (q) or (r), the young person shall be committed to a provincial correctional facility for adults to serve the youth sentence.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Exception if young person is twenty years old or older"
+    },
+    {
+      "id": "ycja-s90",
+      "number": "90",
+      "text": "90 (1) When a youth sentence is imposed committing a young person to custody, the provincial director shall, without delay, designate a youth worker to work with the young person to plan for his or her reintegration into the community. (2) When a portion of a youth sentence is served in the community, the youth worker shall supervise the young person, provide support, and assist in the implementation of the reintegration plan.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Youth worker"
+    },
+    {
+      "id": "ycja-s91",
+      "number": "91",
+      "text": "91 (1) The provincial director may, subject to terms and conditions, authorize a reintegration leave from the youth custody facility for a period not exceeding thirty days for medical, compassionate or humanitarian reasons or for rehabilitation or reintegration, or authorize release on specified days and hours for school, employment, a program or treatment. (4) If the provincial director revokes an authorization or if a young person fails to comply, the young person may be arrested without warrant and returned to custody.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Reintegration leave"
+    },
+    {
+      "id": "ycja-s92",
+      "number": "92",
+      "text": "92 (1) When a young person is committed to custody under paragraph 42(2)(n), (o), (q) or (r), the youth justice court may, on application of the provincial director made after the young person attains the age of eighteen years, authorize the provincial director to direct that the young person serve the remainder of the youth sentence in a provincial correctional facility for adults, if the court considers it in the best interests of the young person or in the public interest.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Transfer to adult facility"
+    },
+    {
+      "id": "ycja-s93",
+      "number": "93",
+      "text": "93 (1) When a young person committed to custody under paragraph 42(2)(n), (o), (q) or (r) is in a youth custody facility when the young person attains the age of twenty years, the young person shall be transferred to a provincial correctional facility for adults to serve the remainder of the youth sentence, unless the provincial director orders that the young person continue to serve it in a youth custody facility.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "When young person reaches twenty years of age"
+    },
+    {
+      "id": "ycja-s94",
+      "number": "94",
+      "text": "94 (1) When a young person is committed to custody under paragraph 42(2)(n), (o), (q) or (r) for a period exceeding one year, the provincial director shall cause the young person to be brought before the youth justice court without delay at the end of one year — and at the end of every subsequent year — and the youth justice court shall review the youth sentence. (3) Optional reviews are available on specified timelines on the grounds set out in subsection (6). (6) A youth sentence may be reviewed on the ground that the young person has made sufficient progress to justify a change; the circumstances that led to the youth sentence have changed materially; new services or programs are available; the opportunities for rehabilitation are now greater in the community; or any other ground the court considers appropriate. (19) When a youth justice court reviews a youth sentence, it may confirm the youth sentence; release the young person from custody and place the young person under conditional supervision in accordance with section 105 for a period not exceeding the remainder of the youth sentence; or, on the provincial director's recommendation, convert a paragraph 42(2)(r) sentence to a (q), (n) or (o) sentence as applicable.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Annual review"
+    },
+    {
+      "id": "ycja-s95",
+      "number": "95",
+      "text": "95 Orders under subsections 97(2) and 98(3), paragraph 103(2)(b), subsections 104(1) and 105(1) and paragraph 109(2)(b) are deemed to be youth sentences for the purposes of section 94.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Orders are youth sentences"
+    },
+    {
+      "id": "ycja-s96",
+      "number": "96",
+      "text": "96 (1) When a young person is held in custody under paragraph 42(2)(n), (o), (q) or (r), the provincial director may, if satisfied that the needs of the young person and the interests of society would be better served, recommend to the youth justice court that the young person be released from custody and placed under conditional supervision.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Recommendation of provincial director for conditional supervision"
+    },
+    {
+      "id": "ycja-s97",
+      "number": "97",
+      "text": "97 (1) Every youth sentence imposed under paragraph 42(2)(n) shall contain the following conditions, that the young person, while serving the portion of the youth sentence under supervision in the community, (a) keep the peace and be of good behaviour; (b) report to the provincial director and then be under the supervision of the provincial director; (c) inform the provincial director immediately on being arrested or questioned by the police; (d) report to the police, or any named individual, as instructed by the provincial director; (e) advise the provincial director of the young person's address of residence and report immediately any change in address, occupation, or family or financial situation; and (f) not own, possess or have the control of any weapon, ammunition, prohibited ammunition, prohibited device or explosive substance, except as authorized in writing by the provincial director. (2) The provincial director may set additional conditions that support and address the needs of the young person, promote reintegration and offer adequate protection to the public.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Conditions to be included in custody and supervision order"
+    },
+    {
+      "id": "ycja-s98",
+      "number": "98",
+      "text": "98 (1) Within a reasonable time before the expiry of the custodial portion of a young person's youth sentence, the Attorney General or the provincial director may apply to the youth justice court for an order that the young person remain in custody for a period not exceeding the remainder of the youth sentence. (3) The youth justice court may order that a young person remain in custody for a period not exceeding the remainder of the youth sentence, if it is satisfied that there are reasonable grounds to believe that (a) the young person is likely to commit a serious violent offence before the expiry of the youth sentence; and (b) the conditions that would be imposed if the young person were to serve a portion in the community would not be adequate to prevent the commission of the offence.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Application for continuation of custody"
+    },
+    {
+      "id": "ycja-s99",
+      "number": "99",
+      "text": "99 (1) For the purpose of determining an application under section 98, the youth justice court shall require the provincial director to prepare and submit a report setting out information with respect to the factors set out in subsection 98(4).",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Report"
+    },
+    {
+      "id": "ycja-s100",
+      "number": "100",
+      "text": "100 When a youth justice court makes an order under subsection 98(3), it shall state its reasons in the record and provide a copy of the order and, on request, the reasons to the young person, the counsel and a parent, the Attorney General and the provincial director.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Reasons"
+    },
+    {
+      "id": "ycja-s101",
+      "number": "101",
+      "text": "101 (1) An order made under subsection 98(3), or the refusal to make such an order, shall, on application made within thirty days, be reviewed by the court of appeal, which may confirm or reverse the decision.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Review of youth justice court decision"
+    },
+    {
+      "id": "ycja-s102",
+      "number": "102",
+      "text": "102 (1) If the provincial director has reasonable grounds to believe that a young person has breached or is about to breach a condition under section 97, the provincial director may, in writing, (a) permit the young person to continue to serve a portion of the youth sentence in the community, on the same or different conditions; or (b) if satisfied that the breach is a serious one that increases the risk to public safety, order that the young person be remanded to a youth custody facility until a review is conducted.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Breach of conditions"
+    },
+    {
+      "id": "ycja-s103",
+      "number": "103",
+      "text": "103 (1) When the case of a young person is referred to the youth justice court under section 108, the provincial director shall cause the young person to be brought before the court, which shall, after giving the young person an opportunity to be heard, decide whether the young person breached or was about to breach a condition and make an order under subsection (2). (2) On completion of the review, the court shall order that the young person continue to serve the remainder in the community (varying or imposing conditions) or, if satisfied the breach was serious, order that the young person remain in custody for a period not exceeding the remainder.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Review by youth justice court"
+    },
+    {
+      "id": "ycja-s104",
+      "number": "104",
+      "text": "104 (1) When a young person on whom a youth sentence under paragraph 42(2)(o), (q) or (r) has been imposed is held in custody and an application is made by the Attorney General within a reasonable time before expiry of the custodial portion, the youth justice court may, if satisfied that there are reasonable grounds to believe that the young person is likely to commit an offence causing the death of or serious harm to another person before expiry, order that the young person remain in custody for a period not exceeding the remainder of the youth sentence.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Continuation of custody"
+    },
+    {
+      "id": "ycja-s105",
+      "number": "105",
+      "text": "105 (1) The provincial director shall cause a young person on whom a youth sentence under paragraph 42(2)(o), (q) or (r) has been imposed to be brought before the youth justice court at least one month before the expiry of the custodial portion, and the court shall, after giving the young person an opportunity to be heard, by order, set the conditions of the young person's conditional supervision. (2) The order shall include conditions that the young person keep the peace and be of good behaviour, appear before the court when required, report to the provincial director immediately on release, inform the provincial director immediately on being arrested or questioned by police, report as instructed, advise of address and report changes, not possess weapons except as authorized, and comply with any reasonable instructions to prevent a breach or protect society. (3) The court may include additional conditions respecting residence, employment, schooling and reintegration.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Conditional supervision"
+    },
+    {
+      "id": "ycja-s106",
+      "number": "106",
+      "text": "106 If the provincial director has reasonable grounds to believe that a young person has breached or is about to breach a condition of an order made under subsection 105(1), the provincial director may, in writing, (a) suspend the conditional supervision; and (b) order that the young person be remanded to any youth custody facility that the provincial director considers appropriate until a review is conducted.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Suspension of conditional supervision"
+    },
+    {
+      "id": "ycja-s107",
+      "number": "107",
+      "text": "107 (1) If the conditional supervision of a young person is suspended under section 106, the provincial director may issue a warrant in writing authorizing the apprehension of the young person and, until the young person is apprehended, the young person is deemed not to be continuing to serve the youth sentence. (3) If a peace officer believes on reasonable grounds that a warrant issued under subsection (1) is in force in respect of a young person, the peace officer may arrest the young person without the warrant at any place in Canada.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Apprehension"
+    },
+    {
+      "id": "ycja-s108",
+      "number": "108",
+      "text": "108 Without delay after the remand to custody of a young person whose conditional supervision has been suspended under section 106, or after being informed of the arrest, the provincial director shall review the case and, within forty-eight hours, cancel the suspension or refer the case to the youth justice court for a review under section 109.",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Review by provincial director"
+    },
+    {
+      "id": "ycja-s109",
+      "number": "109",
+      "text": "109 (1) If the case of a young person is referred to the youth justice court under section 108, the provincial director shall cause the young person to be brought before the court, which shall, after giving the young person an opportunity to be heard, decide whether the young person breached or was about to breach a condition and make an order under subsection (2). (2) On completion of the review, the court shall order the cancellation of the suspension (varying or imposing conditions), the continuation of the suspension for a period not exceeding the remainder of the youth sentence (with the young person remaining in custody), or, in the case of a deferred custody and supervision order, that the young person serve the remainder as if it were a custody and supervision order under paragraph 42(2)(n).",
+      "part": "Part 5 — Custody and Supervision",
+      "division": null,
+      "heading": "Review by youth justice court"
+    },
+    {
+      "id": "ycja-s110",
+      "number": "110",
+      "text": "110 (1) Subject to this section, no person shall publish the name of a young person, or any other information related to a young person, if it would identify the young person as a young person dealt with under this Act. (2) Subsection (1) does not apply (a) in a case where the information relates to a young person who has received an adult sentence; or (c) in a case where the publication of information is made in the course of the administration of justice, if it is not the purpose of the publication to make the information known in the community. (3) A young person referred to in subsection (1) may, after he or she attains the age of eighteen years, publish or cause to be published information that would identify him or her as having been dealt with under this Act or the Young Offenders Act, provided that he or she is not in custody pursuant to either Act at the time of the publication. (4) A youth justice court judge shall, on the ex parte application of a peace officer, make an order permitting any person to publish information that identifies a young person as having committed or allegedly committed an indictable offence, if the judge is satisfied that (a) there is reason to believe that the young person is a danger to others; and (b) publication of the information is necessary to assist in apprehending the young person. (5) An order made under subsection (4) ceases to have effect five days after it is made. (6) The youth justice court may, on the application of a young person referred to in subsection (1), make an order permitting the young person to publish information that would identify him or her as having been dealt with under this Act or the Young Offenders Act, if the court is satisfied that the publication would not be contrary to the young person's best interests or the public interest.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Identity of offender not to be published"
+    },
+    {
+      "id": "ycja-s111",
+      "number": "111",
+      "text": "111 (1) Subject to this section, no person shall publish the name of a child or young person, or any other information related to a child or a young person, if it would identify the child or young person as having been a victim of, or as having appeared as a witness in connection with, an offence committed or alleged to have been committed by a young person. (2) Information that would serve to identify a child or young person referred to in subsection (1) as having been a victim or a witness may be published by that child or young person after he or she attains the age of eighteen years or before that age with the consent of his or her parents, or by the parents if the child or young person is deceased. (3) The youth justice court may, on the application of a child or a young person referred to in subsection (1), make an order permitting the child or young person to publish information that would identify him or her as having been a victim or a witness if the court is satisfied that the publication would not be contrary to his or her best interests or the public interest.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Identity of victim or witness not to be published"
+    },
+    {
+      "id": "ycja-s112",
+      "number": "112",
+      "text": "112 Once information is published under subsection 110(3) or (6) or 111(2) or (3), subsection 110(1) or 111(1), as the case may be, no longer applies in respect of the information.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Non-application"
+    },
+    {
+      "id": "ycja-s113",
+      "number": "113",
+      "text": "113 (1) The Identification of Criminals Act applies in respect of young persons. (2) No fingerprint, palmprint or photograph or other measurement, process or operation referred to in the Identification of Criminals Act shall be taken of, or applied in respect of, a young person who is charged with having committed an offence except in the circumstances in which an adult may, under that Act, be subjected to the measurements, processes and operations.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Identification of Criminals Act applies"
+    },
+    {
+      "id": "ycja-s114",
+      "number": "114",
+      "text": "114 A youth justice court, review board or any court dealing with matters arising out of proceedings under this Act may keep a record of any case that comes before it arising under this Act.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Youth justice court, review board and other courts"
+    },
+    {
+      "id": "ycja-s115",
+      "number": "115",
+      "text": "115 (1) A record relating to any offence alleged to have been committed by a young person, including the original or a copy of any fingerprints or photographs of the young person, may be kept by any police force responsible for or participating in the investigation of the offence. (1.1) The police force shall keep a record of any extrajudicial measures that they use to deal with young persons. (2) When a young person is charged with having committed an offence in respect of which an adult may be subjected to any measurement, process or operation referred to in the Identification of Criminals Act, the police force responsible for the investigation may provide a record relating to the offence to the Royal Canadian Mounted Police. If the young person is found guilty of the offence, the police force shall provide the record. (3) The Royal Canadian Mounted Police shall keep the records provided under subsection (2) in the central repository that the Commissioner may designate for the purpose of keeping criminal history files or records of offenders.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Police records"
+    },
+    {
+      "id": "ycja-s116",
+      "number": "116",
+      "text": "116 (1) A department or an agency of any government in Canada may keep records containing information obtained by the department or agency for the purposes of an investigation of an offence alleged to have been committed by a young person; for use in proceedings against a young person under this Act; for the purpose of administering a youth sentence or an order; for the purpose of considering whether to use extrajudicial measures; or as a result of the use of extrajudicial measures.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Government records"
+    },
+    {
+      "id": "ycja-s117",
+      "number": "117",
+      "text": "117 Sections 118 to 129 do not apply to records kept in respect of an offence for which an adult sentence has been imposed once the time allowed for appeal has expired or, if an appeal is taken, all proceedings have been completed and the appeal court has upheld an adult sentence. The record shall be dealt with as a record of an adult.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Exception — adult sentence"
+    },
+    {
+      "id": "ycja-s118",
+      "number": "118",
+      "text": "118 (1) Except as authorized or required by this Act, no person shall be given access to a record kept under sections 114 to 116, and no information contained in it may be given to any person, where to do so would identify the young person to whom it relates as a young person dealt with under this Act. (2) No person who is employed in keeping or maintaining records referred to in subsection (1) is restricted from doing anything prohibited under subsection (1) with respect to any other person so employed.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "No access unless authorized"
+    },
+    {
+      "id": "ycja-s119",
+      "number": "119",
+      "text": "119 (1) Subject to subsections (4) to (6), from the date that a record is created until the end of the applicable period set out in subsection (2), the following persons, on request, shall be given access to a record kept under section 114, and may be given access to a record kept under sections 115 and 116: the young person to whom the record relates; the young person's counsel; the Attorney General; the victim of the offence or alleged offence; the parents of the young person during proceedings or the term of a youth sentence; any adult assisting the young person under subsection 25(7); any peace officer for law enforcement purposes or the administration of the case; a judge, court or review board for proceedings against the young person; the provincial director or the director of the facility where the young person is serving a sentence; a person participating in a conference or the administration of extrajudicial measures; an ombudsman, privacy or information commissioner; a coroner or child advocate; a person acting under the Firearms Act; specified government members exercising duties under this Act or supervising the young person; a person carrying out a criminal record check required for employment; an employee for statistics under the Statistics Act; an employee administering the Canadian Passport Order; an accused or counsel who swears an affidavit that access is necessary to make full answer and defence; a designated person; and any person a youth justice court judge considers has a valid interest, for research/statistics or the proper administration of justice. (2) The period of access is (a) if an extrajudicial sanction is used, two years after the young person consents to the sanction; (b) if the young person is acquitted otherwise than by reason of a verdict of not criminally responsible on account of mental disorder, two months after the time for appeal or three months after appeal proceedings are completed; (c) if the charge is dismissed (other than by acquittal), withdrawn, or the young person is found guilty and a reprimand is given, two months after; (d) if the charge is stayed with no proceedings for one year, at the end of that year; (e) if the youth sentence is an absolute discharge, one year after the finding of guilt; (f) if the youth sentence is a conditional discharge, three years after the finding of guilt; (g) if a summary conviction offence, three years after the youth sentence has been completed; (h) if an indictable offence, five years after the youth sentence has been completed; and (i) and (j) extended periods where the young person is found guilty of a further offence during the access period. (9) If, during the period of access, the young person is convicted of an offence committed when he or she is an adult, section 82 no longer applies, the record is dealt with as an adult record, and the finding of guilt is deemed to be a conviction for the purposes of the Criminal Records Act.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Persons having access to records"
+    },
+    {
+      "id": "ycja-s120",
+      "number": "120",
+      "text": "120 (1) Specified persons may, during the period set out in subsection (3), be given access to a record kept under subsection 115(3) in respect of an offence set out in the schedule, including the young person, counsel, an employee for statistics, a person with a valid research interest, and the Attorney General or a peace officer for investigating further schedule offences or establishing the existence of an order, and any person for the purposes of the Firearms Act. (3) The period of access is (a) if the offence is an indictable offence (other than a serious violent offence for which adult-sentence notice was given), the period starting at the end of the applicable period in paragraphs 119(2)(h) to (j) and ending five years later; and (b) if the offence is a serious violent offence for which the Attorney General has given notice under subsection 64(2), the period starting at the end of the applicable period and continuing indefinitely.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Access to R.C.M.P. records"
+    },
+    {
+      "id": "ycja-s122",
+      "number": "122",
+      "text": "122 A person who is required or authorized to be given access to a record under section 119, 120, 123 or 124 may be given any information contained in the record and may be given a copy of any part of the record.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Disclosure of information and copies of record"
+    },
+    {
+      "id": "ycja-s123",
+      "number": "123",
+      "text": "123 (1) A youth justice court judge may, on application by a person after the end of the applicable period set out in subsection 119(2), order that the person be given access to all or part of a record kept under sections 114 to 116, if satisfied that the person has a valid and substantial interest, access is necessary in the interest of the proper administration of justice, and disclosure is not prohibited under any other Act; or that access is desirable in the public interest for research or statistical purposes.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Where records may be made available"
+    },
+    {
+      "id": "ycja-s124",
+      "number": "124",
+      "text": "124 A young person to whom a record relates and his or her counsel may have access to the record at any time.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Access to record by young person"
+    },
+    {
+      "id": "ycja-s125",
+      "number": "125",
+      "text": "125 (1) A peace officer may disclose to any person any information in a record kept under section 114 or 115 that it is necessary to disclose in the conduct of the investigation of an offence. (6) The provincial director, a youth worker, the Attorney General, a peace officer or any other person engaged in the provision of services to young persons may disclose to any professional or other person engaged in the supervision or care of a young person — including a representative of any school board or school or any other educational or training institution — any information contained in a record kept under sections 114 to 116 if the disclosure is necessary (a) to ensure compliance by the young person with an authorization under section 91 or an order of the youth justice court; (b) to ensure the safety of staff, students or other persons; or (c) to facilitate the rehabilitation of the young person. (7) A person to whom information is disclosed under subsection (6) shall keep the information separate from any other record of the young person, ensure no other person has access except as authorized, and destroy their copy when it is no longer required. (8) No information may be disclosed under this section after the end of the applicable period set out in subsection 119(2).",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Disclosure by peace officer during investigation"
+    },
+    {
+      "id": "ycja-s126",
+      "number": "126",
+      "text": "126 When records originally kept under sections 114 to 116 are under the custody or control of the Librarian and Archivist of Canada or the archivist for any province, that person may disclose any information contained in the records to any other person if a youth justice court judge is satisfied that the disclosure is desirable in the public interest for research or statistical purposes and the person undertakes not to disclose it in identifying form.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Records in the custody of archivists"
+    },
+    {
+      "id": "ycja-s127",
+      "number": "127",
+      "text": "127 (1) The youth justice court may, on the application of the provincial director, the Attorney General or a peace officer, make an order permitting the applicant to disclose to specified persons information about a young person, if the court is satisfied that the disclosure is necessary, having regard to (a) the young person has been found guilty of an offence involving serious personal injury; (b) the young person poses a risk of serious harm to persons; and (c) the disclosure of the information is relevant to the avoidance of that risk. (4) No information may be disclosed under subsection (1) after the end of the applicable period set out in subsection 119(2).",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Disclosure with court order"
+    },
+    {
+      "id": "ycja-s128",
+      "number": "128",
+      "text": "128 (1) Subject to sections 123, 124 and 126, after the end of the applicable period set out in section 119 or 120 no record kept under sections 114 to 116 may be used for any purpose that would identify the young person to whom the record relates as a young person dealt with under this Act or the Young Offenders Act. (2) Subject to paragraph 125(7)(c), any record kept under sections 114 to 116, other than a record kept under subsection 115(3), may, in the discretion of the person or body keeping the record, be destroyed or transmitted to the Librarian and Archivist of Canada or the archivist for any province, at any time before or after the end of the applicable period. (3) All records kept under subsection 115(3) shall be destroyed or, if the Librarian and Archivist of Canada requires it, transmitted to the Librarian and Archivist, at the end of the applicable period set out in section 119 or 120. (4) The Commissioner of the Royal Canadian Mounted Police shall remove a record from the automated criminal conviction records retrieval system at the end of the applicable period referred to in section 119; however, information relating to a prohibition order shall be removed only at the end of the period for which the order is in force.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "Effect of end of access periods"
+    },
+    {
+      "id": "ycja-s129",
+      "number": "129",
+      "text": "129 No person who is given access to a record or to whom information is disclosed under this Act shall disclose that information to any other person unless the disclosure is authorized under this Act.",
+      "part": "Part 6 — Publication, Records and Information",
+      "division": null,
+      "heading": "No subsequent disclosure"
+    },
+    {
+      "id": "ycja-s130",
+      "number": "130",
+      "text": "130 (1) Subject to subsection (2), a youth justice court judge who, prior to an adjudication in respect of a young person charged with an offence, examines a pre-sentence report or has, after a guilty plea or finding of guilt, heard submissions as to sentence and then there has been a change of plea, shall not conduct or continue the trial of the young person for the offence and shall transfer the case to another judge. (2) A youth justice court judge may, with the consent of the young person and the prosecutor, conduct or continue the trial if satisfied that he or she has not been predisposed.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Disqualification of judge"
+    },
+    {
+      "id": "ycja-s131",
+      "number": "131",
+      "text": "131 (1) A youth justice court judge who acts in the place of another under subsection 669.2(1) of the Criminal Code shall, if an adjudication has been made, proceed to sentence or make the appropriate order, or, if no adjudication has been made, recommence the trial as if no evidence had been taken.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Powers of substitute youth justice court judge"
+    },
+    {
+      "id": "ycja-s132",
+      "number": "132",
+      "text": "132 (1) Subject to subsection (2), a court or justice before whom proceedings are carried out under this Act may exclude any person from all or part of the proceedings if the court considers the person's presence unnecessary and is of the opinion that (a) any evidence or information would be seriously injurious or prejudicial to the young person, a child or young person witness, or a child or young person victim; or (b) it would be in the interest of public morals, the maintenance of order or the proper administration of justice to exclude any or all members of the public. (2) A court may not exclude the prosecutor, the young person and their counsel or parent or adult assistant, the provincial director or agent, or the assigned youth worker (subject to specified exceptions).",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Exclusion from hearing"
+    },
+    {
+      "id": "ycja-s133",
+      "number": "133",
+      "text": "133 Despite subsections 478(1) and (3) of the Criminal Code, a young person charged with an offence alleged to have been committed in one province may, if the Attorney General of the province consents, appear before a youth justice court of any other province, and if the young person pleads guilty and the court is satisfied the facts support the charge, the court shall find the young person guilty.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Transfer of charges"
+    },
+    {
+      "id": "ycja-s134",
+      "number": "134",
+      "text": "134 Applications for the forfeiture of amounts set out in undertakings, release orders or recognizances binding young persons shall be made to the youth justice court.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Applications for forfeiture"
+    },
+    {
+      "id": "ycja-s135",
+      "number": "135",
+      "text": "135 (1) If an undertaking, release order or recognizance binding a young person has been endorsed with a certificate under subsection 770(1) of the Criminal Code, a youth justice court judge shall, on the request of the Attorney General, fix a time and place for the hearing of an application for forfeiture and cause notice to be given to each principal and surety. (2) The youth justice court judge may, after giving the parties an opportunity to be heard, grant or refuse the application and make any order with respect to forfeiture that the judge considers proper.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Proceedings in case of default"
+    },
+    {
+      "id": "ycja-s136",
+      "number": "136",
+      "text": "136 (1) Every person who (a) induces or assists a young person to leave unlawfully a place of custody or other place in which the young person has been placed in accordance with a youth sentence or a disposition imposed under the Young Offenders Act, (b) unlawfully removes a young person from a place referred to in paragraph (a), (c) knowingly harbours or conceals a young person who has unlawfully left a place referred to in paragraph (a), (d) wilfully induces or assists a young person to breach or disobey a term or condition of a youth sentence or other order of the youth justice court, or a term or condition of a disposition or other order under the Young Offenders Act, or (e) wilfully prevents or interferes with the performance by a young person of a term or condition of a youth sentence or other order of the youth justice court, or a term or condition of a disposition or other order under the Young Offenders Act, is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years or is guilty of an offence punishable on summary conviction. (2) The jurisdiction of a provincial court judge to try an adult charged with an indictable offence under this section is absolute and does not depend on the consent of the accused.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Inducing a young person, etc."
+    },
+    {
+      "id": "ycja-s137",
+      "number": "137",
+      "text": "137 Every person who is subject to a youth sentence imposed under any of paragraphs 42(2)(c) to (m) or (s) of this Act, to a victim fine surcharge ordered under subsection 53(2) of this Act or to a disposition made under any of paragraphs 20(1)(a.1) to (g), (j) or (l) of the Young Offenders Act, and who wilfully fails or refuses to comply with that sentence, surcharge or disposition is guilty of an offence punishable on summary conviction.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Failure to comply with sentence or disposition"
+    },
+    {
+      "id": "ycja-s138",
+      "number": "138",
+      "text": "138 (1) Every person who contravenes subsection 110(1) (identity of offender not to be published), 111(1) (identity of victim or witness not to be published), 118(1) (no access to records unless authorized) or 128(3) (disposal of R.C.M.P. records) or section 129 (no subsequent disclosure) of this Act, or subsection 38(1), (1.12), (1.14) or (1.15), 45(2) or 46(1) of the Young Offenders Act, (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or (b) is guilty of an offence punishable on summary conviction. (2) The jurisdiction of a provincial court judge to try an adult charged with an offence under paragraph (1)(a) is absolute and does not depend on the consent of the accused.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Offences — publication and records"
+    },
+    {
+      "id": "ycja-s139",
+      "number": "139",
+      "text": "139 (1) Every person who wilfully fails to comply with section 30 (designated place of temporary detention), or with an undertaking entered into under subsection 31(3) (condition of placement), (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or (b) is guilty of an offence punishable on summary conviction. (2) Every person who wilfully fails to comply with section 7 of the Young Offenders Act, or with an undertaking entered into under subsection 7.1(2) of that Act is guilty of an offence punishable on summary conviction. (3) Any person who uses or authorizes the use of an application form in contravention of subsection 82(3) (application for employment) is guilty of an offence punishable on summary conviction.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Offence and punishment — detention"
+    },
+    {
+      "id": "ycja-s140",
+      "number": "140",
+      "text": "140 Except to the extent that it is inconsistent with or excluded by this Act, the provisions of the Criminal Code apply, with any modifications that the circumstances require, in respect of offences alleged to have been committed by young persons.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Application of Criminal Code"
+    },
+    {
+      "id": "ycja-s141",
+      "number": "141",
+      "text": "141 (1) Except to the extent that they are inconsistent with or excluded by this Act, section 16 (defence of mental disorder) and Part XX.1 (mental disorder) of the Criminal Code apply, with any modifications that the circumstances require, in respect of proceedings under this Act in relation to offences alleged to have been committed by young persons. (10) For the purpose of applying subsection 672.33(1) of the Criminal Code to proceedings under this Act, wherever in that subsection a reference is made to two years, there shall be substituted a reference to one year. (11) A reference in Part XX.1 of the Criminal Code to a hospital in a province shall be construed as a reference to a hospital designated by the Minister of Health for the province for the custody, treatment or assessment of young persons.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Sections of Criminal Code applicable"
+    },
+    {
+      "id": "ycja-s142",
+      "number": "142",
+      "text": "142 (1) Subject to this section and except to the extent that they are inconsistent with this Act, the provisions of Part XXVII (summary conviction offences) of the Criminal Code, and any other provisions of that Act that apply in respect of summary conviction offences and relate to trial proceedings, apply to proceedings under this Act in respect of specified recognizance orders and breaches, in respect of a summary conviction offence, and in respect of an indictable offence as if it were defined as a summary conviction offence. (2) For greater certainty and despite subsection (1), an indictable offence committed by a young person is, for the purposes of this Act or any other Act of Parliament, an indictable offence.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Part XXVII and summary conviction trial provisions of Criminal Code to apply"
+    },
+    {
+      "id": "ycja-s143",
+      "number": "143",
+      "text": "143 Indictable offences and offences punishable on summary conviction may under this Act be charged in the same information or indictment and tried jointly.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Counts charged in information"
+    },
+    {
+      "id": "ycja-s144",
+      "number": "144",
+      "text": "144 (1) If a person is required to attend to give evidence before a youth justice court, the subpoena directed to that person may be issued by a youth justice court judge, whether or not the person is within the same province as the youth justice court.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Issue of subpoena"
+    },
+    {
+      "id": "ycja-s145",
+      "number": "145",
+      "text": "145 A warrant issued by a youth justice court may be executed anywhere in Canada.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Warrant"
+    },
+    {
+      "id": "ycja-s146",
+      "number": "146",
+      "text": "146 (1) Subject to this section, the law relating to the admissibility of statements made by persons accused of committing offences applies in respect of young persons. (2) No oral or written statement made by a young person who is less than eighteen years old, to a peace officer or to any other person who is, in law, a person in authority, on the arrest or detention of the young person or in circumstances where the peace officer or other person has reasonable grounds for believing that the young person has committed an offence is admissible against the young person unless (a) the statement was voluntary; (b) the person to whom the statement was made has, before the statement was made, clearly explained to the young person, in language appropriate to his or her age and understanding, that the young person is under no obligation to make a statement, any statement may be used as evidence, the young person has the right to consult counsel and a parent or other person, and any statement is required to be made in the presence of counsel and any other person consulted, unless the young person desires otherwise; (c) the young person has, before the statement was made, been given a reasonable opportunity to consult with counsel and with a parent or, in the absence of a parent, an adult relative or other appropriate adult; and (d) if the young person consults a person, the young person has been given a reasonable opportunity to make the statement in the presence of that person. (4) A young person may waive the rights under paragraph (2)(c) or (d) but any such waiver must be recorded on video tape or audio tape, or be in writing and contain a signed statement that he or she has been informed of the right being waived.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "General law on admissibility of statements to apply"
+    },
+    {
+      "id": "ycja-s147",
+      "number": "147",
+      "text": "147 (1) Subject to subsection (2), if a young person is assessed in accordance with an order made under subsection 34(1), no statement made by the young person during the course and for the purposes of the assessment is admissible in evidence, without the consent of the young person, in any proceeding.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Statements not admissible against young person"
+    },
+    {
+      "id": "ycja-s148",
+      "number": "148",
+      "text": "148 (1) In any proceedings under this Act, the testimony of a parent as to the age of a person of whom he or she is a parent is admissible as evidence of the age of that person.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Testimony of a parent"
+    },
+    {
+      "id": "ycja-s149",
+      "number": "149",
+      "text": "149 (1) A party to any proceedings under this Act may admit any relevant fact or matter for the purpose of dispensing with proof of it.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Admissions"
+    },
+    {
+      "id": "ycja-s150",
+      "number": "150",
+      "text": "150 Any evidence material to proceedings under this Act that would not but for this section be admissible in evidence may, with the consent of the parties and if the young person is represented by counsel, be given in such proceedings.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Material evidence"
+    },
+    {
+      "id": "ycja-s151",
+      "number": "151",
+      "text": "151 The evidence of a child or a young person may be taken in proceedings under this Act only after the youth justice court judge or the justice has, if the witness is a child, instructed the child as to the duty to speak the truth and the consequences of failing to do so, and, if the witness is a young person and the judge or justice considers it necessary, so instructed the young person.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Evidence of a child or young person"
+    },
+    {
+      "id": "ycja-s152",
+      "number": "152",
+      "text": "152 (1) For the purposes of this Act, service of any document may be proved by oral evidence given under oath by, or by the affidavit or statutory declaration of, the person claiming to have personally served it or sent it by confirmed delivery service.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Proof of service"
+    },
+    {
+      "id": "ycja-s153",
+      "number": "153",
+      "text": "153 It is not necessary to the validity of any information, indictment, summons, warrant, minute, sentence, conviction, order or other process or document laid, issued, filed or entered in any proceedings under this Act that any seal be attached or affixed to it.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Seal not required"
+    },
+    {
+      "id": "ycja-s154",
+      "number": "154",
+      "text": "154 (1) The forms prescribed under section 155, varied to suit the case, or forms to the like effect, are valid and sufficient in the circumstances for which they are provided.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Forms"
+    },
+    {
+      "id": "ycja-s155",
+      "number": "155",
+      "text": "155 The Governor in Council may make regulations (a) prescribing forms that may be used for the purposes of this Act; (b) establishing uniform rules of court for youth justice courts across Canada, including rules regulating the practice and procedure to be followed by youth justice courts; and (c) generally for carrying out the purposes and provisions of this Act.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Regulations"
+    },
+    {
+      "id": "ycja-s156",
+      "number": "156",
+      "text": "156 Any minister of the Crown may, with the approval of the Governor in Council, enter into an agreement with the government of any province providing for payments by Canada to the province in respect of costs incurred for care of and services provided to young persons dealt with under this Act.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Agreements with provinces"
+    },
+    {
+      "id": "ycja-s157",
+      "number": "157",
+      "text": "157 The Attorney General of Canada or a minister designated by the lieutenant governor in council of a province may establish (a) programs that are an alternative to judicial proceedings, such as victim-offender reconciliation programs, mediation programs and restitution programs; (b) programs that are an alternative to detention before sentencing, such as bail supervision programs; and (c) programs that are an alternative to custody, such as intensive support and supervision programs, and programs to carry out attendance orders.",
+      "part": "Part 7 — General Provisions",
+      "division": null,
+      "heading": "Community-based programs"
+    },
+    {
+      "id": "ycja-s158",
+      "number": "158",
+      "text": "158 On and after the coming into force of this section, no proceedings may be commenced under the Young Offenders Act in respect of an offence within the meaning of that Act, or under the Juvenile Delinquents Act in respect of a delinquency within the meaning of that Act.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Prohibition on proceedings"
+    },
+    {
+      "id": "ycja-s159",
+      "number": "159",
+      "text": "159 (1) Subject to section 161, where, before the coming into force of this section, proceedings are commenced under the Young Offenders Act in respect of an offence alleged to have been committed by a person who was at the time a young person within the meaning of that Act, the proceedings and all related matters shall be dealt with as if this Act had not come into force.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Proceedings commenced under Young Offenders Act"
+    },
+    {
+      "id": "ycja-s161",
+      "number": "161",
+      "text": "161 (1) A person referred to in section 159 who is found guilty of an offence or delinquency, other than a person convicted of an offence in ordinary court, shall be sentenced under this Act, except that paragraph 42(2)(r) applies in respect of the offence or delinquency only if the young person consents to its application.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Applicable sentence"
+    },
+    {
+      "id": "ycja-s162",
+      "number": "162",
+      "text": "162 For the purposes of sections 158 and 159, proceedings are commenced by the laying of an information or indictment.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Commencement of proceedings"
+    },
+    {
+      "id": "ycja-s163",
+      "number": "163",
+      "text": "163 Sections 114 to 129 apply, with any modifications that the circumstances require, in respect of records relating to the offence of delinquency under the Juvenile Delinquents Act, and in respect of records kept under sections 40 to 43 of the Young Offenders Act.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Application to delinquency and other offending behaviour"
+    },
+    {
+      "id": "ycja-s164",
+      "number": "164",
+      "text": "164 Any agreement made under the Young Offenders Act remains in force until it expires, unless it is amended or a new agreement is made under this Act.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Agreements continue in force"
+    },
+    {
+      "id": "ycja-s165",
+      "number": "165",
+      "text": "165 (1) Any court established or designated as a youth court for the purposes of the Young Offenders Act is deemed, as of the coming into force of this section, to have been established or designated as a youth justice court for the purposes of this Act. (5) Any program of alternative measures authorized for the purposes of the Young Offenders Act is deemed to be a program of extrajudicial sanctions authorized for the purposes of this Act.",
+      "part": "Part 8 — Transitional Provisions",
+      "division": null,
+      "heading": "Designation of youth justice court"
+    },
+    {
+      "id": "ycja-s166",
+      "number": "166",
+      "text": "166 Sections 166 to 199 make consequential amendments to other Acts and repeal the Young Offenders Act.",
+      "part": "Part 9 — Consequential Amendments, Repeal and Coming into Force",
+      "division": null,
+      "heading": "Consequential amendments, repeal"
+    },
+    {
+      "id": "ycja-s200",
+      "number": "200",
+      "text": "200 The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. [Note: Act in force April 1, 2003, see SI/2002-91.]",
+      "part": "Part 9 — Consequential Amendments, Repeal and Coming into Force",
+      "division": null,
+      "heading": "Coming into force"
+    },
+    {
+      "id": "ycja-schedule",
+      "number": "Schedule",
+      "text": "Schedule 1 An offence under any of the following provisions of the Criminal Code: (a) paragraph 81(2)(a) (using explosives); (b) subsection 85(1) (using firearm in commission of offence); (c) section 151 (sexual interference); (d) section 152 (invitation to sexual touching); (e) section 153 (sexual exploitation); (f) section 155 (incest); (h) section 170 (parent or guardian procuring sexual activity by child); (k) section 231 or 235 (first degree murder or second degree murder); (l) section 232, 234 or 236 (manslaughter); (m) section 239 (attempt to commit murder); (n) section 267 (assault with a weapon or causing bodily harm); (o) section 268 (aggravated assault); (p) section 269 (unlawfully causing bodily harm); (q) section 271 (sexual assault); (r) section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm); (s) section 273 (aggravated sexual assault); (t) section 279 (kidnapping); (t.1) section 279.011 (trafficking — person under 18 years); (t.2) subsection 279.02(2); (t.3) subsection 279.03(2); (t.4) subsection 286.1(2); (t.5) subsection 286.2(2); (t.6) subsection 286.3(2); (u) section 344 (robbery); (v) section 433 (arson — disregard for human life); (w) section 434.1 (arson — own property); (x) section 436 (arson by negligence); and (y) paragraph 465(1)(a) (conspiracy to commit murder). Item 4: An offence under any of the following provisions of the Controlled Drugs and Substances Act: (a) section 5 (trafficking); (b) section 6 (importing and exporting); and (c) section 7 (production of substance). Item 5: An offence under any of the following provisions of the Cannabis Act: (a) section 9 (distribution and possession for purpose of distributing); (b) section 10 (selling and possession for purpose of selling); (c) section 11 (importing and exporting and possession for purpose of exporting); (d) section 12 (production); and (e) section 14 (use of young person).",
+      "part": "Schedule",
+      "division": null,
+      "heading": "Schedule (Subsections 120(1), (4) and (6))"
+    }
+  ]
+}
