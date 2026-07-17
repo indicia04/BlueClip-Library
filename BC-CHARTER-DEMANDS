@@ -1,0 +1,222 @@
+{
+  "cardID": "bc-charter-demands",
+  "title": "Charter of Rights & Demands",
+  "jurisdiction": "British Columbia",
+  "issuer": "Ministry of Public Safety and Solicitor General",
+  "revision": "December 2023",
+  "version": 1,
+  "updatedAt": "2026-07-16T00:00:00Z",
+  "sourceNote": "Read-aloud scripts transcribed verbatim from the BC 'Charter of Rights' / Demands card (Dec 2023). Italic officer guidance is in 'instructions'; blanks and '(pick one)'/'(us)' style placeholders are preserved as printed. NOTE: not offence data — these are scripts, so there are no fine/points/category fields.",
+  "sections": [
+    {
+      "id": "charter-10a",
+      "group": "Charter of Rights & Warnings",
+      "title": "Section 10(a) — Reason for arrest/detention",
+      "reference": "Charter s.10(a)",
+      "trigger": "On arrest or detention",
+      "instructions": "State reason for arrest/detention, including the offence and provide known information about the offence, including date and place.",
+      "text": "I am arresting/detaining you for ______.",
+      "prompts": []
+    },
+    {
+      "id": "charter-10b",
+      "group": "Charter of Rights & Warnings",
+      "title": "Section 10(b) — Right to counsel",
+      "reference": "Charter s.10(b)",
+      "trigger": "On arrest or detention",
+      "instructions": null,
+      "text": "It is my duty to inform you that you have the right to retain and instruct counsel in private, without delay. You may call any lawyer you want. There is a 24 hour telephone service available which provides a legal aid duty lawyer who can give you legal advice in private. This advice is given without charge and the lawyer can explain the legal aid plan to you. If you wish to contact a legal aid duty lawyer, I can provide you with a telephone number.",
+      "prompts": ["Do you understand?", "Do you want to call a lawyer?"]
+    },
+    {
+      "id": "official-warning",
+      "group": "Charter of Rights & Warnings",
+      "title": "Official Warning",
+      "reference": null,
+      "trigger": "Before taking a statement",
+      "instructions": null,
+      "text": "You are not obliged to say anything, but anything you do say may be given in evidence.",
+      "prompts": []
+    },
+    {
+      "id": "custody-recording-notice",
+      "group": "Charter of Rights & Warnings",
+      "title": "Custody recording notice",
+      "reference": null,
+      "trigger": "In police custody",
+      "instructions": null,
+      "text": "You may be subject to audio and/or video recording at any time while in police custody; however, any conversations you have with your lawyer are private and will not be audio recorded.",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "supplementary-charter-warning",
+      "group": "Charter of Rights & Warnings",
+      "title": "Supplementary Charter Warning",
+      "reference": null,
+      "trigger": "If a person who initially wished to contact counsel later indicates they no longer wish to exercise the right to counsel",
+      "instructions": "If an arrested/detained person initially indicated that he or she wished to contact legal counsel and then subsequently indicates that he or she no longer wishes to exercise the right to counsel, read the following:",
+      "text": "You have the right to a reasonable opportunity to contact counsel. I am obliged not to take a statement from you or ask you to participate in any process which could provide incriminating evidence until you are certain about whether you want to exercise this right.",
+      "prompts": ["Do you understand?", "What do you wish to do?"]
+    },
+    {
+      "id": "secondary-warning",
+      "group": "Charter of Rights & Warnings",
+      "title": "Secondary Warning",
+      "reference": null,
+      "trigger": "Where a prior statement or inducement may have occurred",
+      "instructions": null,
+      "text": "(Name), you are detained with respect to: (reason for detainment). If you have spoken to any police officer (including myself) with respect to this matter, who has offered to you any hope of advantage or suggested any fear of prejudice should you speak or refuse to speak with me (us) at this time, it is my duty to warn you that no such offer or suggestion can be of any effect and must not influence you or make you feel compelled to say anything to me (us) for any reason, but anything you do say may be used in evidence.",
+      "prompts": []
+    },
+    {
+      "id": "written-statement-caution",
+      "group": "Charter of Rights & Warnings",
+      "title": "Written Statement Caution",
+      "reference": null,
+      "trigger": "Preface to a written statement made by the person",
+      "instructions": "Read/written by the person making the statement.",
+      "text": "I have been told by: (investigating officer) that I am not obliged to say anything, but anything I do say may be given in evidence. I understand what this means and I choose to make the following statement.",
+      "prompts": []
+    },
+    {
+      "id": "brydges-line",
+      "group": "Charter of Rights & Warnings",
+      "title": "Toll Free — 24 Hour Legal Aid Services (Brydges Line)",
+      "reference": null,
+      "trigger": "Provide when the person wishes to contact counsel",
+      "instructions": "Province-wide toll-free telephone service.",
+      "text": "Brydges Line services are available at: 1-866-458-5500",
+      "prompts": []
+    },
+    {
+      "id": "asd-demand-suspicion",
+      "group": "Screening Demands (roadside)",
+      "title": "Approved Screening Device (ASD) Demand — Suspicion of Alcohol in Body",
+      "reference": "Criminal Code s.320.27(1)(b)",
+      "trigger": "Reasonable suspicion of alcohol in the body",
+      "instructions": null,
+      "text": "I have reasonable grounds to suspect that you have, within the preceding three hours, operated a conveyance (namely (pick one) a motor vehicle, a vessel, an aircraft or railway equipment) with alcohol in your body. In accordance with the provisions of the Criminal Code, I hereby demand that you provide a sample of your breath, immediately, suitable for analysis using an approved screening device and to accompany me for the purpose of enabling such samples to be taken. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "asd-demand-mandatory",
+      "group": "Screening Demands (roadside)",
+      "title": "Approved Screening Device (ASD) Demand — Mandatory Alcohol Screening",
+      "reference": "Criminal Code s.320.27(2)",
+      "trigger": "Lawful stop of a person operating a motor vehicle (no suspicion required)",
+      "instructions": null,
+      "text": "In accordance with the provisions of the Criminal Code and in the lawful execution of my duty, you are required to provide a sample of your breath into an approved screening device when operating a motor vehicle. I hereby demand that you provide a sample of your breath, immediately, suitable for analysis using an approved screening device and to accompany me for the purpose of enabling such samples to be taken. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "sfst-demand",
+      "group": "Screening Demands (roadside)",
+      "title": "Standardized Field Sobriety Test (SFST) Demand",
+      "reference": "Criminal Code s.320.27(1)(a)",
+      "trigger": "Reasonable suspicion of alcohol or a drug in the body",
+      "instructions": null,
+      "text": "I have reasonable grounds to suspect that you have, within the preceding three hours, operated a conveyance (namely (pick one) a motor vehicle, a vessel, an aircraft or railway equipment) with alcohol or a drug in your body. In accordance with the provisions of the Criminal Code, I hereby demand that you perform, immediately, physical coordination tests and to accompany me for the purpose of performing such tests. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "oral-fluid-demand-drugs",
+      "group": "Screening Demands (roadside)",
+      "title": "Oral Fluid Demand (Drugs)",
+      "reference": "Criminal Code s.320.27(1)(c)",
+      "trigger": "Reasonable suspicion of a drug in the body",
+      "instructions": null,
+      "text": "I have reasonable grounds to suspect that you have, within the preceding three hours, operated a conveyance (namely (pick one) a motor vehicle, a vessel, an aircraft or railway equipment) with a drug in your body. In accordance with the provisions of the Criminal Code, I hereby demand that you provide a sample of your bodily substance, immediately, suitable for analysis using approved drug screening equipment and to accompany me for that purpose. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "mva-90.3-12hr",
+      "group": "MVA Roadside Suspensions & Prohibitions",
+      "title": "MVA Section 90.3 — 12 Hour Licence Suspension",
+      "reference": "MVA s.90.3",
+      "trigger": "Reasonable grounds to believe (1) alcohol/prescribed drug in body, or (2) fail/refuse to comply with an ASD or drug-screening demand",
+      "instructions": "I have reasonable grounds to believe:",
+      "text": "(1) you have alcohol or a prescribed drug in your body; or (2) you have failed or refused to comply with the demand to provide a sample of your breath or bodily substance that is necessary to enable a proper analysis of your breath or bodily substance to be made by means of an approved screening device or approved drug screening equipment. I therefore direct you to surrender your driver's license. Your license to drive is now suspended for a period of 12 hours from this time and date.",
+      "prompts": []
+    },
+    {
+      "id": "mva-215-24hr",
+      "group": "MVA Roadside Suspensions & Prohibitions",
+      "title": "24 Hour Prohibition — s.215 MVA",
+      "reference": "MVA s.215",
+      "trigger": "Reasonable grounds to believe ability to drive is affected by alcohol or a drug",
+      "instructions": null,
+      "text": "I have reasonable grounds to believe that your ability to drive a motor vehicle is affected by alcohol (or by drug), and I therefore direct you to surrender your driver's license. You are now prohibited from driving a motor vehicle for a period of 24 hours from this time and date. (for alcohol, if an ASD test not already administered) You have a right to forthwith request an ASD breath test to determine your blood alcohol level. In the event the test indicates that your blood alcohol level does not exceed 50mg% (50mg% or less), this prohibition from driving is terminated. (for drug, if a SFST not already administered) You have a right to forthwith request a prescribed physical coordination test. In the event that the test indicates that your ability to drive a motor vehicle is not affected by a drug other than alcohol, and if the peace officer is so satisfied, this prohibition from driving is terminated (no provision for DRE).",
+      "prompts": []
+    },
+    {
+      "id": "breath-demand-alcohol",
+      "group": "Evidentiary Demands",
+      "title": "Breath Demand (Alcohol)",
+      "reference": "Criminal Code s.320.28(1)(a)(i)",
+      "trigger": "Reasonable grounds to believe an offence under s.320.14 was committed as a result of consuming alcohol",
+      "instructions": null,
+      "text": "I have reasonable grounds to believe that you committed, as a result of the consumption of alcohol, an offence under Section 320.14 of the Criminal Code, and I hereby demand that you provide as soon as is practicable, such samples of your breath that, in the opinion of a qualified technician, are necessary to enable a proper analysis to be made by means of an approved instrument to determine the concentration, if any, of alcohol in your blood and to accompany me for the purpose of enabling such samples to be taken. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "blood-demand-alcohol",
+      "group": "Evidentiary Demands",
+      "title": "Blood Demand (Alcohol)",
+      "reference": "Criminal Code s.320.28(1)(a)(ii)",
+      "trigger": "Reasonable grounds to believe an offence under s.320.14 was committed as a result of consuming alcohol",
+      "instructions": null,
+      "text": "I have reasonable grounds to believe that you committed, as a result of the consumption of alcohol, an offence under Section 320.14 of the Criminal Code, and I hereby demand that you provide as soon as is practicable, such samples of your blood as are necessary to enable a proper analysis to be made to determine the concentration, if any, of alcohol in your blood. Samples of your blood will be taken by a qualified medical practitioner or a qualified technician who is satisfied that the taking of those samples will not endanger your life or health. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "dre-demand",
+      "group": "Evidentiary Demands",
+      "title": "Drug Recognition Expert (DRE) Demand",
+      "reference": "Criminal Code s.320.28(2)(a)",
+      "trigger": "Reasonable grounds to believe an offence under s.320.14 was committed as a result of consuming a drug or a combination of drug and alcohol",
+      "instructions": null,
+      "text": "I have reasonable grounds to believe that you committed, as a result of the consumption of a drug or a combination of a drug and alcohol, an offence under Section 320.14 of the Criminal Code, and I hereby demand that you submit as soon as practicable, to an evaluation conducted by an Evaluating Officer to determine whether your ability to operate a conveyance is impaired by a drug or by a combination of a drug and alcohol, and that you accompany me for this purpose. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "blood-demand-drugs",
+      "group": "Evidentiary Demands",
+      "title": "Blood Demand (Drugs)",
+      "reference": "Criminal Code s.320.28(2)(b)",
+      "trigger": "Following a DRE evaluation, to determine blood drug and/or alcohol concentration",
+      "instructions": null,
+      "text": "In accordance with the provisions of the Criminal Code, I hereby demand that you provide as soon as is practicable, such samples of your blood that will enable a proper analysis to be made to determine your blood drug concentration or your blood alcohol concentration, or both, and to accompany me for the purpose of enabling such samples to be taken. Samples of your blood will be taken by a qualified medical practitioner or a qualified technician who is satisfied that the taking of the samples will not endanger your life or health. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "evaluator-demand-urine-oral",
+      "group": "Evidentiary Demands",
+      "title": "Evaluator Demand (DRE only) — Urine or Oral Fluid",
+      "reference": "Criminal Code s.320.28(4)(a)",
+      "trigger": "By the Evaluating Officer following a DRE evaluation (bodily substance)",
+      "instructions": null,
+      "text": "I demand that you provide as soon as practicable, a sample of your urine (OR oral fluid) that will enable a proper analysis to be made to determine whether you have a drug in your body. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "evaluator-demand-blood",
+      "group": "Evidentiary Demands",
+      "title": "Evaluator Demand (DRE only) — Blood",
+      "reference": "Criminal Code s.320.28(4)(b)",
+      "trigger": "By the Evaluating Officer following a DRE evaluation (bodily substance)",
+      "instructions": null,
+      "text": "I demand that you provide as soon as practicable, such samples of your blood that will enable a proper analysis to be made to determine whether you have a drug in your body. Blood samples will only be taken by a qualified medical practitioner or a qualified technician who is satisfied that the taking of the samples will not endanger your life or health. Do you understand?",
+      "prompts": ["Do you understand?"]
+    },
+    {
+      "id": "dre-approved-instrument",
+      "group": "Evidentiary Demands",
+      "title": "Drug Recognition Expert — Approved Instrument Demand",
+      "reference": "Criminal Code s.320.28(3)",
+      "trigger": "By the Evaluating Officer, for a breath sample by approved instrument",
+      "instructions": null,
+      "text": "As an evaluating officer, I demand that you provide as soon as practicable, a sample of your breath that, in a qualified technicians opinion, will enable a proper analysis to be made by means of an approved instrument. Do you understand?",
+      "prompts": ["Do you understand?"]
+    }
+  ]
+}
