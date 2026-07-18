@@ -1,0 +1,582 @@
+{
+  "statuteID": "bc-chilliwack-fireworks",
+  "version": 1,
+  "updatedAt": "2026-07-17T00:00:00Z",
+  "offences": [
+    {
+      "id": "Chilliwack Fireworks Bylaw:4(1):Sell or offer for sale Consumer Fireworks",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "4(1)",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Sell or offer for sale Consumer Fireworks",
+      "bodyText": "4 (1) no person may sell, offer for sale or otherwise transfer Consumer Fireworks to any person.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksProhibited",
+      "keywords": [
+        "sell",
+        "consumer fireworks",
+        "transfer"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Sell or offer for sale Consumer Firew…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:4(2):Sell or offer for sale Firecrackers",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "4(2)",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Sell or offer for sale Firecrackers",
+      "bodyText": "4 (2) no person may sell, offer for sale or otherwise transfer Firecrackers to any person.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksProhibited",
+      "keywords": [
+        "sell",
+        "firecrackers",
+        "transfer"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Sell or offer for sale Firecrackers",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:4(3):Possess or discharge Consumer Fireworks",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "4(3)",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Possess or discharge Consumer Fireworks",
+      "bodyText": "4 (3) no person may buy, hold, possess, Discharge, or otherwise use Consumer Fireworks.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksProhibited",
+      "keywords": [
+        "possess",
+        "discharge",
+        "consumer fireworks"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Possess or discharge Consumer Fireworks",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:4(4):Possess or discharge Firecrackers",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "4(4)",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Possess or discharge Firecrackers",
+      "bodyText": "4 (4) no person may buy, hold, possess, Discharge, or otherwise use Firecrackers.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksProhibited",
+      "keywords": [
+        "possess",
+        "discharge",
+        "firecrackers"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Possess or discharge Firecrackers",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:4(5):Discharge an open-air fire or sky lantern",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "4(5)",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Discharge an open-air fire or sky lantern",
+      "bodyText": "4 (5) no person may Discharge a fire of any kind whatsoever in the open air, including airborne fire holding devices not under the control of the user such as Sky Lanterns.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksProhibited",
+      "keywords": [
+        "sky lantern",
+        "open air fire",
+        "discharge"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Discharge an open-air fire or sky lan…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:5:Possess or discharge Display Fireworks without a Display Permit",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "5",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Possess or discharge Display Fireworks without a Display Permit",
+      "bodyText": "5 No person may buy, hold, possess, store, transport, Discharge, or otherwise use Display Fireworks without a Display Permit.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksDisplay",
+      "keywords": [
+        "display fireworks",
+        "permit",
+        "discharge"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Possess or discharge Display Firework…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:6:Store or discharge Display Fireworks contrary to a permit or unsafely",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "6",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Store or discharge Display Fireworks contrary to a permit or unsafely",
+      "bodyText": "6 No Display Permit holder may store, Discharge or otherwise use Display Fireworks in contravention of that Display Permit, or in an unsafe manner.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksDisplay",
+      "keywords": [
+        "display fireworks",
+        "permit",
+        "unsafe"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Store or discharge Display Fireworks …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:7:Unauthorized storage or transport of Consumer Fireworks or Firecrackers",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "7",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Unauthorized storage or transport of Consumer Fireworks or Firecrackers",
+      "bodyText": "7 Except as provided in Section 10 of this Bylaw, no person may store or transport Consumer Fireworks or Firecrackers.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksStorageTransport",
+      "keywords": [
+        "store",
+        "transport",
+        "consumer fireworks"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Unauthorized storage or transport of …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:8:Store or transport Fireworks or Firecrackers in an unsafe manner",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "8",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Store or transport Fireworks or Firecrackers in an unsafe manner",
+      "bodyText": "8 No person may store or transport Fireworks or Firecrackers in an unsafe manner.",
+      "fine": 500,
+      "points": 0,
+      "category": "fireworksStorageTransport",
+      "keywords": [
+        "store",
+        "transport",
+        "unsafe"
+      ],
+      "modifiers": [
+        {
+          "id": "3ce9657f-e4fc-5073-8844-0b84d7f6fe56",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "beb253a8-7d02-5f7a-a822-da92ba96e1a5",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Store or transport Fireworks or Firec…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    },
+    {
+      "id": "Chilliwack Fireworks Bylaw:20:Obstruct an Enforcement Officer",
+      "statuteID": "bc-chilliwack-fireworks",
+      "section": "20",
+      "act": "Chilliwack Fireworks Bylaw",
+      "title": "Obstruct an Enforcement Officer",
+      "bodyText": "20 No person shall obstruct an Enforcement Officer engaged in the administration or enforcement of this Bylaw.",
+      "fine": 0,
+      "points": 0,
+      "category": "fireworksEnforcement",
+      "keywords": [
+        "obstruct",
+        "enforcement officer",
+        "hinder"
+      ],
+      "modifiers": [
+        {
+          "id": "c1e985a8-7af8-51a0-9c89-c94eec672cf3",
+          "label": "Summary conviction maximum (s.23)",
+          "fineMultiplier": null,
+          "flatFine": 50000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.23 — fine up to $50,000 or imprisonment up to 6 months, or both. Each day is a separate offence (s.22)."
+        }
+      ],
+      "shortForm": "Obstruct an Enforcement Officer",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
+    }
+  ],
+  "fullText": [
+    {
+      "id": "chilliwack-fw-s1",
+      "number": "1",
+      "text": "1 This bylaw may be cited as “Fireworks Regulation Bylaw 2021, No. 5109”.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Citation"
+    },
+    {
+      "id": "chilliwack-fw-s2",
+      "number": "2",
+      "text": "2 “Fireworks Regulation Bylaw 2006, No. 3246” and amendments thereto are hereby repealed.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Repeal"
+    },
+    {
+      "id": "chilliwack-fw-s3",
+      "number": "3",
+      "text": "3 In this Bylaw: “City” means the City of Chilliwack; “Consumer Fireworks” means all fireworks of every nature and kind, including those classified as Type F.1 explosives under the federal Explosives Regulations, 2013 but does not include Display Fireworks, Christmas crackers, sparklers and caps for toy guns; “Discharge” means to fire, ignite, explode or set off or cause to be fired, ignited, exploded or set off; “Display Application” means an application for a display permit in the form attached as Schedule “A” to this bylaw; “Display Fireworks” means those classified as Type F.2 explosives under the federal Explosives Regulations, 2013, which include, but are not limited to, outdoor, high-hazard recreational fireworks such as display shells, bombshells, large wheels, barrages, bombardos, waterfalls and mines; “Display Permit” means a current and valid permit in Schedule “A” attached hereto and forming part of this Bylaw authorizing a person to fire or set off Display Fireworks; “Enforcement Officer” means: (a) the Fire Chief, and every person appointed by Council or the Fire Chief, as applicable, to be an officer or employee of the Chilliwack Fire Department; (b) the Director of Development and Regulatory Enforcement Services; (c) Bylaw Enforcement Officers; (d) Peace Officers of the Royal Canadian Mounted Police; (e) the deputy of a person, officer or employee referred to in (a) and (b); (f) other persons designated by Council by name of office or otherwise to act in the place of the persons, officers or employees referred to in (a) to (d); “Firecracker” means a small explosive charge and a fuse in a heavy paper casing, exploded to make noise, but having little or no pyrotechnic effect; “Fireworks” means devices containing an explosive capable of or discharged for the purpose of producing a pyrotechnic effect, a pyrotechnic signal or a sound signal and includes Consumer Fireworks and Display Fireworks; “Highway” includes a street, road, lane, bridge, viaduct and any other way open to public use, other than a private right of way on private property; “Insurance Requirements” means the liability insurance requirements set out in Schedule “B” attached hereto and forming part of this Bylaw; “Local Assistant” means the Local Assistant of the Fire Commissioner who has jurisdiction in the City; “Public Place” means any real property owned or subject to a right of occupation by the City for the pleasure, recreation or community uses of the public including public parks, playgrounds, public squares, pathways, trails, dikes and other public places and all improvements and shall include all other public areas adjacent to lakes, rivers, streams or land covered by water and City owned or controlled parking lots; “Sky Lantern” means a small airborne, fire-holding device made of paper or other lightweight material, not under direct control of the user, and with a small fire within it.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Interpretation"
+    },
+    {
+      "id": "chilliwack-fw-s4",
+      "number": "4",
+      "text": "4 Unless expressly permitted by this Bylaw: (1) no person may sell, offer for sale or otherwise transfer Consumer Fireworks to any person. (2) no person may sell, offer for sale or otherwise transfer Firecrackers to any person. (3) no person may buy, hold, possess, Discharge, or otherwise use Consumer Fireworks. (4) no person may buy, hold, possess, Discharge, or otherwise use Firecrackers. (5) no person may Discharge a fire of any kind whatsoever in the open air, including airborne fire holding devices not under the control of the user such as Sky Lanterns.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Prohibitions"
+    },
+    {
+      "id": "chilliwack-fw-s5",
+      "number": "5",
+      "text": "5 No person may buy, hold, possess, store, transport, Discharge, or otherwise use Display Fireworks without a Display Permit.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Display Fireworks require permit"
+    },
+    {
+      "id": "chilliwack-fw-s6",
+      "number": "6",
+      "text": "6 No Display Permit holder may store, Discharge or otherwise use Display Fireworks in contravention of that Display Permit, or in an unsafe manner.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Compliance with Display Permit"
+    },
+    {
+      "id": "chilliwack-fw-s7",
+      "number": "7",
+      "text": "7 Except as provided in Section 10 of this Bylaw, no person may store or transport Consumer Fireworks or Firecrackers.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Storage and transport prohibited"
+    },
+    {
+      "id": "chilliwack-fw-s8",
+      "number": "8",
+      "text": "8 No person may store or transport Fireworks or Firecrackers in an unsafe manner.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Unsafe storage or transport"
+    },
+    {
+      "id": "chilliwack-fw-s9",
+      "number": "9",
+      "text": "9 This Bylaw does not prohibit or regulate the use of torpedoes, flares, fuzees or similar pyrotechnic devices by motorists, railroads, police or other agencies for signalling purposes or illumination.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Exemptions — signalling devices"
+    },
+    {
+      "id": "chilliwack-fw-s10",
+      "number": "10",
+      "text": "10 This Bylaw does not prohibit a person from possessing Fireworks or Firecrackers while transiting through the City to another municipality.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Exemptions — transiting"
+    },
+    {
+      "id": "chilliwack-fw-s11",
+      "number": "11",
+      "text": "11 An Enforcement Officer may seize Fireworks and Firecrackers unlawfully occupying a portion of a Highway or Public Place.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Seizure"
+    },
+    {
+      "id": "chilliwack-fw-s12",
+      "number": "12",
+      "text": "12 The owner of the Fireworks or Firecrackers seized under Section 11 is liable to pay to the City a fee for the seizure in the amount set out in Schedule “F” attached hereto and forming part of this Bylaw.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Seizure fee"
+    },
+    {
+      "id": "chilliwack-fw-s13",
+      "number": "13",
+      "text": "13 Fireworks seized under Section 11 may be disposed of in accordance with the Disposal of Property in Police Possession Regulation.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Disposal of seized fireworks"
+    },
+    {
+      "id": "chilliwack-fw-s14",
+      "number": "14",
+      "text": "14 Any person 18 years of age or older desiring to Discharge Display Fireworks for the purpose of the observance or celebration of a special event, festival or theatrical performances may apply for a Display Permit by submitting to the Local Assistant, at least ten days prior to the date upon which the event is to occur: (1) a completed “Application and Permit for Display Fireworks Event” in Schedule “A”; (2) if the event is to occur on property that is not owned by the applicant or owned or controlled by the City, a completed “Agreement of Property Owner for Fireworks Event” in Schedule “C”; (3) if the event is being organized or sponsored by any person other than the applicant, a completed “Agreement of Organizer or Sponsor of Public Event” in Schedule “D”; (4) evidence that the applicant is authorized by Natural Resources Canada to possess and Discharge Display Fireworks; and, (5) a display permit application fee of $50.00.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Display Permit application"
+    },
+    {
+      "id": "chilliwack-fw-s15",
+      "number": "15",
+      "text": "15 The Local Assistant will consider all Display Applications and issue a Display Permit to an applicant if: (1) the property upon which the event is to occur is available for such use on the date and time set out in the display application; (2) the Local Assistant considers that the event will not create a public safety risk or risk to public or private property; and, (3) the applicant has submitted to the Local Assistant the items described in Section 15 of this Bylaw and any additional information in relation to the event that the Local Assistant may require.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Issuance of Display Permit"
+    },
+    {
+      "id": "chilliwack-fw-s16",
+      "number": "16",
+      "text": "16 Every Display Permit holder must comply with the insurance requirements as outlined in the form attached as Schedule “B”.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Insurance requirements"
+    },
+    {
+      "id": "chilliwack-fw-s17",
+      "number": "17",
+      "text": "17 The Display Permit holder will be required to pay to the City a fee equal to the cost of any fire fighting or remediation work, materials or resources expended by the City as a result of a fire caused by Fireworks used during the permitted event. The fee shall be calculated according to Schedule “E” attached hereto and forming part of this Bylaw.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Fire-response cost recovery"
+    },
+    {
+      "id": "chilliwack-fw-s18",
+      "number": "18",
+      "text": "18 The Local Assistant must rescind a Display Permit in the event: (1) circumstances arising or ascertained after the Display Permit was issued demonstrate to the Local Assistant that a public safety risk or risk to public or private property exists in connection with the event; or, (2) the Local Assistant determines that the Display Permit holder submitted false or inaccurate information in the application.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Rescinding a Display Permit"
+    },
+    {
+      "id": "chilliwack-fw-s19",
+      "number": "19",
+      "text": "19 A Display Permit is cancelled if the Display Permit holder: (1) fails to comply with any term or condition of the Display Permit without the prior written consent of the Local Assistant; or, (2) violates or breaches any of the provisions of this Bylaw.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Cancellation of Display Permit"
+    },
+    {
+      "id": "chilliwack-fw-s20",
+      "number": "20",
+      "text": "20 No person shall obstruct an Enforcement Officer engaged in the administration or enforcement of this Bylaw.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Obstruction"
+    },
+    {
+      "id": "chilliwack-fw-s21",
+      "number": "21",
+      "text": "21 Every person who violates a provision of this Bylaw, or who suffers or permits any act or thing to be done in contravention of or in violation of any provision of this Bylaw, or who neglects to or refrains from doing anything required to be done by any provision of this Bylaw, is guilty of an offence against this Bylaw and is liable to the penalties imposed under this Bylaw or any other applicable bylaw of the City.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Offence"
+    },
+    {
+      "id": "chilliwack-fw-s22",
+      "number": "22",
+      "text": "22 Each day that a violation continues to exist is deemed to be a separate offence against this Bylaw.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Continuing offence"
+    },
+    {
+      "id": "chilliwack-fw-s23",
+      "number": "23",
+      "text": "23 Any person who contravenes any of the provisions of this Bylaw commits an offence punishable upon summary conviction and is liable to a fine of not more than $50,000.00 or to imprisonment for not more than six months or to both.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Penalty"
+    },
+    {
+      "id": "chilliwack-fw-s24",
+      "number": "24",
+      "text": "24 If at any time, any provision of this Bylaw is declared or held to be illegal, invalid, or ultra vires, in whole or in part, then the provision shall not apply and the remainder of this Bylaw shall continue in full force and effect and be construed as if it had been enacted without the illegal, invalid, or ultra vires provision.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Severability"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-a",
+      "number": "Schedule A",
+      "text": "Schedule “A” — City of Chilliwack Application and Permit For Display Fireworks Event. Captures applicant details, event location/date/time, fireworks supervisor level and card number, type and quantity of fireworks, safety precautions, and organizer/property-owner contacts. The applicant certifies compliance with the Bylaw and all federal/provincial law, certifies Natural Resources Canada authorization to discharge Display Fireworks (Class 7, Division 2, Subdivision 2 explosives), and indemnifies the City. Permission granted is subject to Comprehensive General Liability insurance of not less than $5,000,000 per occurrence, is non-transferable, and limits discharge to the type and quantity described.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Application and Permit for Display Fireworks Event"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-b",
+      "number": "Schedule B",
+      "text": "Schedule “B” — A display permit holder must secure and maintain, at their own expense for the duration of the event, a Comprehensive General Liability policy with an inclusive limit of not less than $5,000,000 per occurrence for bodily injury and property damage, naming the City as additional insured, primary and non-contributing, deductible not greater than $5,000, with a cross-liability clause, 30 days' notice of change/cancellation, underwritten by an insurer licensed in British Columbia. Evidence of insurance must be furnished seven days before the event.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Insurance Requirements"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-c",
+      "number": "Schedule C",
+      "text": "Schedule “C” — Release and consent by the property owner permitting the fireworks event and discharging the City from claims arising from the event, in consideration of $1.00.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Agreement of Property Owner for Fireworks Event"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-d",
+      "number": "Schedule D",
+      "text": "Schedule “D” — Indemnity by the organizer/sponsor holding the City harmless from claims arising from the fireworks event, in consideration of $1.00.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Agreement of Organizer or Sponsor of Public Fireworks Event"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-e",
+      "number": "Schedule E",
+      "text": "Schedule “E” — Fire Department vehicle and personnel costs to respond to incidents governed by this Bylaw. Vehicle: Aerial $840/hr; Engine $605/hr; Water Tender $375/hr; Rescue $346/hr; Small Vehicles $250/hr (each minimum 2 hours). Personnel: $50.00/hr per firefighter (minimum 2 hours). Plus Consumable Goods at replacement value plus taxes and a 15% Administration Fee.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Vehicle and Personnel Charges"
+    },
+    {
+      "id": "chilliwack-fw-sschedule-f",
+      "number": "Schedule F",
+      "text": "Schedule “F” — Seizure of Firecrackers and Fireworks: first occurrence $125.00; second occurrence $200.00; third and any subsequent occurrences $300.00.",
+      "part": "Fireworks Regulation Bylaw 2021, No. 5109",
+      "division": null,
+      "heading": "Seizure Fees"
+    }
+  ]
+}
