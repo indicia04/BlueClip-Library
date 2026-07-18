@@ -1,0 +1,1016 @@
+{
+  "statuteID": "bc-chilliwack-nuisance",
+  "version": 1,
+  "updatedAt": "2026-07-17T00:00:00Z",
+  "offences": [
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:3:Disconnect a consumption meter",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "3",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Disconnect a consumption meter",
+      "bodyText": "3 No person may disconnect from an electrical or water distribution system a meter installed for the purpose of ascertaining consumption of electricity or water if the disconnection is for the purpose of preventing the electrical or water supplier from ascertaining consumption.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "disconnect",
+        "consumption",
+        "meter"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Disconnect a consumption meter",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:5:Divert or install exhaust vents unlawfully",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "5",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Divert or install exhaust vents unlawfully",
+      "bodyText": "5 No person may divert or install exhaust vents of hot water tanks or furnaces to exhaust into or within the Building instead of by way of an exhaust vent constructed or installed in compliance with applicable enactments.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "divert",
+        "install",
+        "exhaust",
+        "vents"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Divert or install exhaust vents unlaw…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:6:Store or use Dangerous Goods in a residential building",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "6",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Store or use Dangerous Goods in a residential building",
+      "bodyText": "6 No person may store or use Dangerous Goods in a Residential Building or a Residential Accessory Building in quantities greater than permitted under the Fire Code (British Columbia) as amended from time to time.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "store",
+        "dangerous",
+        "goods",
+        "residential"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Store or use Dangerous Goods in a res…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:7:Construct or install a trap or dangerous device",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "7",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Construct or install a trap or dangerous device",
+      "bodyText": "7 No person may construct or install in a Building or Structure a trap or other device which could have the effect of causing death or bodily harm to a person entering the Building or Structure, including an Inspector under this bylaw.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "construct",
+        "install",
+        "trap",
+        "dangerous"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Construct or install a trap or danger…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:8:Obstruct an exit or remove fire stopping",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "8",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Obstruct an exit or remove fire stopping",
+      "bodyText": "8 No person may construct or install any obstruction of an exit or an access to an exit required under the Building Code (British Columbia) or other enactment, as amended from time to time, or remove fire stopping that is provided or required under an enactment to contain the spread of fire within a Building.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "obstruct",
+        "exit",
+        "remove",
+        "fire"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Obstruct an exit or remove fire stopping",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:10(1):Interfere with or obstruct an Inspector posting an unsafe notice",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "10(1)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Interfere with or obstruct an Inspector posting an unsafe notice",
+      "bodyText": "10 No person may: (1) interfere with or obstruct an Inspector from posting a notice referred to in Section 9;",
+      "fine": 500,
+      "points": 0,
+      "category": "nnControlledSubstance",
+      "keywords": [
+        "interfere",
+        "with",
+        "obstruct",
+        "inspector"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Interfere with or obstruct an Inspect…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:10(2):Remove, alter or cover a posted unsafe notice",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "10(2)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Remove, alter or cover a posted unsafe notice",
+      "bodyText": "10 No person may: (2) remove, alter, or cover a notice posted under Section 9, except with the permission of an Inspector;",
+      "fine": 500,
+      "points": 0,
+      "category": "nnControlledSubstance",
+      "keywords": [
+        "remove",
+        "alter",
+        "cover",
+        "posted"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Remove, alter or cover a posted unsaf…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:10(3):Occupy premises posted with an unsafe notice",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "10(3)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Occupy premises posted with an unsafe notice",
+      "bodyText": "10 No person may: (3) occupy a Building or Structure on which a notice has been posted under Section 9 until the notice has been rescinded, in writing, by a Building Inspector.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnControlledSubstance",
+      "keywords": [
+        "occupy",
+        "premises",
+        "posted",
+        "with"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Occupy premises posted with an unsafe…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:11:Allow growth of mould or fungus from a grow operation",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "11",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Allow growth of mould or fungus from a grow operation",
+      "bodyText": "11 No person may cause or allow a Building to become subject to the growth, on any portion of the Building, of mould or fungus arising from or in relation to the cultivation of marijuana plants or the production of Amphetamines in the Building.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnHealth",
+      "keywords": [
+        "allow",
+        "growth",
+        "mould",
+        "fungus"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Allow growth of mould or fungus from …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:12(1):Cause or permit a nuisance",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "12(1)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Cause or permit a nuisance",
+      "bodyText": "12 No person may cause or permit (1) a nuisance as a result of the use or occupancy of a parcel;",
+      "fine": 500,
+      "points": 0,
+      "category": "nnNuisance",
+      "keywords": [
+        "cause",
+        "permit",
+        "nuisance"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Cause or permit a nuisance",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:12(2):Cause or permit water, rubbish or unsightly matter to accumulate",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "12(2)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Cause or permit water, rubbish or unsightly matter to accumulate",
+      "bodyText": "12 No person may cause or permit (2) water, rubbish or unsightly matter to collect or accumulate in, on, under or around a Parcel owned, used or occupied by the person, where “unsightly” has the meaning given by the Unsightly Premises Bylaw, in force from time to time, as amended or replaced.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnNuisance",
+      "keywords": [
+        "cause",
+        "permit",
+        "water",
+        "rubbish"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Cause or permit water, rubbish or uns…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:13:Cause or permit a noxious or offensive trade",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "13",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Cause or permit a noxious or offensive trade",
+      "bodyText": "13 No person may cause or permit a noxious or offensive trade in premises including the production, storage, transfer or disposal of substances that emit offensive odours, fumes or particulate matter.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnNoxiousTrade",
+      "keywords": [
+        "cause",
+        "permit",
+        "noxious",
+        "offensive"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Cause or permit a noxious or offensiv…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:16(1):Fail to inspect tenanted premises every three months",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "16(1)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to inspect tenanted premises every three months",
+      "bodyText": "16 Every Owner of Residential Premises or other premises that are subject to a Tenancy Agreement (1) must inspect the premises at least once every three months to ascertain whether this bylaw has been contravened,",
+      "fine": 500,
+      "points": 0,
+      "category": "nnTenancy",
+      "keywords": [
+        "fail",
+        "inspect",
+        "tenanted",
+        "premises"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Fail to inspect tenanted premises eve…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:16(2)(a):Fail to give the City written notice of a contravention within 24 hours",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "16(2)(a)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to give the City written notice of a contravention within 24 hours",
+      "bodyText": "16 (2) ... who has knowledge of a contravention of this bylaw, in relation to the Residential Premises or other premises, must: (a) within 24 hours of the discovery of the contravention, deliver written notice to the City of the particulars of the contravention,",
+      "fine": 500,
+      "points": 0,
+      "category": "nnTenancy",
+      "keywords": [
+        "fail",
+        "give",
+        "city",
+        "written"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Fail to give the City written notice …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:16(2)(b):Fail to bring premises into compliance within two months",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "16(2)(b)",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to bring premises into compliance within two months",
+      "bodyText": "16 (2) ... must: (b) subject to the Residential Tenancy Act, within two months of the delivery of the notice, take such action as may be necessary to bring the premises into compliance with this Bylaw.",
+      "fine": 500,
+      "points": 0,
+      "category": "nnTenancy",
+      "keywords": [
+        "fail",
+        "bring",
+        "premises",
+        "into"
+      ],
+      "modifiers": [
+        {
+          "id": "9c00fe13-6bfc-58a0-8e2e-3305727f6825",
+          "label": "Early-payment amount if paid within the discount period",
+          "fineMultiplier": null,
+          "flatFine": 490,
+          "note": "Bylaw Notice early-payment penalty (Column A2, Bylaw Notice Enforcement Bylaw 4573)."
+        },
+        {
+          "id": "5ac6acc2-0515-50b2-9c46-1ae9870e1e2d",
+          "label": "Late-payment penalty if not paid on time",
+          "fineMultiplier": null,
+          "flatFine": 510,
+          "note": "Bylaw Notice late-payment penalty (Column A3, Bylaw Notice Enforcement Bylaw 4573)."
+        }
+      ],
+      "shortForm": "Fail to bring premises into complianc…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:4:Reconnect service or occupy a Controlled Substance Property before compliance",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "4",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Reconnect service or occupy a Controlled Substance Property before compliance",
+      "bodyText": "4 If, as a result of the use of a property as a Controlled Substance Property (1) the supply of electricity, water or natural gas to a property has been disconnected by the City or any other lawful authority; (2) unauthorized Alterations or repairs have been made to structural, electrical, water or gas systems, equipment, appliances or other accessories of any kind; or (3) a hazardous condition exists on the property; then the supply of electricity, water or natural gas must not be permanently reconnected and the property must not be occupied or used until (4) the owner or occupant has applied to a Building Inspector for a special safety inspection pursuant to this section; (5) the property has been inspected by the Building Inspector and all other lawful authorities having jurisdiction over the supply of electricity, water or natural gas, for compliance with all health and safety requirements of the City’s bylaws and any provincial statute or regulation relating to building, electrical, water, health, gas, or fire safety as amended from time to time; (6) the owner or occupant has obtained all permits, approvals or authorizations required to carry out the work necessary to bring the property into compliance with the City’s bylaws and all provincial statutes and regulations; (7) all of the work referred to in this section has been completed and inspected by the Building Inspector and all other lawful authorities having jurisdiction and the Property is in compliance with the City’s bylaws and all applicable provincial statutes and regulations, as amended from time to time; and (8) the owner or occupant has paid all fees imposed by Schedule “A” of this Bylaw and other relevant City Bylaws in relation to the inspection of the property and the issuance of permits, and the Building Inspector has issued a Re-Occupancy Permit for the property.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnBuildingSafety",
+      "keywords": [
+        "reconnect",
+        "service",
+        "occupy",
+        "controlled"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Reconnect service or occupy a Control…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:15:Fail to undertake action directed by the Fire Chief",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "15",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to undertake action directed by the Fire Chief",
+      "bodyText": "15 Every Owner or occupier of real property must undertake any action directed by the Fire Chief or other person authorized by Council to act in the place of the Fire Chief for the purpose of removing or reducing any thing or condition that the Fire Chief or the other authorized person considers is a fire hazard or increases the danger of fire.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnFire",
+      "keywords": [
+        "fail",
+        "undertake",
+        "action",
+        "directed"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Fail to undertake action directed by …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:17:Fail to remediate residential premises used for a grow operation",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "17",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to remediate residential premises used for a grow operation",
+      "bodyText": "17 If Residential Premises have been used for a Grow Operation, the Owner of the Residential Premises must, within 30 days after the Grow Operation has been removed, subject to the Residential Tenancy Act: (1) either remove and dispose of all carpets and curtains in the Residential Premises, or have all carpets and curtains in the Residential Premises cleaned by a Professional Cleaner; (2) if the Residential Premises are heated by forced air heating, have all air ducts cleaned by a Professional Cleaner or by a duct cleaning company; and, (3) have all walls and ceilings in the Residential Premises cleaned and disinfected by a Professional Cleaner; and the City may deliver to the Owner and occupier of the Residential Premises a letter in the form of Schedule D.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnRemediation",
+      "keywords": [
+        "fail",
+        "remediate",
+        "residential",
+        "premises"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Fail to remediate residential premise…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:19:Occupy premises before required remediation and certification",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "19",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Occupy premises before required remediation and certification",
+      "bodyText": "19 After a Grow Operation has been removed from Residential Premises and until the remedial measures prescribed by Section 17 of this bylaw have been completed and written certification has been provided to the Director as required by Section 18, the Residential Premises must not be occupied by any person.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnRemediation",
+      "keywords": [
+        "occupy",
+        "premises",
+        "before",
+        "required"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Occupy premises before required remed…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:20:Fail to notify prospective occupants after a grow operation",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "20",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Fail to notify prospective occupants after a grow operation",
+      "bodyText": "20 Before Residential Premises are re-occupied after removal of a Grow Operation, the Owner must notify the prospective occupants in writing that a Grow Operation has been removed and that the requirements of this bylaw have been met.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnRemediation",
+      "keywords": [
+        "fail",
+        "notify",
+        "prospective",
+        "occupants"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Fail to notify prospective occupants …",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:21:Re-occupy altered premises before compliance",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "21",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Re-occupy altered premises before compliance",
+      "bodyText": "21 If there has been an Alteration to the Residential Premises, the Residential Premises must not be re-occupied after the removal of a Grow Operation until (1) a Building permit has been obtained for any existing Alteration and proposed Alteration work which requires a permit under the City’s Building Regulation Bylaw, in force from time to time; (2) the Residential Premises comply with the health and safety requirements of the Building Code (British Columbia), the Electrical Code (British Columbia), this bylaw and all other health and safety requirements established by law; and, (3) the Director has confirmed that a satisfactory occupancy inspection of the Residential Premises by the City’s Building Department has been completed.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnRemediation",
+      "keywords": [
+        "occupy",
+        "altered",
+        "premises",
+        "before"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Re-occupy altered premises before com…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    },
+    {
+      "id": "Chilliwack Nuisance & Safety Bylaw:25:Interfere with an inspection or deface a posted notice",
+      "statuteID": "bc-chilliwack-nuisance",
+      "section": "25",
+      "act": "Chilliwack Nuisance & Safety Bylaw",
+      "title": "Interfere with an inspection or deface a posted notice",
+      "bodyText": "25 No person may interfere with an inspection or proposed inspection under Section 23 of this bylaw and no person shall remove or deface any notice posted under Section 24 of this bylaw.",
+      "fine": 0,
+      "points": 0,
+      "category": "nnControlledSubstance",
+      "keywords": [
+        "interfere",
+        "with",
+        "inspection",
+        "deface"
+      ],
+      "modifiers": [
+        {
+          "id": "d6345140-de0f-5d07-826b-d4a5c28ebc8c",
+          "label": "Summary conviction maximum (s.26)",
+          "fineMultiplier": null,
+          "flatFine": 10000,
+          "note": "Not listed in the Bylaw Notice ticket schedule; prosecuted by summary conviction under s.26 — fine up to $10,000. Each day is a separate offence (s.27)."
+        }
+      ],
+      "shortForm": "Interfere with an inspection or defac…",
+      "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203044%20%2D%20Nuisance%2C%20Noxious%20or%20Offensive%20Trades%2C%20Health%20and%20Safety%20Bylaw%202004%20No%2E%203044%2Epdf"
+    }
+  ],
+  "fullText": [
+    {
+      "id": "chwk3044-s1",
+      "number": "1",
+      "text": "1 This bylaw may be cited as “Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No 3044”.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Citation"
+    },
+    {
+      "id": "chwk3044-s2",
+      "number": "2",
+      "text": "2 In this bylaw: “Amphetamines” include dextroamphetamines and methamphetamines; “Alteration” means any change made to the structural, mechanical or electrical components of Residential Premises for the purposes of a Grow Operation; “Building” means any Structure or construction for any use or occupancy; “Building Inspector” means the chief building inspector for the City, and every building inspector appointed by the City to inspect buildings or structures in respect of Building, plumbing, gas or electrical standards; “Controlled Substance” means a “controlled substance” as defined and described in Schedules I, II and III of the Controlled Drugs and Substances Act, 1996 c. 19, as may be amended from time to time, but does not include the trade or manufacture of a controlled substance that is permitted under that Act or otherwise lawfully permitted under the City’s Business License Bylaw, in force from time to time; “Controlled Substance Property” means (a) a property contaminated by chemical or biological materials used in or produced by the trade or manufacture of a Controlled Substance; or (b) a property modified to trade or manufacture a Controlled Substance; or (c) a property which has been used for the ingestion, use, sharing, sale, trade or barter of a Controlled Substance therein or thereon; and, (d) which no longer meets the applicable standards under the British Columbia Building Code, British Columbia Fire Code, Health Act or other applicable regulations including any bylaw requirements of the City of Chilliwack. “Dangerous Goods” means those products or substances regulated by the Transportation of Dangerous Goods Act and its Regulations, both as amended from time to time; “Director” means the Director of Development and other persons designated by Council to act in the place of the Director; “Fire Chief” means the person who is appointed to be head of Chilliwack Fire and Rescue Services and every person designated by Council by name of office or otherwise to act in the place of the Fire Chief; “Flammable and Combustible Liquid” for the purposes of this bylaw are as classified under the Fire Code (British Columbia); “Grow Operation” means the cultivation of marijuana plants or mushrooms or the production of Amphetamines; “Hazardous Conditions” means: (a) any real or potential risk of fire; or (b) any real or potential risk to the health or safety of Persons or Property; or (c) any unapproved Building modifications made to the Property; or (d) repairs needed to the Property; arising or resulting from the use or contamination of a Property as a Controlled Substance Property; “Inspector” means (a) the Fire Chief, and every person appointed by Council or the Fire Chief, as applicable, to be an officer or employee of Chilliwack Fire and Rescue Services; (b) the Chief Building Inspector for the City, and every Building Inspector appointed by the City to inspect Buildings or Structures in respect of Building, plumbing, gas or electrical standards; (c) a peace officer, including a member of the Royal Canadian Mounted Police; (d) the Director of Development; (e) the Director of Engineering and Operations; (f) bylaw enforcement officers and bylaw inspections officers; (g) the deputy of a person, officer or employee referred in paragraphs (a) to (e); (h) other persons designated by Council by name of office or otherwise to act in the place of the persons, officers or employees referred to in paragraphs (a) to (f); “Owner” includes the registered owner of Residential Premises and the lessee of Residential Premises; “Parcel” includes land and any improvement comprised in a parcel; “Pesticides” means a substance or mixture, including a chemical, used to destroy, prevent, repel or mitigate fungi or animal pests or microorganisms such as bacteria or viruses, and includes herbicides, fungicides, other substances used to control pests, plant regulators, defoliants or desiccants; “Professional Cleaner” means an individual or corporation experienced and qualified in removing contaminants from Residential Premises and includes the Owner; “Re-occupancy Permit” means permission or authorization in writing by the Building Inspector to re-occupy any Building or part thereof in respect of which the Building Inspector has issued an order to cease occupancy because of a hazardous condition; “Residential Premises” means any Building or part of a Building which may lawfully be occupied as a dwelling unit by one or more persons; “Service Costs” means all direct and indirect costs incurred by the City associated with the inspection and removal of the illegal activities, materials associated with illegal activities, and by-products resulting from illegal activities at a Controlled Substance Property and includes (a) salaries and related personnel; (b) costs incurred for the dismantling, disassembly, removal, clean up, transportation, storage, and disposal of equipment, substances, materials and other paraphernalia associated with such use, trade, business or manufacture; (c) costs incurred from the replacement of consumables used, or the replacement of equipment following exposure to contaminants; (d) costs incurred as a result of the analysis of the materials found at the property and the health and safety conditions at the property; “Special Safety Inspection” means an inspection coordinated with other such departments, jurisdictions, and contractors as is necessary to review hazardous conditions that may exist and to issue such orders as are applicable pursuant to the British Columbia Building Code, British Columbia Fire Code, Health Act and other such regulations and bylaws within the City; “Structure” means an erection, repair, Alteration, addition, demolition, excavation or other construction which supports a use or occupancy; and, “Tenancy Agreement” means an agreement, whether written or oral, express or implied, having a predetermined expiry date or not, between a landlord and tenant respecting possession of premises, including Residential Premises.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Interpretation"
+    },
+    {
+      "id": "chwk3044-s3",
+      "number": "3",
+      "text": "3 No person may disconnect from an electrical or water distribution system a meter installed for the purpose of ascertaining consumption of electricity or water if the disconnection is for the purpose of preventing the electrical or water supplier from ascertaining consumption.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Meter disconnection prohibited"
+    },
+    {
+      "id": "chwk3044-s4",
+      "number": "4",
+      "text": "4 If, as a result of the use of a property as a Controlled Substance Property (1) the supply of electricity, water or natural gas to a property has been disconnected by the City or any other lawful authority; (2) unauthorized Alterations or repairs have been made to structural, electrical, water or gas systems, equipment, appliances or other accessories of any kind; or (3) a hazardous condition exists on the property; then the supply of electricity, water or natural gas must not be permanently reconnected and the property must not be occupied or used until (4) the owner or occupant has applied to a Building Inspector for a special safety inspection pursuant to this section; (5) the property has been inspected by the Building Inspector and all other lawful authorities having jurisdiction over the supply of electricity, water or natural gas, for compliance with all health and safety requirements of the City’s bylaws and any provincial statute or regulation relating to building, electrical, water, health, gas, or fire safety as amended from time to time; (6) the owner or occupant has obtained all permits, approvals or authorizations required to carry out the work necessary to bring the property into compliance with the City’s bylaws and all provincial statutes and regulations; (7) all of the work referred to in this section has been completed and inspected by the Building Inspector and all other lawful authorities having jurisdiction and the Property is in compliance with the City’s bylaws and all applicable provincial statutes and regulations, as amended from time to time; and (8) the owner or occupant has paid all fees imposed by Schedule “A” of this Bylaw and other relevant City Bylaws in relation to the inspection of the property and the issuance of permits, and the Building Inspector has issued a Re-Occupancy Permit for the property.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Reconnection and occupancy after Controlled Substance Property"
+    },
+    {
+      "id": "chwk3044-s5",
+      "number": "5",
+      "text": "5 No person may divert or install exhaust vents of hot water tanks or furnaces to exhaust into or within the Building instead of by way of an exhaust vent constructed or installed in compliance with applicable enactments.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Exhaust vents"
+    },
+    {
+      "id": "chwk3044-s6",
+      "number": "6",
+      "text": "6 No person may store or use Dangerous Goods in a Residential Building or a Residential Accessory Building in quantities greater than permitted under the Fire Code (British Columbia) as amended from time to time.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Dangerous Goods in residential building"
+    },
+    {
+      "id": "chwk3044-s7",
+      "number": "7",
+      "text": "7 No person may construct or install in a Building or Structure a trap or other device which could have the effect of causing death or bodily harm to a person entering the Building or Structure, including an Inspector under this bylaw.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Traps prohibited"
+    },
+    {
+      "id": "chwk3044-s8",
+      "number": "8",
+      "text": "8 No person may construct or install any obstruction of an exit or an access to an exit required under the Building Code (British Columbia) or other enactment, as amended from time to time, or remove fire stopping that is provided or required under an enactment to contain the spread of fire within a Building.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Exit obstruction and fire stopping"
+    },
+    {
+      "id": "chwk3044-s9",
+      "number": "9",
+      "text": "9 The Building Inspector may post a notice containing the words “Unsafe – Do not enter or occupy” in a conspicuous place at the entrances of a Controlled Substance Property.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Unsafe notice"
+    },
+    {
+      "id": "chwk3044-s10",
+      "number": "10",
+      "text": "10 No person may: (1) interfere with or obstruct an Inspector from posting a notice referred to in Section 9; (2) remove, alter, or cover a notice posted under Section 9, except with the permission of an Inspector; or, (3) occupy a Building or Structure on which a notice has been posted under Section 9 until the notice has been rescinded, in writing, by a Building Inspector. (AB#4504)",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Interference with unsafe notice"
+    },
+    {
+      "id": "chwk3044-s11",
+      "number": "11",
+      "text": "11 No person may cause or allow a Building to become subject to the growth, on any portion of the Building, of mould or fungus arising from or in relation to the cultivation of marijuana plants or the production of Amphetamines in the Building.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Mould or fungus"
+    },
+    {
+      "id": "chwk3044-s12",
+      "number": "12",
+      "text": "12 No person may cause or permit (1) a nuisance as a result of the use or occupancy of a parcel; (2) water, rubbish or unsightly matter to collect or accumulate in, on, under or around a Parcel owned, used or occupied by the person, where “unsightly” has the meaning given by the Unsightly Premises Bylaw, in force from time to time, as amended or replaced.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Nuisance"
+    },
+    {
+      "id": "chwk3044-s13",
+      "number": "13",
+      "text": "13 No person may cause or permit a noxious or offensive trade in premises including the production, storage, transfer or disposal of substances that emit offensive odours, fumes or particulate matter.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Noxious or offensive trade"
+    },
+    {
+      "id": "chwk3044-s14",
+      "number": "14",
+      "text": "14 The Fire Chief may (1) enter on real property and inspect premises for conditions that may cause a fire, increase the danger of a fire or increase the danger to persons or property from a fire; (2) take measures to prevent and suppress fires, including the demolition of Buildings and other Structures to prevent the spreading of fires; (3) order an owner or occupier of real property to undertake any actions directed by the Fire Chief or other person authorized by the Fire Chief for the purpose of removing or reducing any thing or condition that person considers is a fire hazard or increases the danger of fire; and, (4) exercise some or all of the powers of the Fire Commissioner under Section 25 of the Fire Services Act, and for these purposes that section applies.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Fire Chief powers"
+    },
+    {
+      "id": "chwk3044-s15",
+      "number": "15",
+      "text": "15 Every Owner or occupier of real property must undertake any action directed by the Fire Chief or other person authorized by Council to act in the place of the Fire Chief for the purpose of removing or reducing any thing or condition that the Fire Chief or the other authorized person considers is a fire hazard or increases the danger of fire.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Owner must comply with Fire Chief"
+    },
+    {
+      "id": "chwk3044-s16",
+      "number": "16",
+      "text": "16 Every Owner of Residential Premises or other premises that are subject to a Tenancy Agreement (1) must inspect the premises at least once every three months to ascertain whether this bylaw has been contravened, and (2) who has knowledge of a contravention of this bylaw, in relation to the Residential Premises or other premises, must: (a) within 24 hours of the discovery of the contravention, deliver written notice to the City of the particulars of the contravention, and (b) subject to the Residential Tenancy Act, within two months of the delivery of the notice, take such action as may be necessary to bring the premises into compliance with this Bylaw.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Tenancy inspection and notice duties"
+    },
+    {
+      "id": "chwk3044-s17",
+      "number": "17",
+      "text": "17 If Residential Premises have been used for a Grow Operation, the Owner of the Residential Premises must, within 30 days after the Grow Operation has been removed, subject to the Residential Tenancy Act: (1) either remove and dispose of all carpets and curtains in the Residential Premises, or have all carpets and curtains in the Residential Premises cleaned by a Professional Cleaner; (2) if the Residential Premises are heated by forced air heating, have all air ducts cleaned by a Professional Cleaner or by a duct cleaning company; and, (3) have all walls and ceilings in the Residential Premises cleaned and disinfected by a Professional Cleaner; and the City may deliver to the Owner and occupier of the Residential Premises a letter in the form of Schedule D.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Remediation requirements"
+    },
+    {
+      "id": "chwk3044-s18",
+      "number": "18",
+      "text": "18 After a Professional Cleaner has been engaged by the Owner and has completed the requirements of Section 17, an individual or corporation certified by the Canadian Registration Board of Occupational Hygienists or the American Board of Industrial Hygiene must inspect the Residential Premises and provide written certification in the form of Schedule C to the Director that the requirements of Section 17 have been satisfied and that the Residential Premises are substantially free of any Pesticides or fertilizers and any toxic chemicals, moulds or fungi.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Inspection and certification requirement"
+    },
+    {
+      "id": "chwk3044-s19",
+      "number": "19",
+      "text": "19 After a Grow Operation has been removed from Residential Premises and until the remedial measures prescribed by Section 17 of this bylaw have been completed and written certification has been provided to the Director as required by Section 18, the Residential Premises must not be occupied by any person.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Occupancy after grow operation"
+    },
+    {
+      "id": "chwk3044-s20",
+      "number": "20",
+      "text": "20 Before Residential Premises are re-occupied after removal of a Grow Operation, the Owner must notify the prospective occupants in writing that a Grow Operation has been removed and that the requirements of this bylaw have been met.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Notify prospective occupants"
+    },
+    {
+      "id": "chwk3044-s21",
+      "number": "21",
+      "text": "21 If there has been an Alteration to the Residential Premises, the Residential Premises must not be re-occupied after the removal of a Grow Operation until (1) a Building permit has been obtained for any existing Alteration and proposed Alteration work which requires a permit under the City’s Building Regulation Bylaw, in force from time to time; (2) the Residential Premises comply with the health and safety requirements of the Building Code (British Columbia), the Electrical Code (British Columbia), this bylaw and all other health and safety requirements established by law; and, (3) the Director has confirmed that a satisfactory occupancy inspection of the Residential Premises by the City’s Building Department has been completed.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Re-occupancy after alteration"
+    },
+    {
+      "id": "chwk3044-s22",
+      "number": "22",
+      "text": "22 The following fees apply under this bylaw: (1) each time an Inspector enters on a Parcel to carry out an inspection in the exercise of authority by the City to regulate, prohibit or impose requirements under this bylaw or another enactment, the Owner must pay the City the administration and inspection fee stipulated in Schedule A; (2) an administration and inspection fee stipulated in Schedule A must be paid to the City before confirmation is provided under Section 21(3). (3) for a special safety inspection, paid prior to inspection, the Owner or occupier must pay the City the fee stipulated in Schedule A; (4) for each inspection prior to issuance of a Re-occupancy Permit, the Owner or occupier must pay the City the Re-occupancy Permit fee stipulated in Schedule A; (5) to obtain a Re-occupancy Permit, the Owner must pay the City the fee stipulated in Schedule A; (6) every Owner whose real property is used as a Controlled Substance Property must pay the City all Service Costs incurred by or on behalf of the City.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Fees"
+    },
+    {
+      "id": "chwk3044-s23",
+      "number": "23",
+      "text": "23 Subject to the Community Charter, an Inspector may enter on real property for the following purposes: (1) to inspect and determine whether all regulations, prohibitions and requirements under this bylaw or other enactments are being met in relation to any manner for which the Council, a municipal officer or employee or a person authorized by the Council has exercised authority under this or another act to regulate, prohibit or impose requirements; (2) to take action authorized under Sections 28 and 29 of this bylaw; (3) to inspect or to disconnect or remove a water service under Sections 3 or 31 of this bylaw.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Notices and inspections"
+    },
+    {
+      "id": "chwk3044-s24",
+      "number": "24",
+      "text": "24 The Director or a person acting under the direction of the Director may post a notice in the form of Schedule B on any Residential Premises which have been used for a Grow Operation, advising of the regulations in this bylaw.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Notice on grow-operation premises"
+    },
+    {
+      "id": "chwk3044-s25",
+      "number": "25",
+      "text": "25 No person may interfere with an inspection or proposed inspection under Section 23 of this bylaw and no person shall remove or deface any notice posted under Section 24 of this bylaw.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Interference with inspection or notice"
+    },
+    {
+      "id": "chwk3044-s26",
+      "number": "26",
+      "text": "26 Every person who contravenes any provision of this bylaw commits an offence punishable upon summary conviction and is liable to a fine not exceeding $10,000.00.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Offence and penalty"
+    },
+    {
+      "id": "chwk3044-s27",
+      "number": "27",
+      "text": "27 If an offence is a continuing offence, each day that the offence is continued constitutes a separate and distinct offence.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Continuing offence"
+    },
+    {
+      "id": "chwk3044-s28",
+      "number": "28",
+      "text": "28 If an Owner or occupier of real property fails to comply with a requirement of the City under this bylaw or another enactment, the City, within the time specified in the order or notice may enter the real property and take such action as may be required to correct the default, including to remediate the real property or bring it up to a standard specified in an enactment, at the expense of the Owner or occupier who has failed to comply, and may recover the costs incurred as debt.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Default"
+    },
+    {
+      "id": "chwk3044-s29",
+      "number": "29",
+      "text": "29 If the Owner or occupier has failed to pay the City’s costs of acting in default under Section 28 before the 31st day of December in the year that the correction of the default was effected, the costs will be added to and form part of the taxes payable on the property as taxes in arrears.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Costs added to taxes"
+    },
+    {
+      "id": "chwk3044-s30",
+      "number": "30",
+      "text": "30 Division 12 of Part 3 of the Community Charter applies.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Remedial action"
+    },
+    {
+      "id": "chwk3044-s31",
+      "number": "31",
+      "text": "31 The City may discontinue providing water service to real property if the water is being used for or in relation to a Grow Operation on the real property, subject to the requirements that the City must (1) give the Owner and occupier of the real property 7 days’ written notice of an opportunity to make representations to Council with respect to the proposed discontinuance of the water service, and (2) after the persons affected have had an opportunity to make representations to Council, the City must give the Owner and occupier 7 days’ written notice of any proposed discontinuance of the water service.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Discontinuance of service"
+    },
+    {
+      "id": "chwk3044-s32",
+      "number": "32",
+      "text": "32 If any provision of this bylaw is held to be invalid, it shall be severed and the remainder of the bylaw shall remain in effect.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Severability"
+    },
+    {
+      "id": "chwk3044-sschedule-a",
+      "number": "Schedule A",
+      "text": "Schedule “A” — Fees: (1) each time the City enters on a Parcel to inspect, the Owner must pay an administration and inspection fee of (a) $200.00; (b) an additional $200.00 for a subsequent inspection if the Owner/occupier has failed to undertake ordered action; (2) before confirmation under s.21(3): (c) $150.00 for an occupancy inspection; (d) $2,500.00 for an inspection with an architect or professional engineer to certify the Building may be occupied, if the Owner has not engaged their own architect; (3) special safety inspection (paid prior) $400.00; (4) each inspection prior to issuance of a Re-occupancy Permit $200.00; (5) to obtain a Re-occupancy Permit $250.00.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Fees"
+    },
+    {
+      "id": "chwk3044-sschedule-b",
+      "number": "Schedule B",
+      "text": "Schedule “B” — Posted notice stating the Residential Premises were used as a marijuana grow operation or amphetamine production operation, that no person may occupy the premises until cleaning and remediation are completed per the Bylaw and the Inspector confirms a satisfactory occupancy inspection, and that it is an offence to remove or deface the notice.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Notice"
+    },
+    {
+      "id": "chwk3044-sschedule-c",
+      "number": "Schedule C",
+      "text": "Schedule “C” — Certification form by which the qualified professional certifies they meet the s.18 certification requirements, have inspected the Residential Premises, and that the premises are free of Pesticides, fertilizers, toxic chemicals, moulds or fungi.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Certification Form"
+    },
+    {
+      "id": "chwk3044-sschedule-d",
+      "number": "Schedule D",
+      "text": "Schedule “D” — Form letter notifying an owner that premises were used as Controlled Substance Property, summarizing the s.17 remediation requirements (carpets/curtains, air ducts, walls/ceilings cleaned by a Professional Cleaner), the certification requirement, and the s.19 occupancy prohibition until cleaning and certification are complete.",
+      "part": "Nuisance, Noxious or Offensive Trades, Health and Safety Bylaw 2004, No. 3044",
+      "division": null,
+      "heading": "Letter to Property Owner"
+    }
+  ]
+}
