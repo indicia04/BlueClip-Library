@@ -1,7 +1,34 @@
 {
   "statuteID": "youth-criminal-justice-act",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "ycjaFailureToComply",
+      "title": "Failure to Comply",
+      "symbol": "xmark.seal.fill",
+      "tint": "#9A5A3A"
+    },
+    {
+      "id": "ycjaInterference",
+      "title": "Interfering with a Young Person",
+      "symbol": "hand.raised.fill",
+      "tint": "#7A4A5A"
+    },
+    {
+      "id": "ycjaPrivacyRecords",
+      "title": "Publication & Records",
+      "symbol": "lock.doc.fill",
+      "tint": "#4A5F8A"
+    },
+    {
+      "id": "ycjaContempt",
+      "title": "Contempt of Youth Court",
+      "symbol": "exclamationmark.bubble.fill",
+      "tint": "#5A5560"
+    }
+  ],
   "offences": [
     {
       "id": "Youth Criminal Justice Act:15:Contempt against the youth justice court",

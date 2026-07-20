@@ -1,7 +1,58 @@
 {
   "statuteID": "bc-chilliwack-nuisance",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "nnBuildingSafety",
+      "title": "Building & Safety",
+      "symbol": "building.2.fill",
+      "tint": "#5A6E8A"
+    },
+    {
+      "id": "nnControlledSubstance",
+      "title": "Controlled-Substance Premises",
+      "symbol": "pills.fill",
+      "tint": "#7A5AA6"
+    },
+    {
+      "id": "nnHealth",
+      "title": "Health (Mould)",
+      "symbol": "humidity.fill",
+      "tint": "#3E8A7A"
+    },
+    {
+      "id": "nnNuisance",
+      "title": "Nuisance",
+      "symbol": "trash.fill",
+      "tint": "#8A6A4A"
+    },
+    {
+      "id": "nnNoxiousTrade",
+      "title": "Noxious/Offensive Trade",
+      "symbol": "wind",
+      "tint": "#7A6B3A"
+    },
+    {
+      "id": "nnFire",
+      "title": "Fire",
+      "symbol": "flame.fill",
+      "tint": "#B5423A"
+    },
+    {
+      "id": "nnTenancy",
+      "title": "Tenancy Duties",
+      "symbol": "house.fill",
+      "tint": "#4F6A8A"
+    },
+    {
+      "id": "nnRemediation",
+      "title": "Grow-Op Remediation",
+      "symbol": "wrench.and.screwdriver.fill",
+      "tint": "#6B8B4A"
+    }
+  ],
   "offences": [
     {
       "id": "Chilliwack Nuisance & Safety Bylaw:3:Disconnect a consumption meter",

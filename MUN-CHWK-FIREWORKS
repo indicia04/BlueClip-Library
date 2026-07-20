@@ -1,7 +1,34 @@
 {
   "statuteID": "bc-chilliwack-fireworks",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "fireworksProhibited",
+      "title": "Consumer Fireworks",
+      "symbol": "sparkles",
+      "tint": "#B5423A"
+    },
+    {
+      "id": "fireworksDisplay",
+      "title": "Display Fireworks",
+      "symbol": "party.popper.fill",
+      "tint": "#9A6B2E"
+    },
+    {
+      "id": "fireworksStorageTransport",
+      "title": "Storage & Transport",
+      "symbol": "shippingbox.fill",
+      "tint": "#5A6E8A"
+    },
+    {
+      "id": "fireworksEnforcement",
+      "title": "Enforcement",
+      "symbol": "shield.lefthalf.filled",
+      "tint": "#5A5D6A"
+    }
+  ],
   "offences": [
     {
       "id": "Chilliwack Fireworks Bylaw:4(1):Sell or offer for sale Consumer Fireworks",

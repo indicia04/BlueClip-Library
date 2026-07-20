@@ -1,7 +1,64 @@
 {
   "statuteID": "canada-fisheries-act",
-  "version": 1,
-  "updatedAt": "2026-07-17T21:44:53Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "fisheriesHabitat",
+      "title": "Fish & Fish Habitat",
+      "symbol": "water.waves",
+      "tint": "#2F7A8A"
+    },
+    {
+      "id": "fisheriesPollution",
+      "title": "Pollution",
+      "symbol": "drop.triangle.fill",
+      "tint": "#6B6B3A"
+    },
+    {
+      "id": "fisheriesProtection",
+      "title": "Protected Species",
+      "symbol": "fish.fill",
+      "tint": "#3E6E9A"
+    },
+    {
+      "id": "fisheriesGear",
+      "title": "Gear & Close Times",
+      "symbol": "circle.hexagongrid.fill",
+      "tint": "#5A6E6A"
+    },
+    {
+      "id": "fisheriesLicensing",
+      "title": "Licensing",
+      "symbol": "checkmark.seal.fill",
+      "tint": "#3E8A7A"
+    },
+    {
+      "id": "fisheriesGeneral",
+      "title": "General Prohibitions",
+      "symbol": "exclamationmark.octagon.fill",
+      "tint": "#8A6A4A"
+    },
+    {
+      "id": "fisheriesObstruction",
+      "title": "Obstruction & False Info",
+      "symbol": "hand.raised.slash.fill",
+      "tint": "#9A4A38"
+    },
+    {
+      "id": "fisheriesReporting",
+      "title": "Records & Reporting",
+      "symbol": "list.clipboard.fill",
+      "tint": "#5A6A8A"
+    },
+    {
+      "id": "fisheriesOffenceAdmin",
+      "title": "Compliance & Orders",
+      "symbol": "doc.badge.gearshape",
+      "tint": "#6B5A7A"
+    }
+  ],
   "offences": [
     {
       "id": "Fisheries Act:34.4(1):Carrying on a work, undertaking or activity that results in the death of fish",

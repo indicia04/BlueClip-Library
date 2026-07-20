@@ -1,7 +1,34 @@
 {
   "statuteID": "bc-passenger-transportation",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "ptaLicensing",
+      "title": "Licensing",
+      "symbol": "checkmark.rectangle.fill",
+      "tint": "#3E6E8A"
+    },
+    {
+      "id": "ptaVehicleOperation",
+      "title": "Vehicle Operation",
+      "symbol": "bus.fill",
+      "tint": "#5A7A4A"
+    },
+    {
+      "id": "ptaMisconduct",
+      "title": "Fraud & Obstruction",
+      "symbol": "person.crop.circle.badge.exclamationmark.fill",
+      "tint": "#9A5540"
+    },
+    {
+      "id": "ptaRecordChecks",
+      "title": "Driver Record Checks",
+      "symbol": "checklist",
+      "tint": "#6B5A8A"
+    }
+  ],
   "offences": [
     {
       "id": "Passenger Transportation Act:57(1):Operate a commercial passenger vehicle without a valid licence",

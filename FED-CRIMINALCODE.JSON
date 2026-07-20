@@ -1,7 +1,88 @@
 {
   "statuteID": "canada-criminal-code",
-  "version": 3,
-  "updatedAt": "2026-07-16T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 4,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "personOffences",
+      "title": "Against the Person",
+      "symbol": "figure.fall",
+      "tint": "#A83E4A"
+    },
+    {
+      "id": "sexualOffences",
+      "title": "Sexual Offences",
+      "symbol": "person.fill.xmark",
+      "tint": "#7A3E63"
+    },
+    {
+      "id": "impairedDriving",
+      "title": "Impaired & Dangerous Driving",
+      "symbol": "car.side.fill",
+      "tint": "#6B4A78"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapons & Firearms",
+      "symbol": "scope",
+      "tint": "#4A5560"
+    },
+    {
+      "id": "property",
+      "title": "Theft & Property",
+      "symbol": "bag.fill",
+      "tint": "#A9713C"
+    },
+    {
+      "id": "fraud",
+      "title": "Fraud, Forgery & Currency",
+      "symbol": "banknote.fill",
+      "tint": "#3E8C6A"
+    },
+    {
+      "id": "mischief",
+      "title": "Mischief & Damage",
+      "symbol": "hammer.fill",
+      "tint": "#B5552F"
+    },
+    {
+      "id": "publicOrder",
+      "title": "Public Order & Morals",
+      "symbol": "megaphone.fill",
+      "tint": "#C0912E"
+    },
+    {
+      "id": "adminJustice",
+      "title": "Administration of Justice",
+      "symbol": "building.columns.fill",
+      "tint": "#4F5F9A"
+    },
+    {
+      "id": "organizedCrime",
+      "title": "Organized & Serious Crime",
+      "symbol": "person.3.fill",
+      "tint": "#4A4038"
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy & Communications",
+      "symbol": "antenna.radiowaves.left.and.right",
+      "tint": "#3E7A8A"
+    },
+    {
+      "id": "childFamily",
+      "title": "Children & Family",
+      "symbol": "figure.and.child.holdinghands",
+      "tint": "#5E844A"
+    },
+    {
+      "id": "other",
+      "title": "Other",
+      "symbol": "ellipsis.circle.fill",
+      "tint": "#807868"
+    }
+  ],
   "offences": [
     {
       "id": "Criminal Code:235:Murder",

@@ -1,7 +1,28 @@
 {
   "statuteID": "bc-trespass",
-  "version": 3,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 4,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "trespassEntry",
+      "title": "Entry & Activity",
+      "symbol": "door.left.hand.open",
+      "tint": "#7A5A46"
+    },
+    {
+      "id": "trespassIdentification",
+      "title": "Identification",
+      "symbol": "person.crop.circle.badge.questionmark",
+      "tint": "#4F6A8A"
+    },
+    {
+      "id": "trespassSigns",
+      "title": "Signs",
+      "symbol": "signpost.right.fill",
+      "tint": "#B5883A"
+    }
+  ],
   "offences": [
     {
       "id": "Trespass Act:2(1)(a):Enter enclosed land",

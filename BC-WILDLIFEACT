@@ -1,7 +1,58 @@
 {
   "statuteID": "bc-wildlife",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "wildlifeHunting",
+      "title": "Hunting",
+      "symbol": "binoculars.fill",
+      "tint": "#6E5A2E"
+    },
+    {
+      "id": "wildlifeProtection",
+      "title": "Wildlife Protection",
+      "symbol": "pawprint.fill",
+      "tint": "#3E7A4E"
+    },
+    {
+      "id": "wildlifeEnforcement",
+      "title": "Enforcement & Officer Powers",
+      "symbol": "shield.lefthalf.filled",
+      "tint": "#4A5D3A"
+    },
+    {
+      "id": "wildlifeGuiding",
+      "title": "Guiding",
+      "symbol": "map.fill",
+      "tint": "#8A6D3B"
+    },
+    {
+      "id": "wildlifeLicensing",
+      "title": "Licences & Permits",
+      "symbol": "checkmark.seal.fill",
+      "tint": "#5A7A6E"
+    },
+    {
+      "id": "wildlifeTrapping",
+      "title": "Trapping",
+      "symbol": "circle.grid.cross.fill",
+      "tint": "#6B4A32"
+    },
+    {
+      "id": "wildlifeHabitat",
+      "title": "Habitat",
+      "symbol": "tree.fill",
+      "tint": "#3E6B4A"
+    },
+    {
+      "id": "wildlifeAngling",
+      "title": "Angling",
+      "symbol": "fish.fill",
+      "tint": "#2F6E8A"
+    }
+  ],
   "offences": [
     {
       "id": "Wildlife Act:7(5):Disobey regional manager's order in wildlife management area, critical wildlife area or wildlife sanctuary",

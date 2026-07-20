@@ -1,7 +1,76 @@
 {
   "statuteID": "canada-shipping-act",
-  "version": 1,
-  "updatedAt": "2026-07-17T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "csaGeneral",
+      "title": "General",
+      "symbol": "info.circle.fill",
+      "tint": "#4F6A8A"
+    },
+    {
+      "id": "csaRegistration",
+      "title": "Registration",
+      "symbol": "doc.plaintext.fill",
+      "tint": "#5A6E8A"
+    },
+    {
+      "id": "csaPersonnel",
+      "title": "Personnel",
+      "symbol": "person.2.fill",
+      "tint": "#6B5A8A"
+    },
+    {
+      "id": "csaSafety",
+      "title": "Safety",
+      "symbol": "shield.fill",
+      "tint": "#2F7A6E"
+    },
+    {
+      "id": "csaNavigation",
+      "title": "Navigation Services",
+      "symbol": "location.north.circle.fill",
+      "tint": "#2F6E8A"
+    },
+    {
+      "id": "csaIncidents",
+      "title": "Incidents & Casualties",
+      "symbol": "cross.case.fill",
+      "tint": "#9A3E4A"
+    },
+    {
+      "id": "csaPollution",
+      "title": "Pollution Prevention",
+      "symbol": "smoke.fill",
+      "tint": "#7A6B3A"
+    },
+    {
+      "id": "csaPleasureCraft",
+      "title": "Pleasure Craft",
+      "symbol": "sailboat.fill",
+      "tint": "#3E8A9A"
+    },
+    {
+      "id": "csaEnforcement",
+      "title": "Enforcement",
+      "symbol": "shield.lefthalf.filled",
+      "tint": "#5A5D6A"
+    },
+    {
+      "id": "csaMiscellaneous",
+      "title": "Miscellaneous",
+      "symbol": "square.grid.2x2.fill",
+      "tint": "#6E685A"
+    },
+    {
+      "id": "csaTransitional",
+      "title": "Transitional",
+      "symbol": "arrow.triangle.2.circlepath",
+      "tint": "#8A6A4A"
+    }
+  ],
   "offences": [
     {
       "id": "Canada Shipping Act, 2001:23:Destruction of documents, fraud, obstruction, false information or moving a detained vessel",

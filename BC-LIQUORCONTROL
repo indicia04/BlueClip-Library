@@ -1,7 +1,16 @@
 {
   "statuteID": "bc-liquor-control",
-  "version": 2,
-  "updatedAt": "2026-07-16T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 3,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "other",
+      "title": "Other",
+      "symbol": "ellipsis.circle.fill",
+      "tint": "#807868"
+    }
+  ],
   "offences": [
     {
       "id": "LCLA:61(2)(b)(i):Licensee, permittee or employee allowing a person to become intoxicated",

@@ -1,7 +1,46 @@
 {
   "statuteID": "canada-controlled-drugs-substances",
-  "version": 3,
-  "updatedAt": "2026-07-17",
+  "schemaVersion": 2,
+  "version": 4,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "cdsaPossession",
+      "title": "Possession",
+      "symbol": "pills.fill",
+      "tint": "#7A5AA6"
+    },
+    {
+      "id": "cdsaTrafficking",
+      "title": "Trafficking / PPT",
+      "symbol": "shippingbox.fill",
+      "tint": "#9A3E4A"
+    },
+    {
+      "id": "cdsaImportExport",
+      "title": "Import / Export",
+      "symbol": "airplane",
+      "tint": "#3E6E9A"
+    },
+    {
+      "id": "cdsaProduction",
+      "title": "Production",
+      "symbol": "testtube.2",
+      "tint": "#9A6B2E"
+    },
+    {
+      "id": "cdsaPrecursors",
+      "title": "Precursors & Equipment",
+      "symbol": "cross.vial.fill",
+      "tint": "#4A7A6E"
+    },
+    {
+      "id": "cdsaEnforcement",
+      "title": "Enforcement & Admin",
+      "symbol": "shield.lefthalf.filled",
+      "tint": "#5A5D6A"
+    }
+  ],
   "offences": [
     {
       "id": "Controlled Drugs and Substances Act:4(1):Possession of a Schedule I substance",

@@ -1,7 +1,118 @@
 {
   "statuteID": "bc-motor-vehicle",
-  "version": 4,
-  "updatedAt": "2026-07-16T00:00:00Z",
+  "schemaVersion": 2,
+  "version": 5,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "speed",
+      "title": "Speed",
+      "symbol": "speedometer",
+      "tint": "#B14A55"
+    },
+    {
+      "id": "signals",
+      "title": "Signals",
+      "symbol": "light.beacon.max.fill",
+      "tint": "#C9902E"
+    },
+    {
+      "id": "signs",
+      "title": "Signs & Lines",
+      "symbol": "signpost.right.fill",
+      "tint": "#9A7B4F"
+    },
+    {
+      "id": "rightOfWay",
+      "title": "Right of Way",
+      "symbol": "arrow.triangle.merge",
+      "tint": "#5A6FA5"
+    },
+    {
+      "id": "turning",
+      "title": "Turning",
+      "symbol": "arrow.uturn.left",
+      "tint": "#4E7C8C"
+    },
+    {
+      "id": "passing",
+      "title": "Passing",
+      "symbol": "arrow.left.arrow.right",
+      "tint": "#7A5EA6"
+    },
+    {
+      "id": "careless",
+      "title": "Careless",
+      "symbol": "exclamationmark.triangle.fill",
+      "tint": "#B5622F"
+    },
+    {
+      "id": "distracted",
+      "title": "Distracted",
+      "symbol": "iphone.gen3",
+      "tint": "#C26A3D"
+    },
+    {
+      "id": "licence",
+      "title": "Licence",
+      "symbol": "person.text.rectangle.fill",
+      "tint": "#437FA8"
+    },
+    {
+      "id": "insurance",
+      "title": "Insurance",
+      "symbol": "checkmark.shield.fill",
+      "tint": "#2F8175"
+    },
+    {
+      "id": "plates",
+      "title": "Plates & Registration",
+      "symbol": "rectangle.badge.checkmark",
+      "tint": "#5E6C8A"
+    },
+    {
+      "id": "equipment",
+      "title": "Equipment",
+      "symbol": "wrench.and.screwdriver.fill",
+      "tint": "#5A6470"
+    },
+    {
+      "id": "restraints",
+      "title": "Restraints",
+      "symbol": "figure.seated.seatbelt",
+      "tint": "#3E9E7E"
+    },
+    {
+      "id": "vulnerable",
+      "title": "Vulnerable Users",
+      "symbol": "figure.walk",
+      "tint": "#6B8B4A"
+    },
+    {
+      "id": "commercial",
+      "title": "Commercial",
+      "symbol": "truck.box.fill",
+      "tint": "#8A5A3D"
+    },
+    {
+      "id": "railway",
+      "title": "Railway",
+      "symbol": "train.side.front.car",
+      "tint": "#6E5A48"
+    },
+    {
+      "id": "parking",
+      "title": "Parking",
+      "symbol": "parkingsign",
+      "tint": "#4A8089"
+    },
+    {
+      "id": "accident",
+      "title": "Accident & Duties",
+      "symbol": "car.2.fill",
+      "tint": "#8C353F"
+    }
+  ],
   "offences": [
     {
       "id": "MVA:13(1)(a):No vehicle licence",

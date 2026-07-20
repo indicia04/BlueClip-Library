@@ -1,7 +1,28 @@
 {
   "statuteID": "bc-transport-dangerous-goods",
-  "version": 1,
-  "updatedAt": "2026-07-17T22:04:05Z",
+  "schemaVersion": 2,
+  "version": 2,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "categories": [
+    {
+      "id": "tdgSafety",
+      "title": "Safety Requirements",
+      "symbol": "exclamationmark.triangle.fill",
+      "tint": "#B5622F"
+    },
+    {
+      "id": "tdgInspection",
+      "title": "Inspection & Obstruction",
+      "symbol": "magnifyingglass.circle.fill",
+      "tint": "#4F6A8A"
+    },
+    {
+      "id": "tdgEmergency",
+      "title": "Reporting & Emergency",
+      "symbol": "light.beacon.max.fill",
+      "tint": "#9A3E4A"
+    }
+  ],
   "offences": [
     {
       "id": "Transport of Dangerous Goods Act:5:Handling or transporting dangerous goods without meeting safety requirements, standards or marks",
