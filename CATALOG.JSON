@@ -1,0 +1,151 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-07-19T00:00:00Z",
+  "statutes": [
+    {
+      "id": "bc-motor-vehicle",
+      "shortName": "MVA",
+      "fullName": "Motor Vehicle Act & Regulation (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+      "version": 5,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
+      "sizeKB": 612
+    },
+    {
+      "id": "bc-liquor-control",
+      "shortName": "LCLA",
+      "fullName": "Liquor Control & Licensing Act (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019_01",
+      "version": 3,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
+      "sizeKB": 133
+    },
+    {
+      "id": "bc-trespass",
+      "shortName": "Trespass",
+      "fullName": "Trespass Act (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01",
+      "version": 4,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRESSPASSACT",
+      "sizeKB": 17
+    },
+    {
+      "id": "bc-wildlife",
+      "shortName": "Wildlife",
+      "fullName": "Wildlife Act (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-WILDLIFEACT",
+      "sizeKB": 141
+    },
+    {
+      "id": "bc-passenger-transportation",
+      "shortName": "PTA",
+      "fullName": "Passenger Transportation Act (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/04039_01",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-PASSENGERTRANSPORTATION",
+      "sizeKB": 98
+    },
+    {
+      "id": "bc-transport-dangerous-goods",
+      "shortName": "Dangerous Goods",
+      "fullName": "Transport of Dangerous Goods Act (BC)",
+      "jurisdiction": "bc",
+      "licenceName": "King's Printer Licence – British Columbia",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96458_01",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRANSPORTDANGEROUSGOODS",
+      "sizeKB": 35
+    },
+    {
+      "id": "bc-chilliwack-fireworks",
+      "shortName": "Fireworks",
+      "fullName": "Fireworks Regulation Bylaw (Chilliwack)",
+      "jurisdiction": "bc",
+      "licenceName": "City of Chilliwack Bylaw 5109",
+      "sourceURL": "https://www.chilliwack.com/main/attachments.php?BYLAW_ID=5109",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-FIREWORKS",
+      "sizeKB": 31,
+      "municipality": "Chilliwack"
+    },
+    {
+      "id": "bc-chilliwack-nuisance",
+      "shortName": "Nuisance & Safety",
+      "fullName": "Nuisance, Health & Safety Bylaw (Chilliwack)",
+      "jurisdiction": "bc",
+      "licenceName": "City of Chilliwack Bylaw 3044",
+      "sourceURL": "https://www.chilliwack.com/main/attachments.php?BYLAW_ID=3044",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-NUISANCE",
+      "sizeKB": 66,
+      "municipality": "Chilliwack"
+    },
+    {
+      "id": "youth-criminal-justice-act",
+      "shortName": "YCJA",
+      "fullName": "Youth Criminal Justice Act",
+      "jurisdiction": "federal",
+      "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-YCJA",
+      "sizeKB": 163
+    },
+    {
+      "id": "canada-shipping-act",
+      "shortName": "Shipping",
+      "fullName": "Canada Shipping Act, 2001",
+      "jurisdiction": "federal",
+      "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-10.15/",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CANADASHIPPING",
+      "sizeKB": 617
+    },
+    {
+      "id": "canada-fisheries-act",
+      "shortName": "Fisheries",
+      "fullName": "Fisheries Act",
+      "jurisdiction": "federal",
+      "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/f-14/",
+      "version": 2,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-FISHERY",
+      "sizeKB": 243
+    },
+    {
+      "id": "canada-controlled-drugs-substances",
+      "shortName": "CDSA",
+      "fullName": "Controlled Drugs and Substances Act",
+      "jurisdiction": "federal",
+      "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-38.8/",
+      "version": 4,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CDSA",
+      "sizeKB": 173
+    },
+    {
+      "id": "canada-criminal-code",
+      "shortName": "Criminal Code",
+      "fullName": "Criminal Code of Canada",
+      "jurisdiction": "federal",
+      "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/",
+      "version": 4,
+      "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CRIMINALCODE.JSON",
+      "sizeKB": 3077
+    }
+  ]
+}
