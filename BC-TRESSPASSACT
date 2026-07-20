@@ -1,8 +1,8 @@
 {
   "statuteID": "bc-trespass",
   "schemaVersion": 2,
-  "version": 4,
-  "updatedAt": "2026-07-19T00:00:00Z",
+  "version": 5,
+  "updatedAt": "2026-07-20T00:00:00Z",
   "categories": [
     {
       "id": "trespassEntry",
@@ -41,7 +41,7 @@
       ],
       "modifiers": [],
       "shortForm": "Enter enclosed land",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:2(1)(b):Enter premises after notice entry prohibited",
@@ -61,7 +61,7 @@
       ],
       "modifiers": [],
       "shortForm": "Enter premises after notice entry pro...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:2(1)(c):Engage in prohibited activity after notice",
@@ -80,7 +80,7 @@
       ],
       "modifiers": [],
       "shortForm": "Engage in prohibited activity after n...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:2(3):Fail to leave or re-enter after direction",
@@ -100,7 +100,7 @@
       ],
       "modifiers": [],
       "shortForm": "Fail to leave or re-enter after direc...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:5(2):Remove, alter or deface a posted sign",
@@ -120,7 +120,7 @@
       ],
       "modifiers": [],
       "shortForm": "Remove, alter or deface a posted sign",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:6(2):Fail to give name and address",
@@ -139,7 +139,7 @@
       ],
       "modifiers": [],
       "shortForm": "Fail to give name and address",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     },
     {
       "id": "Trespass Act:6(3):Fail to give name and address and remain on premises",
@@ -158,7 +158,7 @@
       ],
       "modifiers": [],
       "shortForm": "Fail to give name and address and rem...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
     }
   ],
   "fullText": [

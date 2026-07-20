@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-07-19T00:00:00Z",
+  "updatedAt": "2026-07-20T00:00:00Z",
   "statutes": [
     {
       "id": "bc-motor-vehicle",
@@ -19,7 +19,7 @@
       "fullName": "Liquor Control & Licensing Act (BC)",
       "jurisdiction": "bc",
       "licenceName": "King's Printer Licence – British Columbia",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019_01",
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
       "version": 3,
       "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
       "sizeKB": 133
@@ -30,8 +30,8 @@
       "fullName": "Trespass Act (BC)",
       "jurisdiction": "bc",
       "licenceName": "King's Printer Licence – British Columbia",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003_01",
-      "version": 4,
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
+      "version": 5,
       "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRESSPASSACT",
       "sizeKB": 17
     },
