@@ -1,5 +1,5 @@
 {
- "catalogVersion": 4,
+ "catalogVersion": 5,
  "updatedAt": "2026-07-22T00:00:00Z",
  "statutes": [
   {
@@ -90,6 +90,18 @@
    "version": 2,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-NUISANCE",
    "sizeKB": 66,
+   "municipality": "Chilliwack"
+  },
+  {
+   "id": "bc-chilliwack-false-alarm",
+   "shortName": "False Alarm",
+   "fullName": "False Alarm Bylaw 2011, No. 3747 (Chilliwack)",
+   "jurisdiction": "bc",
+   "licenceName": "City of Chilliwack Bylaw 3747",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203747%20False%20Alarm%20Bylaw.pdf",
+   "version": 1,
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-FALSE-ALARM",
+   "sizeKB": 14,
    "municipality": "Chilliwack"
   },
   {

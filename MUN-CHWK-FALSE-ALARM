@@ -1,0 +1,244 @@
+{
+ "statuteID": "bc-chilliwack-false-alarm",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-07-22T00:00:00Z",
+ "sources": [
+  {
+   "name": "False Alarm Bylaw 2011, No. 3747",
+   "role": "bylaw",
+   "url": "https://www.chilliwack.com/main/attachments/Files/363/BL%203747%20False%20Alarm%20Bylaw.pdf",
+   "currentTo": "2011-04-19",
+   "dateLabel": "Finally passed and adopted on [date]",
+   "checkNote": "VERIFIED live 2026-07-22 (HTTP 200 via chilliwack.com Regulatory Bylaws index id=363 -> link.cfm?id=2037). Adopted PDF, 5 pp, 13 sections + Schedule A. No consolidation banner and no amending bylaws found on the index; treated as the 2011 adopted version.",
+   "flagged": true
+  },
+  {
+   "name": "Bylaw Notice Enforcement Bylaw 2018, No. 4573 — Schedule A",
+   "role": "fines",
+   "url": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=2436",
+   "currentTo": "2026-04-21",
+   "dateLabel": "Consolidated: [date]",
+   "checkNote": "VERIFIED live 2026-07-22: Schedule A page 16 is the \"False Alarm Bylaw 2011, No. 3747\" block -- s.4 and s.5 each $500.00 penalty (early $490.00 / late $510.00), compliance agreement available. Same fines source (attachID=2436) as the Fireworks & Nuisance builds. 'Consolidated: April 21, 2026'."
+  }
+ ],
+ "categories": [
+  {
+   "id": "falseAlarm",
+   "title": "False Alarms",
+   "symbol": "bell.badge.fill",
+   "tint": "#C2410C"
+  },
+  {
+   "id": "alarmDuties",
+   "title": "Alarm System Duties",
+   "symbol": "wrench.and.screwdriver.fill",
+   "tint": "#0E7490"
+  }
+ ],
+ "offences": [
+  {
+   "id": "Chilliwack Bylaw 3747:5:Cause or allow a false alarm to occur on the property",
+   "statuteID": "bc-chilliwack-false-alarm",
+   "section": "5",
+   "act": "Chilliwack Bylaw 3747",
+   "title": "Cause or allow a false alarm to occur on the property",
+   "bodyText": "No owner or occupier of real property where an alarm system is installed shall cause or allow a false alarm to occur on the property. Without limitation, an owner or occupier of real property where an alarm system is installed is guilty of an offence in respect of every false alarm that occurs in or on the real property. Separately, the City invoices a false alarm fee under Schedule \"A\" of Bylaw 3747 (Community Charter s.196), escalating $100 / $200 / $300 / $400 for the 1st / 2nd / 3rd / each-subsequent false alarm within a calendar year, added to property taxes if unpaid. That fee is separate from this bylaw-notice ticket fine.",
+   "fine": 500,
+   "points": 0,
+   "category": "falseAlarm",
+   "keywords": [
+    "false alarm",
+    "alarm",
+    "security alarm",
+    "fire alarm",
+    "rcmp",
+    "fire department",
+    "fee"
+   ],
+   "modifiers": [
+    {
+     "id": "5d2a2478-b95d-53d2-9255-eb4006e363a9",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Cause or allow a false alarm to occur…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203747%20False%20Alarm%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 3747:4:Fail to ensure proper use, maintenance and operation of alarm system",
+   "statuteID": "bc-chilliwack-false-alarm",
+   "section": "4",
+   "act": "Chilliwack Bylaw 3747",
+   "title": "Fail to ensure proper use, maintenance and operation of alarm system",
+   "bodyText": "Every owner or occupier of real property where an alarm system is installed shall ensure the proper use, maintenance and operation of the alarm system.",
+   "fine": 500,
+   "points": 0,
+   "category": "alarmDuties",
+   "keywords": [
+    "alarm",
+    "alarm system",
+    "maintenance",
+    "operation",
+    "upkeep"
+   ],
+   "modifiers": [
+    {
+     "id": "5e6430ea-8516-5752-9938-f73a5a66ab00",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Fail to ensure proper use, maintenanc…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203747%20False%20Alarm%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 3747:6:Fail to employ a verifying alarm monitoring service (auto-dialling alarm)",
+   "statuteID": "bc-chilliwack-false-alarm",
+   "section": "6",
+   "act": "Chilliwack Bylaw 3747",
+   "title": "Fail to employ a verifying alarm monitoring service (auto-dialling alarm)",
+   "bodyText": "Subject to Section 7, where an alarm system is capable of automatically contacting the Police or Fire Department to request their attendance at a property, every owner of the property shall employ the services of an alarm monitoring service that will:\n(a) verify, through means independent of the alarm sensors, that a condition exists on the premises that actually requires the attendance of the Police or Fire Department; and,\n(b) provide the Police or Fire Department with the name, address and phone number of a person who will report to Police or Fire Department officials at the property within one hour of notification. [No set bylaw-notice fine: not listed on the Bylaw Notice Enforcement Bylaw fine schedule; contravention is an offence under s.11 and is prosecuted by summary conviction under the Offence Act (s.12).]",
+   "fine": 0,
+   "points": 0,
+   "category": "alarmDuties",
+   "keywords": [
+    "alarm monitoring",
+    "monitoring service",
+    "auto-dial",
+    "verify",
+    "false alarm"
+   ],
+   "modifiers": [],
+   "shortForm": "Fail to employ a verifying alarm moni…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%203747%20False%20Alarm%20Bylaw.pdf"
+  }
+ ],
+ "fullText": [
+  {
+   "id": "chwk-3747-spreamble",
+   "part": null,
+   "division": null,
+   "number": "Preamble",
+   "heading": "A bylaw to regulate the use of security and fire alarm systems",
+   "text": "WHEREAS Section 196(1) of the Community Charter, S.B.C. 2003, c. 26 (the \"Community Charter\") provides that Council may, by bylaw, establish a service where fees are to be paid by the owner or occupier of real property to which policing services and Fire Department services are provided in response to a false alarm of a security or fire alarm system;\nAND WHEREAS Section 196(2) of the Community Charter provides that a fee for a false alarm may vary depending on the number of occasions on which services are provided in response to a false alarm;\nAND WHEREAS Council for the City of Chilliwack (the \"City\") has determined that excessive false alarms in the City constitute a cost and nuisance to the residents of the City and it is therefore desirable to exercise the authority granted under the Community Charter,\nNOW THEREFORE the Council of the City of Chilliwack in open meeting assembled enacts as follows:"
+  },
+  {
+   "id": "chwk-3747-s1",
+   "part": null,
+   "division": null,
+   "number": "1",
+   "heading": "Citation",
+   "text": "This Bylaw may be cited as \"False Alarm Bylaw 2011, No. 3747\"."
+  },
+  {
+   "id": "chwk-3747-s2",
+   "part": null,
+   "division": null,
+   "number": "2",
+   "heading": "Repeal",
+   "text": "\"Security and Fire Alarm System Regulation Bylaw 2002, No. 2875\" and all amendments thereto are hereby repealed."
+  },
+  {
+   "id": "chwk-3747-s3",
+   "part": null,
+   "division": null,
+   "number": "3",
+   "heading": "Interpretation",
+   "text": "In this Bylaw:\n\"Alarm Monitoring Service\" means a person or company engaged in the business or service of monitoring alarm systems and reporting the activation of alarm systems to the RCMP or the Fire Department, as applicable;\n\"alarm system\" means any assembly of mechanical, electrical, or electronic devices which is primarily intended to be used for:\n(1) the detection of entry or attempted entry or damage to property, and which emits sound or transmits a sound, signal or message when activated, but does not include a device that is installed in a \"motor vehicle\" or \"motor home\" as defined in the Motor Vehicle Act, R.S.B.C. 1996, c. 318; or\n(2) the detection of smoke or fire and which emits sound or transmits a sound, signal, or message when activated;\n\"City\" means the City of Chilliwack;\n\"false alarm\" means the activation of an alarm system resulting in the attendance of the RCMP or the Fire Department at the property where:\n(1) there is no apparent or actual evidence that an unauthorized entry or unlawful act has been attempted or made into or respecting property; or,\n(2) there is no apparent or actual evidence that there is smoke or fire occurring in or on property,\nand includes, without limitation, a false alarm,\n(3) during the installation, maintenance, testing or removal of an alarm system;\n(4) due to the mechanical or electrical failure of an alarm system; or\n(5) due to the misuse or improper operation of an alarm system;\n\"false alarm fee\" means the fee or fees set out in Schedule \"A\" and forming part of this Bylaw;\n\"Fire Department\" means the Chilliwack Fire Department;\n\"RCMP\" means the Chilliwack Detachment of the Royal Canadian Mounted Police which is responsible for the provision of municipal policing services in accordance with and pursuant to the terms of contractual arrangements made between the City and the Province of British Columbia, as represented by the Ministry of the Attorney General, and the Police Act, R.S.B.C. 1996, c. 67."
+  },
+  {
+   "id": "chwk-3747-s4",
+   "part": null,
+   "division": null,
+   "number": "4",
+   "heading": "Maintenance of Alarm Systems",
+   "text": "Every owner or occupier of real property where an alarm system is installed shall ensure the proper use, maintenance and operation of the alarm system."
+  },
+  {
+   "id": "chwk-3747-s5",
+   "part": null,
+   "division": null,
+   "number": "5",
+   "heading": "Maintenance of Alarm Systems",
+   "text": "No owner or occupier of real property where an alarm system is installed shall cause or allow a false alarm to occur on the property. Without limitation, an owner or occupier of real property where an alarm system is installed is guilty of an offence in respect of every false alarm that occurs in or on the real property."
+  },
+  {
+   "id": "chwk-3747-s6",
+   "part": null,
+   "division": null,
+   "number": "6",
+   "heading": "Alarm Monitoring Services",
+   "text": "Subject to Section 7, where an alarm system is capable of automatically contacting the Police or Fire Department to request their attendance at a property, every owner of the property shall employ the services of an alarm monitoring service that will:\n(a) verify, through means independent of the alarm sensors, that a condition exists on the premises that actually requires the attendance of the Police or Fire Department; and,\n(b) provide the Police or Fire Department with the name, address and phone number of a person who will report to Police or Fire Department officials at the property within one hour of notification."
+  },
+  {
+   "id": "chwk-3747-s7",
+   "part": null,
+   "division": null,
+   "number": "7",
+   "heading": "Alarm Monitoring Services",
+   "text": "An owner or occupier is exempt from the requirement in Section 6(a) if the alarm system is in full compliance with CAN/ULC – S524-01."
+  },
+  {
+   "id": "chwk-3747-s8",
+   "part": null,
+   "division": null,
+   "number": "8",
+   "heading": "False Alarms",
+   "text": "Where a false alarm has occurred on real property, a false alarm fee, calculated in accordance with Schedule \"A\" of this Bylaw, shall be due and payable on receipt of notice from the City by:\n(a) the occupier of the property at the time of the false alarm; or,\n(b) the registered owner of the property if the occupier of the property cannot reasonably be ascertained."
+  },
+  {
+   "id": "chwk-3747-s9",
+   "part": null,
+   "division": null,
+   "number": "9",
+   "heading": "Invoicing",
+   "text": "Where a false alarm fee is charged to the owner or occupier of property, the City will invoice the owner or occupier of the property within 60 days of the false alarm."
+  },
+  {
+   "id": "chwk-3747-s10",
+   "part": null,
+   "division": null,
+   "number": "10",
+   "heading": "Default",
+   "text": "Any fee imposed under this Bylaw remaining unpaid at December 31 of that year shall be added to and form part of the taxes payable on the real property where the false alarm occurred as taxes in arrears."
+  },
+  {
+   "id": "chwk-3747-s11",
+   "part": null,
+   "division": null,
+   "number": "11",
+   "heading": "Offence and Penalty",
+   "text": "Every person who violates any provision of this Bylaw, or who allows or permits any act or thing to be done in violation of any provision of this Bylaw, or who neglects to or refrains from doing anything required to be done by any provision of this Bylaw is guilty of an offence against this Bylaw and is liable to the penalties imposed under this Bylaw and each day that a violation continues to exist is deemed to be a separate offence against the Bylaw."
+  },
+  {
+   "id": "chwk-3747-s12",
+   "part": null,
+   "division": null,
+   "number": "12",
+   "heading": "Offence and Penalty",
+   "text": "Every person who commits an offence against this Bylaw shall be liable upon summary conviction to a fine or to imprisonment, or to both a fine and imprisonment, not exceeding the maximum allowed by the Offence Act, as amended."
+  },
+  {
+   "id": "chwk-3747-s13",
+   "part": null,
+   "division": null,
+   "number": "13",
+   "heading": "Severability",
+   "text": "If any portion of this Bylaw is held invalid by a Court of competent jurisdiction, then that invalid portion shall be severed and the remainder of this Bylaw shall be deemed to have been adopted without the severed portion."
+  },
+  {
+   "id": "chwk-3747-sscha",
+   "part": null,
+   "division": null,
+   "number": "Sch. A",
+   "heading": "Schedule “A” — False Alarm Fee Schedule",
+   "text": "The false alarm fee shall be as follows:\n(a) for the first false alarm within a calendar year, the fee is $100.00;\n(b) for the second false alarm within a calendar year, the fee is $200.00;\n(c) for the third false alarm within a calendar year, the fee is $300.00; and\n(d) for each false alarm after the third false alarm within a calendar year, the fee is $400.00."
+  }
+ ]
+}
