@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-motor-vehicle",
  "schemaVersion": 2,
- "version": 6,
- "updatedAt": "2026-07-21T00:00:00Z",
+ "version": 7,
+ "updatedAt": "2026-07-22T00:00:00Z",
  "sources": [
   {
    "name": "Motor Vehicle Act",
@@ -11995,10 +11995,10 @@
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
   },
   {
-   "id": "MVA:34.01:Unauthorized or expired personalized number plate",
+   "id": "MVAR:34.01:Unauthorized or expired personalized number plate",
    "statuteID": "bc-motor-vehicle",
    "section": "34.01",
-   "act": "MVA",
+   "act": "MVAR",
    "title": "Unauthorized or expired personalized number plate",
    "bodyText": "Unauthorized or expired personalized number plate",
    "fine": 95,
@@ -12018,7 +12018,7 @@
     }
    ],
    "shortForm": "Unauthorized or expired personalized ...",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_00"
   },
   {
    "id": "MVA:183(2)(b):Ride cycle on crosswalk",

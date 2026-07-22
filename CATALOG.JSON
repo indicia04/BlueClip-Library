@@ -1,6 +1,6 @@
 {
- "catalogVersion": 3,
- "updatedAt": "2026-07-21T00:00:00Z",
+ "catalogVersion": 4,
+ "updatedAt": "2026-07-22T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -9,7 +9,7 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 6,
+   "version": 7,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
    "sizeKB": 1173
   },
