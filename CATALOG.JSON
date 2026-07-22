@@ -1,5 +1,5 @@
 {
- "catalogVersion": 2,
+ "catalogVersion": 3,
  "updatedAt": "2026-07-21T00:00:00Z",
  "statutes": [
   {
@@ -9,9 +9,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 5,
+   "version": 6,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
-   "sizeKB": 612
+   "sizeKB": 1173
   },
   {
    "id": "bc-liquor-control",
