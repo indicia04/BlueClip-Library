@@ -1,6 +1,6 @@
 {
- "catalogVersion": 5,
- "updatedAt": "2026-07-22T00:00:00Z",
+ "catalogVersion": 6,
+ "updatedAt": "2026-07-23T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -9,7 +9,7 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 7,
+   "version": 8,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
    "sizeKB": 1173
   },
@@ -20,9 +20,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
-   "version": 3,
+   "version": 4,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
-   "sizeKB": 133
+   "sizeKB": 137
   },
   {
    "id": "bc-trespass",
@@ -31,9 +31,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
-   "version": 5,
+   "version": 6,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRESSPASSACT",
-   "sizeKB": 17
+   "sizeKB": 18
   },
   {
    "id": "bc-wildlife",
@@ -42,7 +42,7 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96488_01",
-   "version": 3,
+   "version": 4,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-WILDLIFEACT",
    "sizeKB": 295
   },
@@ -53,9 +53,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/04039_01",
-   "version": 2,
+   "version": 3,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-PASSENGERTRANSPORTATION",
-   "sizeKB": 98
+   "sizeKB": 101
   },
   {
    "id": "bc-transport-dangerous-goods",
@@ -64,9 +64,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96458_01",
-   "version": 2,
+   "version": 3,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRANSPORTDANGEROUSGOODS",
-   "sizeKB": 35
+   "sizeKB": 37
   },
   {
    "id": "bc-chilliwack-fireworks",

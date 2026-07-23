@@ -1,8 +1,13 @@
 {
  "statuteID": "bc-motor-vehicle",
  "schemaVersion": 2,
- "version": 7,
- "updatedAt": "2026-07-22T00:00:00Z",
+ "version": 8,
+ "updatedAt": "2026-07-23T00:00:00Z",
+ "fineSurcharge": {
+  "percent": 15,
+  "name": "Victim surcharge",
+  "rounding": "nearestDollar"
+ },
  "sources": [
   {
    "name": "Motor Vehicle Act",

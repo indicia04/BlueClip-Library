@@ -1,8 +1,13 @@
 {
   "statuteID": "bc-liquor-control",
   "schemaVersion": 2,
-  "version": 3,
-  "updatedAt": "2026-07-19T00:00:00Z",
+  "version": 4,
+  "updatedAt": "2026-07-23T00:00:00Z",
+  "fineSurcharge": {
+    "percent": 15,
+    "name": "Victim surcharge",
+    "rounding": "nearestDollar"
+  },
   "categories": [
     {
       "id": "other",
