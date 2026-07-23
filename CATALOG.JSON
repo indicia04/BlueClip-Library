@@ -1,5 +1,5 @@
 {
- "catalogVersion": 6,
+ "catalogVersion": 7,
  "updatedAt": "2026-07-23T00:00:00Z",
  "statutes": [
   {
@@ -20,9 +20,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
-   "version": 4,
+   "version": 5,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
-   "sizeKB": 137
+   "sizeKB": 132
   },
   {
    "id": "bc-trespass",
@@ -53,9 +53,9 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/04039_01",
-   "version": 3,
+   "version": 4,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-PASSENGERTRANSPORTATION",
-   "sizeKB": 101
+   "sizeKB": 146
   },
   {
    "id": "bc-transport-dangerous-goods",
