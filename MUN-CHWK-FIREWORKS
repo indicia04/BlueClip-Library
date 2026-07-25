@@ -1,8 +1,8 @@
 {
   "statuteID": "bc-chilliwack-fireworks",
   "schemaVersion": 2,
-  "version": 2,
-  "updatedAt": "2026-07-19T00:00:00Z",
+  "version": 3,
+  "updatedAt": "2026-07-24T00:00:00Z",
   "categories": [
     {
       "id": "fireworksProhibited",
@@ -31,10 +31,10 @@
   ],
   "offences": [
     {
-      "id": "Chilliwack Fireworks Bylaw:4(1):Sell or offer for sale Consumer Fireworks",
+      "id": "Chilliwack Bylaw 5109:4(1):Sell or offer for sale Consumer Fireworks",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "4(1)",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Sell or offer for sale Consumer Fireworks",
       "bodyText": "4 (1) no person may sell, offer for sale or otherwise transfer Consumer Fireworks to any person.",
       "fine": 500,
@@ -65,10 +65,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:4(2):Sell or offer for sale Firecrackers",
+      "id": "Chilliwack Bylaw 5109:4(2):Sell or offer for sale Firecrackers",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "4(2)",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Sell or offer for sale Firecrackers",
       "bodyText": "4 (2) no person may sell, offer for sale or otherwise transfer Firecrackers to any person.",
       "fine": 500,
@@ -99,10 +99,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:4(3):Possess or discharge Consumer Fireworks",
+      "id": "Chilliwack Bylaw 5109:4(3):Possess or discharge Consumer Fireworks",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "4(3)",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Possess or discharge Consumer Fireworks",
       "bodyText": "4 (3) no person may buy, hold, possess, Discharge, or otherwise use Consumer Fireworks.",
       "fine": 500,
@@ -133,10 +133,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:4(4):Possess or discharge Firecrackers",
+      "id": "Chilliwack Bylaw 5109:4(4):Possess or discharge Firecrackers",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "4(4)",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Possess or discharge Firecrackers",
       "bodyText": "4 (4) no person may buy, hold, possess, Discharge, or otherwise use Firecrackers.",
       "fine": 500,
@@ -167,10 +167,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:4(5):Discharge an open-air fire or sky lantern",
+      "id": "Chilliwack Bylaw 5109:4(5):Discharge an open-air fire or sky lantern",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "4(5)",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Discharge an open-air fire or sky lantern",
       "bodyText": "4 (5) no person may Discharge a fire of any kind whatsoever in the open air, including airborne fire holding devices not under the control of the user such as Sky Lanterns.",
       "fine": 500,
@@ -201,10 +201,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:5:Possess or discharge Display Fireworks without a Display Permit",
+      "id": "Chilliwack Bylaw 5109:5:Possess or discharge Display Fireworks without a Display Permit",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "5",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Possess or discharge Display Fireworks without a Display Permit",
       "bodyText": "5 No person may buy, hold, possess, store, transport, Discharge, or otherwise use Display Fireworks without a Display Permit.",
       "fine": 500,
@@ -235,10 +235,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:6:Store or discharge Display Fireworks contrary to a permit or unsafely",
+      "id": "Chilliwack Bylaw 5109:6:Store or discharge Display Fireworks contrary to a permit or unsafely",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "6",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Store or discharge Display Fireworks contrary to a permit or unsafely",
       "bodyText": "6 No Display Permit holder may store, Discharge or otherwise use Display Fireworks in contravention of that Display Permit, or in an unsafe manner.",
       "fine": 500,
@@ -269,10 +269,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:7:Unauthorized storage or transport of Consumer Fireworks or Firecrackers",
+      "id": "Chilliwack Bylaw 5109:7:Unauthorized storage or transport of Consumer Fireworks or Firecrackers",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "7",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Unauthorized storage or transport of Consumer Fireworks or Firecrackers",
       "bodyText": "7 Except as provided in Section 10 of this Bylaw, no person may store or transport Consumer Fireworks or Firecrackers.",
       "fine": 500,
@@ -303,10 +303,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:8:Store or transport Fireworks or Firecrackers in an unsafe manner",
+      "id": "Chilliwack Bylaw 5109:8:Store or transport Fireworks or Firecrackers in an unsafe manner",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "8",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Store or transport Fireworks or Firecrackers in an unsafe manner",
       "bodyText": "8 No person may store or transport Fireworks or Firecrackers in an unsafe manner.",
       "fine": 500,
@@ -337,10 +337,10 @@
       "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=1185"
     },
     {
-      "id": "Chilliwack Fireworks Bylaw:20:Obstruct an Enforcement Officer",
+      "id": "Chilliwack Bylaw 5109:20:Obstruct an Enforcement Officer",
       "statuteID": "bc-chilliwack-fireworks",
       "section": "20",
-      "act": "Chilliwack Fireworks Bylaw",
+      "act": "Chilliwack Bylaw 5109",
       "title": "Obstruct an Enforcement Officer",
       "bodyText": "20 No person shall obstruct an Enforcement Officer engaged in the administration or enforcement of this Bylaw.",
       "fine": 0,

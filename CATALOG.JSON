@@ -1,5 +1,5 @@
 {
- "catalogVersion": 8,
+ "catalogVersion": 9,
  "updatedAt": "2026-07-24T00:00:00Z",
  "statutes": [
   {
@@ -75,10 +75,11 @@
    "jurisdiction": "bc",
    "licenceName": "City of Chilliwack Bylaw 5109",
    "sourceURL": "https://www.chilliwack.com/main/attachments.php?BYLAW_ID=5109",
-   "version": 2,
+   "version": 3,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-FIREWORKS",
-   "sizeKB": 31,
-   "municipality": "Chilliwack"
+   "sizeKB": 32,
+   "municipality": "Chilliwack",
+   "changeNote": "standardize Chilliwack act strings to the numbered form (pre-launch)"
   },
   {
    "id": "bc-chilliwack-nuisance",
@@ -87,10 +88,11 @@
    "jurisdiction": "bc",
    "licenceName": "City of Chilliwack Bylaw 3044",
    "sourceURL": "https://www.chilliwack.com/main/attachments.php?BYLAW_ID=3044",
-   "version": 2,
+   "version": 3,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-NUISANCE",
-   "sizeKB": 66,
-   "municipality": "Chilliwack"
+   "sizeKB": 67,
+   "municipality": "Chilliwack",
+   "changeNote": "standardize Chilliwack act strings to the numbered form (pre-launch)"
   },
   {
    "id": "bc-chilliwack-false-alarm",
