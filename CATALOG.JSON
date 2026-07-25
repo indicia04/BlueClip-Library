@@ -1,5 +1,5 @@
 {
- "catalogVersion": 10,
+ "catalogVersion": 11,
  "updatedAt": "2026-07-25T00:00:00Z",
  "statutes": [
   {
@@ -186,6 +186,19 @@
    "version": 1,
    "sizeKB": 271,
    "changeNote": "new statute — Cannabis Control and Licensing Act (BC), v1"
+  },
+  {
+   "id": "bc-tobacco-vapour",
+   "shortName": "Tobacco & Vapour",
+   "fullName": "Tobacco and Vapour Products Control Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Tobacco and Vapour Products Control Act, RSBC 1996, c. 451",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96451_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TOBACCOVAPOUR",
+   "version": 1,
+   "sizeKB": 69,
+   "changeNote": "Add the Tobacco and Vapour Products Control Act (BC): 18 violation-ticket offences plus the full Act text"
   }
  ],
  "operationsSlotLimit": 3
