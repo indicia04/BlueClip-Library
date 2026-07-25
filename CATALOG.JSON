@@ -1,5 +1,5 @@
 {
- "catalogVersion": 12,
+ "catalogVersion": 13,
  "updatedAt": "2026-07-25T00:00:00Z",
  "statutes": [
   {
@@ -200,6 +200,19 @@
    "version": 1,
    "sizeKB": 69,
    "changeNote": "Add the Tobacco and Vapour Products Control Act (BC): 18 violation-ticket offences plus the full Act text"
+  },
+  {
+   "id": "bc-child-family-community",
+   "shortName": "Child & Family",
+   "fullName": "Child, Family and Community Service Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Child, Family and Community Service Act, RSBC 1996, c. 46",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96046_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-CHILDFAMILYCOMMUNITY",
+   "version": 1,
+   "sizeKB": 282,
+   "changeNote": "new statute — Child, Family and Community Service Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
