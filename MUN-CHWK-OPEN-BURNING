@@ -1,0 +1,2116 @@
+{
+ "statuteID": "bc-chilliwack-open-burning",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-07-24T00:00:00Z",
+ "sources": [
+  {
+   "name": "Open Burning Bylaw 2021, No. 5038",
+   "role": "bylaw",
+   "url": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf",
+   "currentTo": "2021-02-16",
+   "dateLabel": "Received adoption on [date]",
+   "flagged": true,
+   "checkNote": "VERIFIED live 2026-07-24 (HTTP 200 via chilliwack.com Regulatory Bylaws index id=363). Adopted PDF, 10 pp, 37 sections + Schedule A (permit fee) + Schedule B (peat-soils map). No consolidation banner and no amending bylaws found on the index; flagged as the 2021 adopted version (currency = adoption date). Aligns with the BC Open Burning Smoke Control Regulation."
+  },
+  {
+   "name": "Bylaw Notice Enforcement Bylaw 2018, No. 4573 (Schedule A — fine schedule)",
+   "role": "fines",
+   "url": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=2436",
+   "currentTo": "2026-04-21",
+   "dateLabel": "Consolidated: [date]",
+   "checkNote": "VERIFIED live 2026-07-24. 'Consolidated: April 21, 2026'. Schedule A pages 33-38 are the 'Open Burning Bylaw 2021, No. 5038' block — 57 rows, base $500 (early $490 / late $510) or $250 (early $240 / late $260), compliance agreement available. Same fines source (attachID=2436) as the Fireworks/Nuisance/False-Alarm builds."
+  }
+ ],
+ "categories": [
+  {
+   "id": "burnPermit",
+   "title": "Permits",
+   "symbol": "doc.text.fill",
+   "tint": "#B45309"
+  },
+  {
+   "id": "burnMaterials",
+   "title": "Prohibited Materials & Smoke",
+   "symbol": "flame.fill",
+   "tint": "#B91C1C"
+  },
+  {
+   "id": "burnWhereWhen",
+   "title": "Where & When",
+   "symbol": "calendar.badge.clock",
+   "tint": "#0E7490"
+  },
+  {
+   "id": "burnClearance",
+   "title": "Clearances & Setbacks",
+   "symbol": "ruler.fill",
+   "tint": "#6D28D9"
+  },
+  {
+   "id": "burnConduct",
+   "title": "Conduct & Control",
+   "symbol": "exclamationmark.triangle.fill",
+   "tint": "#CA8A04"
+  }
+ ],
+ "offences": [
+  {
+   "id": "Chilliwack Bylaw 5038:4:Burning without valid permit",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "4",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning without valid permit",
+   "bodyText": "Unless prohibited pursuant to Section 9 of this Bylaw, no person shall set out, start or kindle open burning on a parcel of land unless the person holds a valid burning permit issued pursuant to this Bylaw.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnPermit",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "valid",
+    "permit"
+   ],
+   "modifiers": [
+    {
+     "id": "79c06df5-94f7-5f21-867f-0cb73e89ca08",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning without valid permit",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:6:Failure to provide burning permit for review",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "6",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Failure to provide burning permit for review",
+   "bodyText": "The burning permit holder shall have the burning permit available on site for review by a Fire Department Officer or Bylaw Enforcement Officer.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnPermit",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "failure",
+    "provide",
+    "permit",
+    "review"
+   ],
+   "modifiers": [
+    {
+     "id": "584b713f-d5c9-52c8-b94a-3c9f8a35791d",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to provide burning permit for…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:8:Burning agricultural waste not originating from original parcel of land",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "8",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning agricultural waste not originating from original parcel of land",
+   "bodyText": "A burning permit is required for the purpose of burning indigenous agricultural vegetative debris to control disease, weeds, crops or stubble produced on real property designated as \"Agricultural\". The agricultural vegetative debris must have originated from the parcel of land where the open burning is taking place.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "agricultural",
+    "waste",
+    "originating",
+    "original",
+    "parcel"
+   ],
+   "modifiers": [
+    {
+     "id": "659f30a6-3aa6-589e-833b-9010715d6e84",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning agricultural waste not origin…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:10:Burning materials not originating from original parcel of land",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "10",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning materials not originating from original parcel of land",
+   "bodyText": "A person who carries out open burning must only burn seasoned vegetative debris that originates from the parcel of land on which it is to be burned.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "originating",
+    "original",
+    "parcel",
+    "land"
+   ],
+   "modifiers": [
+    {
+     "id": "17eeaa99-0c94-5be6-b7b8-c4fbedc26605",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning materials not originating fro…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(1):Burning prohibited materials – oil",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(1)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – oil",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(1) oil;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "oil"
+   ],
+   "modifiers": [
+    {
+     "id": "a3456559-13a3-5e5c-86fb-4f1f9ca5ac14",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – oil",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(2):Burning prohibited materials – rubber",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(2)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – rubber",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(2) rubber;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "rubber"
+   ],
+   "modifiers": [
+    {
+     "id": "3e3e2456-0b01-597d-b86e-b5d7a8674f13",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – rubber",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(3):Burning prohibited materials – plastics",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(3)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – plastics",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(3) plastics;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "plastics"
+   ],
+   "modifiers": [
+    {
+     "id": "1ce7ced4-5c80-517f-8e7c-6ea296e67ae3",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – plastics",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(4):Burning prohibited materials – tires",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(4)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – tires",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(4) tires;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "tires"
+   ],
+   "modifiers": [
+    {
+     "id": "b2fb89cf-7d91-50b9-b351-8c499b99bf1a",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – tires",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(5):Burning prohibited materials – railway ties or other material containing creosote",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(5)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – railway ties or other material containing creosote",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(5) railway ties or other material containing creosote;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "railway",
+    "ties",
+    "other",
+    "containing"
+   ],
+   "modifiers": [
+    {
+     "id": "657a51ca-a59a-5f07-93cc-79e42e0c9974",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – railwa…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(6):Burning prohibited materials – wiring",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(6)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – wiring",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(6) wiring;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "wiring"
+   ],
+   "modifiers": [
+    {
+     "id": "3e009ae5-73eb-5652-8b78-ca605896b236",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – wiring",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(7):Burning prohibited materials – insulation",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(7)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – insulation",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(7) insulation;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "insulation"
+   ],
+   "modifiers": [
+    {
+     "id": "26bbac9d-c91c-59f0-a227-7a320174e8f0",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – insula…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(8):Burning prohibited materials – petroleum products",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(8)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – petroleum products",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(8) petroleum products;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "petroleum",
+    "products"
+   ],
+   "modifiers": [
+    {
+     "id": "66062e5b-598f-5129-99cc-15a764e4ec94",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – petrol…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(9):Burning prohibited materials – biomedical waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(9)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – biomedical waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(9) biomedical waste;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "biomedical",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "1c34152e-5490-58be-9f3e-6c9ab2d58ec6",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – biomed…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(10):Burning prohibited materials – fertilizers, herbicides or pesticides",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(10)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – fertilizers, herbicides or pesticides",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(10) fertilizers, herbicides or pesticides;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "fertilizers",
+    "herbicides",
+    "pesticides"
+   ],
+   "modifiers": [
+    {
+     "id": "911c8e96-f198-5240-a798-97b18f48bfc9",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – fertil…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(11):Burning prohibited materials – drywall",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(11)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – drywall",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(11) drywall;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "drywall"
+   ],
+   "modifiers": [
+    {
+     "id": "3cb6299b-d2c2-55da-9aa9-0d54964e58e0",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – drywall",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(12):Burning prohibited materials – asphalt or asphalt products",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(12)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – asphalt or asphalt products",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(12) asphalt or asphalt products;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "asphalt",
+    "products"
+   ],
+   "modifiers": [
+    {
+     "id": "4161643b-2ed9-50e6-a34e-954c901a2e5b",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – asphal…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(13):Burning prohibited materials – paint or varnish",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(13)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – paint or varnish",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(13) paint or varnish;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "paint",
+    "varnish"
+   ],
+   "modifiers": [
+    {
+     "id": "49e62371-a444-56d2-a5f4-a42954448808",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – paint …",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(14):Burning prohibited materials – chemicals",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(14)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – chemicals",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(14) chemicals;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "chemicals"
+   ],
+   "modifiers": [
+    {
+     "id": "ce76a558-e44e-5887-af47-a0765fd6f1df",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – chemicals",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(15):Burning prohibited materials – treated or painted wood products",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(15)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – treated or painted wood products",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(15) treated or painted wood products;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "treated",
+    "painted",
+    "wood",
+    "products"
+   ],
+   "modifiers": [
+    {
+     "id": "aa30589e-c5aa-54ec-910b-fb25ccf4e38b",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – treate…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(16):Burning prohibited materials – fuel and lubricant containers",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(16)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – fuel and lubricant containers",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(16) fuel and lubricant containers;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "fuel",
+    "lubricant",
+    "containers"
+   ],
+   "modifiers": [
+    {
+     "id": "526110e2-86e9-5316-aedf-faa1aedb7a10",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – fuel a…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(17):Burning prohibited materials – domestic waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(17)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – domestic waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(17) domestic waste;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "domestic",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "9b7dbafd-6125-5326-851a-c73fbc5d900b",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – domest…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(18):Burning prohibited materials – recyclables",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(18)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – recyclables",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(18) recyclables;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "recyclables"
+   ],
+   "modifiers": [
+    {
+     "id": "48509a05-8ffa-5dba-b48e-3bbea091e77e",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – recycl…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(19):Burning prohibited materials – construction or demolition waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(19)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – construction or demolition waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(19) construction or demolition waste;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "construction",
+    "demolition",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "87b2b889-8d76-5b87-9341-a0d47f24de94",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – constr…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(20):Burning prohibited materials – land clearing waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(20)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – land clearing waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(20) land clearing waste;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "land",
+    "clearing",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "999e8066-d9db-59e8-b236-6b32e80150e2",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – land c…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(21):Burning prohibited materials – stumps or vegetative debris larger than 50cm",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(21)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – stumps or vegetative debris larger than 50cm",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(21) stumps or vegetative debris larger than 50 centimetres in diameter;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "stumps",
+    "vegetative",
+    "debris",
+    "larger"
+   ],
+   "modifiers": [
+    {
+     "id": "a9ce25f9-e29e-5ed0-bc7c-aafddfc6967d",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – stumps…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(22):Burning prohibited materials – manure",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(22)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – manure",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(22) manure;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "manure"
+   ],
+   "modifiers": [
+    {
+     "id": "b88efa2c-c57d-5ca0-a653-f17c607bbbb3",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – manure",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(23):Burning prohibited materials – animal carcasses and slaughtering waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(23)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – animal carcasses and slaughtering waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(23) animal carcasses and waste from animal slaughtering;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "animal",
+    "carcasses",
+    "slaughtering",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "cb7817c9-ec12-5858-bba1-7031f38d2dca",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – animal…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(24):Burning prohibited materials – batteries",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(24)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – batteries",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(24) batteries;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "batteries"
+   ],
+   "modifiers": [
+    {
+     "id": "49734642-54dc-5952-a0e6-30af102e8c2b",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – batteries",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(25):Burning prohibited materials – carpets",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(25)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – carpets",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(25) carpets;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "carpets"
+   ],
+   "modifiers": [
+    {
+     "id": "6a766c9c-ab32-505d-90ef-2d3e8182de3a",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – carpets",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(26):Burning prohibited materials – fibreglass and fibre-reinforced polymers",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(26)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – fibreglass and fibre-reinforced polymers",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(26) fibreglass and other fibre-reinforced polymers;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "fibreglass",
+    "fibre",
+    "reinforced",
+    "polymers"
+   ],
+   "modifiers": [
+    {
+     "id": "e99db8a0-e2e6-57ca-8e96-a520cad8cafd",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – fibreg…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(27):Burning prohibited materials – furniture and appliances",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(27)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – furniture and appliances",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(27) furniture and appliances;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "furniture",
+    "appliances"
+   ],
+   "modifiers": [
+    {
+     "id": "70a52f20-1ccc-5d34-8257-818c2b735fb5",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – furnit…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(28):Burning prohibited materials – hazardous waste",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(28)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – hazardous waste",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(28) hazardous waste;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "hazardous",
+    "waste"
+   ],
+   "modifiers": [
+    {
+     "id": "62434121-f748-5df4-9b3f-a7ce293123d7",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – hazard…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(29):Burning prohibited materials – polystyrene foam",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(29)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – polystyrene foam",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(29) polystyrene foam;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "polystyrene",
+    "foam"
+   ],
+   "modifiers": [
+    {
+     "id": "a02801bd-c18d-5650-a767-1b28e41169e2",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – polyst…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(30):Burning prohibited materials – tar paper",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(30)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – tar paper",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(30) tar paper;",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "tar",
+    "paper"
+   ],
+   "modifiers": [
+    {
+     "id": "f4750091-de9c-5971-ac07-2229d90fd421",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – tar paper",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:11(31):Burning prohibited materials – waste discharge regulation prohibited materials",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "11(31)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning prohibited materials – waste discharge regulation prohibited materials",
+   "bodyText": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(31) any other materials listed in the definition of \"burning or incineration of prohibited material\" in the Waste Discharge Regulation, as amended.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "waste",
+    "discharge",
+    "regulation"
+   ],
+   "modifiers": [
+    {
+     "id": "50bf378b-f93c-5d8a-a9f9-7108b7f4266f",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning prohibited materials – waste …",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:12:Producing heavy or toxic smoke endangering health or safety",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "12",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Producing heavy or toxic smoke endangering health or safety",
+   "bodyText": "No person shall burn any material in any manner which produces heavy or toxic smoke and/or fly ash which endangers the health, safety or welfare of persons or animals.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnMaterials",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "producing",
+    "heavy",
+    "toxic",
+    "smoke",
+    "endangering"
+   ],
+   "modifiers": [
+    {
+     "id": "bdd83fbd-3ff0-5d7c-b298-6ee41996e37a",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Producing heavy or toxic smoke endang…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:9:Burning in prohibited zones",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "9",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning in prohibited zones",
+   "bodyText": "No person shall set out, start or kindle open burning on any parcel of land designated as \"Residential\", \"Institutional\", \"Commercial\" or \"Industrial\" as set out in the City's Zoning Bylaw, as amended.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "zones"
+   ],
+   "modifiers": [
+    {
+     "id": "59503686-9d22-5b08-9e1f-22f204dd7c85",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning in prohibited zones",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:16:Burning in prohibited seasons",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "16",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning in prohibited seasons",
+   "bodyText": "No person shall set out, start, or kindle open burning except during the burning season as specified by the burning permit.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "prohibited",
+    "seasons"
+   ],
+   "modifiers": [
+    {
+     "id": "32c37515-cf1a-5d0e-950e-7c163b763dfa",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning in prohibited seasons",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:17:Burning when the ventilation index is not good",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "17",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning when the ventilation index is not good",
+   "bodyText": "No person shall set out, start, or kindle open burning unless the ventilation index for the day of the burn is \"good\".",
+   "fine": 500,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "ventilation",
+    "index",
+    "good"
+   ],
+   "modifiers": [
+    {
+     "id": "4cb7f295-2e2f-5f0b-8047-d6df41444627",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning when the ventilation index is…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:18:Burning between 5:00pm and 7:00am",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "18",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning between 5:00pm and 7:00am",
+   "bodyText": "No person shall set out, start or kindle open burning between the hours of 5:00 pm and 7:00 am daily.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "between",
+    "00pm",
+    "00am"
+   ],
+   "modifiers": [
+    {
+     "id": "3bbac3c4-ce9c-581e-aab3-5e86c51bbe77",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning between 5:00pm and 7:00am",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:19:Burning during high winds",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "19",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning during high winds",
+   "bodyText": "No person shall set out, start or kindle open burning or allow or permit open burning to continue to burn during winds exceeding 25 kilometres per hour.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "during",
+    "high",
+    "winds"
+   ],
+   "modifiers": [
+    {
+     "id": "e8ee49f7-eb4d-5f45-9ab3-51f74f221851",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning during high winds",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:20(1):Smoke negatively impacting urban growth boundary",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "20(1)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Smoke negatively impacting urban growth boundary",
+   "bodyText": "Despite any other provision in this Bylaw, no person shall continue to carry out open burning if the mixing of air and smoke is causing or is likely to cause the smoke emitted by the open burning to:\n(1) negatively impact the owners or occupiers of properties within the urban growth boundary; or,",
+   "fine": 500,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "smoke",
+    "negatively",
+    "impacting",
+    "urban",
+    "growth"
+   ],
+   "modifiers": [
+    {
+     "id": "9b9f02a0-28fc-523f-8221-c2104202ab3e",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Smoke negatively impacting urban grow…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:20(2):Smoke significantly reducing visibility to airport or highway",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "20(2)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Smoke significantly reducing visibility to airport or highway",
+   "bodyText": "Despite any other provision in this Bylaw, no person shall continue to carry out open burning if the mixing of air and smoke is causing or is likely to cause the smoke emitted by the open burning to:\n(2) significantly reduce visibility to a nearby airport or highway.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnWhereWhen",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "smoke",
+    "significantly",
+    "reducing",
+    "visibility",
+    "airport"
+   ],
+   "modifiers": [
+    {
+     "id": "41413c88-eb7c-5a7e-8f05-afacc3439525",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Smoke significantly reducing visibili…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:21(1):Burning within 15m of combustible materials (no approved incinerator)",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "21(1)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning within 15m of combustible materials (no approved incinerator)",
+   "bodyText": "Subject to Section 22, no person who holds a burning permit shall set out, start or kindle open burning:\n(1) Within 15 metres of:\ni. a hedge;\nii. a fence;\niii. a structure;\niv. an on-site building;\nv. a power line;\nvi. a telephone line; and,\nvii. a public utility.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "within",
+    "15m",
+    "combustible",
+    "approved",
+    "incinerator"
+   ],
+   "modifiers": [
+    {
+     "id": "0bd92b35-c79b-5899-a696-d002f974dbed",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning within 15m of combustible mat…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:21(2):Burning within 30m of any highway or stream",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "21(2)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning within 30m of any highway or stream",
+   "bodyText": "Subject to Section 22, no person who holds a burning permit shall set out, start or kindle open burning:\n(2) Within 30 metres of:\ni. a highway; or,\nii. a stream.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "within",
+    "30m",
+    "highway",
+    "stream"
+   ],
+   "modifiers": [
+    {
+     "id": "c41879a8-49d2-56e8-b50d-9eeebf3b9719",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning within 30m of any highway or …",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:21(3):Burning within 100m of a neighbouring residential or business building",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "21(3)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning within 100m of a neighbouring residential or business building",
+   "bodyText": "Subject to Section 22, no person who holds a burning permit shall set out, start or kindle open burning:\n(3) Within 100 metres of:\ni. a neighbouring residential building; or,\nii. a neighbouring building that contains a business in which persons carry on the business during regular business hours.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "within",
+    "100m",
+    "neighbouring",
+    "residential",
+    "business"
+   ],
+   "modifiers": [
+    {
+     "id": "7abd6166-c582-5689-8f1b-4fdd719a728c",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning within 100m of a neighbouring…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:21(4):Burning within 500m of schools, hospitals, community care facilities",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "21(4)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning within 500m of schools, hospitals, community care facilities",
+   "bodyText": "Subject to Section 22, no person who holds a burning permit shall set out, start or kindle open burning:\n(4) Within 500 metres of the nearest property line of:\ni. a school;\nii. a community care facility; or,\niii. a hospital.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "within",
+    "500m",
+    "schools",
+    "hospitals",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "a3519dab-de4f-5541-ae77-54e59bd147b5",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning within 500m of schools, hospi…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:22:Burning within 6m of combustible materials (using approved incinerator)",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "22",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning within 6m of combustible materials (using approved incinerator)",
+   "bodyText": "If an approved incinerator is used, the setback from the infrastructure listed in Section 21(1) of this Bylaw may be reduced from 15 metres to 6 metres. All other setbacks specified in Section 21 shall remain unchanged.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "within",
+    "combustible",
+    "using",
+    "approved",
+    "incinerator"
+   ],
+   "modifiers": [
+    {
+     "id": "6ed83635-59b2-5414-a6f1-03a46a0c0031",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning within 6m of combustible mate…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:23:Burning on known peat soils without a barrier",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "23",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning on known peat soils without a barrier",
+   "bodyText": "If the location where burning is to take place is within an area of known peat soils identified in Schedule \"B\", attached hereto, no burning shall take place until the person holding the burning permit ensures there is an adequate barrier between the base of the burning pile and underlying peat soils to prevent ignition of the underground peat deposits. The barrier must be comprised of a minimum thickness of 600 millimetres of inorganic soil or an equivalent barrier.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnClearance",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "known",
+    "peat",
+    "soils",
+    "barrier"
+   ],
+   "modifiers": [
+    {
+     "id": "80be1793-e0a4-54a5-aeb1-948de1faf8f4",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning on known peat soils without a…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:13:Fire exceeds specified height and diameter",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "13",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Fire exceeds specified height and diameter",
+   "bodyText": "No person shall carry out open burning of a pile exceeding 2 metres in height and 3 metres in diameter.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "exceeds",
+    "specified",
+    "height",
+    "diameter"
+   ],
+   "modifiers": [
+    {
+     "id": "6f331c85-b6b8-5dd8-b505-b90ccab35072",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Fire exceeds specified height and dia…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:14:Burning more than one pile at a time",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "14",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning more than one pile at a time",
+   "bodyText": "No person shall carry out open burning of more than one pile at a time on the same property.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "more",
+    "pile",
+    "time"
+   ],
+   "modifiers": [
+    {
+     "id": "8dd7f262-cfe7-5e45-a782-aea4fee72842",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning more than one pile at a time",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:15(1):Failure to minimize soil content",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "15(1)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Failure to minimize soil content",
+   "bodyText": "A person who carries out open burning must ensure that all reasonable efforts are taken to minimize the amount of smoke emitted by the open burning including, but not limited to, using the following strategies or techniques:\n(1) minimizing any soil content that may be mixed in with the vegetative debris;",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "failure",
+    "minimize",
+    "soil",
+    "content"
+   ],
+   "modifiers": [
+    {
+     "id": "288b20c0-0dee-5c08-8072-c5119b1c2dfa",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to minimize soil content",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:15(2):Failure to maximize air flow",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "15(2)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Failure to maximize air flow",
+   "bodyText": "A person who carries out open burning must ensure that all reasonable efforts are taken to minimize the amount of smoke emitted by the open burning including, but not limited to, using the following strategies or techniques:\n(2) constructing the pile in a way that maximizes the air flow through the vegetative debris; and,",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "failure",
+    "maximize",
+    "air",
+    "flow"
+   ],
+   "modifiers": [
+    {
+     "id": "8918e50a-f9df-56b9-8ad2-3873a56961d0",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to maximize air flow",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:15(3):Burning non-seasoned vegetative debris",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "15(3)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burning non-seasoned vegetative debris",
+   "bodyText": "A person who carries out open burning must ensure that all reasonable efforts are taken to minimize the amount of smoke emitted by the open burning including, but not limited to, using the following strategies or techniques:\n(3) burning only seasoned vegetative debris.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "non",
+    "seasoned",
+    "vegetative",
+    "debris"
+   ],
+   "modifiers": [
+    {
+     "id": "6b348d0d-5b9d-5b01-9a03-417d60723108",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burning non-seasoned vegetative debris",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:24(1):Burn not attended at all times",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "24(1)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burn not attended at all times",
+   "bodyText": "Every person to whom a burning permit has been issued must:\n(1) place and keep a person, at all times, in charge and be present while open burning and until the open burning is completely extinguished and will provide such person with sufficient and adequate fire fighting appliances and equipment as is required in order to prevent open burning from getting beyond control or causing damage or becoming a danger to life and property; and,",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "attended",
+    "all",
+    "times"
+   ],
+   "modifiers": [
+    {
+     "id": "836b7974-7bcc-5b56-936e-6a49411d9826",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burn not attended at all times",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:24(2):Burn attended by a person under the age of 18",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "24(2)",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Burn attended by a person under the age of 18",
+   "bodyText": "Every person to whom a burning permit has been issued must:\n(2) ensure the person attending the open burning is over the age of 18.",
+   "fine": 250,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "attended",
+    "person",
+    "under",
+    "age"
+   ],
+   "modifiers": [
+    {
+     "id": "6deb39b4-1c2d-563b-8821-863a155dcb05",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 240,
+     "note": "Bylaw-notice penalty: $250.00 base, $240.00 if paid early, $260.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Burn attended by a person under the a…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  },
+  {
+   "id": "Chilliwack Bylaw 5038:25:Failure to extinguish open burning",
+   "statuteID": "bc-chilliwack-open-burning",
+   "section": "25",
+   "act": "Chilliwack Bylaw 5038",
+   "title": "Failure to extinguish open burning",
+   "bodyText": "The Fire Chief or any other Fire Department Officer or Bylaw Enforcement Officer may require any person to extinguish open burning which has been set out, started or kindled in breach of any provision, condition or restriction of this Bylaw or any burning permit issued pursuant to this Bylaw.",
+   "fine": 500,
+   "points": 0,
+   "category": "burnConduct",
+   "keywords": [
+    "open burning",
+    "burn",
+    "fire",
+    "failure",
+    "extinguish",
+    "open"
+   ],
+   "modifiers": [
+    {
+     "id": "5e012d44-6bfd-5cba-885d-68778fde8c87",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to extinguish open burning",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf"
+  }
+ ],
+ "fullText": [
+  {
+   "id": "chwk-5038-spreamble",
+   "part": null,
+   "division": null,
+   "number": "Preamble",
+   "heading": "A bylaw to provide for the regulation of open burning",
+   "text": "WHEREAS the Local Government Act authorizes Council, by bylaw, to make regulations with respect to fire suppression and prevention and other classes of circumstances that may cause harm to persons or property;\nAND WHEREAS the Community Charter authorizes Council to regulate, prohibit and impose requirements in relation to the protection and enhancement of the well-being of its community as related to the emission of smoke, sparks, dust, ash, soot, cinders, fumes or other effluvia that is liable to foul or contaminate the atmosphere;\nAND WHEREAS the Community Charter authorizes Council to regulate, prohibit and impose requirements in relation to the protection of the natural environment;\nNOW THEREFORE the Council of the City of Chilliwack in open meeting assembled enacts as follows:"
+  },
+  {
+   "id": "chwk-5038-s1",
+   "part": null,
+   "division": null,
+   "number": "1",
+   "heading": "Citation",
+   "text": "This Bylaw may be cited as \"Open Burning Bylaw 2021, No. 5038\"."
+  },
+  {
+   "id": "chwk-5038-s2",
+   "part": null,
+   "division": null,
+   "number": "2",
+   "heading": "Repeal",
+   "text": "\"Open Air Burning Regulation Bylaw 2008, No. 3511\" and amendments thereto are hereby repealed."
+  },
+  {
+   "id": "chwk-5038-s3",
+   "part": null,
+   "division": null,
+   "number": "3",
+   "heading": "Interpretation",
+   "text": "In this Bylaw:\n\"approved incinerator\" means a noncombustible container placed upon a noncombustible base and fitted with a device or screen to contain sparks and flying debris;\n\"building\" means any structure used or intended to be used for supporting or sheltering any use or occupancy;\n\"burning permit\" means a document issued pursuant to this Bylaw authorizing a person to carry on an open burn under the specific conditions as outlined in this Bylaw;\n\"burning season\" means the single two-month period of March to April, or October to November;\n\"Bylaw Enforcement Officer\" means a person appointed by Council to enforce the bylaws of the City, or designate;\n\"campfire\" means a fire not exceeding 75cm in diameter and 75cm in height, contained within a fire pit and located on real property designated as a campground;\n\"care facility\" means a building or part thereof used by persons who require special care or treatment because of cognitive or physical limitations;\n\"City\" means the City of Chilliwack;\n\"construction waste\" means any material resulting from or produced by construction, renovation or repair of a building or structure;\n\"demolition waste\" means any abandoned building or the material resulting from the destruction or tearing down of any building, whether partial or complete;\n\"Fire Chief\" means the person appointed by Council as head of the Fire Department, or designate;\n\"Fire Department\" means the City of Chilliwack Fire Department;\n\"Fire Department Officer\" means Fire Chief, Assistant Fire Chief, company officer, fire prevention officer, training officer, public educator/fire inspector, or paid on-call officer;\n\"highway\" means a street, road, lane, bridge, viaduct and any other way open to the use of the public;\n\"land clearing waste\" means natural wood or vegetative waste generated by the clearing of land and originating from the subject property;\n\"open burning\" means any fire set outdoors and/or outside of a building;\n\"Order\" means any order, decision, requirement or direction given by the Fire Chief or designate;\n\"parcel of land\" means all land within the boundaries of the City of Chilliwack;\n\"peat soils\" means local peat deposits susceptible to underground burning as set out in Schedule \"B\", attached hereto;\n\"stream\" includes any of the following: a watercourse, whether it usually contains water or not; a pond, lake, river, creek; brook, ditch, slough spring, or wetland;\n\"urban growth boundary\" means the area defined as such in the Official Community Plan, as amended; and,\n\"ventilation index\" means regional air venting information as forecasted daily by Environment Canada or the BC Ministry of Environment and Climate Change Strategy."
+  },
+  {
+   "id": "chwk-5038-s4",
+   "part": null,
+   "division": null,
+   "number": "4",
+   "heading": "Burning Permit",
+   "text": "Unless prohibited pursuant to Section 9 of this Bylaw, no person shall set out, start or kindle open burning on a parcel of land unless the person holds a valid burning permit issued pursuant to this Bylaw."
+  },
+  {
+   "id": "chwk-5038-s5",
+   "part": null,
+   "division": null,
+   "number": "5",
+   "heading": "Burning Permit",
+   "text": "Any person wishing to set out, start or kindle open burning shall first make application to the City for a burning permit and pay the prescribed fee as set out in Schedule \"A\", attached hereto."
+  },
+  {
+   "id": "chwk-5038-s6",
+   "part": null,
+   "division": null,
+   "number": "6",
+   "heading": "Burning Permit",
+   "text": "The burning permit holder shall have the burning permit available on site for review by a Fire Department Officer or Bylaw Enforcement Officer."
+  },
+  {
+   "id": "chwk-5038-s7",
+   "part": null,
+   "division": null,
+   "number": "7",
+   "heading": "Burning Permit",
+   "text": "The burning permit holder is responsible for the control, extinguishment and any damages caused by the fire."
+  },
+  {
+   "id": "chwk-5038-s8",
+   "part": null,
+   "division": null,
+   "number": "8",
+   "heading": "Burning Permit",
+   "text": "A burning permit is required for the purpose of burning indigenous agricultural vegetative debris to control disease, weeds, crops or stubble produced on real property designated as \"Agricultural\". The agricultural vegetative debris must have originated from the parcel of land where the open burning is taking place."
+  },
+  {
+   "id": "chwk-5038-s9",
+   "part": null,
+   "division": null,
+   "number": "9",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall set out, start or kindle open burning on any parcel of land designated as \"Residential\", \"Institutional\", \"Commercial\" or \"Industrial\" as set out in the City's Zoning Bylaw, as amended."
+  },
+  {
+   "id": "chwk-5038-s10",
+   "part": null,
+   "division": null,
+   "number": "10",
+   "heading": "Open Burning Restrictions",
+   "text": "A person who carries out open burning must only burn seasoned vegetative debris that originates from the parcel of land on which it is to be burned."
+  },
+  {
+   "id": "chwk-5038-s11",
+   "part": null,
+   "division": null,
+   "number": "11",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall burn any of the following prohibited materials or use them as an accelerant:\n(1) oil;\n(2) rubber;\n(3) plastics;\n(4) tires;\n(5) railway ties or other material containing creosote;\n(6) wiring;\n(7) insulation;\n(8) petroleum products;\n(9) biomedical waste;\n(10) fertilizers, herbicides or pesticides;\n(11) drywall;\n(12) asphalt or asphalt products;\n(13) paint or varnish;\n(14) chemicals;\n(15) treated or painted wood products;\n(16) fuel and lubricant containers;\n(17) domestic waste;\n(18) recyclables;\n(19) construction or demolition waste;\n(20) land clearing waste;\n(21) stumps or vegetative debris larger than 50 centimetres in diameter;\n(22) manure;\n(23) animal carcasses and waste from animal slaughtering;\n(24) batteries;\n(25) carpets;\n(26) fibreglass and other fibre-reinforced polymers;\n(27) furniture and appliances;\n(28) hazardous waste;\n(29) polystyrene foam;\n(30) tar paper;\n(31) any other materials listed in the definition of \"burning or incineration of prohibited material\" in the Waste Discharge Regulation, as amended."
+  },
+  {
+   "id": "chwk-5038-s12",
+   "part": null,
+   "division": null,
+   "number": "12",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall burn any material in any manner which produces heavy or toxic smoke and/or fly ash which endangers the health, safety or welfare of persons or animals."
+  },
+  {
+   "id": "chwk-5038-s13",
+   "part": null,
+   "division": null,
+   "number": "13",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall carry out open burning of a pile exceeding 2 metres in height and 3 metres in diameter."
+  },
+  {
+   "id": "chwk-5038-s14",
+   "part": null,
+   "division": null,
+   "number": "14",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall carry out open burning of more than one pile at a time on the same property."
+  },
+  {
+   "id": "chwk-5038-s15",
+   "part": null,
+   "division": null,
+   "number": "15",
+   "heading": "Open Burning Restrictions",
+   "text": "A person who carries out open burning must ensure that all reasonable efforts are taken to minimize the amount of smoke emitted by the open burning including, but not limited to, using the following strategies or techniques:\n(1) minimizing any soil content that may be mixed in with the vegetative debris;\n(2) constructing the pile in a way that maximizes the air flow through the vegetative debris; and,\n(3) burning only seasoned vegetative debris."
+  },
+  {
+   "id": "chwk-5038-s16",
+   "part": null,
+   "division": null,
+   "number": "16",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall set out, start, or kindle open burning except during the burning season as specified by the burning permit."
+  },
+  {
+   "id": "chwk-5038-s17",
+   "part": null,
+   "division": null,
+   "number": "17",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall set out, start, or kindle open burning unless the ventilation index for the day of the burn is \"good\"."
+  },
+  {
+   "id": "chwk-5038-s18",
+   "part": null,
+   "division": null,
+   "number": "18",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall set out, start or kindle open burning between the hours of 5:00 pm and 7:00 am daily."
+  },
+  {
+   "id": "chwk-5038-s19",
+   "part": null,
+   "division": null,
+   "number": "19",
+   "heading": "Open Burning Restrictions",
+   "text": "No person shall set out, start or kindle open burning or allow or permit open burning to continue to burn during winds exceeding 25 kilometres per hour."
+  },
+  {
+   "id": "chwk-5038-s20",
+   "part": null,
+   "division": null,
+   "number": "20",
+   "heading": "Open Burning Restrictions",
+   "text": "Despite any other provision in this Bylaw, no person shall continue to carry out open burning if the mixing of air and smoke is causing or is likely to cause the smoke emitted by the open burning to:\n(1) negatively impact the owners or occupiers of properties within the urban growth boundary; or,\n(2) significantly reduce visibility to a nearby airport or highway."
+  },
+  {
+   "id": "chwk-5038-s21",
+   "part": null,
+   "division": null,
+   "number": "21",
+   "heading": "Clearances",
+   "text": "Subject to Section 22, no person who holds a burning permit shall set out, start or kindle open burning:\n(1) Within 15 metres of:\ni. a hedge;\nii. a fence;\niii. a structure;\niv. an on-site building;\nv. a power line;\nvi. a telephone line; and,\nvii. a public utility.\n(2) Within 30 metres of:\ni. a highway; or,\nii. a stream.\n(3) Within 100 metres of:\ni. a neighbouring residential building; or,\nii. a neighbouring building that contains a business in which persons carry on the business during regular business hours.\n(4) Within 500 metres of the nearest property line of:\ni. a school;\nii. a community care facility; or,\niii. a hospital."
+  },
+  {
+   "id": "chwk-5038-s22",
+   "part": null,
+   "division": null,
+   "number": "22",
+   "heading": "Clearances",
+   "text": "If an approved incinerator is used, the setback from the infrastructure listed in Section 21(1) of this Bylaw may be reduced from 15 metres to 6 metres. All other setbacks specified in Section 21 shall remain unchanged."
+  },
+  {
+   "id": "chwk-5038-s23",
+   "part": null,
+   "division": null,
+   "number": "23",
+   "heading": "Clearances",
+   "text": "If the location where burning is to take place is within an area of known peat soils identified in Schedule \"B\", attached hereto, no burning shall take place until the person holding the burning permit ensures there is an adequate barrier between the base of the burning pile and underlying peat soils to prevent ignition of the underground peat deposits. The barrier must be comprised of a minimum thickness of 600 millimetres of inorganic soil or an equivalent barrier."
+  },
+  {
+   "id": "chwk-5038-s24",
+   "part": null,
+   "division": null,
+   "number": "24",
+   "heading": "Means to Control",
+   "text": "Every person to whom a burning permit has been issued must:\n(1) place and keep a person, at all times, in charge and be present while open burning and until the open burning is completely extinguished and will provide such person with sufficient and adequate fire fighting appliances and equipment as is required in order to prevent open burning from getting beyond control or causing damage or becoming a danger to life and property; and,\n(2) ensure the person attending the open burning is over the age of 18."
+  },
+  {
+   "id": "chwk-5038-s25",
+   "part": null,
+   "division": null,
+   "number": "25",
+   "heading": "Restriction or Cancellation of Permits",
+   "text": "The Fire Chief or any other Fire Department Officer or Bylaw Enforcement Officer may require any person to extinguish open burning which has been set out, started or kindled in breach of any provision, condition or restriction of this Bylaw or any burning permit issued pursuant to this Bylaw."
+  },
+  {
+   "id": "chwk-5038-s26",
+   "part": null,
+   "division": null,
+   "number": "26",
+   "heading": "Restriction or Cancellation of Permits",
+   "text": "Where, in the opinion of the Fire Chief, hazardous open burning conditions develop or exist, or when an Air Quality Advisory or Bulletin is issued by Metro Vancouver, Fraser Valley Regional District or BC Ministry of Environment and Climate Change Strategy, or in the event of a public health emergency, the Fire Chief may, at any time, make an Order cancelling or suspending all or any permits issued pursuant to this Bylaw, or attaching to all or any such permits any conditions or restrictions as the Fire Chief may deem necessary."
+  },
+  {
+   "id": "chwk-5038-s27",
+   "part": null,
+   "division": null,
+   "number": "27",
+   "heading": "Restriction or Cancellation of Permits",
+   "text": "An Order made pursuant to Section 26 of this Bylaw shall be for such time as specified in the Order and shall become effective when it has been advertised on the City's website for 24 hours."
+  },
+  {
+   "id": "chwk-5038-s28",
+   "part": null,
+   "division": null,
+   "number": "28",
+   "heading": "Exemptions",
+   "text": "This Bylaw does not apply to the normal use of charcoal, gas fired or electric grills and barbecues for the purpose of cooking food or approved gas fuelled outdoor fireplaces or heaters."
+  },
+  {
+   "id": "chwk-5038-s29",
+   "part": null,
+   "division": null,
+   "number": "29",
+   "heading": "Exemptions",
+   "text": "This Bylaw does not apply to a campfire in a designated campground within the City of Chilliwack, but these campfires are subject to restrictions and/or prohibition at the discretion of the Fire Chief due to hazardous fire conditions or poor smoke dispersion."
+  },
+  {
+   "id": "chwk-5038-s30",
+   "part": null,
+   "division": null,
+   "number": "30",
+   "heading": "Exemptions",
+   "text": "This Bylaw does not apply to open burning set for the purpose of Fire Department \"Live Fire\" training exercises."
+  },
+  {
+   "id": "chwk-5038-s31",
+   "part": null,
+   "division": null,
+   "number": "31",
+   "heading": "Exemptions",
+   "text": "Diseased agricultural vegetative debris that meets the requirements and setbacks stipulated in Sections 24 and 25 of the Open Burning Smoke Control Regulation does not need to be seasoned and is exempt from the setback requirements in Sections 21(3) and 21(4) of this Bylaw."
+  },
+  {
+   "id": "chwk-5038-s32",
+   "part": null,
+   "division": null,
+   "number": "32",
+   "heading": "Liabilities for Damages",
+   "text": "This Bylaw shall not be construed to hold the City or its authorized agents responsible for any damage to persons or property by reason of a burning permit issued as herein provided or an inspection authorized by this Bylaw."
+  },
+  {
+   "id": "chwk-5038-s33",
+   "part": null,
+   "division": null,
+   "number": "33",
+   "heading": "Offence and Penalty",
+   "text": "Every person who violates or breaches, or who causes or allows to be violated or breached, any of the provisions of this Bylaw shall be guilty of an offence against this Bylaw and each day that such violation is caused or allowed to continue shall constitute a separate offence."
+  },
+  {
+   "id": "chwk-5038-s34",
+   "part": null,
+   "division": null,
+   "number": "34",
+   "heading": "Offence and Penalty",
+   "text": "Any person guilty of an infraction of this Bylaw shall be liable upon summary conviction to a fine or to imprisonment, or to both such fine and imprisonment, not exceeding the maximum allowed by the Offence Act, as amended."
+  },
+  {
+   "id": "chwk-5038-s35",
+   "part": null,
+   "division": null,
+   "number": "35",
+   "heading": "Offence and Penalty",
+   "text": "Any fee or charge authorized by this Bylaw may be entered upon the Assessment Roll as monies owning against the property and any such fee or charge remaining unpaid on December 31 of that year will be added to and form part of the taxes payable in respect of the property as taxes in arrears."
+  },
+  {
+   "id": "chwk-5038-s36",
+   "part": null,
+   "division": null,
+   "number": "36",
+   "heading": "Offence and Penalty",
+   "text": "Any person who contravenes any of the provisions of this Bylaw, in addition to any other penalty provided for pursuant to this Bylaw, shall be liable to the City for the cost of fighting any fire which causes damage to lands or property as a result of such contravention, and the same may be recovered by action in any Court of competent jurisdiction at suit of the City."
+  },
+  {
+   "id": "chwk-5038-s37",
+   "part": null,
+   "division": null,
+   "number": "37",
+   "heading": "Severability",
+   "text": "If any portion of this Bylaw is held invalid by a Court of competent jurisdiction, then that invalid portion shall be severed and the remainder of this Bylaw shall be deemed to have been adopted without the severed portion."
+  },
+  {
+   "id": "chwk-5038-sscha",
+   "part": null,
+   "division": null,
+   "number": "Sch. A",
+   "heading": "Schedule \"A\" — Open Burning Permit Fee Schedule",
+   "text": "1. General Burning Permit: $35.00\nRequired for all open burning, where and when permitted in accordance with this Bylaw, and is valid for a single two-month burning period only."
+  },
+  {
+   "id": "chwk-5038-sschb",
+   "part": null,
+   "division": null,
+   "number": "Sch. B",
+   "heading": "Schedule \"B\" — Map of Peat Soils",
+   "text": "Map of Peat Soils. [Schedule \"B\" of the bylaw is a map identifying local peat-soil areas (referenced by s.23); it is an image in the bylaw PDF and is not reproducible as text.]"
+  }
+ ]
+}

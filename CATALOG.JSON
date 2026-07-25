@@ -1,6 +1,6 @@
 {
- "catalogVersion": 7,
- "updatedAt": "2026-07-23T00:00:00Z",
+ "catalogVersion": 8,
+ "updatedAt": "2026-07-24T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -158,6 +158,19 @@
    "version": 4,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CRIMINALCODE.JSON",
    "sizeKB": 3077
+  },
+  {
+   "id": "bc-chilliwack-open-burning",
+   "shortName": "Open Burning",
+   "fullName": "Open Burning Bylaw (Chilliwack)",
+   "jurisdiction": "bc",
+   "municipality": "Chilliwack",
+   "licenceName": "City of Chilliwack Bylaw 5038",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL%205038%20-%20New%20Open%20Burning%20Bylaw.pdf",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-OPEN-BURNING",
+   "version": 1,
+   "sizeKB": 89,
+   "changeNote": "new statute — Chilliwack Open Burning Bylaw 2021, No. 5038 (v1)"
   }
  ]
 }
