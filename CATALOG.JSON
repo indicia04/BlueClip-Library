@@ -1,6 +1,6 @@
 {
- "catalogVersion": 9,
- "updatedAt": "2026-07-24T00:00:00Z",
+ "catalogVersion": 10,
+ "updatedAt": "2026-07-25T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -173,6 +173,19 @@
    "version": 1,
    "sizeKB": 89,
    "changeNote": "new statute — Chilliwack Open Burning Bylaw 2021, No. 5038 (v1)"
+  },
+  {
+   "id": "bc-cannabis-control",
+   "shortName": "Cannabis Control",
+   "fullName": "Cannabis Control and Licensing Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Cannabis Control and Licensing Act, SBC 2018, c. 29",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-CANNABISCONTROL",
+   "version": 1,
+   "sizeKB": 271,
+   "changeNote": "new statute — Cannabis Control and Licensing Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
