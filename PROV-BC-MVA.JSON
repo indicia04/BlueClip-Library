@@ -1,8 +1,9 @@
 {
  "statuteID": "bc-motor-vehicle",
  "schemaVersion": 2,
- "version": 8,
- "updatedAt": "2026-07-23T00:00:00Z",
+ "version": 9,
+ "updatedAt": "2026-07-25T00:00:00Z",
+ "fullTextAct": "MVA",
  "fineSurcharge": {
   "percent": 15,
   "name": "Victim surcharge",

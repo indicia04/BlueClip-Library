@@ -1,5 +1,5 @@
 {
- "catalogVersion": 11,
+ "catalogVersion": 12,
  "updatedAt": "2026-07-25T00:00:00Z",
  "statutes": [
   {
@@ -9,9 +9,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 8,
+   "version": 9,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
-   "sizeKB": 1173
+   "sizeKB": 1173,
+   "changeNote": "Motor Vehicle Act — fix Act-text links for regulation offences"
   },
   {
    "id": "bc-liquor-control",
