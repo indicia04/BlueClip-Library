@@ -1,6 +1,6 @@
 {
- "catalogVersion": 13,
- "updatedAt": "2026-07-25T00:00:00Z",
+ "catalogVersion": 14,
+ "updatedAt": "2026-07-26T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -213,6 +213,19 @@
    "version": 1,
    "sizeKB": 282,
    "changeNote": "new statute — Child, Family and Community Service Act (BC), v1"
+  },
+  {
+   "id": "bc-mental-health",
+   "shortName": "Mental Health",
+   "fullName": "Mental Health Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Mental Health Act, RSBC 1996, c. 288",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-MENTALHEALTH",
+   "version": 1,
+   "sizeKB": 82,
+   "changeNote": "new statute — Mental Health Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
