@@ -1,0 +1,1382 @@
+{
+ "statuteID": "bc-electric-kick-scooter",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-07-26T00:00:00Z",
+ "fineSurcharge": {
+  "percent": 15,
+  "name": "Victim surcharge",
+  "rounding": "nearestDollar"
+ },
+ "sources": [
+  {
+   "name": "Electric Kick Scooter Pilot Project Regulation (B.C. Reg. 247/2023)",
+   "role": "regulation",
+   "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023",
+   "currentTo": "2026-07-21",
+   "dateLabel": "This consolidation is current to [date]",
+   "checkNote": "VERIFIED live 2026-07-26: 'consolidation current to July 21, 2026'. civix 247_2023 returns the full readable regulation (45 sections, 7 Parts). Made under the Motor Vehicle Act; self-repeals 2028-04-05. s.44 enumerates the offences; the regulation sets no fine amounts."
+  },
+  {
+   "name": "Violation Ticket Administration and Fines Regulation (B.C. Reg. 89/97)",
+   "role": "fines",
+   "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/89_97_01",
+   "currentTo": "2026-05-19",
+   "dateLabel": "Consolidation current to [date]",
+   "lastAmended": "2026-04-30",
+   "checkNote": "Schedule 3 (committed vtafr-89_97-2026-07-25.pdf, p.92): EKS s.19 helmet enumerated at base $25 / $29 ticketed; all other EKS contraventions ticket at the general Motor Vehicle Act offence rate base $95 / $109 ticketed. Base stored; app adds 15% surcharge."
+  },
+  {
+   "name": "Victim Surcharge Levy Regulation (B.C. Reg. 214/97)",
+   "role": "fines",
+   "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/10_214_97",
+   "currentTo": "2026-07-21",
+   "dateLabel": "This consolidation is current to [date]",
+   "checkNote": "VERIFIED live 2026-07-26 (committed victim-surcharge-levy-10_214_97-2026-07-26.html): s.2 — levy = fine x 0.15, rounded to nearest dollar, .50 up. Confirmed per row by VTAFR Schedule 3: $25->$4->$29, $95->$14->$109."
+  }
+ ],
+ "categories": [
+  {
+   "id": "eksWhereRide",
+   "title": "Where You Can Ride",
+   "symbol": "signpost.right.fill",
+   "tint": "#3E6E8A"
+  },
+  {
+   "id": "eksRiderDuties",
+   "title": "Rider Duties",
+   "symbol": "arrow.triangle.turn.up.right.diamond.fill",
+   "tint": "#B45309"
+  },
+  {
+   "id": "eksEquipment",
+   "title": "Helmet & Equipment",
+   "symbol": "checkmark.shield.fill",
+   "tint": "#15803D"
+  },
+  {
+   "id": "eksAge",
+   "title": "Age Limits",
+   "symbol": "figure.child",
+   "tint": "#DB2777"
+  },
+  {
+   "id": "eksCollision",
+   "title": "Collisions",
+   "symbol": "exclamationmark.triangle.fill",
+   "tint": "#B91C1C"
+  }
+ ],
+ "offences": [
+  {
+   "id": "EKSPPR:6:Operate an electric kick scooter where prohibited",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "6",
+   "act": "EKSPPR",
+   "title": "Operate an electric kick scooter where prohibited",
+   "bodyText": "A person must not operate an electric kick scooter on a highway except on a pilot project highway in accordance with this regulation.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "kick",
+    "prohibited"
+   ],
+   "modifiers": [
+    {
+     "id": "056c686b-7726-5bbb-96f7-6aa2966a4f39",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate an electric kick scooter wher…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:7(1):Operate an electric kick scooter under 16 years of age",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "7(1)",
+   "act": "EKSPPR",
+   "title": "Operate an electric kick scooter under 16 years of age",
+   "bodyText": "(1) A person under 16 years of age must not operate an electric kick scooter on a highway. (2) A parent or guardian of a person under 16 years of age must not authorize or knowingly permit the person to operate an electric kick scooter on a highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksAge",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "kick",
+    "years",
+    "age"
+   ],
+   "modifiers": [
+    {
+     "id": "79bcbd59-a58d-509d-a009-a4a39630f30e",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate an electric kick scooter unde…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:7(2):Allow a person under 16 to operate an electric kick scooter",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "7(2)",
+   "act": "EKSPPR",
+   "title": "Allow a person under 16 to operate an electric kick scooter",
+   "bodyText": "(1) A person under 16 years of age must not operate an electric kick scooter on a highway. (2) A parent or guardian of a person under 16 years of age must not authorize or knowingly permit the person to operate an electric kick scooter on a highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksAge",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "allow",
+    "person",
+    "operate",
+    "kick"
+   ],
+   "modifiers": [
+    {
+     "id": "5bf09b6f-7704-5a5c-be45-7b2acdb72a03",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Allow a person under 16 to operate an…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:9:Operate on a section 19.07 highway (within a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "9",
+   "act": "EKSPPR",
+   "title": "Operate on a section 19.07 highway (within a participating community)",
+   "bodyText": "If a pilot project highway located within a participating community is a section 19.07 highway, a person must not operate an electric kick scooter on the highway unless the transportation minister causes signs to be erected permitting the use of electric kick scooters on either of the following: (a) a footpath constructed adjacent to the travelled portion of the highway; (b) the shoulder of the travelled portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "section",
+    "highway",
+    "within",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "fca96c68-81c2-53e8-becd-1db488bcf5d4",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a section 19.07 highway (w…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:10(a):Operate outside the cycle lane where available (speed limit over 50 km/h)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "10(a)",
+   "act": "EKSPPR",
+   "title": "Operate outside the cycle lane where available (speed limit over 50 km/h)",
+   "bodyText": "If a pilot project highway located within a participating community has a speed limit of more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "outside",
+    "cycle",
+    "lane",
+    "available",
+    "speed"
+   ],
+   "modifiers": [
+    {
+     "id": "867756e1-0e6b-5ad3-b6ba-e5537dc1026f",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate outside the cycle lane where …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:10(b):Operate where not permitted by sign (speed limit over 50 km/h)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "10(b)",
+   "act": "EKSPPR",
+   "title": "Operate where not permitted by sign (speed limit over 50 km/h)",
+   "bodyText": "If a pilot project highway located within a participating community has a speed limit of more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "permitted",
+    "sign",
+    "speed",
+    "limit",
+    "over"
+   ],
+   "modifiers": [
+    {
+     "id": "67e059e6-660a-5626-bdcf-c9cbd420e554",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate where not permitted by sign (…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:11(a):Operate outside the cycle lane where available (speed limit 50 km/h or under)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "11(a)",
+   "act": "EKSPPR",
+   "title": "Operate outside the cycle lane where available (speed limit 50 km/h or under)",
+   "bodyText": "If a pilot project highway located within a participating community has a speed limit of not more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter as follows: (i) on another portion of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway; (ii) as near as practicable to the right side of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, does not require electric kick scooters to be operated on another portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "outside",
+    "cycle",
+    "lane",
+    "available",
+    "speed"
+   ],
+   "modifiers": [
+    {
+     "id": "4dc7bb6c-d9a4-5449-84b1-a56266c3bb07",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate outside the cycle lane where …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:11(b):Operate where not permitted (speed limit 50 km/h or under)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "11(b)",
+   "act": "EKSPPR",
+   "title": "Operate where not permitted (speed limit 50 km/h or under)",
+   "bodyText": "If a pilot project highway located within a participating community has a speed limit of not more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter as follows: (i) on another portion of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway; (ii) as near as practicable to the right side of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, does not require electric kick scooters to be operated on another portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "permitted",
+    "speed",
+    "limit"
+   ],
+   "modifiers": [
+    {
+     "id": "7db8fadd-1c5b-59d3-98f6-9ae88244bba3",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate where not permitted (speed li…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:12:Operate on a sidewalk (within a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "12",
+   "act": "EKSPPR",
+   "title": "Operate on a sidewalk (within a participating community)",
+   "bodyText": "A person must not operate an electric kick scooter on the sidewalk of a pilot project highway located within a participating community unless (a) a traffic control device of the participating community permits the operation of cycles or electric kick scooters on the sidewalk, or (b) a traffic control device of the transportation minister permits the operation of electric kick scooters on the sidewalk.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "sidewalk",
+    "within",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "d295c423-f9cb-54fc-9b6e-0eaf9fae4865",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a sidewalk (within a parti…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:13:Operate on a crosswalk (within a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "13",
+   "act": "EKSPPR",
+   "title": "Operate on a crosswalk (within a participating community)",
+   "bodyText": "A person must not operate an electric kick scooter on the crosswalk of a pilot project highway located within a participating community unless (a) a traffic control device of the participating community permits the operation of cycles or electric kick scooters on the crosswalk, or (b) a traffic control device of the transportation minister permits the operation of electric kick scooters on the crosswalk.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "crosswalk",
+    "within",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "0dae191a-faff-53fb-8207-ac8b11aea042",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a crosswalk (within a part…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:15:Operate on a section 19.07 highway (outside a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "15",
+   "act": "EKSPPR",
+   "title": "Operate on a section 19.07 highway (outside a participating community)",
+   "bodyText": "If a pilot project highway located outside a participating community is a section 19.07 highway, a person must not operate an electric kick scooter on the highway unless the transportation minister causes signs to be erected permitting the use of electric kick scooters on either of the following: (a) a footpath constructed adjacent to the travelled portion of the highway; (b) the shoulder of the travelled portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "section",
+    "highway",
+    "outside",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "3f4e6c48-81b9-5395-a946-96fca9e4edab",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a section 19.07 highway (o…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:16(a):Operate outside the cycle lane where available (outside a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "16(a)",
+   "act": "EKSPPR",
+   "title": "Operate outside the cycle lane where available (outside a participating community)",
+   "bodyText": "A person may operate an electric kick scooter on a pilot project highway located outside a participating community as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "outside",
+    "cycle",
+    "lane",
+    "available",
+    "participating"
+   ],
+   "modifiers": [
+    {
+     "id": "b7e90b31-23a9-5c52-bb25-e61485af64ef",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate outside the cycle lane where …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:16(b):Operate where not permitted (outside a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "16(b)",
+   "act": "EKSPPR",
+   "title": "Operate where not permitted (outside a participating community)",
+   "bodyText": "A person may operate an electric kick scooter on a pilot project highway located outside a participating community as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "permitted",
+    "outside",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "ca3b13a8-4331-550e-9260-3b8899b298c2",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate where not permitted (outside …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:17:Operate on a sidewalk (outside a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "17",
+   "act": "EKSPPR",
+   "title": "Operate on a sidewalk (outside a participating community)",
+   "bodyText": "A person must not operate an electric kick scooter on the sidewalk of a pilot project highway located outside a participating community unless a traffic control device of the transportation minister permits the operation of electric kick scooters on the sidewalk.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "sidewalk",
+    "outside",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "f666055b-718a-5512-93f0-d9929b9943f2",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a sidewalk (outside a part…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:18:Operate on a crosswalk (outside a participating community)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "18",
+   "act": "EKSPPR",
+   "title": "Operate on a crosswalk (outside a participating community)",
+   "bodyText": "A person must not operate an electric kick scooter on the crosswalk of a pilot project highway located outside a participating community unless a traffic control device of the transportation minister permits the operation of electric kick scooters on the crosswalk.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksWhereRide",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "crosswalk",
+    "outside",
+    "participating",
+    "community"
+   ],
+   "modifiers": [
+    {
+     "id": "0229a1df-d228-5822-a346-5ea09cf37c2d",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate on a crosswalk (outside a par…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:19:Operate without a required safety helmet",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "19",
+   "act": "EKSPPR",
+   "title": "Operate without a required safety helmet",
+   "bodyText": "Unless exempted by a regulation made for the purposes of section 184 (6) (b) [bicycle safety helmets] of the Act, a person who operates an electric kick scooter on a pilot project highway must properly wear a bicycle safety helmet that meets the requirements under section 184 (1) (a) or (b) of the Act.",
+   "fine": 25,
+   "points": 0,
+   "category": "eksEquipment",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "without",
+    "required",
+    "safety",
+    "helmet"
+   ],
+   "modifiers": [],
+   "shortForm": "Operate without a required safety helmet",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:20:Fail in the duty to warn a pedestrian (bell or horn)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "20",
+   "act": "EKSPPR",
+   "title": "Fail in the duty to warn a pedestrian (bell or horn)",
+   "bodyText": "A person operating an electric kick scooter on a pilot project highway must sound the bell or horn that the electric kick scooter is required to be equipped with under section 35 [bell or horn required] if (a) it is reasonably necessary to do so in order to notify a pedestrian that the electric kick scooter is approaching the pedestrian, or (b) the person intends to pass a pedestrian.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "duty",
+    "warn",
+    "pedestrian",
+    "bell",
+    "horn"
+   ],
+   "modifiers": [
+    {
+     "id": "229f06a3-f535-5232-8a45-8ad5b4813dc1",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail in the duty to warn a pedestrian…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:21:Fail in the duty to warn other devices (bell or horn)",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "21",
+   "act": "EKSPPR",
+   "title": "Fail in the duty to warn other devices (bell or horn)",
+   "bodyText": "(1) A person operating an electric kick scooter on a pilot project highway must sound the bell or horn that the electric kick scooter is required to be equipped with under section 35 [bell or horn required] if (a) it is reasonably necessary to do so in order to notify the operator of a cycle or other device that the electric kick scooter is approaching the operator of the cycle or other device, or (b) the person intends to pass a cycle or other device. (2) A person operating an electric kick scooter on the roadway portion of a pilot project highway must not operate the electric kick scooter abreast of another person who is operating a cycle, electric kick scooter or other device.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "duty",
+    "warn",
+    "other",
+    "devices",
+    "bell"
+   ],
+   "modifiers": [
+    {
+     "id": "37f0b06e-75eb-5328-8c88-c13dc7703eb2",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail in the duty to warn other device…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:22:Fail to signal a right turn",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "22",
+   "act": "EKSPPR",
+   "title": "Fail to signal a right turn",
+   "bodyText": "(1) In this section and section 23 [duty to signal left turn] , \"turn signal lights\" means red, yellow or white turn signal lights that are visible from both behind and in front of an electric kick scooter. (2) If a person operating an electric kick scooter on a pilot project highway intends to turn right and the electric kick scooter is not equipped with turn signal lights, the person must signify the right turn by doing either of the following: (a) extending the person's left hand and arm out and upward from the electric kick scooter so that the upper and lower parts of the arm are at right angles; (b) extending the person's right hand and arm horizontally from the electric kick scooter. (3) If a person operating an electric kick scooter on a pilot project highway intends to turn right and the electric kick scooter is equipped with turn signal lights, the person must signify the right turn by doing either of the following: (a) activating the right turn signal light; (b) extending the person's hand and arm in the manner described in subsection (2) (a) or (b).",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "signal",
+    "right",
+    "turn"
+   ],
+   "modifiers": [
+    {
+     "id": "f6c8c2a8-bf02-5c46-a08a-9aa94be400a3",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail to signal a right turn",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:23:Fail to signal a left turn",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "23",
+   "act": "EKSPPR",
+   "title": "Fail to signal a left turn",
+   "bodyText": "(1) If a person operating an electric kick scooter on a pilot project highway intends to turn left and the electric kick scooter is not equipped with turn signal lights, the person must signify the left turn by extending the person's left hand and arm horizontally from the electric kick scooter. (2) If a person operating an electric kick scooter on a pilot project highway intends to turn left and the electric kick scooter is equipped with turn signal lights, the person must signify the left turn by doing either of the following: (a) activating the left turn signal light; (b) extending the person's left hand and arm in the manner described in subsection (1).",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "signal",
+    "left",
+    "turn"
+   ],
+   "modifiers": [
+    {
+     "id": "2129669d-bfab-5e56-b1c9-dfb347c7e349",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail to signal a left turn",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:24:Fail to make a hook turn to turn left at an intersection",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "24",
+   "act": "EKSPPR",
+   "title": "Fail to make a hook turn to turn left at an intersection",
+   "bodyText": "(1) Subject to subsection (2), if a person operating an electric kick scooter on a pilot project highway intends to turn left at an intersection, the person must cause the electric kick scooter to make a hook turn as follows: (a) first, approach and enter the intersection in the portion of the highway that is as near as practicable to the right side of the highway; (b) second, proceed through the intersection, keeping as near as practicable to the right side of the intersection; (c) third, after reaching the other side of the intersection, stop and become positioned in the intended direction of travel; (d) fourth, enter and proceed through the intersection as described in paragraphs (a) and (b). (2) If it is not practicable or safe for the person referred to in subsection (1) to make a hook turn at the intersection, the person must dismount the electric kick scooter and cross the intersection in accordance with provisions under the Act applicable to pedestrians.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "make",
+    "hook",
+    "turn",
+    "left",
+    "intersection"
+   ],
+   "modifiers": [
+    {
+     "id": "149e7bdf-5db0-5172-acbd-abaf013b3386",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail to make a hook turn to turn left…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:25:Fail to signal a stop or decrease in speed",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "25",
+   "act": "EKSPPR",
+   "title": "Fail to signal a stop or decrease in speed",
+   "bodyText": "(1) If a person operating an electric kick scooter on a pilot project highway intends to stop or decrease the speed of the electric kick scooter, the person must signify the stop or decrease in speed by extending the person's left hand and arm out and downward from the electric kick scooter so that the upper and lower parts of the arm are at right angles. (2) Subsection (1) does not apply if (a) the electric kick scooter is equipped with a visible red light at the rear, and (b) the visible red light is activated when the person applies the brakes.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "signal",
+    "stop",
+    "decrease",
+    "speed"
+   ],
+   "modifiers": [
+    {
+     "id": "a8e7a377-c239-52f3-88dc-37fa43f27978",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail to signal a stop or decrease in …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:26(a):Transport a passenger on an electric kick scooter",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "26(a)",
+   "act": "EKSPPR",
+   "title": "Transport a passenger on an electric kick scooter",
+   "bodyText": "A person operating an electric kick scooter on a pilot project highway must not do any of the following: (a) transport another person on the electric kick scooter; (b) use the electric kick scooter (i) to tow another person, or (ii) to tow a vehicle, cycle or other device; (c) use the electric kick scooter to be towed by a cycle or other device.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "transport",
+    "passenger",
+    "kick"
+   ],
+   "modifiers": [
+    {
+     "id": "7b3d118b-6197-5c57-b442-c7594d12b474",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Transport a passenger on an electric …",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:26(b):Tow a person or device with an electric kick scooter",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "26(b)",
+   "act": "EKSPPR",
+   "title": "Tow a person or device with an electric kick scooter",
+   "bodyText": "A person operating an electric kick scooter on a pilot project highway must not do any of the following: (a) transport another person on the electric kick scooter; (b) use the electric kick scooter (i) to tow another person, or (ii) to tow a vehicle, cycle or other device; (c) use the electric kick scooter to be towed by a cycle or other device.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "tow",
+    "person",
+    "device",
+    "kick"
+   ],
+   "modifiers": [
+    {
+     "id": "5d503cd0-5dfa-556d-8e76-1b4b23c94569",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Tow a person or device with an electr…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:26(c):Operate an electric kick scooter while being towed",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "26(c)",
+   "act": "EKSPPR",
+   "title": "Operate an electric kick scooter while being towed",
+   "bodyText": "A person operating an electric kick scooter on a pilot project highway must not do any of the following: (a) transport another person on the electric kick scooter; (b) use the electric kick scooter (i) to tow another person, or (ii) to tow a vehicle, cycle or other device; (c) use the electric kick scooter to be towed by a cycle or other device.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "kick",
+    "while",
+    "being",
+    "towed"
+   ],
+   "modifiers": [
+    {
+     "id": "5a88a61f-c818-56b2-93eb-58f39ce8b6d6",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate an electric kick scooter whil…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:27:Operate without due care and attention",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "27",
+   "act": "EKSPPR",
+   "title": "Operate without due care and attention",
+   "bodyText": "A person must not operate an electric kick scooter on a pilot project highway (a) without due care and attention, or (b) without reasonable consideration for other persons using the highway.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "without",
+    "due",
+    "care",
+    "attention"
+   ],
+   "modifiers": [
+    {
+     "id": "16303371-b05d-5461-b643-ef65154c08cb",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate without due care and attention",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:28:Operate while not in a standing position",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "28",
+   "act": "EKSPPR",
+   "title": "Operate while not in a standing position",
+   "bodyText": "A person operating an electric kick scooter on a pilot project highway (a) must be in a standing position on the platform of the electric kick scooter, and (b) must keep at least one hand on the steering handlebar of the electric kick scooter.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "while",
+    "standing",
+    "position"
+   ],
+   "modifiers": [
+    {
+     "id": "3dba5414-2841-5561-8fe5-3630727263a8",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate while not in a standing position",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:29:Leave an electric kick scooter in traffic",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "29",
+   "act": "EKSPPR",
+   "title": "Leave an electric kick scooter in traffic",
+   "bodyText": "A person operating an electric kick scooter must not leave the electric kick scooter attended or unattended in a location intended for the movement of traffic.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksRiderDuties",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "leave",
+    "kick",
+    "traffic"
+   ],
+   "modifiers": [
+    {
+     "id": "d07cdf7c-ff50-5bf4-bc8d-f3b889458d41",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Leave an electric kick scooter in tra…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:31:Operate an electric kick scooter that does not meet requirements",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "31",
+   "act": "EKSPPR",
+   "title": "Operate an electric kick scooter that does not meet requirements",
+   "bodyText": "A person must not operate an electric kick scooter on a pilot project highway unless the electric kick scooter meets all of the requirements set out in this Part.",
+   "fine": 95,
+   "points": 0,
+   "category": "eksEquipment",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "operate",
+    "kick",
+    "does",
+    "meet",
+    "requirements"
+   ],
+   "modifiers": [
+    {
+     "id": "c4c9be56-2ba4-5d39-94d8-99d7d6371b7b",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Operate an electric kick scooter that…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  },
+  {
+   "id": "EKSPPR:39:Fail to comply with operator duties at a collision",
+   "statuteID": "bc-electric-kick-scooter",
+   "section": "39",
+   "act": "EKSPPR",
+   "title": "Fail to comply with operator duties at a collision",
+   "bodyText": "If a person is injured, or property is damaged, as a direct or indirect result of an accident that occurs due to the presence or operation of an electric kick scooter on a highway, the operator must do the following: (a) remain at or immediately return to the scene of the accident; (b) render all possible assistance; (c) give to a person who sustains loss or injury (i) the operator's name and address, (ii) the name and address of the owner of the electric kick scooter, and (iii) the name and address of any person who is leasing or renting the electric kick scooter under a written agreement for a period of not less than one month. [am. B.C. Reg. 114/2024, App. 4.]",
+   "fine": 95,
+   "points": 0,
+   "category": "eksCollision",
+   "keywords": [
+    "electric kick scooter",
+    "e-scooter",
+    "scooter",
+    "fail",
+    "comply",
+    "operator",
+    "duties",
+    "collision"
+   ],
+   "modifiers": [
+    {
+     "id": "8b4da119-641e-5faa-9d81-50a31f955c5c",
+     "label": "Reduced fine if paid within 30 days",
+     "fineMultiplier": null,
+     "flatFine": 70,
+     "note": "Early-payment amount if the violation ticket is paid within 30 days (before victim surcharge, ticketed total $84)."
+    }
+   ],
+   "shortForm": "Fail to comply with operator duties a…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023"
+  }
+ ],
+ "fullText": [
+  {
+   "id": "eks-s1",
+   "number": "1",
+   "text": "In this regulation: \"Act\" means the Motor Vehicle Act ; \"cycle lane\" means a portion of a highway designated for use of persons operating cycles, either exclusively or alongside one or more of the following: (a) persons operating designated personal mobility devices; (b) persons on skateboards, kick scooters, roller skates, in-line roller skates or other devices that are only capable of being propelled by human power; \"electric kick scooter\" means a device that meets all of the criteria set out in section 3 [electric kick scooter criteria] ; \"participating community\" means the following, as applicable: (a) the Nisg̱a'a Government or Nisg̱a'a Lands, but only if the pilot project is authorized, under section 306 (1) [pilot projects within Nisg̱a'a Lands] of the Act, to take place on highways within Nisg̱a'a Lands; (b) a treaty first nation or the treaty lands of the treaty first nation, but only if the pilot project is authorized, under section 306 (2) [pilot projects within treaty lands] of the Act, to take place on highways within the treaty lands; (c) a municipality, but only if the pilot project is authorized, under section 307 [opt-in pilot projects in municipalities] of the Act, to take place within the municipality; \"pilot project\" means the pilot project established under section 4 (1) [Electric Kick Scooter Pilot Project established] ; \"pilot project highway\" has the meaning set out in section 5 [meaning of \"pilot project highway\"] ; \"section 19.07 highway\" means a highway named in Schedule 1 of section 19.07 [schedule 1 highways restrictions] of the Motor Vehicle Act Regulations; \"transportation minister\" means the minister responsible for the administration of the Transportation Act .",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Definitions"
+  },
+  {
+   "id": "eks-s2",
+   "number": "2",
+   "text": "(1) If a word or expression used in this regulation is defined in section 119 [definitions for Part 3] of the Act, the word or expression has the same meaning as in that section. (2) For certainty, in this regulation, \"traffic control device\" , in relation to a participating community or the transportation minister, includes a traffic control device placed or erected by a person authorized by the participating community or transportation minister.",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Definitions in section 119 of Act apply"
+  },
+  {
+   "id": "eks-s3",
+   "number": "3",
+   "text": "(1) An electric kick scooter is a device that (a) is designed to be (i) solely self-propelled, or (ii) self-propelled with the capability to be propelled by human power, (b) has up to 4 wheels, each of which is not more than 430 mm in diameter, placed along a longitudinal axis, with one to 2 wheels at the front of the device and one to 2 wheels at the rear, (c) has a platform for standing along the longitudinal axis between the front wheels and the back wheels of the device and is designed to be operated while the operator is standing on the platform, (d) has a steering handlebar that acts directly on the steerable wheels at the front of the device, (e) is designed to transport one person, (f) is not a motor assisted cycle or another device that has pedals, and (g) does not have (i) a seat, or a surface or structure that could be used as a seat, or (ii) a structure that encloses the electric kick scooter. (2) In addition to the criteria set out in subsection (1), the device must have one or more electric motors that (a) are powered solely by one or more electric batteries, (b) are not capable of propelling the device at a speed exceeding 25 km/h when the device is being operated on a clean, paved and level surface, and (c) have a continuous power output rating that, in total, does not exceed 500 W.",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Electric kick scooter criteria"
+  },
+  {
+   "id": "eks-s4",
+   "number": "4",
+   "text": "(1) The Electric Kick Scooter Pilot Project is established for the purposes of researching, testing and evaluating the regulation of electric kick scooters. (2) The pilot project is a province-wide pilot project. (3) For the purposes of the pilot project, an electric kick scooter is deemed to be a designated personal mobility device.",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Electric Kick Scooter Pilot Project established"
+  },
+  {
+   "id": "eks-s5",
+   "number": "5",
+   "text": "A pilot project highway is any highway or portion of a highway located within the Province, other than the following: (a) a highway or portion of a highway located within Nisg̱a'a Lands, unless the Nisg̱a'a Government is a participating community; (b) a highway or portion of a highway located within the treaty lands of a treaty first nation, unless the treaty first nation is a participating community; (c) a highway or portion of a highway located within a municipality, unless the municipality is a participating community; (d) a structure, portion of a structure or approach to a structure in relation to which any of the following provisions of the Provincial Public Undertakings Regulation under the Transportation Act apply: (i) section 3 [farm vehicles, bicycles and pedestrians] ; (ii) section 4 [slow vehicles and bicycles] ; (iii) section 9 [prohibited vehicles, bicycles and tire chains] ; (e) a highway or portion of a highway on which the operation of electric kick scooters is prohibited by (i) a traffic control device, law or bylaw referred to in section 8 [prohibited highways located within participating communities] , or (ii) a traffic control device referred to in section 14 [prohibited highways located outside participating communities] .",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Meaning of \"pilot project highway\""
+  },
+  {
+   "id": "eks-s6",
+   "number": "6",
+   "text": "A person must not operate an electric kick scooter on a highway except on a pilot project highway in accordance with this regulation.",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Operation prohibited except on pilot project highways"
+  },
+  {
+   "id": "eks-s7",
+   "number": "7",
+   "text": "(1) A person under 16 years of age must not operate an electric kick scooter on a highway. (2) A parent or guardian of a person under 16 years of age must not authorize or knowingly permit the person to operate an electric kick scooter on a highway.",
+   "part": "Part 1 — Interpretation, Establishment of Pilot Project and General Prohibitions",
+   "division": null,
+   "heading": "Operation prohibited if under 16 years of age"
+  },
+  {
+   "id": "eks-s8",
+   "number": "8",
+   "text": "Despite any other provision of this Part, the operation of electric kick scooters on a highway or portion of a highway located within a participating community may be prohibited by (a) a traffic control device of the transportation minister, or (b) a traffic control device, law or bylaw of the participating community.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Prohibited highways located within participating communities"
+  },
+  {
+   "id": "eks-s9",
+   "number": "9",
+   "text": "If a pilot project highway located within a participating community is a section 19.07 highway, a person must not operate an electric kick scooter on the highway unless the transportation minister causes signs to be erected permitting the use of electric kick scooters on either of the following: (a) a footpath constructed adjacent to the travelled portion of the highway; (b) the shoulder of the travelled portion of the highway.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Section 19.07 highways located within participating communities"
+  },
+  {
+   "id": "eks-s10",
+   "number": "10",
+   "text": "If a pilot project highway located within a participating community has a speed limit of more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Highways that have speed limit over 50 km/h"
+  },
+  {
+   "id": "eks-s11",
+   "number": "11",
+   "text": "If a pilot project highway located within a participating community has a speed limit of not more than 50 km/h, a person may operate an electric kick scooter on the highway as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter as follows: (i) on another portion of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, permits or requires electric kick scooters to be operated on the other portion of the highway; (ii) as near as practicable to the right side of the highway, if a traffic control device of the transportation minister, or a traffic control device, law or bylaw of the participating community, does not require electric kick scooters to be operated on another portion of the highway.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Highways that have speed limit not over 50 km/h"
+  },
+  {
+   "id": "eks-s12",
+   "number": "12",
+   "text": "A person must not operate an electric kick scooter on the sidewalk of a pilot project highway located within a participating community unless (a) a traffic control device of the participating community permits the operation of cycles or electric kick scooters on the sidewalk, or (b) a traffic control device of the transportation minister permits the operation of electric kick scooters on the sidewalk.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Sidewalks located within participating communities"
+  },
+  {
+   "id": "eks-s13",
+   "number": "13",
+   "text": "A person must not operate an electric kick scooter on the crosswalk of a pilot project highway located within a participating community unless (a) a traffic control device of the participating community permits the operation of cycles or electric kick scooters on the crosswalk, or (b) a traffic control device of the transportation minister permits the operation of electric kick scooters on the crosswalk.",
+   "part": "Part 2 — Operating Electric Kick Scooters in Participating Communities",
+   "division": null,
+   "heading": "Crosswalks located within participating communities"
+  },
+  {
+   "id": "eks-s14",
+   "number": "14",
+   "text": "Despite any other provision of this Part, a traffic control device of the transportation minister may prohibit the operation of electric kick scooters on a highway or portion of a highway located outside the following areas: (a) Nisg̱a'a Lands; (b) the treaty lands of a treaty first nation; (c) a municipality.",
+   "part": "Part 3 — Operating Electric Kick Scooters Outside Participating Communities",
+   "division": null,
+   "heading": "Prohibited highways located outside participating communities"
+  },
+  {
+   "id": "eks-s15",
+   "number": "15",
+   "text": "If a pilot project highway located outside a participating community is a section 19.07 highway, a person must not operate an electric kick scooter on the highway unless the transportation minister causes signs to be erected permitting the use of electric kick scooters on either of the following: (a) a footpath constructed adjacent to the travelled portion of the highway; (b) the shoulder of the travelled portion of the highway.",
+   "part": "Part 3 — Operating Electric Kick Scooters Outside Participating Communities",
+   "division": null,
+   "heading": "Section 19.07 highways located outside participating communities"
+  },
+  {
+   "id": "eks-s16",
+   "number": "16",
+   "text": "A person may operate an electric kick scooter on a pilot project highway located outside a participating community as follows: (a) if the highway has a cycle lane, the person must operate the electric kick scooter in the cycle lane; (b) if the highway does not have a cycle lane, or if the operation of electric kick scooters is prohibited in the cycle lane, the person may operate the electric kick scooter on another portion of the highway, but only if a traffic control device of the transportation minister permits or requires electric kick scooters to be operated on the other portion of the highway.",
+   "part": "Part 3 — Operating Electric Kick Scooters Outside Participating Communities",
+   "division": null,
+   "heading": "Other highways located outside participating communities"
+  },
+  {
+   "id": "eks-s17",
+   "number": "17",
+   "text": "A person must not operate an electric kick scooter on the sidewalk of a pilot project highway located outside a participating community unless a traffic control device of the transportation minister permits the operation of electric kick scooters on the sidewalk.",
+   "part": "Part 3 — Operating Electric Kick Scooters Outside Participating Communities",
+   "division": null,
+   "heading": "Sidewalks located outside participating communities"
+  },
+  {
+   "id": "eks-s18",
+   "number": "18",
+   "text": "A person must not operate an electric kick scooter on the crosswalk of a pilot project highway located outside a participating community unless a traffic control device of the transportation minister permits the operation of electric kick scooters on the crosswalk.",
+   "part": "Part 3 — Operating Electric Kick Scooters Outside Participating Communities",
+   "division": null,
+   "heading": "Crosswalks located outside participating communities"
+  },
+  {
+   "id": "eks-s19",
+   "number": "19",
+   "text": "Unless exempted by a regulation made for the purposes of section 184 (6) (b) [bicycle safety helmets] of the Act, a person who operates an electric kick scooter on a pilot project highway must properly wear a bicycle safety helmet that meets the requirements under section 184 (1) (a) or (b) of the Act.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duty to wear safety helmet"
+  },
+  {
+   "id": "eks-s20",
+   "number": "20",
+   "text": "A person operating an electric kick scooter on a pilot project highway must sound the bell or horn that the electric kick scooter is required to be equipped with under section 35 [bell or horn required] if (a) it is reasonably necessary to do so in order to notify a pedestrian that the electric kick scooter is approaching the pedestrian, or (b) the person intends to pass a pedestrian.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Operation near pedestrians"
+  },
+  {
+   "id": "eks-s21",
+   "number": "21",
+   "text": "(1) A person operating an electric kick scooter on a pilot project highway must sound the bell or horn that the electric kick scooter is required to be equipped with under section 35 [bell or horn required] if (a) it is reasonably necessary to do so in order to notify the operator of a cycle or other device that the electric kick scooter is approaching the operator of the cycle or other device, or (b) the person intends to pass a cycle or other device. (2) A person operating an electric kick scooter on the roadway portion of a pilot project highway must not operate the electric kick scooter abreast of another person who is operating a cycle, electric kick scooter or other device.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Operation near other devices"
+  },
+  {
+   "id": "eks-s22",
+   "number": "22",
+   "text": "(1) In this section and section 23 [duty to signal left turn] , \"turn signal lights\" means red, yellow or white turn signal lights that are visible from both behind and in front of an electric kick scooter. (2) If a person operating an electric kick scooter on a pilot project highway intends to turn right and the electric kick scooter is not equipped with turn signal lights, the person must signify the right turn by doing either of the following: (a) extending the person's left hand and arm out and upward from the electric kick scooter so that the upper and lower parts of the arm are at right angles; (b) extending the person's right hand and arm horizontally from the electric kick scooter. (3) If a person operating an electric kick scooter on a pilot project highway intends to turn right and the electric kick scooter is equipped with turn signal lights, the person must signify the right turn by doing either of the following: (a) activating the right turn signal light; (b) extending the person's hand and arm in the manner described in subsection (2) (a) or (b).",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duty to signal right turn"
+  },
+  {
+   "id": "eks-s23",
+   "number": "23",
+   "text": "(1) If a person operating an electric kick scooter on a pilot project highway intends to turn left and the electric kick scooter is not equipped with turn signal lights, the person must signify the left turn by extending the person's left hand and arm horizontally from the electric kick scooter. (2) If a person operating an electric kick scooter on a pilot project highway intends to turn left and the electric kick scooter is equipped with turn signal lights, the person must signify the left turn by doing either of the following: (a) activating the left turn signal light; (b) extending the person's left hand and arm in the manner described in subsection (1).",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duty to signal left turn"
+  },
+  {
+   "id": "eks-s24",
+   "number": "24",
+   "text": "(1) Subject to subsection (2), if a person operating an electric kick scooter on a pilot project highway intends to turn left at an intersection, the person must cause the electric kick scooter to make a hook turn as follows: (a) first, approach and enter the intersection in the portion of the highway that is as near as practicable to the right side of the highway; (b) second, proceed through the intersection, keeping as near as practicable to the right side of the intersection; (c) third, after reaching the other side of the intersection, stop and become positioned in the intended direction of travel; (d) fourth, enter and proceed through the intersection as described in paragraphs (a) and (b). (2) If it is not practicable or safe for the person referred to in subsection (1) to make a hook turn at the intersection, the person must dismount the electric kick scooter and cross the intersection in accordance with provisions under the Act applicable to pedestrians.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duty to make hook turn to turn left at intersection"
+  },
+  {
+   "id": "eks-s25",
+   "number": "25",
+   "text": "(1) If a person operating an electric kick scooter on a pilot project highway intends to stop or decrease the speed of the electric kick scooter, the person must signify the stop or decrease in speed by extending the person's left hand and arm out and downward from the electric kick scooter so that the upper and lower parts of the arm are at right angles. (2) Subsection (1) does not apply if (a) the electric kick scooter is equipped with a visible red light at the rear, and (b) the visible red light is activated when the person applies the brakes.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duty to signal stop or decrease in speed"
+  },
+  {
+   "id": "eks-s26",
+   "number": "26",
+   "text": "A person operating an electric kick scooter on a pilot project highway must not do any of the following: (a) transport another person on the electric kick scooter; (b) use the electric kick scooter (i) to tow another person, or (ii) to tow a vehicle, cycle or other device; (c) use the electric kick scooter to be towed by a cycle or other device.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Passengers and towing prohibited"
+  },
+  {
+   "id": "eks-s27",
+   "number": "27",
+   "text": "A person must not operate an electric kick scooter on a pilot project highway (a) without due care and attention, or (b) without reasonable consideration for other persons using the highway.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Operating without due care and attention prohibited"
+  },
+  {
+   "id": "eks-s28",
+   "number": "28",
+   "text": "A person operating an electric kick scooter on a pilot project highway (a) must be in a standing position on the platform of the electric kick scooter, and (b) must keep at least one hand on the steering handlebar of the electric kick scooter.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Operator must be in standing position"
+  },
+  {
+   "id": "eks-s29",
+   "number": "29",
+   "text": "A person operating an electric kick scooter must not leave the electric kick scooter attended or unattended in a location intended for the movement of traffic.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Leaving electric kick scooter in traffic prohibited"
+  },
+  {
+   "id": "eks-s30",
+   "number": "30",
+   "text": "Except as otherwise provided in this regulation, a person operating an electric kick scooter on a pilot project highway has the same rights and duties under Part 3 of the Act that apply to the driver of a vehicle.",
+   "part": "Part 4 — Duties of Operator",
+   "division": null,
+   "heading": "Duties under Part 3 of Act apply"
+  },
+  {
+   "id": "eks-s31",
+   "number": "31",
+   "text": "A person must not operate an electric kick scooter on a pilot project highway unless the electric kick scooter meets all of the requirements set out in this Part.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Operation prohibited unless electric kick scooter meets requirements"
+  },
+  {
+   "id": "eks-s32",
+   "number": "32",
+   "text": "The weight of the electric kick scooter, including its motors and batteries, must not be more than 45 kg when the electric kick scooter is unladen.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Weight restriction"
+  },
+  {
+   "id": "eks-s33",
+   "number": "33",
+   "text": "(1) The motors of the electric kick scooter must cease to propel the electric kick scooter forward when the operator releases the accelerator or applies the brakes. (2) The batteries and motors of the electric kick scooter must be securely fastened to the electric kick scooter in order to prevent the batteries and motors from moving, relative to the electric kick scooter, when the electric kick scooter is operating.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Motors and batteries"
+  },
+  {
+   "id": "eks-s34",
+   "number": "34",
+   "text": "The electric kick scooter must be equipped with a braking system that is capable, when the electric kick scooter is being operated at a speed of 25 km/h on a clean, paved and level surface, of bringing the electric kick scooter to a complete stop within 7.5 m of the point at which the brakes are applied.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Brake performance"
+  },
+  {
+   "id": "eks-s35",
+   "number": "35",
+   "text": "The electric kick scooter must be equipped with a bell or horn.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Bell or horn required"
+  },
+  {
+   "id": "eks-s36",
+   "number": "36",
+   "text": "(1) When the electric kick scooter is being operated between 1/2 hour after sunset and 1/2 hour before sunrise, the following equipment is required: (a) at the front of the electric kick scooter, a lighted lamp displaying a white or amber light that, under normal atmospheric conditions, is visible from at least 150 m in the direction the electric kick scooter is pointed; (b) at the back of the electric kick scooter, a lighted lamp displaying a visible red light. (2) The lighted lamps required under subsection (1) may be (a) attached to the electric kick scooter, or (b) carried or worn by the operator.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Lights required at night"
+  },
+  {
+   "id": "eks-s37",
+   "number": "37",
+   "text": "All electrical terminals on the electric kick scooter must be completely insulated or covered.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Electrical terminals"
+  },
+  {
+   "id": "eks-s38",
+   "number": "38",
+   "text": "Despite any other provision of the Act or regulations, an electric kick scooter may be equipped with a flashing red light.",
+   "part": "Part 5 — Electric Kick Scooter Requirements",
+   "division": null,
+   "heading": "Flashing red light permitted"
+  },
+  {
+   "id": "eks-s39",
+   "number": "39",
+   "text": "If a person is injured, or property is damaged, as a direct or indirect result of an accident that occurs due to the presence or operation of an electric kick scooter on a highway, the operator must do the following: (a) remain at or immediately return to the scene of the accident; (b) render all possible assistance; (c) give to a person who sustains loss or injury (i) the operator's name and address, (ii) the name and address of the owner of the electric kick scooter, and (iii) the name and address of any person who is leasing or renting the electric kick scooter under a written agreement for a period of not less than one month. [am. B.C. Reg. 114/2024, App. 4.]",
+   "part": "Part 6 — Accidents",
+   "division": null,
+   "heading": "Duties of operator if accident occurs"
+  },
+  {
+   "id": "eks-s40",
+   "number": "40",
+   "text": "(1) This section applies in relation to an accident if (a) the accident occurs due to the presence or operation of an electric kick scooter on a highway, and (b) the accident causes, directly or indirectly, (i) death or injury to a person, or (ii) damage to property causing aggregate damage apparently exceeding an amount prescribed for the purposes of section 249 (1) (b) [accident reports by police officer] of the Act. (2) A police officer who attends an accident to which this section applies must do the following: (a) complete a written report of the accident in the form established by the Insurance Corporation of British Columbia under section 249 (1) of the Act; (b) promptly forward the report to the Insurance Corporation of British Columbia.",
+   "part": "Part 6 — Accidents",
+   "division": null,
+   "heading": "Duties of police officer"
+  },
+  {
+   "id": "eks-s41",
+   "number": "41",
+   "text": "A person involved in an accident referred to in section 40, or that person's authorized representative, is entitled to obtain the following on request: (a) the names of persons involved in the accident; (b) the name of any witness.",
+   "part": "Part 6 — Accidents",
+   "division": null,
+   "heading": "Power to obtain information"
+  },
+  {
+   "id": "eks-s42",
+   "number": "42",
+   "text": "(1) The minister may require any of the following to provide records and information, including personal information, relating to the operation of electric kick scooters: (a) a participating community; (b) a person who rents electric kick scooters to other persons; (c) the BC Injury Research and Prevention Unit. (2) Records and information provided under subsection (1) must be in the form and include the content required by the minister. (3) For the purposes of the pilot project, the minister and the Insurance Corporation of British Columbia may collect, use and disclose to each other records and information, including personal information.",
+   "part": "Part 7 — General Provisions",
+   "division": null,
+   "heading": "Reports to minister"
+  },
+  {
+   "id": "eks-s43",
+   "number": "43",
+   "text": "A bylaw of a municipality that is a participating community is inoperative and of no force and effect to the extent that the bylaw conflicts with or is inconsistent with this regulation.",
+   "part": "Part 7 — General Provisions",
+   "division": null,
+   "heading": "Inconsistent bylaws"
+  },
+  {
+   "id": "eks-s44",
+   "number": "44",
+   "text": "A person who contravenes any of the following provisions commits an offence: (a) section 6 [operation prohibited except on pilot project highways] ; (b) section 7 (1) or (2) [operation prohibited if under 16 years of age] ; (c) section 9 [section 19.07 highways located within participating communities] ; (d) section 10 (a) or (b) [highways that have speed limit over 50 km/h] ; (e) section 11 (a) or (b) [highways that have speed limit not over 50 km/h] ; (f) section 12 [sidewalks located within participating communities] ; (g) section 13 [crosswalks located within participating communities] ; (h) section 15 [section 19.07 highways located outside participating communities] ; (i) section 16 (a) or (b) [other highways located outside participating communities] ; (j) section 17 [sidewalks located outside participating communities] ; (k) section 18 [crosswalks located outside participating communities] ; (l) any of the provisions of Part 4 [Duties of Operator] ; (m) section 31 [operation prohibited unless electric kick scooter meets requirements] ; (n) section 39 [duties of operator if accident occurs] .",
+   "part": "Part 7 — General Provisions",
+   "division": null,
+   "heading": "Offences"
+  },
+  {
+   "id": "eks-s45",
+   "number": "45",
+   "text": "This regulation is repealed on April 5, 2028.",
+   "part": "Part 7 — General Provisions",
+   "division": null,
+   "heading": "Repeal of regulation"
+  }
+ ]
+}

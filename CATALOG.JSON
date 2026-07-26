@@ -1,5 +1,5 @@
 {
- "catalogVersion": 14,
+ "catalogVersion": 15,
  "updatedAt": "2026-07-26T00:00:00Z",
  "statutes": [
   {
@@ -226,6 +226,19 @@
    "version": 1,
    "sizeKB": 82,
    "changeNote": "new statute — Mental Health Act (BC), v1"
+  },
+  {
+   "id": "bc-electric-kick-scooter",
+   "shortName": "Kick Scooter",
+   "fullName": "Electric Kick Scooter Pilot Project Regulation (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Electric Kick Scooter Pilot Project Regulation, B.C. Reg. 247/2023",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/247_2023",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-ELECTRICKICKSCOOTER",
+   "version": 1,
+   "sizeKB": 77,
+   "changeNote": "new statute — Electric Kick Scooter Pilot Project Regulation (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
