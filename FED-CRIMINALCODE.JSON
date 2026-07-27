@@ -1,8 +1,8 @@
 {
   "statuteID": "canada-criminal-code",
   "schemaVersion": 2,
-  "version": 4,
-  "updatedAt": "2026-07-19T00:00:00Z",
+  "version": 5,
+  "updatedAt": "2026-07-26T00:00:00Z",
   "categories": [
     {
       "id": "personOffences",
@@ -104,7 +104,8 @@
       "shortForm": "Murder",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Imprisonment for life (mandatory)"
+      "minPenalty": "Imprisonment for life (mandatory)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:236:Manslaughter",
@@ -125,7 +126,8 @@
       "shortForm": "Manslaughter",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "4 years if a firearm is used; otherwise none"
+      "minPenalty": "4 years if a firearm is used; otherwise none",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:239:Attempt to commit murder",
@@ -145,7 +147,8 @@
       "shortForm": "Attempt to commit murder",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); otherwise none"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); otherwise none",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:220:Criminal negligence causing death",
@@ -166,7 +169,8 @@
       "shortForm": "Criminal negligence causing death",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "4 years if a firearm is used; otherwise none"
+      "minPenalty": "4 years if a firearm is used; otherwise none",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:221:Criminal negligence causing bodily harm",
@@ -187,7 +191,8 @@
       "shortForm": "Criminal negligence causing bodily harm",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:266:Assault",
@@ -208,7 +213,8 @@
       "shortForm": "Assault",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:267:Assault with a weapon or causing bodily harm",
@@ -231,7 +237,8 @@
       "shortForm": "Assault with a weapon or causing bodi...",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:268:Aggravated assault",
@@ -253,7 +260,8 @@
       "shortForm": "Aggravated assault",
       "mode": "indictable",
       "maxPenalty": "14 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:269:Unlawfully causing bodily harm",
@@ -273,7 +281,8 @@
       "shortForm": "Unlawfully causing bodily harm",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:270:Assaulting a peace officer",
@@ -295,7 +304,8 @@
       "shortForm": "Assaulting a peace officer",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:264.1:Uttering threats",
@@ -316,7 +326,8 @@
       "shortForm": "Uttering threats",
       "mode": "hybrid",
       "maxPenalty": "5 years indictable (threat to a person); 2 years indictable (property or animal)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:264:Criminal harassment",
@@ -337,7 +348,8 @@
       "shortForm": "Criminal harassment",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:279(1):Kidnapping",
@@ -358,7 +370,8 @@
       "shortForm": "Kidnapping",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); victim under 16: 5 years (non-parent)"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); victim under 16: 5 years (non-parent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:279(2):Forcible confinement",
@@ -379,7 +392,8 @@
       "shortForm": "Forcible confinement",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:215:Failing to provide necessaries of life",
@@ -400,7 +414,8 @@
       "shortForm": "Failing to provide necessaries of life",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:271:Sexual assault",
@@ -420,7 +435,8 @@
       "shortForm": "Sexual assault",
       "mode": "hybrid",
       "maxPenalty": "10 years indictable (14 years if complainant under 16)",
-      "minPenalty": "Complainant under 16: 1 year (indictable) / 6 months (summary)"
+      "minPenalty": "Complainant under 16: 1 year (indictable) / 6 months (summary)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:272:Sexual assault with a weapon, threats or causing bodily harm",
@@ -441,7 +457,8 @@
       "shortForm": "Sexual assault with a weapon, threats...",
       "mode": "indictable",
       "maxPenalty": "14 years (life if complainant under 16)",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); complainant under 16: 5 years"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); complainant under 16: 5 years",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:273:Aggravated sexual assault",
@@ -461,7 +478,8 @@
       "shortForm": "Aggravated sexual assault",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); complainant under 16: 5 years"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent); complainant under 16: 5 years",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:151:Sexual interference",
@@ -482,7 +500,8 @@
       "shortForm": "Sexual interference",
       "mode": "hybrid",
       "maxPenalty": "14 years (indictable)",
-      "minPenalty": "1 year (indictable) / 90 days (summary)"
+      "minPenalty": "1 year (indictable) / 90 days (summary)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:152:Invitation to sexual touching",
@@ -503,7 +522,8 @@
       "shortForm": "Invitation to sexual touching",
       "mode": "hybrid",
       "maxPenalty": "14 years (indictable)",
-      "minPenalty": "1 year (indictable) / 90 days (summary)"
+      "minPenalty": "1 year (indictable) / 90 days (summary)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:153:Sexual exploitation",
@@ -524,7 +544,8 @@
       "shortForm": "Sexual exploitation",
       "mode": "hybrid",
       "maxPenalty": "14 years (indictable)",
-      "minPenalty": "1 year (indictable) / 90 days (summary)"
+      "minPenalty": "1 year (indictable) / 90 days (summary)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:172.1:Luring a child",
@@ -546,7 +567,8 @@
       "shortForm": "Luring a child",
       "mode": "hybrid",
       "maxPenalty": "14 years (indictable)",
-      "minPenalty": "1 year (indictable) / 6 months (summary)"
+      "minPenalty": "1 year (indictable) / 6 months (summary)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:163.1:Child pornography",
@@ -567,7 +589,8 @@
       "shortForm": "Child pornography",
       "mode": "indictable",
       "maxPenalty": "14 years",
-      "minPenalty": "1 year"
+      "minPenalty": "1 year",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:162:Voyeurism",
@@ -588,7 +611,8 @@
       "shortForm": "Voyeurism",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.14:Impaired operation / over 80 / drugs",
@@ -611,7 +635,8 @@
       "shortForm": "Impaired operation / over 80 / drugs",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": "$1,000 fine (first); 30 days (second); 120 days (third or subsequent)"
+      "minPenalty": "$1,000 fine (first); 30 days (second); 120 days (third or subsequent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.15:Failure or refusal to comply with demand",
@@ -633,7 +658,8 @@
       "shortForm": "Failure or refusal to comply with demand",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": "$1,000 fine (first); 30 days (second); 120 days (third or subsequent)"
+      "minPenalty": "$1,000 fine (first); 30 days (second); 120 days (third or subsequent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.13:Dangerous operation",
@@ -654,7 +680,8 @@
       "shortForm": "Dangerous operation",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable); 14 years if bodily harm; life if death",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.16:Failure to stop after accident",
@@ -676,7 +703,8 @@
       "shortForm": "Failure to stop after accident",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable); 14 years if bodily harm; life if death",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.17:Flight from a peace officer",
@@ -698,7 +726,8 @@
       "shortForm": "Flight from a peace officer",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:320.18:Operation while prohibited",
@@ -719,7 +748,8 @@
       "shortForm": "Operation while prohibited",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:85:Using a firearm in commission of an offence",
@@ -740,7 +770,8 @@
       "shortForm": "Using a firearm in commission of an o...",
       "mode": "indictable",
       "maxPenalty": "14 years",
-      "minPenalty": "1 year (first); 3 years (subsequent)"
+      "minPenalty": "1 year (first); 3 years (subsequent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:88:Possession of a weapon for a dangerous purpose",
@@ -761,7 +792,8 @@
       "shortForm": "Possession of a weapon for a dangerou...",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:90:Carrying a concealed weapon",
@@ -781,7 +813,8 @@
       "shortForm": "Carrying a concealed weapon",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:91:Unauthorized possession of a firearm",
@@ -803,7 +836,8 @@
       "shortForm": "Unauthorized possession of a firearm",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:92:Possession of a firearm knowing its possession is unauthorized",
@@ -825,7 +859,8 @@
       "shortForm": "Possession of a firearm knowing its p...",
       "mode": "indictable",
       "maxPenalty": "10 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:95:Possession of a loaded prohibited or restricted firearm",
@@ -847,7 +882,8 @@
       "shortForm": "Possession of a loaded prohibited or ...",
       "mode": "hybrid",
       "maxPenalty": "14 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:86:Careless use or storage of a firearm",
@@ -869,7 +905,8 @@
       "shortForm": "Careless use or storage of a firearm",
       "mode": "hybrid",
       "maxPenalty": "2 years indictable (first) / 5 years (subsequent)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:334(a):Theft over $5,000",
@@ -891,7 +928,8 @@
       "shortForm": "Theft over $5,000",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:334(b):Theft of $5,000 or under",
@@ -913,7 +951,8 @@
       "shortForm": "Theft of $5,000 or under",
       "mode": "hybrid",
       "maxPenalty": "2 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:348(1)(d):Break and enter a dwelling-house",
@@ -935,7 +974,8 @@
       "shortForm": "Break and enter a dwelling-house",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:348(1)(e):Break and enter a place other than a dwelling-house",
@@ -956,7 +996,8 @@
       "shortForm": "Break and enter a place other than a ...",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:344:Robbery",
@@ -977,7 +1018,8 @@
       "shortForm": "Robbery",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent)"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:346:Extortion",
@@ -997,7 +1039,8 @@
       "shortForm": "Extortion",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent)"
+      "minPenalty": "Firearm: 4 years; restricted/prohibited firearm or criminal-organization firearm: 5 years (first) / 7 years (subsequent)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:354:Possession of property obtained by crime",
@@ -1018,7 +1061,8 @@
       "shortForm": "Possession of property obtained by crime",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable) if over $5,000; 2 years if $5,000 or under (s.355)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:333.1:Motor vehicle theft",
@@ -1040,7 +1084,8 @@
       "shortForm": "Motor vehicle theft",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable); 14 years if violence or for a criminal organization",
-      "minPenalty": "6 months for a third or subsequent offence (indictable)"
+      "minPenalty": "6 months for a third or subsequent offence (indictable)",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:335:Take motor vehicle or vessel without consent",
@@ -1061,7 +1106,8 @@
       "shortForm": "Take motor vehicle or vessel without ...",
       "mode": "summary",
       "maxPenalty": "Summary conviction",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:380(1)(a):Fraud over $5,000",
@@ -1083,7 +1129,8 @@
       "shortForm": "Fraud over $5,000",
       "mode": "indictable",
       "maxPenalty": "14 years",
-      "minPenalty": "2 years if the total value exceeds $1,000,000"
+      "minPenalty": "2 years if the total value exceeds $1,000,000",
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:380(1)(b):Fraud of $5,000 or under",
@@ -1105,7 +1152,8 @@
       "shortForm": "Fraud of $5,000 or under",
       "mode": "hybrid",
       "maxPenalty": "2 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:368:Use, trafficking or possession of a forged document",
@@ -1126,7 +1174,8 @@
       "shortForm": "Use, trafficking or possession of a f...",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:366:Forgery",
@@ -1147,7 +1196,8 @@
       "shortForm": "Forgery",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable) (s.367)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:403:Identity fraud",
@@ -1168,7 +1218,8 @@
       "shortForm": "Identity fraud",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:430:Mischief",
@@ -1190,7 +1241,8 @@
       "shortForm": "Mischief",
       "mode": "hybrid",
       "maxPenalty": "Life if it causes actual danger to life; 10 years (indictable) if property over $5,000; 2 years if $5,000 or under",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:433:Arson — disregard for human life",
@@ -1211,7 +1263,8 @@
       "shortForm": "Arson — disregard for human life",
       "mode": "indictable",
       "maxPenalty": "Imprisonment for life",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:445:Injuring or endangering animals",
@@ -1232,7 +1285,8 @@
       "shortForm": "Injuring or endangering animals",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:175:Causing a disturbance",
@@ -1253,7 +1307,8 @@
       "shortForm": "Causing a disturbance",
       "mode": "summary",
       "maxPenalty": "Summary conviction",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:145:Failure to comply with appearance, release or to attend court",
@@ -1275,7 +1330,8 @@
       "shortForm": "Failure to comply with appearance, re...",
       "mode": "hybrid",
       "maxPenalty": "2 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:733.1:Breach of probation",
@@ -1295,7 +1351,8 @@
       "shortForm": "Breach of probation",
       "mode": "hybrid",
       "maxPenalty": "4 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:129:Obstructing a peace officer",
@@ -1317,7 +1374,8 @@
       "shortForm": "Obstructing a peace officer",
       "mode": "hybrid",
       "maxPenalty": "2 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:139:Obstructing justice",
@@ -1337,7 +1395,8 @@
       "shortForm": "Obstructing justice",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:130:Personating a peace officer",
@@ -1358,7 +1417,8 @@
       "shortForm": "Personating a peace officer",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:83.18:Participation in activity of a terrorist group",
@@ -1379,7 +1439,8 @@
       "shortForm": "Participation in activity of a terror...",
       "mode": "indictable",
       "maxPenalty": "10 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:467.11:Participation in activities of a criminal organization",
@@ -1400,7 +1461,8 @@
       "shortForm": "Participation in activities of a crim...",
       "mode": "indictable",
       "maxPenalty": "5 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:462.31:Laundering proceeds of crime",
@@ -1421,7 +1483,8 @@
       "shortForm": "Laundering proceeds of crime",
       "mode": "hybrid",
       "maxPenalty": "10 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:184:Interception of private communications",
@@ -1442,7 +1505,8 @@
       "shortForm": "Interception of private communications",
       "mode": "indictable",
       "maxPenalty": "5 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:280:Abduction of a person under 16",
@@ -1463,7 +1527,8 @@
       "shortForm": "Abduction of a person under 16",
       "mode": "indictable",
       "maxPenalty": "5 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:281:Abduction of a person under 14",
@@ -1484,7 +1549,8 @@
       "shortForm": "Abduction of a person under 14",
       "mode": "indictable",
       "maxPenalty": "10 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:290:Bigamy",
@@ -1504,7 +1570,8 @@
       "shortForm": "Bigamy",
       "mode": "indictable",
       "maxPenalty": "5 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:218:Abandoning a child",
@@ -1524,7 +1591,8 @@
       "shortForm": "Abandoning a child",
       "mode": "hybrid",
       "maxPenalty": "5 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:319:Public incitement of hatred",
@@ -1545,7 +1613,8 @@
       "shortForm": "Public incitement of hatred",
       "mode": "hybrid",
       "maxPenalty": "2 years (indictable)",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     },
     {
       "id": "Criminal Code:180:Common nuisance",
@@ -1565,7 +1634,8 @@
       "shortForm": "Common nuisance",
       "mode": "indictable",
       "maxPenalty": "2 years",
-      "minPenalty": null
+      "minPenalty": null,
+      "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/"
     }
   ],
   "fullText": [

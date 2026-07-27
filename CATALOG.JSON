@@ -1,5 +1,5 @@
 {
- "catalogVersion": 15,
+ "catalogVersion": 16,
  "updatedAt": "2026-07-26T00:00:00Z",
  "statutes": [
   {
@@ -158,9 +158,10 @@
    "jurisdiction": "federal",
    "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
    "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/",
-   "version": 4,
+   "version": 5,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CRIMINALCODE.JSON",
-   "sizeKB": 3077
+   "sizeKB": 3157,
+   "changeNote": "Criminal Code — add Justice Laws source links to all offences"
   },
   {
    "id": "bc-chilliwack-open-burning",
