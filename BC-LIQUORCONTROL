@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-liquor-control",
  "schemaVersion": 2,
- "version": 5,
- "updatedAt": "2026-07-23T00:00:00Z",
+ "version": 6,
+ "updatedAt": "2026-07-27T00:00:00Z",
  "fineSurcharge": {
   "percent": 15,
   "name": "Victim surcharge",
@@ -113,7 +113,11 @@
    ],
    "modifiers": [],
    "shortForm": "Intoxicated in a public place",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
+   "arrest": {
+    "authority": "LCLA s.74(2)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is intoxicated and in a public place, contrary to s.74(1) (LCLA s.74(2))."
+   }
   },
   {
    "id": "LCLA:75:Sell, serve or give liquor to an intoxicated person",
