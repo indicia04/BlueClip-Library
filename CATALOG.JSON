@@ -1,5 +1,5 @@
 {
- "catalogVersion": 16,
+ "catalogVersion": 17,
  "updatedAt": "2026-07-26T00:00:00Z",
  "statutes": [
   {
@@ -240,6 +240,19 @@
    "version": 1,
    "sizeKB": 77,
    "changeNote": "new statute — Electric Kick Scooter Pilot Project Regulation (BC), v1"
+  },
+  {
+   "id": "bc-wildfire",
+   "shortName": "Wildfire",
+   "fullName": "Wildfire Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Wildfire Act, SBC 2004, c. 31",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/04031_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-WILDFIREACT",
+   "version": 1,
+   "sizeKB": 112,
+   "changeNote": "new statute — Wildfire Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
