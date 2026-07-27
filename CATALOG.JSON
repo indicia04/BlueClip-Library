@@ -1,5 +1,5 @@
 {
- "catalogVersion": 18,
+ "catalogVersion": 19,
  "updatedAt": "2026-07-26T00:00:00Z",
  "statutes": [
   {
@@ -9,10 +9,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 10,
+   "version": 11,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
-   "sizeKB": 1196,
-   "changeNote": "Motor Vehicle Act — backfill verbatim section text on offences"
+   "sizeKB": 1261,
+   "changeNote": "Motor Vehicle Act — backfill verbatim bodyText on the 297 MVAR offences"
   },
   {
    "id": "bc-liquor-control",
