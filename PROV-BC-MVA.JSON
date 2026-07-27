@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-motor-vehicle",
  "schemaVersion": 2,
- "version": 11,
- "updatedAt": "2026-07-26T00:00:00Z",
+ "version": 12,
+ "updatedAt": "2026-07-27T00:00:00Z",
  "fullTextAct": "MVA",
  "fineSurcharge": {
   "percent": 15,
@@ -286,7 +286,11 @@
     }
    ],
    "shortForm": "No insurance",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(b)",
+    "note": "A peace officer may arrest without warrant a driver they have reasonable and probable grounds to believe is not insured as required by this Act, or does not hold a valid and subsisting motor vehicle liability insurance card or financial responsibility card (MVA s.79)."
+   }
   },
   {
    "id": "MVA:25(15):Drive contrary to driver's licence restriction",
@@ -416,7 +420,11 @@
     }
    ],
    "shortForm": "Fail to remain at scene of accident",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(c)",
+    "note": "A peace officer may arrest without warrant a person they have reasonable and probable grounds to believe has contravened s.68 (duty of driver at an accident) (MVA s.79)."
+   }
   },
   {
    "id": "MVA:68(2):Fail to stop after collision with unattended vehicle",
@@ -443,7 +451,11 @@
     }
    ],
    "shortForm": "Fail to stop after collision with una...",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(c)",
+    "note": "A peace officer may arrest without warrant a person they have reasonable and probable grounds to believe has contravened s.68 (duty of driver at an accident) (MVA s.79)."
+   }
   },
   {
    "id": "MVA:68(3):Fail to stop when in accident resulting in damage to property",
@@ -470,7 +482,11 @@
     }
    ],
    "shortForm": "Fail to stop when in accident resulti...",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(c)",
+    "note": "A peace officer may arrest without warrant a person they have reasonable and probable grounds to believe has contravened s.68 (duty of driver at an accident) (MVA s.79)."
+   }
   },
   {
    "id": "MVA:71:Fail to produce vehicle licence",
@@ -11510,7 +11526,11 @@
     }
    ],
    "shortForm": "Fail to render all reasonable assista...",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(c)",
+    "note": "A peace officer may arrest without warrant a person they have reasonable and probable grounds to believe has contravened s.68 (duty of driver at an accident) (MVA s.79)."
+   }
   },
   {
    "id": "MVA:68(1)(c):Fail to exchange particulars — name, address and licences",
@@ -11536,7 +11556,11 @@
     }
    ],
    "shortForm": "Fail to exchange particulars — name, ...",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "arrest": {
+    "authority": "MVA s.79(c)",
+    "note": "A peace officer may arrest without warrant a person they have reasonable and probable grounds to believe has contravened s.68 (duty of driver at an accident) (MVA s.79)."
+   }
   },
   {
    "id": "MVA:70(1)(b):Refuse or fail to produce driver's licence, permit or insurance card",
@@ -15168,6 +15192,58 @@
    ],
    "shortForm": "No or inadequate motorcycle side or c...",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00"
+  },
+  {
+   "id": "MVA:95:Driving while prohibited",
+   "statuteID": "bc-motor-vehicle",
+   "section": "95",
+   "act": "MVA",
+   "title": "Driving while prohibited",
+   "bodyText": "(1) A person who drives a motor vehicle on a highway or industrial road knowing that (a) the person is prohibited from driving a motor vehicle under section 91, 92, 93, 94.2, 215, 215.43 or 251 (4) (b) [Repealed 2010-14-10.] commits an offence and is liable, (c) on a first conviction, to a fine of not less than $500 and not more than $2 000 or to imprisonment for not more than 6 months, or to both, and (d) on a subsequent conviction, regardless of when the contravention occurred, to a fine of not less than $500 and not more than $2 000 and to imprisonment for not less than 14 days and not more than one year. (2) If a person is charged with an offence under subsection (1) that pertains to a prohibition under section 91 or 215, the court hearing the charge may admit into evidence (a) a certificate of the Insurance Corporation of British Columbia, or (b) a certificate of the superintendent dated before the date this paragraph comes into force stating the information required by subsection (4) and if the certificate is admitted into evidence it is proof that the defendant had knowledge of the prohibition in effect at the time of the alleged offence. (3) If a person is charged with an offence under subsection (1) that pertains to a prohibition under section 92, 93, 94.2, 215.43 or 251 (4), the court hearing the charge may admit into evidence a certificate of the superintendent stating the information required by subsection (4), and if the certificate of the superintendent is admitted into evidence, it is proof that the defendant had knowledge of the prohibition in effect at the time of the alleged offence. (4) If a person is charged with an offence under subsection (1), the certificate referred to in subsection (2) or (3), as the case may be, must state that the prohibition was in effect on the date of the alleged offence and that the records of the Insurance Corporation of British Columbia or the superintendent, as the case may be, (a) show that a notice of the prohibition was mailed by registered mail or certified mail to the person at the person's most recent address recorded in the records of the corporation and that the corporation or superintendent subsequently received a copy of a confirmation of delivery provided by Canada Post showing a recipient's signature that, from a comparison with the signature on the records of the corporation, appears to be that of the person to whom the notice of prohibition was sent, (b) contain a document that (i) indicates that the person so charged (A) has acknowledged being prohibited from driving a motor vehicle, (B) has acknowledged having received from the corporation or the superintendent a notice of prohibition against driving a motor vehicle, or (C) has surrendered the person's driver's licence to the corporation or the superintendent subsequent to receiving from the corporation or the superintendent a notice of prohibition, relating to a prohibition under section 91, 92 or 93, or a notice of suspension, and (ii) is signed with a signature that, from a comparison with the signature on the records of the corporation, appears to be that of the person whom the corporation or superintendent intended to prohibit from driving a motor vehicle, or to whom the corporation or superintendent mailed a notice of prohibition, (c) contain a certificate of service referred to in section 94.3 (a) (iii), 215 (10) (a), 215.47 (c) or 251 (3) (b) showing that a notice of driving prohibition under section 94.1 (1), 215 (2) (b) or (3) (b), 215.41 or 251 (1) (h), as applicable, was personally served on the person subject to the driving prohibition, or (d) contain a certificate of service showing that notice of a driving prohibition under section 93 was personally served on the person subject to the driving prohibition. (5) This section applies to any document contained in the records of the Insurance Corporation of British Columbia or the superintendent, whether that document was signed before, on or after the date this subsection comes into force.",
+   "fine": 0,
+   "points": 0,
+   "category": "licence",
+   "keywords": [
+    "driving while prohibited",
+    "drive while prohibited",
+    "prohibited driver",
+    "prohibited from driving",
+    "95"
+   ],
+   "modifiers": [],
+   "shortForm": "Driving while prohibited",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "maxPenalty": "First conviction: fine $500–$2,000, or imprisonment up to 6 months, or both. Subsequent conviction: fine $500–$2,000 and imprisonment 14 days to 1 year.",
+   "arrest": {
+    "authority": "MVA s.79(a)",
+    "note": "A peace officer may arrest without warrant a person found driving whom they have reasonable and probable grounds to believe was driving while prohibited under s.95 or s.102 (MVA s.79)."
+   }
+  },
+  {
+   "id": "MVA:102:Driving while prohibited by court order or operation of law",
+   "statuteID": "bc-motor-vehicle",
+   "section": "102",
+   "act": "MVA",
+   "title": "Driving while prohibited by court order or operation of law",
+   "bodyText": "A person who drives a motor vehicle on a highway or industrial road while (a) the person is prohibited from driving a motor vehicle (i) under section 98, 99 or 100 of this Act, (ii) under the Youth Justice Act , or (iii) before April 1, 2004, under the Young Offenders (British Columbia) Act , as it then was, or (b) the person's driver's licence or the person's right to apply for or obtain a driver's licence is suspended under section 82 or 92 of the Motor Vehicle Act , R.S.B.C. 1979, c. 288, as the section was before its repeal and replacement came into force under the Motor Vehicle Amendment Act, 1982, commits an offence and is liable, (c) on a first conviction, to a fine of not less than $500 and not more than $2 000 or to imprisonment for not more than 6 months, or to both, and (d) on a subsequent conviction, regardless of when the contravention occurred, to a fine of not less than $300 and not more than $2 000 and to imprisonment for not less than 14 days and not more than one year.",
+   "fine": 0,
+   "points": 0,
+   "category": "licence",
+   "keywords": [
+    "driving while prohibited",
+    "court prohibition",
+    "prohibited driver",
+    "102",
+    "suspended driving"
+   ],
+   "modifiers": [],
+   "shortForm": "Driving while prohibited by court ord…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
+   "maxPenalty": "First conviction: fine $500–$2,000, or imprisonment up to 6 months, or both. Subsequent conviction: fine $300–$2,000 and imprisonment 14 days to 1 year.",
+   "arrest": {
+    "authority": "MVA s.79(a)",
+    "note": "A peace officer may arrest without warrant a person found driving whom they have reasonable and probable grounds to believe was driving while prohibited under s.95 or s.102 (MVA s.79)."
+   }
   }
  ],
  "fullText": [

@@ -1,6 +1,6 @@
 {
- "catalogVersion": 19,
- "updatedAt": "2026-07-26T00:00:00Z",
+ "catalogVersion": 20,
+ "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -9,10 +9,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_00",
-   "version": 11,
+   "version": 12,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/PROV-BC-MVA.JSON",
-   "sizeKB": 1261,
-   "changeNote": "Motor Vehicle Act — backfill verbatim bodyText on the 297 MVAR offences"
+   "sizeKB": 1270,
+   "changeNote": "Motor Vehicle Act — arrest authority (s.79) + driving-while-prohibited offences"
   },
   {
    "id": "bc-liquor-control",
