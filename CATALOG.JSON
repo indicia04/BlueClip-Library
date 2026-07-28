@@ -1,5 +1,5 @@
 {
- "catalogVersion": 22,
+ "catalogVersion": 23,
  "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
@@ -21,10 +21,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
-   "version": 7,
+   "version": 8,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
    "sizeKB": 136,
-   "changeNote": "LCLA — add s.61(4) offences (refuse-to-leave / re-enter / weapon) + arrest authority s.61(6)"
+   "changeNote": "LCLA — real category taxonomy (retire \"other\"; re-bucket all 18 offences)"
   },
   {
    "id": "bc-trespass",
