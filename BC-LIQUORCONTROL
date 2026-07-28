@@ -1,7 +1,7 @@
 {
  "statuteID": "bc-liquor-control",
  "schemaVersion": 2,
- "version": 6,
+ "version": 7,
  "updatedAt": "2026-07-27T00:00:00Z",
  "fineSurcharge": {
   "percent": 15,
@@ -75,6 +75,87 @@
    "modifiers": [],
    "shortForm": "Licensee, permittee or employee allow...",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019"
+  },
+  {
+   "id": "LCLA:61(4)(a):Remain after being requested to leave",
+   "statuteID": "bc-liquor-control",
+   "section": "61(4)(a)",
+   "act": "LCLA",
+   "title": "Remain after being requested to leave",
+   "bodyText": "(4) A person must not (a) remain in a service area, in an establishment or at an event site after the person is requested to leave in accordance with subsection (3),",
+   "fine": 0,
+   "points": 0,
+   "category": "other",
+   "keywords": [
+    "remain",
+    "refuse to leave",
+    "trespass bar",
+    "stay after asked to leave",
+    "requested to leave",
+    "establishment",
+    "service area"
+   ],
+   "modifiers": [],
+   "shortForm": "Remain after being requested to leave",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
+   "arrest": {
+    "authority": "LCLA s.61(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.61(4) — remaining after being requested to leave, re-entering within 24 hours, or possessing a weapon in a licensed establishment (LCLA s.61(6))."
+   }
+  },
+  {
+   "id": "LCLA:61(4)(b):Re-enter within 24 hours of being requested to leave",
+   "statuteID": "bc-liquor-control",
+   "section": "61(4)(b)",
+   "act": "LCLA",
+   "title": "Re-enter within 24 hours of being requested to leave",
+   "bodyText": "(4) A person must not (b) enter a service area, an establishment or an event site within 24 hours after the time the person was requested to leave the service area, establishment or event site in accordance with subsection (3), or",
+   "fine": 0,
+   "points": 0,
+   "category": "other",
+   "keywords": [
+    "re-enter",
+    "return within 24 hours",
+    "re-enter licensed",
+    "banned from bar",
+    "requested to leave",
+    "establishment",
+    "event site"
+   ],
+   "modifiers": [],
+   "shortForm": "Re-enter within 24 hours of being req...",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
+   "arrest": {
+    "authority": "LCLA s.61(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.61(4) — remaining after being requested to leave, re-entering within 24 hours, or possessing a weapon in a licensed establishment (LCLA s.61(6))."
+   }
+  },
+  {
+   "id": "LCLA:61(4)(c):Possess a knife or weapon in a licensed establishment",
+   "statuteID": "bc-liquor-control",
+   "section": "61(4)(c)",
+   "act": "LCLA",
+   "title": "Possess a knife or weapon in a licensed establishment",
+   "bodyText": "(4) A person must not (c) without lawful excuse, the proof of which lies on the person, possess a knife or weapon in a service area, in an establishment or at an event site.",
+   "fine": 0,
+   "points": 0,
+   "category": "other",
+   "keywords": [
+    "weapon in bar",
+    "knife in establishment",
+    "weapon in establishment",
+    "knife",
+    "weapon",
+    "possess weapon",
+    "service area"
+   ],
+   "modifiers": [],
+   "shortForm": "Possess a knife or weapon in a licens...",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
+   "arrest": {
+    "authority": "LCLA s.61(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.61(4) — remaining after being requested to leave, re-entering within 24 hours, or possessing a weapon in a licensed establishment (LCLA s.61(6))."
+   }
   },
   {
    "id": "LCLA:73(1):Consume liquor or possess liquor in an open container in a public place",

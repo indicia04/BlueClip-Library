@@ -1,5 +1,5 @@
 {
- "catalogVersion": 21,
+ "catalogVersion": 22,
  "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
@@ -21,10 +21,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15019",
-   "version": 6,
+   "version": 7,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-LIQUORCONTROL",
-   "sizeKB": 132,
-   "changeNote": "Liquor Control & Licensing — arrest authority on s.74(1) (intoxicated in public)"
+   "sizeKB": 136,
+   "changeNote": "LCLA — add s.61(4) offences (refuse-to-leave / re-enter / weapon) + arrest authority s.61(6)"
   },
   {
    "id": "bc-trespass",
