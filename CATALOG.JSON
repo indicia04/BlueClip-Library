@@ -1,6 +1,6 @@
 {
- "catalogVersion": 26,
- "updatedAt": "2026-07-29T00:00:00Z",
+ "catalogVersion": 27,
+ "updatedAt": "2026-07-30T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -226,9 +226,9 @@
    "licenceName": "Mental Health Act, RSBC 1996, c. 288",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-MENTALHEALTH",
-   "version": 1,
+   "version": 2,
    "sizeKB": 82,
-   "changeNote": "new statute — Mental Health Act (BC), v1"
+   "changeNote": "MHA: Apprehension Powers icon -> handcuffs.icon (v1 -> v2)"
   },
   {
    "id": "bc-electric-kick-scooter",
