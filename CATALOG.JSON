@@ -1,5 +1,5 @@
 {
- "catalogVersion": 24,
+ "catalogVersion": 25,
  "updatedAt": "2026-07-29T00:00:00Z",
  "statutes": [
   {
@@ -187,9 +187,9 @@
    "licenceName": "Cannabis Control and Licensing Act, SBC 2018, c. 29",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-CANNABISCONTROL",
-   "version": 1,
+   "version": 2,
    "sizeKB": 271,
-   "changeNote": "new statute — Cannabis Control and Licensing Act (BC), v1"
+   "changeNote": "Cannabis (CCLA) — arrest authority on s.78(1) (CCLA s.78(2))"
   },
   {
    "id": "bc-tobacco-vapour",

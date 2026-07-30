@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-cannabis-control",
  "schemaVersion": 2,
- "version": 1,
- "updatedAt": "2026-07-25T00:00:00Z",
+ "version": 2,
+ "updatedAt": "2026-07-29T00:00:00Z",
  "fineSurcharge": {
   "percent": 15,
   "name": "Victim surcharge",
@@ -1710,7 +1710,11 @@
    ],
    "modifiers": [],
    "shortForm": "Intoxication from cannabis in public …",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029"
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
+   "arrest": {
+    "authority": "CCLA s.78(2)",
+    "note": "A peace officer may arrest, without a warrant, a person whom the peace officer believes on reasonable grounds is contravening s.78(1) — being intoxicated from cannabis in a public place (CCLA s.78(2))."
+   }
   },
   {
    "id": "CCLA:79:Supply cannabis to intoxicated person",
