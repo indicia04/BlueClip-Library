@@ -1,8 +1,8 @@
 {
   "statuteID": "bc-trespass",
   "schemaVersion": 2,
-  "version": 6,
-  "updatedAt": "2026-07-23T00:00:00Z",
+  "version": 7,
+  "updatedAt": "2026-07-29T00:00:00Z",
   "fineSurcharge": {
     "percent": 15,
     "name": "Victim surcharge",
@@ -46,7 +46,11 @@
       ],
       "modifiers": [],
       "shortForm": "Enter enclosed land",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
+      "arrest": {
+        "authority": "Trespass Act s.7",
+        "note": "A peace officer may arrest without warrant a person found on or in premises whom they believe on reasonable and probable grounds is committing an offence under s.2 (trespass), or who has recently departed the premises and refuses to give — or gives a false — name and address (Trespass Act s.7)."
+      }
     },
     {
       "id": "Trespass Act:2(1)(b):Enter premises after notice entry prohibited",
@@ -66,7 +70,11 @@
       ],
       "modifiers": [],
       "shortForm": "Enter premises after notice entry pro...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
+      "arrest": {
+        "authority": "Trespass Act s.7",
+        "note": "A peace officer may arrest without warrant a person found on or in premises whom they believe on reasonable and probable grounds is committing an offence under s.2 (trespass), or who has recently departed the premises and refuses to give — or gives a false — name and address (Trespass Act s.7)."
+      }
     },
     {
       "id": "Trespass Act:2(1)(c):Engage in prohibited activity after notice",
@@ -85,7 +93,11 @@
       ],
       "modifiers": [],
       "shortForm": "Engage in prohibited activity after n...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
+      "arrest": {
+        "authority": "Trespass Act s.7",
+        "note": "A peace officer may arrest without warrant a person found on or in premises whom they believe on reasonable and probable grounds is committing an offence under s.2 (trespass), or who has recently departed the premises and refuses to give — or gives a false — name and address (Trespass Act s.7)."
+      }
     },
     {
       "id": "Trespass Act:2(3):Fail to leave or re-enter after direction",
@@ -105,7 +117,11 @@
       ],
       "modifiers": [],
       "shortForm": "Fail to leave or re-enter after direc...",
-      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003"
+      "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
+      "arrest": {
+        "authority": "Trespass Act s.7",
+        "note": "A peace officer may arrest without warrant a person found on or in premises whom they believe on reasonable and probable grounds is committing an offence under s.2 (trespass), or who has recently departed the premises and refuses to give — or gives a false — name and address (Trespass Act s.7)."
+      }
     },
     {
       "id": "Trespass Act:5(2):Remove, alter or deface a posted sign",

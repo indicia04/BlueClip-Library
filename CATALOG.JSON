@@ -1,6 +1,6 @@
 {
- "catalogVersion": 23,
- "updatedAt": "2026-07-27T00:00:00Z",
+ "catalogVersion": 24,
+ "updatedAt": "2026-07-29T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -33,9 +33,10 @@
    "jurisdiction": "bc",
    "licenceName": "King's Printer Licence – British Columbia",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18003",
-   "version": 6,
+   "version": 7,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-TRESSPASSACT",
-   "sizeKB": 18
+   "sizeKB": 20,
+   "changeNote": "Trespass Act — arrest authority on the four s.2 offences (Trespass Act s.7)"
   },
   {
    "id": "bc-wildlife",
