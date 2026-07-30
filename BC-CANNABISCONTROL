@@ -1,7 +1,7 @@
 {
  "statuteID": "bc-cannabis-control",
  "schemaVersion": 2,
- "version": 2,
+ "version": 3,
  "updatedAt": "2026-07-29T00:00:00Z",
  "fineSurcharge": {
   "percent": 15,
@@ -233,6 +233,87 @@
    "modifiers": [],
    "shortForm": "Licensee or licensee's employee allow…",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029"
+  },
+  {
+   "id": "CCLA:49(4)(a):Possess a weapon in a cannabis establishment",
+   "statuteID": "bc-cannabis-control",
+   "section": "49(4)(a)",
+   "act": "CCLA",
+   "title": "Possess a weapon in a cannabis establishment",
+   "bodyText": "(4) A person must not (a) without lawful excuse, the proof of which lies on the person, have personal possession of a weapon in an establishment,",
+   "fine": 0,
+   "points": 0,
+   "category": "cannabisLicensee",
+   "keywords": [
+    "weapon",
+    "knife",
+    "weapon in cannabis store",
+    "weapon in establishment",
+    "possess weapon",
+    "armed",
+    "government cannabis store"
+   ],
+   "modifiers": [],
+   "shortForm": "Possess a weapon in a cannabis establ…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
+   "arrest": {
+    "authority": "CCLA s.49(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.49(4) — possessing a weapon in a cannabis establishment, remaining after being requested to leave, or re-entering within 24 hours (CCLA s.49(6))."
+   }
+  },
+  {
+   "id": "CCLA:49(4)(b):Remain after being requested to leave",
+   "statuteID": "bc-cannabis-control",
+   "section": "49(4)(b)",
+   "act": "CCLA",
+   "title": "Remain after being requested to leave",
+   "bodyText": "(4) A person must not (b) remain in an establishment after the person is requested to leave in accordance with subsection (3), or",
+   "fine": 0,
+   "points": 0,
+   "category": "cannabisLicensee",
+   "keywords": [
+    "remain",
+    "refuse to leave",
+    "stay after asked to leave",
+    "requested to leave",
+    "cannabis establishment",
+    "government cannabis store",
+    "trespass"
+   ],
+   "modifiers": [],
+   "shortForm": "Remain after being requested to leave",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
+   "arrest": {
+    "authority": "CCLA s.49(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.49(4) — possessing a weapon in a cannabis establishment, remaining after being requested to leave, or re-entering within 24 hours (CCLA s.49(6))."
+   }
+  },
+  {
+   "id": "CCLA:49(4)(c):Re-enter within 24 hours of being requested to leave",
+   "statuteID": "bc-cannabis-control",
+   "section": "49(4)(c)",
+   "act": "CCLA",
+   "title": "Re-enter within 24 hours of being requested to leave",
+   "bodyText": "(4) A person must not (c) enter an establishment within 24 hours after the time the person was requested to leave the establishment in accordance with subsection (3).",
+   "fine": 0,
+   "points": 0,
+   "category": "cannabisLicensee",
+   "keywords": [
+    "re-enter",
+    "return within 24 hours",
+    "banned from store",
+    "requested to leave",
+    "cannabis establishment",
+    "government cannabis store",
+    "24 hours"
+   ],
+   "modifiers": [],
+   "shortForm": "Re-enter within 24 hours of being req…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18029",
+   "arrest": {
+    "authority": "CCLA s.49(6)",
+    "note": "A peace officer may arrest, without a warrant, a person the officer believes on reasonable grounds is contravening s.49(4) — possessing a weapon in a cannabis establishment, remaining after being requested to leave, or re-entering within 24 hours (CCLA s.49(6))."
+   }
   },
   {
    "id": "CCLA:52(1)(a):Adult possessing more than 30 g of dried cannabis or equivalent in public place",
