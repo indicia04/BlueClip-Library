@@ -1,5 +1,5 @@
 {
- "catalogVersion": 35,
+ "catalogVersion": 36,
  "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
@@ -333,6 +333,19 @@
    "version": 1,
    "sizeKB": 82,
    "changeNote": "new statute — Off-Road Vehicle Act (BC), v1"
+  },
+  {
+   "id": "bc-residential-tenancy",
+   "shortName": "Residential Tenancy",
+   "fullName": "Residential Tenancy Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Residential Tenancy Act, SBC 2002, c. 78",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_02078_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-RESIDENTIALTENANCY",
+   "version": 1,
+   "sizeKB": 162,
+   "changeNote": "new statute — Residential Tenancy Act (BC), v1 (Act-Text-only)"
   }
  ],
  "operationsSlotLimit": 3
