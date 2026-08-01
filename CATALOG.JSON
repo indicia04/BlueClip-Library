@@ -1,6 +1,6 @@
 {
- "catalogVersion": 27,
- "updatedAt": "2026-07-30T00:00:00Z",
+ "catalogVersion": 28,
+ "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -255,6 +255,19 @@
    "version": 1,
    "sizeKB": 112,
    "changeNote": "new statute — Wildfire Act (BC), v1"
+  },
+  {
+   "id": "bc-coroners",
+   "shortName": "Coroners",
+   "fullName": "Coroners Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Coroners Act, SBC 2007, c. 15",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/07015_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-CORONERSACT",
+   "version": 1,
+   "sizeKB": 85,
+   "changeNote": "new statute — Coroners Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
