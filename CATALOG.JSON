@@ -1,6 +1,6 @@
 {
- "catalogVersion": 29,
- "updatedAt": "2026-07-27T00:00:00Z",
+ "catalogVersion": 30,
+ "updatedAt": "2026-07-31T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -281,6 +281,19 @@
    "version": 1,
    "sizeKB": 10,
    "changeNote": "new statute — Hotel Keepers Act (BC), v1"
+  },
+  {
+   "id": "bc-offence-act",
+   "shortName": "Offence Act",
+   "fullName": "Offence Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Offence Act, RSBC 1996, c. 338",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96338_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-OFFENCEACT",
+   "version": 1,
+   "sizeKB": 176,
+   "changeNote": "new statute — Offence Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
