@@ -1,5 +1,5 @@
 {
- "catalogVersion": 30,
+ "catalogVersion": 31,
  "updatedAt": "2026-07-31T00:00:00Z",
  "statutes": [
   {
@@ -294,6 +294,19 @@
    "version": 1,
    "sizeKB": 176,
    "changeNote": "new statute — Offence Act (BC), v1"
+  },
+  {
+   "id": "canada-excise-act-2001",
+   "shortName": "Excise Act 2001",
+   "fullName": "Excise Act, 2001 (Canada)",
+   "jurisdiction": "federal",
+   "municipality": null,
+   "licenceName": "Excise Act, 2001, S.C. 2002, c. 22",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/E-14.1/",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-EXCISEACT2001",
+   "version": 1,
+   "sizeKB": 515,
+   "changeNote": "new statute — Excise Act, 2001 (Canada), v1"
   }
  ],
  "operationsSlotLimit": 3
