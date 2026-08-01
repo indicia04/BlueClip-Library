@@ -1,5 +1,5 @@
 {
- "catalogVersion": 32,
+ "catalogVersion": 33,
  "updatedAt": "2026-07-31T00:00:00Z",
  "statutes": [
   {
@@ -278,9 +278,9 @@
    "licenceName": "Hotel Keepers Act, RSBC 1996, c. 206",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96206_01",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-HOTELKEEPERS",
-   "version": 1,
-   "sizeKB": 10,
-   "changeNote": "new statute — Hotel Keepers Act (BC), v1"
+   "version": 2,
+   "sizeKB": 11,
+   "changeNote": "Hotel Keepers Act — arrest authority on offence 6(4) (Hotel Keepers Act s.7(b))"
   },
   {
    "id": "bc-offence-act",

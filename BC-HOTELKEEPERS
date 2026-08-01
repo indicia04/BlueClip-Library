@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-hotel-keepers",
  "schemaVersion": 2,
- "version": 1,
- "updatedAt": "2026-07-27T00:00:00Z",
+ "version": 2,
+ "updatedAt": "2026-07-31T00:00:00Z",
  "sources": [
   {
    "name": "Hotel Keepers Act",
@@ -44,7 +44,11 @@
    "modifiers": [],
    "shortForm": "Fail to comply with a request to desi…",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96206_01",
-   "maxPenalty": "Fine up to $2,000 on conviction (Hotel Keepers Act s.6(4)). No violation-ticket fine."
+   "maxPenalty": "Fine up to $2,000 on conviction (Hotel Keepers Act s.6(4)). No violation-ticket fine.",
+   "arrest": {
+    "authority": "Hotel Keepers Act s.7(b)",
+    "note": "A peace officer may arrest without a warrant a person who fails to comply with, or who is suspected on reasonable grounds of failing to comply with, a request under section 6(2) (Hotel Keepers Act s.7(b))."
+   }
   },
   {
    "id": "Hotel Keepers Act:6(5):Innkeeper fail to make a required desist-or-leave request",
