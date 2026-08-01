@@ -1,7 +1,7 @@
 {
  "statuteID": "bc-offence-act",
  "schemaVersion": 2,
- "version": 1,
+ "version": 2,
  "updatedAt": "2026-07-31T00:00:00Z",
  "sources": [
   {
@@ -98,7 +98,11 @@
    "modifiers": [],
    "shortForm": "Fail to comply with a probation order",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96338_01",
-   "maxPenalty": "Provincial offence. No set violation-ticket fine; on conviction the Offence Act general penalty (s.4) applies: fine up to $2,000 or imprisonment up to 6 months, or both."
+   "maxPenalty": "Provincial offence. No set violation-ticket fine; on conviction the Offence Act general penalty (s.4) applies: fine up to $2,000 or imprisonment up to 6 months, or both.",
+   "arrest": {
+    "authority": "Offence Act s.89.7(2)",
+    "note": "A police officer may arrest without warrant a person whom the police officer believes on reasonable and probable grounds is committing an offence under section 89.6 (Offence Act s.89.7(2))."
+   }
   },
   {
    "id": "Offence Act:89.7(2):Arrest without warrant — breach of probation",

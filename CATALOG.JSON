@@ -1,5 +1,5 @@
 {
- "catalogVersion": 33,
+ "catalogVersion": 34,
  "updatedAt": "2026-07-31T00:00:00Z",
  "statutes": [
   {
@@ -291,9 +291,9 @@
    "licenceName": "Offence Act, RSBC 1996, c. 338",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96338_01",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-OFFENCEACT",
-   "version": 1,
+   "version": 2,
    "sizeKB": 176,
-   "changeNote": "new statute — Offence Act (BC), v1"
+   "changeNote": "Offence Act — arrest authority on offence 89.6(1) (Offence Act s.89.7(2))"
   },
   {
    "id": "canada-excise-act-2001",
