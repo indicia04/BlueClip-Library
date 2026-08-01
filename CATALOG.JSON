@@ -1,6 +1,6 @@
 {
- "catalogVersion": 34,
- "updatedAt": "2026-07-31T00:00:00Z",
+ "catalogVersion": 35,
+ "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -320,6 +320,19 @@
    "version": 1,
    "sizeKB": 149,
    "changeNote": "new statute — Railway Safety Act (Canada), v1"
+  },
+  {
+   "id": "bc-off-road-vehicle",
+   "shortName": "Off-Road Vehicle",
+   "fullName": "Off-Road Vehicle Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Off-Road Vehicle Act, SBC 2014, c. 5",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/14005",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-OFFROADVEHICLE",
+   "version": 1,
+   "sizeKB": 82,
+   "changeNote": "new statute — Off-Road Vehicle Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
