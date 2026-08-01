@@ -1,5 +1,5 @@
 {
- "catalogVersion": 31,
+ "catalogVersion": 32,
  "updatedAt": "2026-07-31T00:00:00Z",
  "statutes": [
   {
@@ -307,6 +307,19 @@
    "version": 1,
    "sizeKB": 515,
    "changeNote": "new statute — Excise Act, 2001 (Canada), v1"
+  },
+  {
+   "id": "canada-railway-safety-act",
+   "shortName": "Railway Safety",
+   "fullName": "Railway Safety Act (Canada)",
+   "jurisdiction": "federal",
+   "municipality": null,
+   "licenceName": "Railway Safety Act, R.S.C. 1985, c. 32 (4th Supp.)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/R-4.2/",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-RAILWAYSAFETY",
+   "version": 1,
+   "sizeKB": 149,
+   "changeNote": "new statute — Railway Safety Act (Canada), v1"
   }
  ],
  "operationsSlotLimit": 3
