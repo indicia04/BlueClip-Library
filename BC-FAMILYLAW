@@ -1,8 +1,8 @@
 {
  "statuteID": "bc-family-law",
  "schemaVersion": 2,
- "version": 1,
- "updatedAt": "2026-07-27T00:00:00Z",
+ "version": 2,
+ "updatedAt": "2026-08-02T00:00:00Z",
  "sources": [
   {
    "name": "Family Law Act",
@@ -72,6 +72,52 @@
    ],
    "modifiers": [],
    "shortForm": "Apprehend a child under a court order…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
+   "kind": "power"
+  },
+  {
+   "id": "Family Law Act:231(5):Apprehend a child under a court order (wrongfully withheld from guardian)",
+   "statuteID": "bc-family-law",
+   "section": "231(5)",
+   "act": "Family Law Act",
+   "title": "Apprehend a child under a court order (wrongfully withheld from guardian)",
+   "bodyText": "(5) If satisfied that a person having contact with a child has wrongfully withheld the child from a guardian of the child, a court may make an order requiring a police officer to apprehend the child and take the child to the guardian.",
+   "fine": 0,
+   "points": 0,
+   "category": "flaPolicePowers",
+   "keywords": [
+    "apprehend child",
+    "withheld child",
+    "return to guardian",
+    "contact",
+    "court order",
+    "guardian"
+   ],
+   "modifiers": [],
+   "shortForm": "Apprehend a child under a court order…",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
+   "kind": "power"
+  },
+  {
+   "id": "Family Law Act:231(6):Enter and search to locate a child under an apprehension order",
+   "statuteID": "bc-family-law",
+   "section": "231(6)",
+   "act": "Family Law Act",
+   "title": "Enter and search to locate a child under an apprehension order",
+   "bodyText": "(6) For the purpose of locating and apprehending a child in accordance with an order made under subsection (4) or (5), a police officer may enter and search any place the police officer has reasonable and probable grounds for believing the child to be.",
+   "fine": 0,
+   "points": 0,
+   "category": "flaPolicePowers",
+   "keywords": [
+    "enter and search",
+    "locate child",
+    "apprehension order",
+    "search premises",
+    "reasonable grounds",
+    "apprehend child"
+   ],
+   "modifiers": [],
+   "shortForm": "Enter and search to locate a child un…",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
    "kind": "power"
   },

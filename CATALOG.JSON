@@ -1,6 +1,6 @@
 {
- "catalogVersion": 38,
- "updatedAt": "2026-07-27T00:00:00Z",
+ "catalogVersion": 39,
+ "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
    "id": "bc-motor-vehicle",
@@ -369,9 +369,9 @@
    "licenceName": "Family Law Act, SBC 2011, c. 25",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-FAMILYLAW",
-   "version": 1,
-   "sizeKB": 324,
-   "changeNote": "new statute — Family Law Act (BC), v1"
+   "version": 2,
+   "sizeKB": 326,
+   "changeNote": "Family Law Act — add s.231(5) and s.231(6) police apprehension powers (v2)"
   }
  ],
  "operationsSlotLimit": 3
