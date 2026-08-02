@@ -1,5 +1,5 @@
 {
- "catalogVersion": 43,
+ "catalogVersion": 44,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -398,6 +398,19 @@
    "version": 2,
    "sizeKB": 416,
    "changeNote": "IRPA pass 2 — complete Act Text + s.142(1) peace-officer duty card (v2)"
+  },
+  {
+   "id": "bc-chilliwack-community-standards",
+   "shortName": "Community Standards",
+   "fullName": "Community Standards Bylaw (Chilliwack)",
+   "jurisdiction": "bc",
+   "municipality": "Chilliwack",
+   "licenceName": "City of Chilliwack Bylaw 5041",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-COMMUNITY-STANDARDS",
+   "version": 1,
+   "sizeKB": 64,
+   "changeNote": "new statute — Community Standards Bylaw (Chilliwack), v1"
   }
  ],
  "operationsSlotLimit": 3

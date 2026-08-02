@@ -1,0 +1,970 @@
+{
+ "statuteID": "bc-chilliwack-community-standards",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-08-02T00:00:00Z",
+ "sources": [
+  {
+   "name": "Community Standards Bylaw 2021, No. 5041",
+   "role": "bylaw",
+   "url": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284",
+   "currentTo": "2023-05-02",
+   "dateLabel": "Consolidated to [date]",
+   "flagged": true,
+   "checkNote": "VERIFIED live 2026-08-02 (HTTP 200, chilliwack.com index id=363, attachID=6284). 12-page consolidated PDF, 'Consolidated to: May 2, 2023'. NOTE: the 2026 fine schedule numbers the odour (s.24) and obstruct (s.26) offences one higher than this 2023 consolidation (s.23/s.25) — the bylaw was amended after 2023; those two offences are on the needs-review list, not built."
+  },
+  {
+   "name": "Bylaw Notice Enforcement Bylaw 2018, No. 4573 (Schedule A — fine schedule)",
+   "role": "fines",
+   "url": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=2436",
+   "currentTo": "2026-04-21",
+   "dateLabel": "Consolidated: [date]",
+   "checkNote": "Committed chilliwack-bylaw-notice-fines-2436-2026-07-24.pdf, Schedule A pp.9-11 (the '5041' block, 27 rows). base + early ($10 off) / late ($10 on) + compliance agreement. Bylaw-notice fines carry no victim surcharge."
+  }
+ ],
+ "categories": [
+  {
+   "id": "csUnsightly",
+   "title": "Unsightly & Rubbish",
+   "symbol": "trash.fill",
+   "tint": "#78350F"
+  },
+  {
+   "id": "csInvasive",
+   "title": "Invasive Species",
+   "symbol": "leaf.fill",
+   "tint": "#15803D"
+  },
+  {
+   "id": "csAnimals",
+   "title": "Animals & Wildlife",
+   "symbol": "pawprint.fill",
+   "tint": "#B45309"
+  },
+  {
+   "id": "csBoulevard",
+   "title": "Boulevards & Snow",
+   "symbol": "snowflake",
+   "tint": "#0E7490"
+  },
+  {
+   "id": "csNoise",
+   "title": "Noise",
+   "symbol": "speaker.wave.3.fill",
+   "tint": "#B91C1C"
+  }
+ ],
+ "offences": [
+  {
+   "id": "Chilliwack Bylaw 5041:5:Unsightly Real Property",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "5",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Unsightly Real Property",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit the parcel to become or to remain unsightly.",
+   "fine": 500,
+   "points": 0,
+   "category": "csUnsightly",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "unsightly",
+    "real",
+    "property"
+   ],
+   "modifiers": [
+    {
+     "id": "3fcfc902-a78f-5518-aca8-17eab69cd3fe",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Unsightly Real Property",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:6:Accumulation of Rubbish",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "6",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Accumulation of Rubbish",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit rubbish or noxious or unwholesome matter to collect or accumulate on the parcel.",
+   "fine": 500,
+   "points": 0,
+   "category": "csUnsightly",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "accumulation",
+    "rubbish"
+   ],
+   "modifiers": [
+    {
+     "id": "e0bf7084-9330-52ea-a43e-e846bb0a4338",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Accumulation of Rubbish",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:7:Failure to Remove Accumulation of Filth, Discarded Material or Rubbish",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "7",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Failure to Remove Accumulation of Filth, Discarded Material or Rubbish",
+   "bodyText": "An Owner or occupier of a parcel of real property shall remove or cause to be removed from the parcel any accumulation of filth, discarded material, or rubbish of any kind. “Community Standards Bylaw 2021, No. 5041” - Page 5 Consolidated to: May 2, 2023",
+   "fine": 500,
+   "points": 0,
+   "category": "csUnsightly",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "failure",
+    "remove",
+    "accumulation",
+    "filth",
+    "discarded",
+    "material"
+   ],
+   "modifiers": [
+    {
+     "id": "88d934dc-5775-5a6f-826d-f375d853efba",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to Remove Accumulation of Fil…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:8:Unlawful Metal Storage Container",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "8",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Unlawful Metal Storage Container",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit the storage of a Metal Storage Container on a parcel of real property except that a Metal Storage Container is permitted: (1) when specified as a permitted use within the Zoning Bylaw; or (2) in conjunction with an active building permit issued for the property on which the container is placed; or, (3) for a period not to exceed fourteen days per calendar year.",
+   "fine": 500,
+   "points": 0,
+   "category": "csUnsightly",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "unlawful",
+    "metal",
+    "storage",
+    "container"
+   ],
+   "modifiers": [
+    {
+     "id": "a8e142a0-b0e7-5759-8e31-f0666078480e",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Unlawful Metal Storage Container",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:9(1):Growth of Alien Invasive Species",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "9(1)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Growth of Alien Invasive Species",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit on the parcel: (1) the growth, presence, or spread of Alien Invasive Species; (2) an infestation by Alien Invasive Species; (3) the sale or trade of Alien Invasive Species; or, (4) the removal or deposit of Soil contaminated with Alien Invasive Species.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "growth",
+    "alien",
+    "invasive",
+    "species"
+   ],
+   "modifiers": [
+    {
+     "id": "f1549615-37d9-530a-857c-f25b3a689476",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Growth of Alien Invasive Species",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:9(2):Infestation by Alien Invasive Species",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "9(2)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Infestation by Alien Invasive Species",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit on the parcel: (1) the growth, presence, or spread of Alien Invasive Species; (2) an infestation by Alien Invasive Species; (3) the sale or trade of Alien Invasive Species; or, (4) the removal or deposit of Soil contaminated with Alien Invasive Species.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "infestation",
+    "alien",
+    "invasive",
+    "species"
+   ],
+   "modifiers": [
+    {
+     "id": "ab590ac1-0d33-5a8d-bd58-41e1e3b4576e",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Infestation by Alien Invasive Species",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:9(3):Sale or trade of Alien Invasive Species",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "9(3)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Sale or trade of Alien Invasive Species",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit on the parcel: (1) the growth, presence, or spread of Alien Invasive Species; (2) an infestation by Alien Invasive Species; (3) the sale or trade of Alien Invasive Species; or, (4) the removal or deposit of Soil contaminated with Alien Invasive Species.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "sale",
+    "trade",
+    "alien",
+    "invasive",
+    "species"
+   ],
+   "modifiers": [
+    {
+     "id": "3ddbdcfb-56d2-5b2e-a481-79b833470210",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Sale or trade of Alien Invasive Species",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:9(4):Removal or Deposit of Contaminated Soil",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "9(4)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Removal or Deposit of Contaminated Soil",
+   "bodyText": "An Owner or occupier of a parcel of real property shall not cause, allow or permit on the parcel: (1) the growth, presence, or spread of Alien Invasive Species; (2) an infestation by Alien Invasive Species; (3) the sale or trade of Alien Invasive Species; or, (4) the removal or deposit of Soil contaminated with Alien Invasive Species.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "removal",
+    "deposit",
+    "contaminated",
+    "soil"
+   ],
+   "modifiers": [
+    {
+     "id": "d071af19-29ca-5372-b9e5-8ec197c79dd1",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Removal or Deposit of Contaminated Soil",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:10:Failure to Eradicate Alien Invasive Species",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "10",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Failure to Eradicate Alien Invasive Species",
+   "bodyText": "An Owner or occupier of a parcel of real property that contains an Alien Invasive Species shall initiate a management plan to eradicate the species and shall continue implementing the management plan until the species has been completely eradicated from the property.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "failure",
+    "eradicate",
+    "alien",
+    "invasive",
+    "species"
+   ],
+   "modifiers": [
+    {
+     "id": "e37ea7f8-8e13-544f-b24d-cb218f2ed323",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to Eradicate Alien Invasive S…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:11:Failure to Comply with Provincial and Federal Regulations",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "11",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Failure to Comply with Provincial and Federal Regulations",
+   "bodyText": "In carrying out the management plan under Section 9 of this bylaw, the Owner or occupier shall comply with all applicable provincial or federal regulations, including but not limited to the BC Integrated Pest Management Act, BC Integrated Pest Management Regulation, and federal Pest Control Products Act.",
+   "fine": 500,
+   "points": 0,
+   "category": "csInvasive",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "failure",
+    "comply",
+    "provincial",
+    "and",
+    "federal",
+    "regulations"
+   ],
+   "modifiers": [
+    {
+     "id": "dba09b9a-3e31-51dd-9701-5a5ca7efd6cd",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to Comply with Provincial and…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:12(1):Release Animal",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "12(1)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Release Animal",
+   "bodyText": "No person shall: (1) release or set free any Animal anywhere in the City, except as part of a permitted activity carried out by a government agency or registered conservation organization; or, (2) move, transfer or spread Designated Wildlife except as part of a permitted activity carried out by a government agency or registered conservation organization.",
+   "fine": 500,
+   "points": 0,
+   "category": "csAnimals",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "release",
+    "animal"
+   ],
+   "modifiers": [
+    {
+     "id": "28ce82aa-755c-5dda-9285-df1fe9b0f31d",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Release Animal",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:12(2):Move Designated Wildlife",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "12(2)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Move Designated Wildlife",
+   "bodyText": "No person shall: (1) release or set free any Animal anywhere in the City, except as part of a permitted activity carried out by a government agency or registered conservation organization; or, (2) move, transfer or spread Designated Wildlife except as part of a permitted activity carried out by a government agency or registered conservation organization.",
+   "fine": 500,
+   "points": 0,
+   "category": "csAnimals",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "move",
+    "designated",
+    "wildlife"
+   ],
+   "modifiers": [
+    {
+     "id": "069b43db-bfab-59fa-8cb7-2bc18db40d52",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Move Designated Wildlife",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:13:Feed any Animal Other Than Domesticated Pet",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "13",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Feed any Animal Other Than Domesticated Pet",
+   "bodyText": "No person shall feed, or leave food available to, any Animal other than a domesticated pet, except a Bird at a feeder at a person’s real property, where the feeder is inaccessible to domestic cats. “Community Standards Bylaw 2021, No. 5041” - Page 6 Consolidated to: May 2, 2023",
+   "fine": 500,
+   "points": 0,
+   "category": "csAnimals",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "feed",
+    "animal",
+    "domesticated",
+    "pet"
+   ],
+   "modifiers": [
+    {
+     "id": "711f9c31-ebea-5c97-997c-dbfc0b4b645d",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Feed any Animal Other Than Domesticat…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:14(1):Infestation of Alien Invasive Species on Boulevard",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "14(1)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Infestation of Alien Invasive Species on Boulevard",
+   "bodyText": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit.",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "infestation",
+    "alien",
+    "invasive",
+    "species",
+    "boulevard"
+   ],
+   "modifiers": [
+    {
+     "id": "2790d191-2029-5c5b-9a5a-ba4933cc0f4f",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Infestation of Alien Invasive Species…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:14(2):Over Height Grass or Vegetation on Boulevard",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "14(2)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Over Height Grass or Vegetation on Boulevard",
+   "bodyText": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit.",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "over",
+    "height",
+    "grass",
+    "vegetation",
+    "boulevard"
+   ],
+   "modifiers": [
+    {
+     "id": "578e852f-2268-5cf5-a652-1826d6fa6576",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Over Height Grass or Vegetation on Bo…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:14(3):Boulevard Not Maintained",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "14(3)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Boulevard Not Maintained",
+   "bodyText": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit.",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "boulevard",
+    "not",
+    "maintained"
+   ],
+   "modifiers": [
+    {
+     "id": "d5e44e62-9d34-5ab5-8702-387cc8573cf9",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Boulevard Not Maintained",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:14(4):Vegetation Encroaching Sidewalk, Roadway or Traffic Control Device",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "14(4)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Vegetation Encroaching Sidewalk, Roadway or Traffic Control Device",
+   "bodyText": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit.",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "vegetation",
+    "encroaching",
+    "sidewalk",
+    "roadway",
+    "traffic",
+    "control"
+   ],
+   "modifiers": [
+    {
+     "id": "d317a280-6515-57f8-a266-8fafae1c172f",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Vegetation Encroaching Sidewalk, Road…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:14(5):Failure to Remove Snow or Ice",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "14(5)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Failure to Remove Snow or Ice",
+   "bodyText": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit.",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "failure",
+    "remove",
+    "snow",
+    "ice"
+   ],
+   "modifiers": [
+    {
+     "id": "c13873f9-d473-5521-af49-5ca3ddee4d54",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Failure to Remove Snow or Ice",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:15:Deface Boulevard or Vegetation",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "15",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Deface Boulevard or Vegetation",
+   "bodyText": "No person shall deface any Boulevard, or willfully injure or damage any Boulevard or any tree, shrub, plant, bush or hedge on any Boulevard;",
+   "fine": 200,
+   "points": 0,
+   "category": "csBoulevard",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "deface",
+    "boulevard",
+    "vegetation"
+   ],
+   "modifiers": [
+    {
+     "id": "e6647e3a-b1d2-5dcb-b626-0f4a92c9df7d",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 190,
+     "note": "Bylaw-notice penalty: $200.00 base, $190.00 if paid early, $210.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Deface Boulevard or Vegetation",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:16:Noise Which Disturbs",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "16",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Noise Which Disturbs",
+   "bodyText": "A person shall not make, or cause or allow to be made, in or on a highway or elsewhere in the City, any noise or sound which disturbs or tends to disturb the quiet, peace, rest, enjoyment, comfort or convenience of the public, neighbourhood or persons in the vicinity.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "noise",
+    "which",
+    "disturbs"
+   ],
+   "modifiers": [
+    {
+     "id": "08dcc8f2-31b1-5033-a49c-beda2d724574",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Noise Which Disturbs",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:17(1):Construction Noise",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "17(1)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Construction Noise",
+   "bodyText": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "construction",
+    "noise"
+   ],
+   "modifiers": [
+    {
+     "id": "70f32a26-964a-5fea-afbc-4ce69ea6efc0",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Construction Noise",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:17(2):Commercial or Industrial Noise abutting Residential Zone",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "17(2)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Commercial or Industrial Noise abutting Residential Zone",
+   "bodyText": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "commercial",
+    "industrial",
+    "noise",
+    "abutting",
+    "residential",
+    "zone"
+   ],
+   "modifiers": [
+    {
+     "id": "e59a66b4-05aa-5f8e-a31c-9214ffc12e31",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Commercial or Industrial Noise abutti…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:17(3):Commercial or Industrial Noise abutting Non-Residential Zone",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "17(3)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Commercial or Industrial Noise abutting Non-Residential Zone",
+   "bodyText": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "commercial",
+    "industrial",
+    "noise",
+    "abutting",
+    "non",
+    "residential"
+   ],
+   "modifiers": [
+    {
+     "id": "26dfa5eb-f950-526b-901e-682cd4bdcb13",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Commercial or Industrial Noise abutti…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:17(4):Outdoor Assembly Noise",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "17(4)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Outdoor Assembly Noise",
+   "bodyText": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "outdoor",
+    "assembly",
+    "noise"
+   ],
+   "modifiers": [
+    {
+     "id": "14afebf9-4c25-58d9-91b5-609b3b75e8d6",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Outdoor Assembly Noise",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  },
+  {
+   "id": "Chilliwack Bylaw 5041:17(5):Outdoor Assembly Noise During Restricted Hours",
+   "statuteID": "bc-chilliwack-community-standards",
+   "section": "17(5)",
+   "act": "Chilliwack Bylaw 5041",
+   "title": "Outdoor Assembly Noise During Restricted Hours",
+   "bodyText": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located.",
+   "fine": 500,
+   "points": 0,
+   "category": "csNoise",
+   "keywords": [
+    "community standards",
+    "bylaw",
+    "outdoor",
+    "assembly",
+    "noise",
+    "during",
+    "restricted",
+    "hours"
+   ],
+   "modifiers": [
+    {
+     "id": "29d283d9-8472-55d4-9d42-ccf38ff35625",
+     "label": "Early payment penalty",
+     "fineMultiplier": null,
+     "flatFine": 490,
+     "note": "Bylaw-notice penalty: $500.00 base, $490.00 if paid early, $510.00 if paid late; a compliance agreement is available (Bylaw Notice Enforcement Bylaw 2018, No. 4573, Schedule A)."
+    }
+   ],
+   "shortForm": "Outdoor Assembly Noise During Restric…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=6284"
+  }
+ ],
+ "fullText": [
+  {
+   "id": "chwk5041-s3",
+   "number": "3",
+   "text": "In this Bylaw: “abutting” means on the front, back or sides of a property parcel; “Alien Invasive Species” means the species listed in Schedule “A” of this bylaw, as amended or replaced from time to time; “amphibian” means a vertebrate of the class Amphibia including the eggs and other developmental life stages; “animal” means a Mammal, Reptile, Amphibian, Bird or Fish; “bird” means an animal of the class Aves, and its eggs; “boulevard” means the area between: the curb lines; the lateral lines; or the shoulder of a roadway, and the adjacent property line; “Community Standards Bylaw 2021, No. 5041” - Page 2 Consolidated to: May 2, 2023 “building materials” includes but is not limited to items used in the construction of structures or in landscaping such as lumber, windows, and doors; “Bylaw Enforcement Officer” means a person appointed by Council to enforce the bylaws of the City, or their designate; “City” means the City of Chilliwack; “clearing” means the act of cutting down and removing Alien Invasive Species, brush, tall grass or other similar growth; \"commercial zone\" means a property or group of properties designated for commercial use as defined in the City's Zoning Bylaw, as amended; “Corporate Officer” means the Corporate Officer for the City or their designate; \"Council\" means the Council of the City; \"dBA\" means the sound pressure level in decibels measured using the \"A\" weighting network setting of an approved sound meter; “designated wildlife” means an animal at any life stage from Schedule B and C of the Designation and Exemption Regulation of the Wildlife Act, as amended; \"Director\" means the Director of Planning or Director of Development and Regulatory Enforcement Services or their designates; “Environmental Services Specialist” means the person designated in or appointed to the position of Environmental Coordinator, Environmental Services Specialist, Senior Environmental Services Specialist or Manager of Environmental Services by the City of Chilliwack; “fish” means a (a) vertebrate of the order Petromyzontiformes (lampreys) or class Osteichthyes (bony fishes), or (b) invertebrate of the class Crustacea (crustaceans) or class Mollusca (mollusks) and includes their eggs and juvenile stages; “highway” means a street, road, lane, bridge, viaduct and any other way open to the use of the public, and includes any adjacent allowance, Boulevard or right of way; \"industrial zone\" means a property or group of properties designated for industrial use as defined in the City's Zoning Bylaw, as amended; “mammal” means a vertebrate of the class Mammalia other than humans; “metal storage container” has the same meaning as defined in the City’s Zoning Bylaw, as amended; \"night\" means the hours between 9:00 p.m. of one day and 7:00 a.m. of the following day; “notice” means a notice issued under Sections 27 and 28 of this Bylaw; “Community Standards Bylaw 2021, No. 5041” - Page 3 Consolidated to: May 2, 2023 \"outdoor assembly\" means a public outdoor gathering of persons for a music concert, festival, rally or other similar type of public gathering and includes outdoor entertainment for commercial or charitable purposes; “owner” means the person or persons registered in the records of a land title office as the owner of a parcel of real property; “pesticide” means pesticide, insecticide, herbicide, fungicide and related products; “Point of Reception” means a position that: (a) is within the property line of the real property occupied by the recipient of a noise, and best represents the location at which the noise emanating from another property is received and the resulting disturbance experienced; or, (b) is within six metres of the property line of the real property from which the sound is emanating; “reptile” means a vertebrate of the class Reptilia and its eggs; \"residential zone\" means a property or group of properties designated for residential use as defined in the City's Zoning Bylaw, as amended; “sidewalk” means a separated facility at the side of a street or roadway intended for use by pedestrians; \"soil\" includes sand, gravel, rock and other substances of which land is composed; and, “Zoning Bylaw” means the Zoning Bylaw of the City of Chilliwack, as amended."
+  },
+  {
+   "id": "chwk5041-s4",
+   "number": "4",
+   "text": "In this Bylaw, “unsightly” includes, but is not limited to: (1) the accumulation of Building Material on a parcel of real property unless: (i) the Owner or occupier of the parcel is in possession of a valid building permit issued for the property upon which the materials are placed; or, (ii) the accumulation is stored in a closed building or structure such that the accumulation is not visible from another parcel or highway; (2) except when permitted pursuant to the Zoning Bylaw, the storage or accumulation on a parcel of real property of all or part of a motor vehicle, as defined in the Motor Vehicle Act which is not either: (i) validly registered and licensed in accordance with the Motor Vehicle Act; or, “Community Standards Bylaw 2021, No. 5041” - Page 4 Consolidated to: May 2, 2023 (ii) capable of movement under its own power, unless stored in a closed building or structure such that the motor vehicle, or any portion of a motor vehicle, is not visible from another parcel or a highway; (3) except where permitted pursuant to the Zoning Bylaw, the accumulation on a parcel of real property of filth, discarded materials or rubbish of any kind, whether or not for commercial purposes or as part of a trade or calling, including but not limited to dead animals, paper products, crockery, glass, metal, plastics, plastic containers, wire, ropes, machinery, tires, appliances, and any other scrap or salvage; (4) the accumulation or deposit on a parcel of real property of discarded or fallen building materials, including the surface, covering, or coating of a building or structure, or the building or structure itself or part of it which is missing all or a portion of its surface, covering, or coating materials; (5) the accumulation on any parcel of real property other than a parcel zoned for industrial uses under the Zoning Bylaw, as amended, for the storage, repair, cleaning, maintenance, collection, or servicing of mechanical equipment including bulldozers, graders, backhoes, or other similar heavy construction equipment; (6) the presence of graffiti, whether in the form of pictures or words, on real property or on the surface of premises located on real property; (7) the accumulation on a parcel of real property of garbage not contained in a covered and fully enclosed receptacle; (8) a fence that is in a state of disrepair, including but not limited to a fence that is leaning or missing panels; (9) the accumulation of uncontrolled vegetation, except where the property is lawfully used for agricultural use under the Zoning Bylaw; and, (10) grass, weeds or other similar ground cover over 25 centimeters in height, except where the property is lawfully used for agricultural use under the Zoning Bylaw."
+  },
+  {
+   "id": "chwk5041-s5",
+   "number": "5",
+   "text": "An Owner or occupier of a parcel of real property shall not cause, allow or permit the parcel to become or to remain unsightly."
+  },
+  {
+   "id": "chwk5041-s6",
+   "number": "6",
+   "text": "An Owner or occupier of a parcel of real property shall not cause, allow or permit rubbish or noxious or unwholesome matter to collect or accumulate on the parcel."
+  },
+  {
+   "id": "chwk5041-s7",
+   "number": "7",
+   "text": "An Owner or occupier of a parcel of real property shall remove or cause to be removed from the parcel any accumulation of filth, discarded material, or rubbish of any kind. “Community Standards Bylaw 2021, No. 5041” - Page 5 Consolidated to: May 2, 2023"
+  },
+  {
+   "id": "chwk5041-s8",
+   "number": "8",
+   "text": "An Owner or occupier of a parcel of real property shall not cause, allow or permit the storage of a Metal Storage Container on a parcel of real property except that a Metal Storage Container is permitted: (1) when specified as a permitted use within the Zoning Bylaw; or (2) in conjunction with an active building permit issued for the property on which the container is placed; or, (3) for a period not to exceed fourteen days per calendar year."
+  },
+  {
+   "id": "chwk5041-s9",
+   "number": "9",
+   "text": "An Owner or occupier of a parcel of real property shall not cause, allow or permit on the parcel: (1) the growth, presence, or spread of Alien Invasive Species; (2) an infestation by Alien Invasive Species; (3) the sale or trade of Alien Invasive Species; or, (4) the removal or deposit of Soil contaminated with Alien Invasive Species."
+  },
+  {
+   "id": "chwk5041-s10",
+   "number": "10",
+   "text": "An Owner or occupier of a parcel of real property that contains an Alien Invasive Species shall initiate a management plan to eradicate the species and shall continue implementing the management plan until the species has been completely eradicated from the property."
+  },
+  {
+   "id": "chwk5041-s11",
+   "number": "11",
+   "text": "In carrying out the management plan under Section 9 of this bylaw, the Owner or occupier shall comply with all applicable provincial or federal regulations, including but not limited to the BC Integrated Pest Management Act, BC Integrated Pest Management Regulation, and federal Pest Control Products Act."
+  },
+  {
+   "id": "chwk5041-s12",
+   "number": "12",
+   "text": "No person shall: (1) release or set free any Animal anywhere in the City, except as part of a permitted activity carried out by a government agency or registered conservation organization; or, (2) move, transfer or spread Designated Wildlife except as part of a permitted activity carried out by a government agency or registered conservation organization."
+  },
+  {
+   "id": "chwk5041-s13",
+   "number": "13",
+   "text": "No person shall feed, or leave food available to, any Animal other than a domesticated pet, except a Bird at a feeder at a person’s real property, where the feeder is inaccessible to domestic cats. “Community Standards Bylaw 2021, No. 5041” - Page 6 Consolidated to: May 2, 2023"
+  },
+  {
+   "id": "chwk5041-s14",
+   "number": "14",
+   "text": "Every Owner or occupier of real property shall maintain every Sidewalk and Boulevard abutting their property in a clean and safe condition and, without limiting the provisions of this Bylaw, shall: (1) keep the Boulevard free of Alien Invasive Species, in accordance with Section 9 of this bylaw; (2) keep the grass, weeds or other similar ground cover on the Boulevard trimmed to a height of not more than 25 centimeters, in accordance with Section 4 of this bylaw; (3) keep the Boulevard and Sidewalk clear of litter, debris, garbage, discarded materials and unsightly or overgrown vegetation; (4) keep shrubs, trees, or other vegetation on a parcel of real property trimmed such that they do not encroach upon or block any Sidewalk, roadway, or traffic control device; and, (5) remove all snow and ice from the Sidewalk or public footpath as soon as practicable following a snowfall, icefall or frost within a reasonable time of its deposit, but in any case no later than noon on the day following its deposit."
+  },
+  {
+   "id": "chwk5041-s15",
+   "number": "15",
+   "text": "No person shall deface any Boulevard, or willfully injure or damage any Boulevard or any tree, shrub, plant, bush or hedge on any Boulevard;"
+  },
+  {
+   "id": "chwk5041-s16",
+   "number": "16",
+   "text": "A person shall not make, or cause or allow to be made, in or on a highway or elsewhere in the City, any noise or sound which disturbs or tends to disturb the quiet, peace, rest, enjoyment, comfort or convenience of the public, neighbourhood or persons in the vicinity."
+  },
+  {
+   "id": "chwk5041-s17",
+   "number": "17",
+   "text": "Without limiting any other provision of this bylaw, a person shall not cause, permit or allow the following noises or sounds: Construction Noise (1) any noise or sound caused by or made in the course of the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land, at any time on Sundays or on any day before 7:00 am or after 9:00 pm, which is audible outside the property from which the noise or sound is emanating; “Community Standards Bylaw 2021, No. 5041” - Page 7 Consolidated to: May 2, 2023 Commercial or Industrial Noise (2) where a commercial or industrial zone borders a residential zone, any noise or sound, the level of which exceeds 65 dBA during the Night as measured at a Point of Reception within the residential zone; (3) where a commercial or industrial zone borders a non-residential zone, any noise or sound, the level of which exceeds 80 dBA during the Night as measured at a Point of Reception within the non-residential zone; Outdoor Assembly and Public Address Systems (4) any noise or sound emanating from an outdoor assembly or public address system between the hours of 7:00 am and 11:00 pm, the level of which exceeds 90 dBA as measured at any point within six metres outside the property from which the noise or sound is emanating; (5) any noise or sound at Night emanating from an outdoor assembly or public address system between the hours of 11:00 pm and 7:00 am which is audible outside the property on which the outdoor assembly or public address system is located."
+  },
+  {
+   "id": "chwk5041-s18",
+   "number": "18",
+   "text": "The provisions of Sections 16 and 17 of this bylaw do not apply to: (1) the operation of an emergency vehicle proceeding in an emergency; (2) the emergency repair of a public utility or highway by a utility company or by the City or its contractors; (3) the carrying on of a legal, permitted agricultural operation; (4) the construction, erection, reconstruction, alteration, repair or demolition of any building, structure or thing, or the excavation or filling-in of land between the hours of 7:00 am and 9:00 pm, Monday to Saturday; (5) municipal works including, but not limited to, construction, rehabilitation, operation and maintenance, or other works or activities, authorized by the City, the Fraser Valley Regional District, or the Province of British Columbia and conducted by its employees, agents and contractors; (6) operation of a public address system required under an applicable building or fire code; or, (7) the use of bells or chimes for the announcing of public worship services. “Community Standards Bylaw 2021, No. 5041” - Page 8 Consolidated to: May 2, 2023"
+  },
+  {
+   "id": "chwk5041-s19",
+   "number": "19",
+   "text": "If it is impossible or impractical to comply with the provisions of Section 17(1) of this bylaw, a person may, on the form and in the manner specified by the Director, submit an application for a Construction Noise Exemption Permit."
+  },
+  {
+   "id": "chwk5041-s20",
+   "number": "20",
+   "text": "An application for a Construction Noise Exemption is subject to a non-refundable application fee, as set out in the Miscellaneous Rates Bylaw, as amended. The Director may impose the terms and conditions of an exemption under Section 19 of this bylaw, as the Director sees fit in order minimize disturbances to the residents of the neighborhood."
+  },
+  {
+   "id": "chwk5041-s21",
+   "number": "21",
+   "text": "If an exemption or relaxation is granted by the Director, the applicant must, at least 48 hours before the start of the exemption period, distribute a notice, in a form and with content satisfactory to the City, to all residents within a 50 metre radius. Such a notice is to include, but will not be limited to, all times and dates, the specific location, and general description of the activity."
+  },
+  {
+   "id": "chwk5041-s22",
+   "number": "22",
+   "text": "A person who has been refused an exemption by a decision of the Director may apply to have Council reconsider that decision in accordance with the following procedures: (1) the person may apply by notice to the office of the Corporate Officer within 14 days of the decision; (2) the person may address Council in writing or in person concerning the request for the exemption; and, (3) the Council may allow or refuse the exemption."
+  },
+  {
+   "id": "chwk5041-s23",
+   "number": "23",
+   "text": "A person shall not engage in any activity that allows odours, smoke, dust or other airborne matter that may disturb any other person without taking reasonable precautions to minimize the risk of the odours, smoke, dust or other airborne matter escaping the property."
+  },
+  {
+   "id": "chwk5041-s24",
+   "number": "24",
+   "text": "A Bylaw Enforcement Officer, Environmental Services Specialist, or other person authorized by Council may enter onto a parcel of land and may inspect and examine that parcel of land at all reasonable times to ascertain whether this Bylaw is being observed, or for any other purpose relating to the administration or enforcement of this Bylaw."
+  },
+  {
+   "id": "chwk5041-s25",
+   "number": "25",
+   "text": "No person shall obstruct, refuse or neglect to admit to any real property, the Bylaw Enforcement Officer or any other municipal officer or employee in the execution of their duties for any purpose relating to this Bylaw. “Community Standards Bylaw 2021, No. 5041” - Page 9 Consolidated to: May 2, 2023"
+  },
+  {
+   "id": "chwk5041-s26",
+   "number": "26",
+   "text": "A person who has failed to perform the obligations pursuant to the provisions of this Bylaw may be issued a Notice to comply with the requirements of this Bylaw in respect of which that person is in default, by a Bylaw Enforcement Officer."
+  },
+  {
+   "id": "chwk5041-s27",
+   "number": "27",
+   "text": "The Bylaw Enforcement Officer may serve the Notice to the most recent address as shown on the City’s Property Tax records of the owner of the parcel where the contravention exists, or to the occupier of the parcel where the contravention exists: (1) by personal delivery and by leaving it with a person apparently over the age of sixteen years; (2) by sending it by registered mail; (3) by delivering it to a mail box or other receptacle for messages, if any, on the parcel; or, (4) by posting it in a conspicuous place on the real property."
+  },
+  {
+   "id": "chwk5041-s28",
+   "number": "28",
+   "text": "If an Owner or occupier fails to perform the obligations stipulated in a Notice within the time period therein set out, the City, or its contractors, employees or agents, may enter onto the property and perform the obligations at the expense of the person defaulting and the charges for so doing if unpaid on December 31 of the year in which the work was performed, shall be added to and form part of the taxes payable on that real property as taxes in arrears."
+  },
+  {
+   "id": "chwk5041-s29",
+   "number": "29",
+   "text": "If the default pertains to the management of Alien Invasive Species, the obligations performed by or on behalf of the City may include the application of Pesticides."
+  },
+  {
+   "id": "chwk5041-s30",
+   "number": "30",
+   "text": "A person served a Notice pursuant to this Bylaw may, within 5 days, appeal the Notice to the Director, who will hear and decide upon the appeal."
+  },
+  {
+   "id": "chwk5041-s31",
+   "number": "31",
+   "text": "Every person who violates a provision of this Bylaw, or who suffers or permits any act or thing to be done in contravention of or in violation of any provision of this bylaw, or who neglects to or refrains from doing anything required to be done by any provision of this Bylaw, is guilty of an offence against this bylaw and is liable to the penalties imposed under this bylaw or any other applicable Bylaw of the City. “Community Standards Bylaw 2021, No. 5041” - Page 10 Consolidated to: May 2, 2023"
+  },
+  {
+   "id": "chwk5041-s32",
+   "number": "32",
+   "text": "Each day that a violation continues to exist is deemed to be a separate offence against this Bylaw."
+  },
+  {
+   "id": "chwk5041-s33",
+   "number": "33",
+   "text": "Any person who contravenes any of the provisions of this Bylaw commits an offence punishable upon summary conviction and is liable to a fine of not more than $ 50,000.00 or to imprisonment for not more than six months or to both."
+  }
+ ]
+}
