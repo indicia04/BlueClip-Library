@@ -1,0 +1,434 @@
+{
+ "statuteID": "canada-immigration-refugee-protection",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-08-02T00:00:00Z",
+ "sources": [
+  {
+   "name": "Immigration and Refugee Protection Act",
+   "role": "act",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "currentTo": "2026-06-14",
+   "dateLabel": "Act current to [date]",
+   "checkNote": "VERIFIED live 2026-08-02: laws-lois.justice.gc.ca i-2.5 FullText, 'current to 2026-06-14'. Enforcement lens = Part 3 offences (s.117-131); penalties sourced from the paired penalty sections (117(2)/(3),120,123,125,128,129(2)). Act Text = offence-section fullText (Part 3, s.117-133); named gap = complete Act (multi-pass). No VTAFR (federal). Arrest powers (s.55) are immigration-officer (CBSA), not police."
+  }
+ ],
+ "categories": [
+  {
+   "id": "irpaSmuggling",
+   "title": "Smuggling & Trafficking",
+   "symbol": "person.2.fill",
+   "tint": "#B91C1C"
+  },
+  {
+   "id": "irpaDocuments",
+   "title": "Documents & Misrepresentation",
+   "symbol": "doc.text.fill",
+   "tint": "#B45309"
+  },
+  {
+   "id": "irpaGeneral",
+   "title": "General Offences",
+   "symbol": "exclamationmark.triangle.fill",
+   "tint": "#6D28D9"
+  }
+ ],
+ "offences": [
+  {
+   "id": "IRPA:117(1):Human smuggling — organizing entry into Canada",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "117(1)",
+   "act": "IRPA",
+   "title": "Human smuggling — organizing entry into Canada",
+   "bodyText": "(1) No person shall organize, induce, aid or abet the coming into Canada of one or more persons knowing that, or being reckless as to whether, their coming into Canada is or would be in contravention of this Act.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaSmuggling",
+   "keywords": [
+    "human smuggling",
+    "smuggling",
+    "organize entry",
+    "aid coming into canada",
+    "migrants"
+   ],
+   "modifiers": [],
+   "shortForm": "Human smuggling — organizing entry in…",
+   "maxPenalty": "Fewer than 10 persons — indictable: first offence, fine up to $500,000 or imprisonment up to 10 years, or both (subsequent offence: $1,000,000 / 14 years); summary conviction: fine up to $100,000 or up to 2 years, or both. 10 persons or more — indictable: fine up to $1,000,000 or life imprisonment, or both. (s.117)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid",
+   "minPenalty": "Mandatory minimum imprisonment applies in aggravated cases (bodily harm/death, or for a criminal organization) — s.117(3.1)-(3.3)."
+  },
+  {
+   "id": "IRPA:118(1):Trafficking in persons",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "118(1)",
+   "act": "IRPA",
+   "title": "Trafficking in persons",
+   "bodyText": "(1) No person shall knowingly organize the coming into Canada of one or more persons by means of abduction, fraud, deception or use or threat of force or coercion.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaSmuggling",
+   "keywords": [
+    "trafficking in persons",
+    "human trafficking",
+    "abduction",
+    "coercion",
+    "forced"
+   ],
+   "modifiers": [],
+   "shortForm": "Trafficking in persons",
+   "maxPenalty": "Indictable: fine up to $1,000,000 or life imprisonment, or both (s.120).",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "indictable"
+  },
+  {
+   "id": "IRPA:119:Disembarking persons at sea",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "119",
+   "act": "IRPA",
+   "title": "Disembarking persons at sea",
+   "bodyText": "A person shall not disembark a person or group of persons at sea for the purpose of inducing, aiding or abetting them to come into Canada in contravention of this Act.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaSmuggling",
+   "keywords": [
+    "disembark",
+    "at sea",
+    "smuggling",
+    "vessel"
+   ],
+   "modifiers": [],
+   "shortForm": "Disembarking persons at sea",
+   "maxPenalty": "Indictable: fine up to $1,000,000 or life imprisonment, or both (s.120).",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "indictable"
+  },
+  {
+   "id": "IRPA:122(1):Fraudulent documents to contravene the Act",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "122(1)",
+   "act": "IRPA",
+   "title": "Fraudulent documents to contravene the Act",
+   "bodyText": "(1) No person shall, in order to contravene this Act, (a) possess a passport, visa or other document, of Canadian or foreign origin, that purports to establish or that could be used to establish a person’s identity; (b) use such a document, including for the purpose of entering or remaining in Canada; or (c) import, export or deal in such a document.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaDocuments",
+   "keywords": [
+    "false document",
+    "fraudulent passport",
+    "fake visa",
+    "forged document",
+    "possess"
+   ],
+   "modifiers": [],
+   "shortForm": "Fraudulent documents to contravene th…",
+   "maxPenalty": "Possess a fraudulent document (122(1)(a)): indictable, up to 5 years. Use / import / export / deal in one (122(1)(b) or (c)): indictable, up to 14 years. (s.123)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "indictable"
+  },
+  {
+   "id": "IRPA:124(1)(a):Contravene a provision of the Act (general offence)",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "124(1)(a)",
+   "act": "IRPA",
+   "title": "Contravene a provision of the Act (general offence)",
+   "bodyText": "(a) contravenes a provision of this Act for which a penalty is not specifically provided or fails to comply with a condition or obligation imposed under this Act;",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaGeneral",
+   "keywords": [
+    "contravene",
+    "general offence",
+    "immigration offence",
+    "condition"
+   ],
+   "modifiers": [],
+   "shortForm": "Contravene a provision of the Act (ge…",
+   "maxPenalty": "Indictable: fine up to $50,000 or imprisonment up to 2 years, or both. Summary conviction: fine up to $10,000 or up to 6 months, or both. (s.125)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:124(1)(b):Escape from lawful custody or detention",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "124(1)(b)",
+   "act": "IRPA",
+   "title": "Escape from lawful custody or detention",
+   "bodyText": "(b) escapes or attempts to escape from lawful custody or detention under this Act; or",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaGeneral",
+   "keywords": [
+    "escape custody",
+    "escape detention",
+    "unlawfully at large",
+    "immigration hold"
+   ],
+   "modifiers": [],
+   "shortForm": "Escape from lawful custody or detention",
+   "maxPenalty": "Indictable: fine up to $50,000 or imprisonment up to 2 years, or both. Summary conviction: fine up to $10,000 or up to 6 months, or both. (s.125)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:124(1)(c):Employ a foreign national not authorized to work",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "124(1)(c)",
+   "act": "IRPA",
+   "title": "Employ a foreign national not authorized to work",
+   "bodyText": "(c) employs a foreign national in a capacity in which the foreign national is not authorized under this Act to be employed.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaGeneral",
+   "keywords": [
+    "employ foreign national",
+    "illegal worker",
+    "unauthorized work",
+    "employer"
+   ],
+   "modifiers": [],
+   "shortForm": "Employ a foreign national not authori…",
+   "maxPenalty": "Indictable: fine up to $50,000 or imprisonment up to 2 years, or both. Summary conviction: fine up to $10,000 or up to 6 months, or both. (s.125)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:126:Counselling misrepresentation",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "126",
+   "act": "IRPA",
+   "title": "Counselling misrepresentation",
+   "bodyText": "Every person who knowingly counsels, induces, aids or abets or attempts to counsel, induce, aid or abet any person to directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act is guilty of an offence.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaDocuments",
+   "keywords": [
+    "counsel misrepresentation",
+    "aid misrepresent",
+    "immigration consultant"
+   ],
+   "modifiers": [],
+   "shortForm": "Counselling misrepresentation",
+   "maxPenalty": "Indictable: fine up to $100,000 or imprisonment up to 5 years, or both. Summary conviction: fine up to $50,000 or up to 2 years, or both. (s.128)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:127:Misrepresentation",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "127",
+   "act": "IRPA",
+   "title": "Misrepresentation",
+   "bodyText": "No person shall knowingly (a) directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act; (b) communicate, directly or indirectly, by any means, false or misleading information or declarations with intent to induce or deter immigration to Canada; or (c) refuse to be sworn or to affirm or declare, as the case may be, or to answer a question put to the person at an examination or at a proceeding held under this Act. 2001, c. 27, s. 127 2015, c. 3, s. 115(F) Previous Version",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaDocuments",
+   "keywords": [
+    "misrepresentation",
+    "false information",
+    "withhold material facts",
+    "lie immigration"
+   ],
+   "modifiers": [],
+   "shortForm": "Misrepresentation",
+   "maxPenalty": "Indictable: fine up to $100,000 or imprisonment up to 5 years, or both. Summary conviction: fine up to $50,000 or up to 2 years, or both. (s.128)",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:129(1):Officer offences — false document, bribery or personation",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "129(1)",
+   "act": "IRPA",
+   "title": "Officer offences — false document, bribery or personation",
+   "bodyText": "(1) Every person is guilty of an offence who (a) being an officer or an employee of the Government of Canada, knowingly makes or issues any false document or statement, or accepts or agrees to accept a bribe or other benefit, in respect of any matter under this Act or knowingly fails to perform their duties under this Act; (b) gives or offers to give a bribe or consideration to, or makes an agreement or arrangement with, an officer to induce the officer not to perform their duties under this Act; (c) falsely personates an officer or by any act or omission leads any person to believe that the person is an officer; or (d) obstructs or impedes an officer in the performance of the officer’s duties under this Act.",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaGeneral",
+   "keywords": [
+    "bribe officer",
+    "false document",
+    "personate officer",
+    "impersonate",
+    "obstruct officer"
+   ],
+   "modifiers": [],
+   "shortForm": "Officer offences — false document, br…",
+   "maxPenalty": "Indictable: fine up to $50,000 or imprisonment up to 5 years, or both. Summary conviction: fine up to $10,000 or up to 6 months, or both. (s.129(2))",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "mode": "hybrid"
+  },
+  {
+   "id": "IRPA:131:Counselling or aiding an offence (s.117-129)",
+   "statuteID": "canada-immigration-refugee-protection",
+   "section": "131",
+   "act": "IRPA",
+   "title": "Counselling or aiding an offence (s.117-129)",
+   "bodyText": "Every person who knowingly induces, aids or abets or attempts to induce, aid or abet any person to contravene section 117, 118, 119, 122, 124 or 129, or who counsels a person to do so, commits an offence and is liable to the same penalty as that person. 2001, c. 27, s. 131, c. 32, s. 81 2012, c. 17, s. 45(F) Previous Version",
+   "fine": 0,
+   "points": 0,
+   "category": "irpaGeneral",
+   "keywords": [
+    "aid and abet",
+    "counsel offence",
+    "party to offence"
+   ],
+   "modifiers": [],
+   "shortForm": "Counselling or aiding an offence (s.1…",
+   "maxPenalty": "Liable to the same penalty as the person who commits the offence aided or abetted (s.117, 118, 119, 122, 124 or 129) — s.131.",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html"
+  }
+ ],
+ "fullText": [
+  {
+   "id": "irpa-s117",
+   "number": "117",
+   "text": "(1) No person shall organize, induce, aid or abet the coming into Canada of one or more persons knowing that, or being reckless as to whether, their coming into Canada is or would be in contravention of this Act. (2) A person who contravenes subsection (1) with respect to fewer than 10 persons is guilty of an offence and liable (a) on conviction on indictment (i) for a first offence, to a fine of not more than $500,000 or to a term of imprisonment of not more than 10 years, or to both, or (ii) for a subsequent offence, to a fine of not more than $1,000,000 or to a term of imprisonment of not more than 14 years, or to both; and (b) on summary conviction, to a fine of not more than $100,000 or to a term of imprisonment of not more than two years, or to both. (3) A person who contravenes subsection (1) with respect to a group of 10 persons or more is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both. (3.1) A person who is convicted on indictment of an offence under subsection (2) or (3) with respect to fewer than 50 persons is also liable to a minimum punishment of imprisonment for a term of (a) three years, if either (i) the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, or (ii) the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group; or (b) five years, if both (i) the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, and (ii) the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group. (3.2) A person who is convicted of an offence under subsection (3) with respect to a group of 50 persons or more is also liable to a minimum punishment of imprisonment for a term of (a) five years, if either (i) the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, or (ii) the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group; or (b) 10 years, if both (i) the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, and (ii) the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group. (4) No proceedings for an offence under this section may be instituted except by or with the consent of the Attorney General of Canada. 2001, c. 27, s. 117 2012, c. 17, s. 41 Previous Version",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Organizing entry into Canada"
+  },
+  {
+   "id": "irpa-s118",
+   "number": "118",
+   "text": "(1) No person shall knowingly organize the coming into Canada of one or more persons by means of abduction, fraud, deception or use or threat of force or coercion. (2) For the purpose of subsection (1), organize , with respect to persons, includes their recruitment or transportation and, after their entry into Canada, the receipt or harbouring of those persons.",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Offence — trafficking in persons"
+  },
+  {
+   "id": "irpa-s119",
+   "number": "119",
+   "text": "A person shall not disembark a person or group of persons at sea for the purpose of inducing, aiding or abetting them to come into Canada in contravention of this Act.",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Definition of organize (2) For the purpose of subsection (1), organize , with respect to persons, includes their recruitment or transportation and, after their entry into Canada, the receipt or harbouring of those persons. Disembarking persons at sea"
+  },
+  {
+   "id": "irpa-s120",
+   "number": "120",
+   "text": "A person who contravenes section 118 or 119 is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both.",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Disembarking persons at sea 119 A person shall not disembark a person or group of persons at sea for the purpose of inducing, aiding or abetting them to come into Canada in contravention of this Act. Penalties"
+  },
+  {
+   "id": "irpa-s121",
+   "number": "121",
+   "text": "The court, in determining the penalty to be imposed under section 120, shall take into account whether (a) bodily harm or death occurred, or the life or safety of any person was endangered, as a result of the commission of the offence; (b) the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization; (c) the commission of the offence was for profit, whether or not any profit was realized; and (d) a person was subjected to humiliating or degrading treatment, including with respect to work or health conditions or sexual exploitation as a result of the commission of the offence. 2001, c. 27, s. 121 2012, c. 17, s. 42 2017, c. 26, s. 44 Previous Version",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Penalties 120 A person who contravenes section 118 or 119 is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both. Aggravating factors"
+  },
+  {
+   "id": "irpa-s121.1",
+   "number": "121.1",
+   "text": "(1) For the purposes of subparagraphs 117(3.1)(a)(ii) and (b)(ii) and (3.2)(a)(ii) and (b)(ii) and paragraph 121(b), criminal organization means a criminal organization as defined in subsection 467.1(1) of the Criminal Code . (2) For the purposes of subparagraphs 117(3.1)(a)(ii) and (b)(ii) and (3.2)(a)(ii) and (b)(ii), terrorist group means a terrorist group as defined in subsection 83.01(1) of the Criminal Code . 2012, c. 17, s. 43 Offences Related to Documents",
+   "part": "PART 3 Enforcement",
+   "division": "Human Smuggling and Trafficking",
+   "heading": "Definition of criminal organization"
+  },
+  {
+   "id": "irpa-s122",
+   "number": "122",
+   "text": "(1) No person shall, in order to contravene this Act, (a) possess a passport, visa or other document, of Canadian or foreign origin, that purports to establish or that could be used to establish a person’s identity; (b) use such a document, including for the purpose of entering or remaining in Canada; or (c) import, export or deal in such a document. (2) Proof of the matters referred to in subsection (1) in relation to a forged document or a document that is blank, incomplete, altered or not genuine is, in the absence of evidence to the contrary, proof that the person intends to contravene this Act.",
+   "part": "PART 3 Enforcement",
+   "division": "Offences Related to Documents",
+   "heading": "Documents"
+  },
+  {
+   "id": "irpa-s123",
+   "number": "123",
+   "text": "(1) Every person who contravenes (a) paragraph 122(1)(a) is guilty of an offence and liable on conviction on indictment to a term of imprisonment of up to five years; and (b) paragraph 122(1)(b) or (c) is guilty of an offence and liable on conviction on indictment to a term of imprisonment of up to 14 years. (2) The court, in determining the penalty to be imposed, shall take into account whether (a) the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization as defined in subsection 121.1(1); and (b) the commission of the offence was for profit, whether or not any profit was realized. 2001, c. 27, s. 123 2012, c. 17, s. 44 Previous Version General Offences",
+   "part": "PART 3 Enforcement",
+   "division": "Offences Related to Documents",
+   "heading": "Proof of offence (2) Proof of the matters referred to in subsection (1) in relation to a forged document or a document that is blank, incomplete, altered or not genuine is, in the absence of evidence to the contrary, proof that the person intends to contravene this Act. Penalty"
+  },
+  {
+   "id": "irpa-s124",
+   "number": "124",
+   "text": "(1) Every person commits an offence who (a) contravenes a provision of this Act for which a penalty is not specifically provided or fails to comply with a condition or obligation imposed under this Act; (b) escapes or attempts to escape from lawful custody or detention under this Act; or (c) employs a foreign national in a capacity in which the foreign national is not authorized under this Act to be employed. (2) For the purposes of paragraph (1)(c), a person who fails to exercise due diligence to determine whether employment is authorized under this Act is deemed to know that it is not authorized. (3) A person referred to in subsection 148(1) shall not be found guilty of an offence under paragraph (1)(a) if it is established that they exercised all due diligence to prevent the commission of the offence.",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Contravention of Act"
+  },
+  {
+   "id": "irpa-s125",
+   "number": "125",
+   "text": "A person who commits an offence under subsection 124(1) is liable (a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both; or (b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Due diligence defence (3) A person referred to in subsection 148(1) shall not be found guilty of an offence under paragraph (1)(a) if it is established that they exercised all due diligence to prevent the commission of the offence. Penalties"
+  },
+  {
+   "id": "irpa-s126",
+   "number": "126",
+   "text": "Every person who knowingly counsels, induces, aids or abets or attempts to counsel, induce, aid or abet any person to directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act is guilty of an offence.",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Counselling misrepresentation"
+  },
+  {
+   "id": "irpa-s127",
+   "number": "127",
+   "text": "No person shall knowingly (a) directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act; (b) communicate, directly or indirectly, by any means, false or misleading information or declarations with intent to induce or deter immigration to Canada; or (c) refuse to be sworn or to affirm or declare, as the case may be, or to answer a question put to the person at an examination or at a proceeding held under this Act. 2001, c. 27, s. 127 2015, c. 3, s. 115(F) Previous Version",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Counselling misrepresentation 126 Every person who knowingly counsels, induces, aids or abets or attempts to counsel, induce, aid or abet any person to directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act is guilty of an offence. Misrepresentation"
+  },
+  {
+   "id": "irpa-s128",
+   "number": "128",
+   "text": "A person who contravenes a provision of section 126 or 127 is guilty of an offence and liable (a) on conviction on indictment, to a fine of not more than $100,000 or to imprisonment for a term of not more than five years, or to both; or (b) on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both.",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Penalties"
+  },
+  {
+   "id": "irpa-s129",
+   "number": "129",
+   "text": "(1) Every person is guilty of an offence who (a) being an officer or an employee of the Government of Canada, knowingly makes or issues any false document or statement, or accepts or agrees to accept a bribe or other benefit, in respect of any matter under this Act or knowingly fails to perform their duties under this Act; (b) gives or offers to give a bribe or consideration to, or makes an agreement or arrangement with, an officer to induce the officer not to perform their duties under this Act; (c) falsely personates an officer or by any act or omission leads any person to believe that the person is an officer; or (d) obstructs or impedes an officer in the performance of the officer’s duties under this Act. (2) Every person who is guilty of an offence under subsection (1) is liable (a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than five years, or to both; or (b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Offences relating to officers"
+  },
+  {
+   "id": "irpa-s130",
+   "number": "130",
+   "text": "[Repealed, 2001, c. 32, s. 81]",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences"
+  },
+  {
+   "id": "irpa-s131",
+   "number": "131",
+   "text": "Every person who knowingly induces, aids or abets or attempts to induce, aid or abet any person to contravene section 117, 118, 119, 122, 124 or 129, or who counsels a person to do so, commits an offence and is liable to the same penalty as that person. 2001, c. 27, s. 131, c. 32, s. 81 2012, c. 17, s. 45(F) Previous Version",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences",
+   "heading": "Counselling offence"
+  },
+  {
+   "id": "irpa-s132",
+   "number": "132",
+   "text": "[Repealed, 2001, c. 32, s. 81] Prosecution of Offences",
+   "part": "PART 3 Enforcement",
+   "division": "General Offences"
+  },
+  {
+   "id": "irpa-s133",
+   "number": "133",
+   "text": "A person who has claimed refugee protection, and who came to Canada directly or indirectly from the country in respect of which the claim is made, may not be charged with an offence under section 122, paragraph 124(1)(a) or section 127 of this Act or under section 57, paragraph 340(c) or section 354, 366, 368, 374 or 403 of the Criminal Code , in relation to the coming into Canada of the person, pending disposition of their claim for refugee protection or if refugee protection is conferred.",
+   "part": "PART 3 Enforcement",
+   "division": "Prosecution of Offences",
+   "heading": "Deferral"
+  },
+  {
+   "id": "irpa-s133.1",
+   "number": "133.1",
+   "text": "(1) A proceeding by way of summary conviction for an offence under section 117, 126 or 127, or section 131 as it relates to section 117, may be instituted at any time within, but not later than, 10 years after the day on which the subject-matter of the proceeding arose, and a proceeding by way of summary conviction for any other offence under this Act may be instituted at any time within, but not later than, five years after the day on which the subject-matter of the proceeding arose. (2) Subsection (1) does not apply if the subject-matter of the proceeding arose before the day on which this section comes into force. 2011, c. 8, s. 3 2012, c. 17, s. 46 Previous Version",
+   "part": "PART 3 Enforcement",
+   "division": "Prosecution of Offences",
+   "heading": "Limitation period for summary conviction offences"
+  }
+ ]
+}

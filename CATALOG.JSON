@@ -1,5 +1,5 @@
 {
- "catalogVersion": 41,
+ "catalogVersion": 42,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -385,6 +385,19 @@
    "version": 1,
    "sizeKB": 430,
    "changeNote": "new statute — Police Act (BC), v1 (Act-Text-only)"
+  },
+  {
+   "id": "canada-immigration-refugee-protection",
+   "shortName": "Immigration (IRPA)",
+   "fullName": "Immigration and Refugee Protection Act (Canada)",
+   "jurisdiction": "federal",
+   "municipality": null,
+   "licenceName": "Immigration and Refugee Protection Act, S.C. 2001, c. 27",
+   "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/i-2.5/FullText.html",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-IRPA",
+   "version": 1,
+   "sizeKB": 29,
+   "changeNote": "new statute — Immigration and Refugee Protection Act (Canada), v1"
   }
  ],
  "operationsSlotLimit": 3
