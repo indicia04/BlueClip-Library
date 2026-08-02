@@ -1,5 +1,5 @@
 {
- "catalogVersion": 40,
+ "catalogVersion": 41,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -372,6 +372,19 @@
    "version": 3,
    "sizeKB": 321,
    "changeNote": "Family Law Act — remove non-police Search Officer offence cards (v3, powers-only lens)"
+  },
+  {
+   "id": "bc-police-act",
+   "shortName": "Police Act",
+   "fullName": "Police Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Police Act, RSBC 1996, c. 367",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96367_01",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-POLICEACT",
+   "version": 1,
+   "sizeKB": 430,
+   "changeNote": "new statute — Police Act (BC), v1 (Act-Text-only)"
   }
  ],
  "operationsSlotLimit": 3
