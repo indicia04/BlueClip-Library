@@ -1,5 +1,5 @@
 {
- "catalogVersion": 37,
+ "catalogVersion": 38,
  "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
@@ -359,6 +359,19 @@
    "version": 1,
    "sizeKB": 10,
    "changeNote": "new statute — Adult Publication Bylaw (Chilliwack), v1"
+  },
+  {
+   "id": "bc-family-law",
+   "shortName": "Family Law",
+   "fullName": "Family Law Act (BC)",
+   "jurisdiction": "bc",
+   "municipality": null,
+   "licenceName": "Family Law Act, SBC 2011, c. 25",
+   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-FAMILYLAW",
+   "version": 1,
+   "sizeKB": 324,
+   "changeNote": "new statute — Family Law Act (BC), v1"
   }
  ],
  "operationsSlotLimit": 3
