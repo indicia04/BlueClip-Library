@@ -1,7 +1,7 @@
 {
  "statuteID": "bc-family-law",
  "schemaVersion": 2,
- "version": 2,
+ "version": 3,
  "updatedAt": "2026-08-02T00:00:00Z",
  "sources": [
   {
@@ -19,12 +19,6 @@
    "title": "Police Powers",
    "symbol": "shield.fill",
    "tint": "#7C3AED"
-  },
-  {
-   "id": "flaSearchOfficer",
-   "title": "Search Officer Offences",
-   "symbol": "magnifyingglass",
-   "tint": "#0E7490"
   }
  ],
  "offences": [
@@ -120,90 +114,6 @@
    "shortForm": "Enter and search to locate a child un…",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
    "kind": "power"
-  },
-  {
-   "id": "Family Law Act:239(2):Fail to provide searchable information to a search officer",
-   "statuteID": "bc-family-law",
-   "section": "239(2)",
-   "act": "Family Law Act",
-   "title": "Fail to provide searchable information to a search officer",
-   "bodyText": "(2) A person in British Columbia who receives a request for searchable information under subsection (1) and who has possession or control of the information must provide the information in the manner and form requested, and within the time requested.",
-   "fine": 0,
-   "points": 0,
-   "category": "flaSearchOfficer",
-   "keywords": [
-    "search officer",
-    "searchable information",
-    "fail to provide",
-    "locate child"
-   ],
-   "modifiers": [],
-   "shortForm": "Fail to provide searchable informatio…",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
-   "maxPenalty": "Provincial offence (Family Law Act s.244). Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both."
-  },
-  {
-   "id": "Family Law Act:242(1):Fail to comply with a court order to provide searchable information",
-   "statuteID": "bc-family-law",
-   "section": "242(1)",
-   "act": "Family Law Act",
-   "title": "Fail to comply with a court order to provide searchable information",
-   "bodyText": "(1) If satisfied that a person has refused, or not adequately complied with, a request made under section 239 for searchable information, (a) a court on application by a search officer may order the person to provide to the applicant searchable information that is in the possession or control of that person, and (b) the person subject to the order must provide the information in the manner and form required, and within the time required.",
-   "fine": 0,
-   "points": 0,
-   "category": "flaSearchOfficer",
-   "keywords": [
-    "search officer",
-    "court order",
-    "searchable information",
-    "fail to comply"
-   ],
-   "modifiers": [],
-   "shortForm": "Fail to comply with a court order to …",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
-   "maxPenalty": "Provincial offence (Family Law Act s.244). Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both."
-  },
-  {
-   "id": "Family Law Act:243(1):Improperly disclose information obtained under the search-officer process",
-   "statuteID": "bc-family-law",
-   "section": "243(1)",
-   "act": "Family Law Act",
-   "title": "Improperly disclose information obtained under the search-officer process",
-   "bodyText": "(1) A search officer must not disclose information obtained under this Part except (a) as necessary for the purpose for which the information was obtained, or (b) to protect a person or property if the search officer reasonably believes that there is a risk of imminent and serious harm.",
-   "fine": 0,
-   "points": 0,
-   "category": "flaSearchOfficer",
-   "keywords": [
-    "search officer",
-    "disclose",
-    "confidential",
-    "information"
-   ],
-   "modifiers": [],
-   "shortForm": "Improperly disclose information obtai…",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
-   "maxPenalty": "Provincial offence (Family Law Act s.244). Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both."
-  },
-  {
-   "id": "Family Law Act:244(1)(d):Knowingly give false or misleading information to a search officer",
-   "statuteID": "bc-family-law",
-   "section": "244(1)(d)",
-   "act": "Family Law Act",
-   "title": "Knowingly give false or misleading information to a search officer",
-   "bodyText": "(d) knowingly provides false or misleading information to a search officer.",
-   "fine": 0,
-   "points": 0,
-   "category": "flaSearchOfficer",
-   "keywords": [
-    "search officer",
-    "false information",
-    "misleading",
-    "lie"
-   ],
-   "modifiers": [],
-   "shortForm": "Knowingly give false or misleading in…",
-   "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
-   "maxPenalty": "Provincial offence (Family Law Act s.244). Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both."
   }
  ],
  "fullText": [

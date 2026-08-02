@@ -1,5 +1,5 @@
 {
- "catalogVersion": 39,
+ "catalogVersion": 40,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -369,9 +369,9 @@
    "licenceName": "Family Law Act, SBC 2011, c. 25",
    "sourceURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_00",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/BC-FAMILYLAW",
-   "version": 2,
-   "sizeKB": 326,
-   "changeNote": "Family Law Act — add s.231(5) and s.231(6) police apprehension powers (v2)"
+   "version": 3,
+   "sizeKB": 321,
+   "changeNote": "Family Law Act — remove non-police Search Officer offence cards (v3, powers-only lens)"
   }
  ],
  "operationsSlotLimit": 3
