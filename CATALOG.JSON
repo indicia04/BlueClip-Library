@@ -1,5 +1,5 @@
 {
- "catalogVersion": 45,
+ "catalogVersion": 46,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -160,10 +160,10 @@
    "jurisdiction": "federal",
    "licenceName": "Reproduction of Federal Law Order (SI/97-5)",
    "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/c-46/",
-   "version": 6,
+   "version": 7,
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CRIMINALCODE.JSON",
-   "sizeKB": 3166,
-   "changeNote": "Criminal Code — new intimate-partner violence offence (s.263.1) + 2026 amendments"
+   "sizeKB": 3236,
+   "changeNote": "Criminal Code — 26 more offences (incl. s.145 split) + arrest authority on every card"
   },
   {
    "id": "bc-chilliwack-open-burning",
