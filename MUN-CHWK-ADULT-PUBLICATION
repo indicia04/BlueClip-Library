@@ -1,0 +1,183 @@
+{
+ "statuteID": "bc-chilliwack-adult-publication",
+ "schemaVersion": 2,
+ "version": 1,
+ "updatedAt": "2026-07-27T00:00:00Z",
+ "sources": [
+  {
+   "name": "Adult Publication Bylaw 1996, No. 2309",
+   "role": "bylaw",
+   "url": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "currentTo": "1996-02-05",
+   "dateLabel": "Reconsidered, finally passed and adopted on [date]",
+   "flagged": true,
+   "checkNote": "VERIFIED live 2026-07-27 (HTTP 200 via chilliwack.com Regulatory Bylaws index id=363, attachID=437). 2-page adopted PDF, s.1-9. No consolidation banner; currency = adoption date (Feb 5, 1996). Not in the Bylaw Notice fine schedule (attachID=2436) — enforced by summary conviction under the Offence Act (s.8)."
+  },
+  {
+   "name": "Offence Act (RSBC 1996, c. 338) — general penalty s.4",
+   "role": "fines",
+   "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96338_01",
+   "currentTo": "2026-07-14",
+   "dateLabel": "This Act is current to [date]",
+   "checkNote": "Penalty basis for the bylaw (s.8 refers to the Offence Act maximum). s.4 general penalty: fine <= $2,000 or imprisonment <= 6 months, or both. Committed snapshot offence-act-96338_01-2026-07-25.html."
+  }
+ ],
+ "categories": [
+  {
+   "id": "adultDisplay",
+   "title": "Display & Placement",
+   "symbol": "eye.slash.fill",
+   "tint": "#7C3AED"
+  },
+  {
+   "id": "adultMinors",
+   "title": "Sale to Minors",
+   "symbol": "figure.child",
+   "tint": "#DB2777"
+  }
+ ],
+ "offences": [
+  {
+   "id": "Chilliwack Bylaw 2309:4:Display adult publication in a public place contrary to the bylaw",
+   "statuteID": "bc-chilliwack-adult-publication",
+   "section": "4",
+   "act": "Chilliwack Bylaw 2309",
+   "title": "Display adult publication in a public place contrary to the bylaw",
+   "bodyText": "No person carrying on any trade, business or occupation which displays in a public place any adult publication shall display, or permit to be displayed, such publication except in accordance with this Bylaw.",
+   "fine": 0,
+   "points": 0,
+   "category": "adultDisplay",
+   "keywords": [
+    "adult publication",
+    "display",
+    "public place",
+    "magazine",
+    "store"
+   ],
+   "modifiers": [],
+   "shortForm": "Display adult publication in a public…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "maxPenalty": "Bylaw offence prosecuted by summary conviction (Bylaw s.8) — Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both. Each day a violation continues is a separate offence (Bylaw s.7)."
+  },
+  {
+   "id": "Chilliwack Bylaw 2309:5(1):Display adult publication below 1.2 m",
+   "statuteID": "bc-chilliwack-adult-publication",
+   "section": "5(1)",
+   "act": "Chilliwack Bylaw 2309",
+   "title": "Display adult publication below 1.2 m",
+   "bodyText": "Every person carrying on any trade, business or occupation which displays in a public place any adult publication, shall display such publication (1) at a height no less than 1.2m from the floor to where the publication is displayed; and (2) behind a screen of opaque material which shall extend the full width of the publication and extend vertically for a minimum of 20cm from the bottom of the publication or cover eighty percent (80%) of the length of the publication, whichever is greater.",
+   "fine": 0,
+   "points": 0,
+   "category": "adultDisplay",
+   "keywords": [
+    "adult publication",
+    "display",
+    "height",
+    "1.2m",
+    "shelf"
+   ],
+   "modifiers": [],
+   "shortForm": "Display adult publication below 1.2 m",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "maxPenalty": "Bylaw offence prosecuted by summary conviction (Bylaw s.8) — Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both. Each day a violation continues is a separate offence (Bylaw s.7)."
+  },
+  {
+   "id": "Chilliwack Bylaw 2309:5(2):Display adult publication without an opaque screen",
+   "statuteID": "bc-chilliwack-adult-publication",
+   "section": "5(2)",
+   "act": "Chilliwack Bylaw 2309",
+   "title": "Display adult publication without an opaque screen",
+   "bodyText": "Every person carrying on any trade, business or occupation which displays in a public place any adult publication, shall display such publication (1) at a height no less than 1.2m from the floor to where the publication is displayed; and (2) behind a screen of opaque material which shall extend the full width of the publication and extend vertically for a minimum of 20cm from the bottom of the publication or cover eighty percent (80%) of the length of the publication, whichever is greater.",
+   "fine": 0,
+   "points": 0,
+   "category": "adultDisplay",
+   "keywords": [
+    "adult publication",
+    "display",
+    "opaque screen",
+    "cover",
+    "wrapper"
+   ],
+   "modifiers": [],
+   "shortForm": "Display adult publication without an …",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "maxPenalty": "Bylaw offence prosecuted by summary conviction (Bylaw s.8) — Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both. Each day a violation continues is a separate offence (Bylaw s.7)."
+  },
+  {
+   "id": "Chilliwack Bylaw 2309:6:Sell or supply an adult publication to a minor (under 18)",
+   "statuteID": "bc-chilliwack-adult-publication",
+   "section": "6",
+   "act": "Chilliwack Bylaw 2309",
+   "title": "Sell or supply an adult publication to a minor (under 18)",
+   "bodyText": "No person shall sell, offer to sell or distribute to any person actually or apparently under the age of eighteen (18) years any adult publication.",
+   "fine": 0,
+   "points": 0,
+   "category": "adultMinors",
+   "keywords": [
+    "adult publication",
+    "minor",
+    "under 18",
+    "sell",
+    "supply",
+    "distribute"
+   ],
+   "modifiers": [],
+   "shortForm": "Sell or supply an adult publication t…",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "maxPenalty": "Bylaw offence prosecuted by summary conviction (Bylaw s.8) — Offence Act general penalty (s.4): fine up to $2,000 or imprisonment up to 6 months, or both. Each day a violation continues is a separate offence (Bylaw s.7)."
+  }
+ ],
+ "fullText": [
+  {
+   "id": "chwk2309-s1",
+   "number": "1",
+   "text": "This bylaw may be cited as \"Adult Publication Bylaw 1996, No. 2309\"."
+  },
+  {
+   "id": "chwk2309-s2",
+   "number": "2",
+   "text": "\"Adult Publications Regulation Bylaw 1985, No. 555\" and amendments thereto are hereby repealed."
+  },
+  {
+   "id": "chwk2309-s3",
+   "number": "3",
+   "text": "In this Bylaw: \"adult publication\" means any book, pamphlet, magazine or other printed matter, however produced, containing a visual image or representation of a person or persons, or a portion of the human body which depicts nudity or any sexual conduct.",
+   "heading": "Interpretation"
+  },
+  {
+   "id": "chwk2309-s4",
+   "number": "4",
+   "text": "No person carrying on any trade, business or occupation which displays in a public place any adult publication shall display, or permit to be displayed, such publication except in accordance with this Bylaw.",
+   "heading": "Prohibition"
+  },
+  {
+   "id": "chwk2309-s5",
+   "number": "5",
+   "text": "Every person carrying on any trade, business or occupation which displays in a public place any adult publication, shall display such publication (1) at a height no less than 1.2m from the floor to where the publication is displayed; and (2) behind a screen of opaque material which shall extend the full width of the publication and extend vertically for a minimum of 20cm from the bottom of the publication or cover eighty percent (80%) of the length of the publication, whichever is greater.",
+   "heading": "Conditions For Public Display"
+  },
+  {
+   "id": "chwk2309-s6",
+   "number": "6",
+   "text": "No person shall sell, offer to sell or distribute to any person actually or apparently under the age of eighteen (18) years any adult publication.",
+   "heading": "No Sale To Minors"
+  },
+  {
+   "id": "chwk2309-s7",
+   "number": "7",
+   "text": "Every person who violates any provision of this Bylaw, or who allows or permits any act or thing to be done in violation of any provision of this Bylaw, or who neglects to or refrains from doing anything required to be done by any provision of this Bylaw, is guilty of an offence against this Bylaw and is liable to the penalties imposed under this Bylaw and each day that a violation continues to exist is deemed to be a separate offence against this Bylaw.",
+   "heading": "Offence And Penalty"
+  },
+  {
+   "id": "chwk2309-s8",
+   "number": "8",
+   "text": "Every person who commits an offence against this Bylaw shall be liable upon summary conviction to a fine or to imprisonment, or to both a fine and imprisonment, not exceeding the maximum allowed by the Offence Act, Revised Statutes of British Columbia 1979, Chapter 305, as amended."
+  },
+  {
+   "id": "chwk2309-s9",
+   "number": "9",
+   "text": "If any section, subsection, clause or phrase of this Bylaw is held invalid by a Court of competent jurisdiction, then that invalid portion shall be severed and the remainder of this Bylaw shall be deemed to have been adopted without the severed section, subsection, clause or phrase. Received first reading on the 22 nd day of January, 1996. Received second reading on the 22nd day of January, 1996. Received third reading on the 22nd day of January, 1996. Reconsidered, finally passed and adopted on the 5th day of February, 1996. \"John Les\" Mayor \"D.W. Hampson\" Clerk",
+   "heading": "Severability"
+  }
+ ]
+}

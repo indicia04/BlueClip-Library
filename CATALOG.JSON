@@ -1,5 +1,5 @@
 {
- "catalogVersion": 36,
+ "catalogVersion": 37,
  "updatedAt": "2026-07-27T00:00:00Z",
  "statutes": [
   {
@@ -346,6 +346,19 @@
    "version": 1,
    "sizeKB": 162,
    "changeNote": "new statute — Residential Tenancy Act (BC), v1 (Act-Text-only)"
+  },
+  {
+   "id": "bc-chilliwack-adult-publication",
+   "shortName": "Adult Publication",
+   "fullName": "Adult Publication Bylaw (Chilliwack)",
+   "jurisdiction": "bc",
+   "municipality": "Chilliwack",
+   "licenceName": "City of Chilliwack Bylaw 2309",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/attachView.cfm?attachID=437",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-ADULT-PUBLICATION",
+   "version": 1,
+   "sizeKB": 10,
+   "changeNote": "new statute — Adult Publication Bylaw (Chilliwack), v1"
   }
  ],
  "operationsSlotLimit": 3
