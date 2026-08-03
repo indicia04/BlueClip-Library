@@ -1,5 +1,5 @@
 {
- "catalogVersion": 46,
+ "catalogVersion": 47,
  "updatedAt": "2026-08-02T00:00:00Z",
  "statutes": [
   {
@@ -411,6 +411,19 @@
    "version": 1,
    "sizeKB": 64,
    "changeNote": "new statute — Community Standards Bylaw (Chilliwack), v1"
+  },
+  {
+   "id": "bc-chilliwack-highway-traffic",
+   "shortName": "Highway & Traffic",
+   "fullName": "Highway and Traffic Bylaw (Chilliwack)",
+   "jurisdiction": "bc",
+   "municipality": "Chilliwack",
+   "licenceName": "City of Chilliwack Bylaw 4686",
+   "sourceURL": "https://www.chilliwack.com/main/attachments/Files/363/BL_4686_-_Highway_and_Traffic_Bylaw_2019_1.pdf",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/MUN-CHWK-HIGHWAY-TRAFFIC",
+   "version": 1,
+   "sizeKB": 262,
+   "changeNote": "new statute — Highway and Traffic Bylaw (Chilliwack), v1"
   }
  ],
  "operationsSlotLimit": 3
