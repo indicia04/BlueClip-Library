@@ -440,10 +440,10 @@
    "changeNote": "Cannabis Act — full Cannabis Regulations text now readable in-app"
   },
   {
-   "id": "ab-traffic-safety",
+   "id": "alberta-traffic-safety",
    "shortName": "Traffic Safety (AB)",
    "fullName": "Traffic Safety Act (Alberta)",
-   "jurisdiction": "alberta",
+   "jurisdiction": "ab",
    "municipality": null,
    "licenceName": "Alberta King's Printer",
    "sourceURL": "https://kings-printer.alberta.ca/documents/Acts/t06.pdf",
@@ -453,10 +453,10 @@
    "changeNote": "new statute — Traffic Safety Act (Alberta), v1"
   },
   {
-   "id": "yt-environment",
+   "id": "yukon-environment",
    "shortName": "Environment Act (YT)",
    "fullName": "Environment Act (Yukon)",
-   "jurisdiction": "yukon",
+   "jurisdiction": "yt",
    "municipality": null,
    "licenceName": "Government of Yukon — reproduced under O.I.C. 2000/52",
    "sourceURL": "https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0076/2002-0076_5.pdf",
@@ -467,10 +467,10 @@
    "changeNote": "new statute — Environment Act (Yukon), v1"
   },
   {
-   "id": "yt-wildlife",
+   "id": "yukon-wildlife",
    "shortName": "Wildlife Act (YT)",
    "fullName": "Wildlife Act (Yukon)",
-   "jurisdiction": "yukon",
+   "jurisdiction": "yt",
    "municipality": null,
    "licenceName": "Government of Yukon — reproduced under O.I.C. 2000/52",
    "sourceURL": "https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0229/2002-0229_3.pdf",
