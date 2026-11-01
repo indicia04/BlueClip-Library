@@ -1,5 +1,5 @@
 {
- "catalogVersion": 52,
+ "catalogVersion": 53,
  "updatedAt": "2026-11-01T00:00:00Z",
  "notice": "© 2026 BlueClip. Compilation and curation — all rights reserved; not for redistribution. Underlying legislation reproduced under the King's Printer Licence (BC), the Reproduction of Federal Law Order (SI/97-5), and applicable municipal bylaw permissions. Reference only; not legal advice. See LICENSE.",
  "statutes": [
@@ -465,6 +465,20 @@
    "version": 1,
    "sizeKB": 249,
    "changeNote": "new statute — Environment Act (Yukon), v1"
+  },
+  {
+   "id": "yukon-wildlife",
+   "shortName": "Wildlife Act (YT)",
+   "fullName": "Wildlife Act (Yukon)",
+   "jurisdiction": "yukon",
+   "municipality": null,
+   "licenceName": "Government of Yukon — reproduced under O.I.C. 2000/52",
+   "sourceURL": "https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0229/2002-0229_3.pdf",
+   "summary": "Yukon hunting, trapping & guiding law",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/YT-WILDLIFEACT",
+   "version": 1,
+   "sizeKB": 373,
+   "changeNote": "new statute — Wildlife Act (Yukon), v1"
   }
  ],
  "operationsSlotLimit": 3
