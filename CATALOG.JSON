@@ -440,7 +440,7 @@
    "changeNote": "Cannabis Act — full Cannabis Regulations text now readable in-app"
   },
   {
-   "id": "alberta-traffic-safety",
+   "id": "ab-traffic-safety",
    "shortName": "Traffic Safety (AB)",
    "fullName": "Traffic Safety Act (Alberta)",
    "jurisdiction": "alberta",
@@ -453,7 +453,7 @@
    "changeNote": "new statute — Traffic Safety Act (Alberta), v1"
   },
   {
-   "id": "yukon-environment",
+   "id": "yt-environment",
    "shortName": "Environment Act (YT)",
    "fullName": "Environment Act (Yukon)",
    "jurisdiction": "yukon",
@@ -467,7 +467,7 @@
    "changeNote": "new statute — Environment Act (Yukon), v1"
   },
   {
-   "id": "yukon-wildlife",
+   "id": "yt-wildlife",
    "shortName": "Wildlife Act (YT)",
    "fullName": "Wildlife Act (Yukon)",
    "jurisdiction": "yukon",
