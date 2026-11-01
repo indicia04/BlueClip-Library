@@ -1,6 +1,6 @@
 {
- "catalogVersion": 49,
- "updatedAt": "2026-10-31T00:00:00Z",
+ "catalogVersion": 50,
+ "updatedAt": "2026-11-01T00:00:00Z",
  "notice": "© 2026 BlueClip. Compilation and curation — all rights reserved; not for redistribution. Underlying legislation reproduced under the King's Printer Licence (BC), the Reproduction of Federal Law Order (SI/97-5), and applicable municipal bylaw permissions. Reference only; not legal advice. See LICENSE.",
  "statutes": [
   {
@@ -435,9 +435,9 @@
    "licenceName": "Cannabis Act, S.C. 2018, c. 16",
    "sourceURL": "https://laws-lois.justice.gc.ca/eng/acts/C-24.5/",
    "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/FED-CANNABISACT",
-   "version": 1,
-   "sizeKB": 265,
-   "changeNote": "new statute — Cannabis Act (Canada), v1"
+   "version": 2,
+   "sizeKB": 795,
+   "changeNote": "Cannabis Act — full Cannabis Regulations text now readable in-app"
   }
  ],
  "operationsSlotLimit": 3
