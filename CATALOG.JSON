@@ -1,5 +1,5 @@
 {
- "catalogVersion": 51,
+ "catalogVersion": 52,
  "updatedAt": "2026-11-01T00:00:00Z",
  "notice": "© 2026 BlueClip. Compilation and curation — all rights reserved; not for redistribution. Underlying legislation reproduced under the King's Printer Licence (BC), the Reproduction of Federal Law Order (SI/97-5), and applicable municipal bylaw permissions. Reference only; not legal advice. See LICENSE.",
  "statutes": [
@@ -451,6 +451,20 @@
    "version": 1,
    "sizeKB": 336,
    "changeNote": "new statute — Traffic Safety Act (Alberta), v1"
+  },
+  {
+   "id": "yukon-environment",
+   "shortName": "Environment Act (YT)",
+   "fullName": "Environment Act (Yukon)",
+   "jurisdiction": "yukon",
+   "municipality": null,
+   "licenceName": "Government of Yukon — reproduced under O.I.C. 2000/52",
+   "sourceURL": "https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0076/2002-0076_5.pdf",
+   "summary": "Yukon pollution, waste, litter & spills law",
+   "dataURL": "https://raw.githubusercontent.com/indicia04/BlueClip-Library/refs/heads/main/YT-ENVIRONMENTACT",
+   "version": 1,
+   "sizeKB": 249,
+   "changeNote": "new statute — Environment Act (Yukon), v1"
   }
  ],
  "operationsSlotLimit": 3
